@@ -1,0 +1,13 @@
+name = "圣脾"
+filename = "shengpi-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-shengpi/shengpi-13.jar"
+hash-format = "sha256"
+hash = "9e544ec115c009da7980927980b3a26861ba0ec8e5824fef9e1082b15cc0d495"
+
+[option]
+optional = false
+description = "圣脾 by 蜂鸣器\nBuild #13\n两块蜜脾掷向空中。落地，翻面——答案已在面前。无需界面，不扰聊天。原版世界里最朴素的动作，变成了一次完整的占卜。"
+

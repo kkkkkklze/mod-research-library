@@ -1,0 +1,13 @@
+name = "贴贴"
+filename = "nestle-0.1.2-neoforge+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-nestle/nestle-116.jar"
+hash-format = "sha256"
+hash = "94ae956821973a93664e198113bb58610ea8ba1cdcdc8f6f50fa49f26409a377"
+
+[option]
+optional = false
+description = "贴贴 by 鱼塘贴贴爱好者\nBuild #116\n和玩家贴贴 https://www.mcmod.cn/class/16398.html"
+

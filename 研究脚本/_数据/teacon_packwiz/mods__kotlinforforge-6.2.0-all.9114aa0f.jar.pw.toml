@@ -1,0 +1,13 @@
+name = "Kotlin For Forge"
+filename = "kotlinforforge-6.2.0-all.9114aa0f.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/kotlinforforge-6.2.0-all.9114aa0f.jar"
+hash-format = "sha256"
+hash = "9114aa0f18854b987c118dcad1e21e0afa44c4b2a3cdf00df98b466e6e0551e1"
+
+[option]
+optional = false
+description = "Mod dependency of Kotlin For Forge\nManaged by Biluochun"
+

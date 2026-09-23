@@ -1,0 +1,13 @@
+name = "jei"
+filename = "jei-9G0iRx9i.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/jei/9G0iRx9i/jei-9G0iRx9i.jar"
+hash-format = "sha256"
+hash = "c95d25e51d07dc9b28d474a64f3eb6a144c7c9810354864d4fa94ef8647de4e1"
+
+[option]
+optional = false
+description = "Mod dependency of jei\nIncluded inside official TeaCon mod list"
+

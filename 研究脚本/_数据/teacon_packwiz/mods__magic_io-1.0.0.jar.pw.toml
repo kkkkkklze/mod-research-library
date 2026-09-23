@@ -1,0 +1,13 @@
+name = "枢革墟烬"
+filename = "magic_io-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-magic-io/magic-io-30.jar"
+hash-format = "sha256"
+hash = "ef84ce455bb69d6ae5673d46bdb00867e1cd1652c2b758e89f4229f4b5bb9228"
+
+[option]
+optional = false
+description = "枢革墟烬 by 造爻栈\nBuild #30\n——爻动天地，枢革墟烬\n\n又名：壁砾结chain（乐）\n\n当世界以元素之眼重铸，你将如何从零起步，建起崭新的文明？\n\n以四大基本元素为始，融合演化，层层解锁世界的奥秘，将其化为己用。\n\n又或者——你是否有勇气，从废土之上重建文明的荣光？"
+

@@ -1,0 +1,13 @@
+name = "方块小镇"
+filename = "yuushya-26.1-neoforge-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-yuushya/yuushya-69.jar"
+hash-format = "sha256"
+hash = "0eb0f52dbbd548ac250b87d9d516de9eed5b901ae6542e96b7d642e15d8f33f0"
+
+[option]
+optional = false
+description = "方块小镇 by 方块小镇制作组\nBuild #69\nYuushya是一个结合Mod与材质的建筑系列。\n\n使用Yuushya系列，你可以建造出惟妙惟肖，生动且真实的小镇景观。驻足于街坊市井中，来往于街角，餐馆，奶茶店，书屋之间，你可以在Minecraft领略真实的生活气息。"
+

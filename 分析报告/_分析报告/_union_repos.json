@@ -1,0 +1,4429 @@
+{
+ "Autovw/AdvancedNetherite": {
+  "title": "Advanced Netherite",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Raguto/Citadel-1.21.1": {
+  "title": "Citadel (Unofficial Port)",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Raguto/AlexsMobs-1.21.1": {
+  "title": "Alex's Mobs (Unofficial Port)",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TheFogIOF/AlloySmelter": {
+  "title": "Alloy Smelter",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "squeek502/AppleSkin": {
+  "title": "AppleSkin",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 88365218
+ },
+ "architectury/architectury": {
+  "title": "Architectury API",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 98546473
+ },
+ "DawnOfTimeMC/armoreddoggo": {
+  "title": "Armored Doggo",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "DawnOfTimeMC/armoroftheages": {
+  "title": "Armor of the Ages",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Darkhax-Minecraft/AttributeFix": {
+  "title": "AttributeFix",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 21384060
+ },
+ "TwelveIterations/Balm": {
+  "title": "Balm",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 58295792
+ },
+ "way2muchnoise/BetterAdvancements": {
+  "title": "Better Advancements",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 25314374
+ },
+ "MoePus/BiomeSpy": {
+  "title": "BiomeSpy",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Darkhax-Minecraft/Bookshelf": {
+  "title": "Bookshelf",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 45148100
+ },
+ "RelativityMC/C2ME-neoforge": {
+  "title": "Concurrent Chunk Management Engine (NeoForge)",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "shedaniel/ClothConfig": {
+  "title": "Cloth Config API (Fabric/Forge/NeoForge)",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 166142525
+ },
+ "Terrails/colorful-hearts": {
+  "title": "Colorful Hearts",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 4279170
+ },
+ "djefrey/Colorwheel": {
+  "title": "Colorwheel",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "djefrey/Colorwheel-Patcher": {
+  "title": "Colorwheel Patcher",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Fuzss/combatnouveau": {
+  "title": "Combat Nouveau",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Fuzss/configureddefaults": {
+  "title": "Configured Defaults",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "GLDYM/ConstructionWand-KOTS": {
+  "title": "Construction Wand - KOTS",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 58257
+ },
+ "jaredlll08/Controlling": {
+  "title": "[键位冲突显示] Controlling-forge-1.20.1-12.0.2.jar",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 38096376
+ },
+ "copycats-plus/copycats": {
+  "title": "Create: Copycats+",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 10007663
+ },
+ "Creators-of-Create/Create": {
+  "title": "Sophisticated Backpacks Create Integration",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 25772215
+ },
+ "DragonsPlusMinecraft/CreateEnchantmentIndustry": {
+  "title": "Create: Enchantment Industry",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 5517913
+ },
+ "DragonsPlusMinecraft/CreateIntegratedFarming": {
+  "title": "Create: Integrated Farming",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "KhloeLeclair/CreateAdditionalLogistics": {
+  "title": "Create: Additional Logistics",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MoePus/CreateBetterFPS": {
+  "title": "CreateBetterFps",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "talrey/CreateDeco": {
+  "title": "Create Deco",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 7322738
+ },
+ "DragonsPlusMinecraft/CreateDragonsPlus": {
+  "title": "Create: Dragons Plus",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 2894111
+ },
+ "duckgun13476/Create-FastCannon": {
+  "title": "Create: FastSchematicCannon",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Forsteri123/CreateLiquidFuel": {
+  "title": "Create: Liquid Fuel",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "tom5454/Create-Ore-Excavation": {
+  "title": "Create Ore Excavation",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "JuniKnytt/CreateRailGrinding": {
+  "title": "Create: Train Track Rail Grinding",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "ggrgg13/Create--Redstone-Link-GUI": {
+  "title": "Create: Redstone Link GUI",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 33718
+ },
+ "hlysine/create_connected": {
+  "title": "Create: Connected",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 6554397
+ },
+ "cakeGit/Create-Ez-Stock-Ticker": {
+  "title": "Create: Easy Stock Ticker",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "oierbravo/create-mechanical-spawner": {
+  "title": "Create Mechanical Spawner",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "hlysine/create_power_loader": {
+  "title": "Create: Power Loader",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TheIllusiveC4/Curios": {
+  "title": "Refined Storage - Curios Integration",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 30669826
+ },
+ "PierreChag/dawnoftimebuilder": {
+  "title": "Dawn of Time",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "ascpixi/disconnect-packet-fix": {
+  "title": "Disconnect Packet Fix",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "jkvin114/display-delight-neoforge": {
+  "title": "Display Delight",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 1364708
+ },
+ "enjarai/do-a-barrel-roll": {
+  "title": "Do a Barrel Roll",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "ZZZank/EfficientHashing": {
+  "title": "EfficientHashing",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "george8188625/Create-Electro-Energetics": {
+  "title": "Create: Electro Energetics",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Darkhax-Minecraft/Enchantment-Descriptions": {
+  "title": "Enchantment Descriptions",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 36695759
+ },
+ "FoggyHillside/End-s-Delight": {
+  "title": "End's Delight",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 9106919
+ },
+ "Create-In-Locomotion/Create-Escalated": {
+  "title": "Create: Escalated",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 890016
+ },
+ "mortuusars/Exposure": {
+  "title": "Exposure",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 13876809
+ },
+ "vectorwing/FarmersDelight": {
+  "title": "Farmer's Delight",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 23447577
+ },
+ "malte0811/FerriteCore": {
+  "title": "FerriteCore",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 149414054
+ },
+ "nanite/Flat-Bedrock": {
+  "title": "Flat Bedrock",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MoePus/Flerovium": {
+  "title": "Flerovium",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 4564627
+ },
+ "ObscuriaLithium/Fragmentum": {
+  "title": "Fragmentum",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MaliceZed/frequency-create": {
+  "title": "Frequency Create",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "fzzyhmstrs/fconfig": {
+  "title": "Fzzy Config",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 38375554
+ },
+ "bernie-g/geckolib": {
+  "title": "geckolib-forge-1.20.1-4.8.4.jar",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 68663922
+ },
+ "remarxk/GUI-Tween": {
+  "title": "GUI Tween",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "RaphiMC/ImmediatelyFast": {
+  "title": "ImmediatelyFast",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "IrisShaders/Iris": {
+  "title": "Iris Shaders",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 174203494
+ },
+ "Iron431/irons-spells-n-spellbooks": {
+  "title": "Iron's Spells 'n Spellbooks",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Snownee/Jade": {
+  "title": "Jade 🔍",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 66976488
+ },
+ "Snownee/JadeAddons": {
+  "title": "Jade Addons (Neo/Forge)",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Towdium/JustEnoughCharacters": {
+  "title": "JustEnoughCharacters",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 14257140
+ },
+ "mezz/JustEnoughItems": {
+  "title": "Smithing Template Viewer for JEI/EMI",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 75972741
+ },
+ "404Setup/KryptonReno": {
+  "title": "Krypton Reno",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Minecraft-LightLand/L2Library": {
+  "title": "L2 Library",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 3426315
+ },
+ "lender544/Lionfish-API": {
+  "title": "Lionfish-API",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 4028378
+ },
+ "caffeinemc/lithium-fabric": {
+  "title": "Lithium",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 126459236
+ },
+ "AlmostReliable/lootjs": {
+  "title": "LootJS: KubeJS Addon",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "noobanidus/lootr": {
+  "title": "Lootr (Forge & NeoForge)",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 22001897
+ },
+ "lender544/new1.20.1": {
+  "title": "L_Ender 's Cataclysm",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 17810472
+ },
+ "Wall-ev/MaidsoulKitchen": {
+  "title": "Maidsoul Kitchen",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "sch246/MaidUseHandCrank": {
+  "title": "MaidUseHandCrank",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Darkhax-Minecraft/Max-Health-Fix": {
+  "title": "Max Health Fix",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 2555055
+ },
+ "oierbravo/mechanicals-lib": {
+  "title": "Mechanicals Lib",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Craft1x/MedievalBuildingsEnder": {
+  "title": "Medieval Buildings [End Edition]",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "FinnSetchell/MoogsStructureLib": {
+  "title": "Moog's Structure Lib (moogs_structures)",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "embeddedt/ModernFix": {
+  "title": "ModernFix",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 76865964
+ },
+ "FinnSetchell/MoogsEndStructures": {
+  "title": "MES - Moog's End Structures",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "YaLTeR/MouseTweaks": {
+  "title": "Mouse Tweaks",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 57500048
+ },
+ "SoyTutta/MyNethersDelight": {
+  "title": "My Nether's Delight",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "0999312/MMLib": {
+  "title": "Mysterious Mountain Lib",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 1957511
+ },
+ "TartaricAcid/NetMusic": {
+  "title": "Net Music",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 4508452
+ },
+ "ObscuriaLithium/obscure-tooltips": {
+  "title": "Obscure Tooltips",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TonimatasDEV/PacketFixer": {
+  "title": "Packet Fixer",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Leclowndu93150/Particular": {
+  "title": "Particular ✨ Reforged",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "VazkiiMods/Patchouli": {
+  "title": "Patchouli",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 34331194
+ },
+ "Shadows-of-Fire/Placebo": {
+  "title": "Placebo",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 1056163
+ },
+ "KosmX/fabricPlayerAnimation": {
+  "title": "playerAnimator",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "illusivesoulworks/polymorph": {
+  "title": "Polymorph",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 24439356
+ },
+ "Darkhax-Minecraft/PrickleMC": {
+  "title": "Prickle",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 12534630
+ },
+ "Fuzss/puzzleslib": {
+  "title": "Puzzles Lib",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 60635651
+ },
+ "PoppyBlossom/Railway-1.21.1": {
+  "title": "Steam 'n' Rails Neoforge",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 2177116
+ },
+ "TelepathicGrunt/RepurposedStructures": {
+  "title": "Repurposed Structures - Neoforge/Forge",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Team-Resourceful/Resourceful-Config": {
+  "title": "Resourceful Config",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 24115278
+ },
+ "Team-Resourceful/ResourcefulLib": {
+  "title": "Resourceful Lib",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 34456376
+ },
+ "KubeJS-Mods/Rhino": {
+  "title": "[犀牛] rhino-2101.2.7-build.81.jar",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 21592707
+ },
+ "Jaredlll08/Searchables": {
+  "title": "Searchables",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "starforcraft/Showcase-Item": {
+  "title": "Showcase Item",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "LIUKRAST/SmartBounds": {
+  "title": "Create Smart Bounds",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "CaffeineMC/sodium": {
+  "title": "Sodium",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 224094052
+ },
+ "mortuusars/SootyChimneys": {
+  "title": "Sooty Chimneys",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "lucko/spark": {
+  "title": "spark",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TelepathicGrunt/StructureLayoutOptimizer": {
+  "title": "Structure Layout Optimizer",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Faboslav/it-takes-a-pillage": {
+  "title": "It Takes a Pillage Continuation",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Fuzss/tinyskeletons": {
+  "title": "Tiny Skeletons",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TartaricAcid/TouhouLittleMaid": {
+  "title": "Touhou Little Maid",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 10892363
+ },
+ "LocusAzzurro/Ultramarine": {
+  "title": "Ultramarine",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "0999312/umapyoi": {
+  "title": "Umapyoi",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MincraftEinstein/UsefulSlime": {
+  "title": "Useful Slime",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Cristelknight999/Cristel-Lib": {
+  "title": "Cristel Lib",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 17579752
+ },
+ "isXander/YetAnotherConfigLib": {
+  "title": "YetAnotherConfigLib (YACL)",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 121100142
+ },
+ "tr7zw/3d-skin-layers": {
+  "title": "3D Skin Layers",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 75466340
+ },
+ "sketchmacaw/Trapdoors": {
+  "title": "Macaw's Trapdoors",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "sketchmacaw/MacawsDoors": {
+  "title": "Macaw's Doors",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "sketchmacaw/Fences": {
+  "title": "Macaw's Fences and Walls",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 10612404
+ },
+ "sketchmacaw/Bridges": {
+  "title": "Macaw's Bridges",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 9029741
+ },
+ "sketchmacaw/Macaws-Stairs": {
+  "title": "Macaw's Stairs",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "breezeth-CN/OrdertoCook": {
+  "title": "Order to cook下单了！",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Miauczel/Legendary-Monsters-1.21.1-NeoForge": {
+  "title": "Legendary Monsters",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 7541095
+ },
+ "Alex-Hashtag/LegendarySurvivalOverhaul": {
+  "title": "Legendary Survival Overhaul",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Corosauce/ZombieAwareness": {
+  "title": "Zombie Awareness",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Fuzss/visualworkbench": {
+  "title": "Visual Workbench",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 25213329
+ },
+ "Baisylia/Cultural-Delights-1.19.2": {
+  "title": "Cultural Delights",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Corosauce/Weather2": {
+  "title": "Weather Storms & Tornadoes",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Hidoni/Transmog": {
+  "title": "Transmog",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Fuzss/pickupnotifier": {
+  "title": "Pick Up Notifier",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 15219507
+ },
+ "Minecraft-LightLand/Cuisine-Delight": {
+  "title": "Cuisine Delight",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Tower-of-Sighs/AUI": {
+  "title": "ApricityUI",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "ExpensiveKoala/Fishing-Real": {
+  "title": "Fishing Real",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "xianziyu001-stack/End-Remastered-ProMax": {
+  "title": "End Remastered ProMax",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Jack-Bagel/End-Remastered": {
+  "title": "End Remastered",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "CubesterYT/CBC-CompactMount": {
+  "title": "CBC: Compact Mount",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "userenxv/create-aeronautics-toolgun": {
+  "title": "Create Aeronautics: Toolgun",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 297343
+ },
+ "sudolev/CreateInteriorsMod": {
+  "title": "Create: Interiors",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 4466412
+ },
+ "mrh0/createaddition": {
+  "title": "Create Crafts & Additions",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 10387983
+ },
+ "Propulsion-Team/create-propulsion-simulated": {
+  "title": "Create Propulsion: Simulated",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 783679
+ },
+ "timplay33/Create-Mobile-Packages": {
+  "title": "Create: Mobile Packages",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 558134
+ },
+ "Cannoneers-of-Create/CreateBigCannons": {
+  "title": "Create Big Cannons",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 7396939
+ },
+ "ZLT9/create-vibrant-vaults": {
+  "title": "Create: Vibrant Vaults",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Creators-of-Aeronautics/Simulated-Project": {
+  "title": "Create Aeronautics",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 7880888
+ },
+ "cff1028/create_schematics_fix": {
+  "title": "Create Bugfix: Schematic Patch",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "ForgeStove/CreateCyberGoogles": {
+  "title": "Create: Cyber Goggles",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Arsenalists-of-Create/Create-Radar": {
+  "title": "Create: Radars",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 1428741
+ },
+ "getItemFromBlock/Create-Tweaked-Controllers": {
+  "title": "Create: Tweaked Controllers",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Minecraft-LightLand/FruitsDelight": {
+  "title": "Fruits Delight",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "BmtUltra/Kaleidoscope-Compat": {
+  "title": "Kaleidoscope Compat",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "KaleidoscopeMods/KaleidoscopeCookery": {
+  "title": "Kaleidoscope Cookery",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "WitherRedstone/Kaleidoscope-DimensionsWine": {
+  "title": "Kaleidoscope：Dimensions wine",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TartaricAcid/KaleidoscopeDoll": {
+  "title": "Kaleidoscope Doll",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "baiyin1223/Kaleidoscope_bloodwine": {
+  "title": "Kaleidoscope_bloodwine",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "LeoMinecraftModding/eternal-starlight": {
+  "title": "Eternal Starlight",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Luke100000/ImmersiveMelodies": {
+  "title": "Immersive Melodies",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 8603129
+ },
+ "Lightning-64/Tide-2": {
+  "title": "Tide 2",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Scouter456/Nether_Depths_Upgrade": {
+  "title": "Nether Depths Upgrade",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Let-s-Do-Collection/Candlelight": {
+  "title": "[Let's Do] Candlelight - Farm&Charm compat",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "AHilyard/Highlighter": {
+  "title": "Item Highlighter",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 16642517
+ },
+ "CreativeMD/PlayerRevive": {
+  "title": "PlayerRevive",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "BloCamLimb/ModernUI-MC": {
+  "title": "Modern UI",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 21528532
+ },
+ "Shadows-of-Fire/Apotheosis": {
+  "title": "Apotheosis",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 238326
+ },
+ "Shadows-of-Fire/Apothic-Spawners": {
+  "title": "Apothic-Spawners",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 61116
+ },
+ "ZCRAFT-NPE/Presence-Footsteps-NeoForge": {
+  "title": "Presence Footsteps (NeoForge)",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "CreativeMD/AmbientSounds": {
+  "title": "AmbientSounds",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 38017227
+ },
+ "Minecraft-LightLand/L2Archery": {
+  "title": "L2 Archery",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 841297
+ },
+ "Let-s-Do-Collection/vinery": {
+  "title": "[Let's Do] Vinery",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "reserveword/IMBlocker": {
+  "title": "IMBlocker",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 13359206
+ },
+ "txnimc/SodiumDynamicLights": {
+  "title": "Sodium Dynamic Lights",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 18299586
+ },
+ "Let-s-Do-Collection/Bakery": {
+  "title": "[Let's Do] Bakery - Farm&Charm Compat",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "yision1/GearsandTavern": {
+  "title": "Create: Gears and Tavern",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "klinbee/Diabolical-Islands": {
+  "title": "Diabolical Islands",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 11433
+ },
+ "DragonsPlusMinecraft/CreateCentralKitchen": {
+  "title": "Create: Central Kitchen",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 5139378
+ },
+ "klinbee/No-Void-Structures": {
+  "title": "No Void Structures",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "FOOLSIX/ldip": {
+  "title": "Limited Damage Indicator Particle",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TakeruDavis/CreateCardboardedConveynience": {
+  "title": "Create: Cardboarded Conveynience",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "IAFEnvoy/Jupiter": {
+  "title": "Jupiter",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "decce6/Gnetum": {
+  "title": "Gnetum",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 3727975
+ },
+ "Industrialists-Of-Create/Create-Bits-n-Bobs": {
+  "title": "Create: Bits 'n' Bobs",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "CosmonauticsTeam/Create-Cosmonautics": {
+  "title": "Create Cosmonautics",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "yision1/CreateFluidLogistic": {
+  "title": "Create: FluidLogistics",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "kltyton/LightSpeedRe": {
+  "title": "LightSpeedRe",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 1136499
+ },
+ "Fallen-Breath/fast-ip-ping": {
+  "title": "Fast IP Ping",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "zhenshiz/ViScriptShop": {
+  "title": "ViScriptShop",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "IanMods/SeasonHUD": {
+  "title": "SeasonHud",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Fuzss/forgeconfigapiport": {
+  "title": "Forge Config API Port",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "WitherRedstone/Fox-Trot-Brew": {
+  "title": "Fox Trot Brew",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "WinExp/MaidTavern": {
+  "title": "Maid Tavern",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "redtardis12/Tornado-Physics": {
+  "title": "Weather Physics (Wind, Sails & Tornadoes)",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "AzureDoom/Log-Begone": {
+  "title": "Log Begone",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Keksuccino/FancyMenu": {
+  "title": "FancyMenu",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 64517875
+ },
+ "decce6/AsyncLogger": {
+  "title": "Async Logger",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 1427265
+ },
+ "Richy-Z/ThreatenGL": {
+  "title": "ThreatenGL",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "hotsu0p/Trek-Issues": {
+  "title": "Trek",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Traverse-Joe/Baubley-Heart-Canisters": {
+  "title": "Baubley Heart Canisters",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "frcvdt45g6by7hnj8ukm-nh8b7g6vtf5r4de3/FastQuit-Forge": {
+  "title": "FastQuit-Forge",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Bivrik/FancyToasts": {
+  "title": "Fancy Toasts | Better Advancements",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "sprocketaudio/Create-Aeronautics-Throwable-Rope-Connector": {
+  "title": "Create Aeronautics: Throwable Rope Connector",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "CancriRecoleta/NewVisualKebing": {
+  "title": "New Visual Keybing",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Tschipp/CarryOn": {
+  "title": "Carry On",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 25254327
+ },
+ "matejhozlar/Create-Aeronautics-Climbable-Ropes": {
+  "title": "Climbable Ropes for Create Aeronautics",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Okabintaro/UntitledDuckMod": {
+  "title": "Untitled Duck Mod",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "maDU59/FancyWorldAnimations": {
+  "title": "Fancy World Animations [FWA]",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "ChoiceTheorem/ChoiceTheorem-s-overhauled-village": {
+  "title": "ChoiceTheorem's Overhauled Village",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TreyRuffy/BetterF3": {
+  "title": "BetterF3",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 33541899
+ },
+ "FionaTheMortal/better-biome-blend": {
+  "title": "[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "maDU59/FasterIrisShadowMapper": {
+  "title": "Faster Iris Shadow Mapper [FISM]",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "cakeGit/Create-Trading-Floor": {
+  "title": "Create: Trading floor",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Nobodiiiii/Create-Biotech": {
+  "title": "Create: Biotech - 机械动力：生物科技",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "ausmez/create-storage-neo-forge": {
+  "title": "Create: Storage [Neo/Forge]",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "george8188625/Create-Diesel-Generators": {
+  "title": "Create: Diesel Generators",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 5695778
+ },
+ "breezeth-CN/KaleidoscopeGrilling": {
+  "title": "Kaleidoscope Grilling",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "NightEpiphany/KaleidoscopeHodgepodge": {
+  "title": "Kaleidoscope Hodgepodge",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "KaleidoscopeMods/KaleidoscopeTavern": {
+  "title": "Kaleidoscope Tavern",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "cakeGit/Pattern-Schematics-Multiloader": {
+  "title": "Create: Pattern Schematics",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "joshieman06/SunkenSpires": {
+  "title": "Sunken Spires",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MIKOALOPEX/Create-FireFightingAdd": {
+  "title": "Create: FireFighting Additions",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "KreloX/Duplicate-Entity-UUID-Fix": {
+  "title": "DEUF - Duplicate Entity UUID Fix [NeoForge]",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "userenxv/aeronautics-utility-objects": {
+  "title": "Create Aeronautics: Transmission & Linkage",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Xalcon/TorchMaster": {
+  "title": "TorchMaster",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 3011903
+ },
+ "Wagers-of-Industrial-Warfare/RitchiesProjectileLib": {
+  "title": "Ritchie's Projectile Library",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 3226551
+ },
+ "Chaolux1/LendersDelight": {
+  "title": "L_Ender 's Cataclysm Delight",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "henkelmax/sound-physics-remastered": {
+  "title": "Sound Physics Remastered",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 52083682
+ },
+ "weaversworkshop/grapplemod-skybound": {
+  "title": "Grappling Hook Mod: Skybound",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "blorbee1/createaerophysicsgantry": {
+  "title": "Create Aeronautics Physics Gantry",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "zhenshiz/ViScriptShop-Market": {
+  "title": "ViScriptShop Market",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "xienaoban/minecraft-biology-dictionary": {
+  "title": "Biology Dictionary",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Keksuccino/Konkrete": {
+  "title": "Konkrete",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 60266958
+ },
+ "Keksuccino/Melody": {
+  "title": "Melody",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 48711932
+ },
+ "Corosauce/WATUT": {
+  "title": "What Are They Up To (Watut)",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Apollounknowndev/lithostitched": {
+  "title": "Lithostitched",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 22406731
+ },
+ "axperty/cratedelight": {
+  "title": "Crate Delight",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "rekales/create-more-package-couriers": {
+  "title": "Create More: Package Couriers",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "wisp-forest/accessories": {
+  "title": "Accessories",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 13294740
+ },
+ "glisco03/owo-lib": {
+  "title": "oωo (owo-lib)",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 47123906
+ },
+ "MattCzyr/NaturesCompass": {
+  "title": "Nature's Compass",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 25283783
+ },
+ "CreativeMD/CreativeCore": {
+  "title": "CreativeCore",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 50470385
+ },
+ "LOVE-U987/Adaptive-Nemesis": {
+  "title": "[AN]Adaptive Nemesis",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Maxenonyme/Create-Deep-Seas": {
+  "title": "Create Deep Seas",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "SuperMartijn642/Fusion": {
+  "title": "Fusion (Connected Textures)",
+  "packs": [
+   "ATM10",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "M-K2525/VS_Hose_Connectors": {
+  "title": "VS / Sable Hose Connectors",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "ryanhcode/sable": {
+  "title": "Sable",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 5393489
+ },
+ "leon-o/Create-Dynamic-Lights": {
+  "title": "Create Sable Dynamic Lights",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MaxnessAWA/Wind-Tunnel": {
+  "title": "Aeronautics:Wind Tunnel",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Nova-Committee/0Pack2Reload": {
+  "title": "0Pack2Reload",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "PedroRok/CreateHypertubes": {
+  "title": "Create: Hypertubes",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 1061082
+ },
+ "FINDERFEED/FDLib": {
+  "title": "FDLib",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "zhenshiz/ViScriptRecipe": {
+  "title": "ViScriptRecipe",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Low-Drag-MC/LDLib-Architectury": {
+  "title": "LDLib",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 2216485
+ },
+ "Monad-Modding/BrewinAndChewin": {
+  "title": "Brewin' And Chewin'",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 3602178
+ },
+ "mortuusars/Horseman": {
+  "title": "Horseman",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "AHilyard/Iceberg": {
+  "title": "Iceberg [Neo/Forge]",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 35115870
+ },
+ "decce6/Ixeris": {
+  "title": "Ixeris",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 10184435
+ },
+ "Shadows-of-Fire/Apothic-Attributes": {
+  "title": "ApothicAttributes-1.21.1-2.10.1.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "TerminalMC/ClientSort": {
+  "title": "clientsort-neoforge-3.89.0-beta.2+1.21.1.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MrCrayfish/Configured": {
+  "title": "a/[配置界面] configured-neoforge-1.21.1-2.6.3.jar",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Olafski/FastLeafDecay": {
+  "title": "a/[树叶快速腐烂] fastleafdecay-35.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "nutant233/Fast-Recipe-Search": {
+  "title": "fastrecipesearch-1.21.1-26.8.1-neoforge.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Sinytra/ForgifiedFabricAPI": {
+  "title": "forgified-fabric-api-0.116.15+2.3.4+1.21.1.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 27940335
+ },
+ "MrCrayfish/Framework": {
+  "title": "framework-neoforge-1.21.1-0.13.11.jar",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-Library": {
+  "title": "ftb-library-neoforge-2101.1.35.jar",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-Teams": {
+  "title": "a/[FTB 团队] ftb-teams-neoforge-2101.1.10.jar",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-XMod-Compat": {
+  "title": "ftb-xmod-compat-neoforge-21.1.11.jar",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MrCrayfish/GoblinTraders": {
+  "title": "goblintraders-neoforge-1.21.1-1.11.2.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Iron431/irons-jewelry": {
+  "title": "irons_jewelry-1.21.1-1.6.0.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Mrbysco/JustEnoughProfessions": {
+  "title": "a/[JEI工作方块] JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "thedarkcolour/KotlinForForge": {
+  "title": "kotlinforforge-5.12.0-all.jar",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 49534667
+ },
+ "KubeJS-Mods/KubeJS": {
+  "title": "kubejs-neoforge-2101.7.2-build.368.jar",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 20802984
+ },
+ "Minecraft-LightLand/L2Complements": {
+  "title": "l2complements-3.1.3.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 3063861
+ },
+ "Minecraft-LightLand/L2Hostility": {
+  "title": "l2hostility-3.0.18.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 2631271
+ },
+ "MrCrayfish/MightyMail": {
+  "title": "mighty_mail-neoforge-1.21.1-1.1.4.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Mrbysco/Retraining": {
+  "title": "Retraining-neoforge-1.21-2.0.0.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-Quests": {
+  "title": "[FTB 任务] ftb-quests-neoforge-2101.1.34.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MrCrayfish/MrCrayfishFurnitureMod-Refurbished": {
+  "title": "[MrCrayfish 的家具：重制] refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "someaddons/gpumemleakfix": {
+  "title": "a/[修复GPU内存泄漏] gpumemleakfix-1.21-1.8.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "IAFEnvoy/IceAndFire-CE": {
+  "title": "[冰火传说社区版] iceandfire-2.1.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "EccentricVamp/EccentricTome": {
+  "title": "[怪奇宝典] eccentrictome-1.21.1-1.2.0.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Buuz135/FindMe": {
+  "title": "[找到我] findme-1.21.1-neoforge-1.3.0-test.7.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MattCzyr/ExplorersCompass": {
+  "title": "[探险者指南针 修改] explorerscompass-edited-1.21.1-3.0.4-neoforge.jar",
+  "packs": [
+   "ATM10",
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 11331909
+ },
+ "TeamTwilight/twilightforest": {
+  "title": "a/[暮色森林] twilightforest-1.21.1-4.8.3345-universal.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Renyigesai/bakery": {
+  "title": "[烘焙坊] bakeries-1.21.1-NeoForge-1.0.3.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Cazsius/Spice-of-Life-Carrot-Edition": {
+  "title": "[生活调味料：胡萝卜版] solcarrot-1.21.1-1.16.6.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "AtomicStryker/atomicstrykers-minecraft-mods": {
+  "title": "[稀有精英怪] infernalmobs-1.21.1.3NF.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "henkelmax/corpse": {
+  "title": "[遗体] corpse-neoforge-1.21.1-1.1.13.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Glitchfiend/SereneSeasons": {
+  "title": "a/[静谧四季／季节] SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "breeze-devs/Settlements-Alpha": {
+  "title": "万家烟火settlements-1.0.0-beta.1.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "MoePus/SaveMyRecipeBook": {
+  "title": "保存我的配方书smrb-1.0.0.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Sinytra/Connector": {
+  "title": "信雅互联connector-2.0.0-beta.17+1.21.1-full.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 24774103
+ },
+ "Minecraft-LightLand/ModularGolems": {
+  "title": "傀儡装配modulargolems-3.1.43.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "pietro-lopes/AllTheLeaks": {
+  "title": "内存泄漏alltheleaks-1.1.12+1.21.1-neoforge.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "IAFEnvoy/Uranus": {
+  "title": "冰火前置uranus-2.4.1-bugfix-1.21.1-neoforge.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Shadows-of-Fire/FastFurnace": {
+  "title": "a/[熔炉性能优化] FastFurnace-1.21.1-9.0.1.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Glitchfiend/GlitchCore": {
+  "title": "四季前置GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+  "packs": [
+   "星轨重铸",
+   "璇穹之歌"
+  ],
+  "dl": 21897884
+ },
+ "gizmo-ds/smsn-mod": {
+  "title": "救救网络smsn-neoforge-1.4.3-1.21.1.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "AlexModGuy/AlexsCaves": {
+  "title": "洞穴alexscaves-2.0.2.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Argon4W/AcceleratedRendering": {
+  "title": "[加速渲染] acceleratedrendering-1.0.14-1.20.1-alpha.jar",
+  "packs": [
+   "FIDR暗涌",
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Corosauce/CoroUtil": {
+  "title": "看看你在干什么前置coroutil-neoforge-1.21.0-1.3.9.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "Mrbysco/StructureCompass": {
+  "title": "结构指南针StructureCompass-1.21.1-4.2.1.jar",
+  "packs": [
+   "璇穹之歌"
+  ],
+  "dl": 0
+ },
+ "team-abnormals/blueprint": {
+  "title": "Blueprint",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 7369305
+ },
+ "infernalstudios/Celestial-Configuration": {
+  "title": "Sun and Moon Celestial Configuration",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 544556
+ },
+ "Alex-the-666/Citadel": {
+  "title": "Citadel",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 16075199
+ },
+ "Serilum/Collective": {
+  "title": "Collective",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 63827596
+ },
+ "JeremySeq/DamageIndicators": {
+  "title": "JeremySeq's Damage Indicator",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 581336
+ },
+ "Kitteh6660/DramaticDoors": {
+  "title": "Dramatic Doors",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 5736057
+ },
+ "FiniteReality/embeddium": {
+  "title": "Embeddium",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 34553725
+ },
+ "nonamecrackers2/ender-trigon": {
+  "title": "Ender Trigon",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 533676
+ },
+ "Insane96/EnhancedAI": {
+  "title": "Enhanced AI",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 613755
+ },
+ "mortuusars/ExposurePolaroid": {
+  "title": "Exposure: Polaroid",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 968493
+ },
+ "Flemmli97/Flan": {
+  "title": "Flan",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 239986
+ },
+ "AppliedEnergistics/GuideME": {
+  "title": "GuideME",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 2958890
+ },
+ "skyecodes/IBE-Editor": {
+  "title": "IBE Editor",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 1948797
+ },
+ "McJtyMods/InControl": {
+  "title": "In Control!",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌"
+  ],
+  "dl": 3456393
+ },
+ "Insane96/InsaneLib": {
+  "title": "InsaneLib",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 1323843
+ },
+ "pitbox46/ItemBlacklist": {
+  "title": "Item Banning",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 170950
+ },
+ "sguest/jei-multiblocks": {
+  "title": "Just Enough Immersive Multiblocks",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 331694
+ },
+ "blackd/libIPN": {
+  "title": "libIPN",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 33544214
+ },
+ "MehVahdJukaar/Moonlight": {
+  "title": "Moonlight Lib",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 39793064
+ },
+ "Asek3/Oculus": {
+  "title": "mekalus-mc1.20.1-1.8.0.1.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 35627296
+ },
+ "Keksuccino/Panoramica": {
+  "title": "Panoramica",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 46149
+ },
+ "EnderTurret/PatchedMod": {
+  "title": "Patched",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 68534
+ },
+ "sam-makes-stuff/ping_system": {
+  "title": "Ping System",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 1623
+ },
+ "Prunoideae/ProbeJS": {
+  "title": "ProbeJS",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 712521
+ },
+ "Povstalec/StellarView": {
+  "title": "Stellar View",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 222419
+ },
+ "Txt-Text/TaCZ-Labs": {
+  "title": "TaCZ-Labs",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 520591
+ },
+ "dhyces/trimmed": {
+  "title": "Trimmed",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 252487
+ },
+ "Ineffa/Truly-Treasures": {
+  "title": "Truly Treasures",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 97701
+ },
+ "zbx1425/WorldEditCUI-Arch": {
+  "title": "WorldEdit CUI (Unofficial Forge Port)",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 451859
+ },
+ "AlexModGuy/AlexsMobs": {
+  "title": "Alex's Mobs",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 14578289
+ },
+ "CoFH/CoFHCore": {
+  "title": "CoFH Core",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 2163573
+ },
+ "Hunter19823/kubejsoffline": {
+  "title": "KubeJS Offline",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 153499
+ },
+ "blackd/Inventory-Profiles": {
+  "title": "Inventory Profiles Next",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 38920541
+ },
+ "xfl03/MCCustomSkinLoader": {
+  "title": "CustomSkinLoader",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 23061260
+ },
+ "CoFH/Ensorcellation": {
+  "title": "Ensorcellation",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 188567
+ },
+ "Umpaz/NethersDelight": {
+  "title": "Nether's Delight",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 3006711
+ },
+ "TJT01/GlobalServerConfig": {
+  "title": "Global Server Config",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 7428932
+ },
+ "fxmorin/memoryLeakFix": {
+  "title": "Memory Leak Fix",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 37185178
+ },
+ "EngineHub/WorldEdit": {
+  "title": "WorldEdit",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 10515226
+ },
+ "Moralle/VanillaCookbook": {
+  "title": "Vanilla Cookbook",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 1099727
+ },
+ "Xiaoyu-2009/visual_recipe_editor": {
+  "title": "Workstation Recipe Exporter",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 995588
+ },
+ "McJtyMods/LostCities": {
+  "title": "The Lost Cities",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 10745713
+ },
+ "AppliedEnergistics/Applied-Energistics-2": {
+  "title": "Applied Energistics 2",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 5850461
+ },
+ "Tiviacz1337/Travelers-Backpack": {
+  "title": "Traveler's Backpack",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 20130952
+ },
+ "Unixkitty/timecontrol": {
+  "title": "Time Control",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 237312
+ },
+ "YesSteveModel/YSM-Wiki-Issues": {
+  "title": "Yes Steve Model",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 14521661
+ },
+ "juancarloscp52/spyglass-improvements": {
+  "title": "Spyglass Improvements",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 3071468
+ },
+ "MCModderAnchor/TACZ": {
+  "title": "[TaCZ] Timeless and Classics Zero",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 30074925
+ },
+ "TwistedGate/ImmersivePetroleum": {
+  "title": "Immersive Petroleum",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 70100
+ },
+ "BluSunrize/ImmersiveEngineering": {
+  "title": "Immersive Engineering",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 3472261
+ },
+ "Luke100000/ImmersiveAircraft": {
+  "title": "Immersive Aircraft",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 14572164
+ },
+ "DenisMasterHerobrine/TheAfterdark": {
+  "title": "The Afterdark",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 237373
+ },
+ "Tictim/Paraglider": {
+  "title": "Paragliders",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 2711875
+ },
+ "0999312/Corn-Delight": {
+  "title": "Corn Delight",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 1322017
+ },
+ "Aizistral-Studios/No-Chat-Reports": {
+  "title": "No Chat Reports",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌"
+  ],
+  "dl": 56871072
+ },
+ "xfl03/I18nUpdateMod3": {
+  "title": "I18nUpdateMod",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 16841335
+ },
+ "XiaoXianHW/EasyLAN": {
+  "title": "EasyLAN",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 670070
+ },
+ "MehVahdJukaar/DuMmmMmmy": {
+  "title": "MmmMmmMmmMmm (Target Dummy)",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌"
+  ],
+  "dl": 12115585
+ },
+ "alRex-U/ParCool": {
+  "title": "ParCool!",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 2913216
+ },
+ "mekanism/Mekanism": {
+  "title": "Refined Storage - Mekanism Integration",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 3609437
+ },
+ "FoundationGames/Automobility": {
+  "title": "Automobility",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 5261787
+ },
+ "Suel-ki/FoodEffectTooltips-Forge": {
+  "title": "Food Effect Tooltips (Forge)",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 1319917
+ },
+ "Mrbysco/AgeingSpawners": {
+  "title": "AgeingSpawners-1.20.1-2.0.0.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "CraftTweaker/CraftTweaker": {
+  "title": "CraftTweaker-forge-1.20.1-14.0.60.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "someaddons/cupboard": {
+  "title": "cupboard-1.20.1-4.1.jar",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "ExcessiveAmountsOfZombies/EpheroLib": {
+  "title": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-Essentials": {
+  "title": "ftb-essentials-forge-2001.2.4.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-Ranks": {
+  "title": "ftb-ranks-forge-2001.1.7.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "jaredlll08/searchables": {
+  "title": "Searchables-forge-1.20.1-1.0.3.jar",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 38237143
+ },
+ "Glitchfiend/TerraBlender": {
+  "title": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+  "packs": [
+   "ATM10",
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 38846546
+ },
+ "hammertater/treechop": {
+  "title": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-Mods-Issues": {
+  "title": "a/[FTB任务] ftb-quests-neoforge-2101.1.24.jar",
+  "packs": [
+   "FIDR暗涌",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "stfwi/engineers-decor": {
+  "title": "[工程师的装饰]engineersdecor-1.3.31.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "Tfarcenim/OverloadedArmorBar": {
+  "title": "[护甲上限突破] overloadedarmorbar-1.20.1-1.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "zlainsama/CosmeticArmorReworked": {
+  "title": "[时装盔甲重置版] cosmeticarmorreworked-1.20.1-v1a.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "LatvianModder/Item-Filters": {
+  "title": "[物品过滤器] item-filters-forge-2001.1.0-build.59.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "PaintNinja/Presence-Footsteps-Forge": {
+  "title": "[脚步声Forge版] PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "SonarSonic/Flux-Networks": {
+  "title": "[通量网络] FluxNetworks-1.20.1-7.2.1.15.jar",
+  "packs": [
+   "FIDR暗涌"
+  ],
+  "dl": 0
+ },
+ "YUNG-GANG/YUNGs-Better-Fortresses": {
+  "title": "YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 22258509
+ },
+ "YUNG-GANG/YUNGs-Better-Dungeons": {
+  "title": "YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 21380831
+ },
+ "YUNG-GANG/YUNGs-Bridges": {
+  "title": "YUNG's Bridges",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 15378397
+ },
+ "YUNG-GANG/YUNGs-Better-Witch-Huts": {
+  "title": "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 17256951
+ },
+ "YUNG-GANG/YUNGs-Better-Ocean-Monuments": {
+  "title": "YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 21396080
+ },
+ "YUNG-GANG/YUNGs-Better-Mineshafts": {
+  "title": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 19790275
+ },
+ "YUNG-GANG/YUNGs-Better-Strongholds": {
+  "title": "YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 17817418
+ },
+ "YUNG-GANG/YUNGs-Better-Jungle-Temples": {
+  "title": "YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 19733272
+ },
+ "YUNG-GANG/YUNGs-Better-Desert-Temples": {
+  "title": "YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 16215959
+ },
+ "TwelveIterations/NetherPortalFix": {
+  "title": "NetherPortalFix",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 23532906
+ },
+ "AHilyard/LegendaryTooltips": {
+  "title": "Legendary Tooltips",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 10225434
+ },
+ "TwelveIterations/Waystones": {
+  "title": "Waystones",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 24870393
+ },
+ "juliand665/Dynamic-FPS": {
+  "title": "Dynamic FPS",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 64729616
+ },
+ "CreativeMD/EnhancedVisuals": {
+  "title": "EnhancedVisuals",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 18585844
+ },
+ "ochotonida/artifacts": {
+  "title": "Artifacts",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 13087683
+ },
+ "illusivesoulworks/cherishedworlds": {
+  "title": "Cherished Worlds",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 31263225
+ },
+ "Traben-0/Entity_Model_Features": {
+  "title": "[EMF] Entity Model Features",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 94564380
+ },
+ "tr7zw/EntityCulling": {
+  "title": "Entity Culling",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 164860754
+ },
+ "Traben-0/Entity_Texture_Features": {
+  "title": "[ETF] Entity Texture Features",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 99674523
+ },
+ "VsnGamer/ElevatorMod": {
+  "title": "ElevatorMod",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 2153531
+ },
+ "tr7zw/NotEnoughAnimations": {
+  "title": "Not Enough Animations",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 85302116
+ },
+ "starforcraft/Botany-Pots-Tiers": {
+  "title": "Botany Pots Tiers",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 435820
+ },
+ "Darkhax-Minecraft/BotanyPots": {
+  "title": "Botany Pots",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 2039626
+ },
+ "mango-buff/BotanyPotsOrePlanting": {
+  "title": "[BPOP]Botany Pots Ore Planting",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 96465
+ },
+ "TeamMetallurgy/Aquaculture": {
+  "title": "Aquaculture 2",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 1005117
+ },
+ "henkelmax/simple-voice-chat": {
+  "title": "Simple Voice Chat",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 67944877
+ },
+ "terrarium-earth/Handcrafted": {
+  "title": "Handcrafted",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 25613606
+ },
+ "Ezzenix/ChatAnimation": {
+  "title": "Chat Animation [Smooth Chat]",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 21676778
+ },
+ "dzwdz/chat_heads": {
+  "title": "Chat Heads",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 48079605
+ },
+ "Keksuccino/Drippy-Loading-Screen": {
+  "title": "Drippy Loading Screen",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 21652478
+ },
+ "Glitchfiend/BiomesOPlenty": {
+  "title": "Biomes O' Plenty",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 35200411
+ },
+ "MehVahdJukaar/Supplementaries": {
+  "title": "Supplementaries",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 26900944
+ },
+ "pop4959/Chunky": {
+  "title": "Chunky",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 17730960
+ },
+ "klinbee/Aetherial-Islands": {
+  "title": "Aetherial Islands",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 115691
+ },
+ "Alvaro842DEV/AsyncLocator-Refined": {
+  "title": "Async Locator Refined",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 37500
+ },
+ "TheIllusiveC4/Caelus": {
+  "title": "Caelus API",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 7667380
+ },
+ "TheCBProject/CodeChickenLib": {
+  "title": "CodeChicken Lib",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 3242695
+ },
+ "PepperCode1/Continuity": {
+  "title": "Continuity",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 72229371
+ },
+ "BlakeBr0/Cucumber": {
+  "title": "Cucumber Library",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 1633732
+ },
+ "SSKirillSS/Curios": {
+  "title": "Curios API Continuation",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 321057
+ },
+ "Mars-The-Planet/Deimos": {
+  "title": "Deimos",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1683202
+ },
+ "EuphoriaPatches/EuphoriaPatcher": {
+  "title": "Euphoria Patches",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 26879080
+ },
+ "ITsMrToad/GpuTape": {
+  "title": "GPUBooster",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 6077127
+ },
+ "Octo-Studios/immersive-ui": {
+  "title": "Immersive UI",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 6231327
+ },
+ "leon-o/iris-veil-compat": {
+  "title": "Iris Veil Compat",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 92206
+ },
+ "MeherBenSalem/Jauml": {
+  "title": "Jauml",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 160039
+ },
+ "way2muchnoise/JustEnoughResources": {
+  "title": "Just Enough Resources (JER)",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 6641545
+ },
+ "Low-Drag-MC/KilaGraph": {
+  "title": "KilaGraph",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 13952
+ },
+ "btwonion/KotlinLangForge": {
+  "title": "KotlinLangForge",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1045255
+ },
+ "Lightman314/LightmansCurrency": {
+  "title": "Lightman's Currency",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 3296944
+ },
+ "maruohon/malilib": {
+  "title": "MaLiLib",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 34626545
+ },
+ "AlmostReliable/merequester": {
+  "title": "ME Requester",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 1641811
+ },
+ "TeamMidnightDust/MidnightLib": {
+  "title": "MidnightLib",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 27430613
+ },
+ "Keksuccino/ModernWorldCreation": {
+  "title": "Modern World Creation",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 945090
+ },
+ "LopyMine/MossyLib": {
+  "title": "MossyLib",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 2385486
+ },
+ "Fuzss/mutantmonsters": {
+  "title": "Mutant Monsters",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 4729432
+ },
+ "TUsama/NirvanaLib": {
+  "title": "Nirvana Library",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 197740
+ },
+ "Octo-Studios/octo-lib": {
+  "title": "ShatterLib | OctoLib",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 15880745
+ },
+ "YUNG-GANG/Paxi": {
+  "title": "Paxi",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 10419446
+ },
+ "ItsBlackGear/Platform": {
+  "title": "Platform",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 8524835
+ },
+ "SettingDust/preloading-tricks": {
+  "title": "Preloading Tricks",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 377475
+ },
+ "AHilyard/Prism": {
+  "title": "Prism [Neo/Forge]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 17460567
+ },
+ "DrexHD/quick-pack": {
+  "title": "quick pack",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1546992
+ },
+ "Rew1nd-dev/sable-schematic-api": {
+  "title": "Sable Photomancy",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 398244
+ },
+ "iMoonDay/Soulbound": {
+  "title": "Soulbound Enchantment",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 251550
+ },
+ "MaxenceDC/sparsestructures": {
+  "title": "Sparse Structures",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 7805818
+ },
+ "SuperMartijn642/SuperMartijn642sCoreLib": {
+  "title": "SuperMartijn642's Core Lib",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 17313340
+ },
+ "MUKSC/TACZ-1.21.1": {
+  "title": "[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 930366
+ },
+ "MUKSC/TaCZPackUpgrader": {
+  "title": "TaCZ Pack Upgrader",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 165666
+ },
+ "villainous-j/toolbar-sounds": {
+  "title": "Toolbar Sounds",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 673103
+ },
+ "iSeeEthan/voxy_worldgen_v2": {
+  "title": "Voxy WorldGen",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 837579
+ },
+ "SShakusora/WaystonesSable": {
+  "title": "Waystones: Sable (Create Aeronautics Addon)",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 181575
+ },
+ "YUNG-GANG/YUNGs-API": {
+  "title": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 33970872
+ },
+ "Mari023/AE2WirelessTerminalLibrary": {
+  "title": "Applied Energistics 2 Wireless Terminals",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 2941859
+ },
+ "afoxxvi/AsteorBarMod": {
+  "title": "AsteorBar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 972610
+ },
+ "sketchmacaw/Paths-Pavings": {
+  "title": "Macaw's Paths and Pavings",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 5246800
+ },
+ "CinemaMod/mcef": {
+  "title": "MCEF (Minecraft Chromium Embedded Framework)",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 725967
+ },
+ "rfresh2/XaeroPlus": {
+  "title": "XaeroPlus",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 11463900
+ },
+ "yungnickyoung/YUNGs-Better-End-Island": {
+  "title": "YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 19251154
+ },
+ "yungnickyoung/YUNGs-Menu-Tweaks": {
+  "title": "YUNG's Menu Tweaks",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 6048421
+ },
+ "illusivesoulworks/charmofundying": {
+  "title": "Charm of Undying",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 8733886
+ },
+ "samedifferent/Ecologics": {
+  "title": "Ecologics",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 5421393
+ },
+ "TwelveIterations/ForgivingVoid": {
+  "title": "Forgiving Void",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 5376631
+ },
+ "bonsaistudi0s/Golem-Overhaul": {
+  "title": "Golem Overhaul",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 445917
+ },
+ "Low-Drag-MC/Photon": {
+  "title": "Photon Editor",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1144431
+ },
+ "Serilum/Starter-Kit": {
+  "title": "Starter Kit",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 10252033
+ },
+ "Serilum/Starter-Structure": {
+  "title": "Starter Structure",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 171594
+ },
+ "DynamicTreesTeam/DynamicTrees": {
+  "title": "Dynamic Trees",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 12924125
+ },
+ "DynamicTreesTeam/DynamicTreesPlus": {
+  "title": "Dynamic Trees Plus",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 8638644
+ },
+ "MrMelon54/draggable_lists": {
+  "title": "Draggable Lists",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 4741695
+ },
+ "DragonsPlusMinecraft/VisualityReforged": {
+  "title": "Visuality: Reforged",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 5503014
+ },
+ "ZhuRuoLing/startup-time": {
+  "title": "Startup Time",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1474304
+ },
+ "Minenash/Enhanced-Attack-Indicator": {
+  "title": "Enhanced Attack Indicator",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 7993414
+ },
+ "bl4ckscor3/Sit": {
+  "title": "Sit",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 6490609
+ },
+ "Schauweg/Smooth-Swapping": {
+  "title": "Smooth Swapping",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 7456536
+ },
+ "AppliedEnergistics/Applied-Mekanistics": {
+  "title": "Applied Mekanistics",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 778062
+ },
+ "TUsama/Loot-Beams-Refork": {
+  "title": "Loot Beams: Refork",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 372414
+ },
+ "YUNG-GANG/Travelers-Titles": {
+  "title": "Traveler's Titles",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 9051953
+ },
+ "SuperMartijn642/AdditionalLanterns": {
+  "title": "Additional Lanterns",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 541557
+ },
+ "Qelifern/IronFurnaces": {
+  "title": "Iron Furnaces",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 9358180
+ },
+ "progwml6/ironchest": {
+  "title": "Iron Chests",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 2556288
+ },
+ "SettingDust/MoreEnchantmentInfo": {
+  "title": "More Enchantment Info",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 622663
+ },
+ "Mars-The-Planet/More-Music-Discs": {
+  "title": "More Music Discs",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1569418
+ },
+ "Serilum/Inventory-Totem": {
+  "title": "Inventory Totem",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 3071560
+ },
+ "1foxy2/neo_mod_menu": {
+  "title": "Better ModList",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 3433103
+ },
+ "Penumbra-MC/Enderscape": {
+  "title": "Enderscape",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 862758
+ },
+ "bonsaistudi0s/Enderman-Overhaul": {
+  "title": "Enderman Overhaul",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 7881987
+ },
+ "TheCBProject/EnderStorage": {
+  "title": "Ender Storage",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 641347
+ },
+ "CeoOfGoogle1/CreateClothes": {
+  "title": "Create: Clothes",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 50412
+ },
+ "Forsteri123/CreateEnderTransmission": {
+  "title": "Create: Ender Transmission",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 824239
+ },
+ "duckgun13476/Create-SchematicChecker": {
+  "title": "Create: SchematicChecker",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 332246
+ },
+ "Let-s-Do-Collection/Beachparty": {
+  "title": "[Let's Do] Beachparty",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 8127651
+ },
+ "MagicHarp/confluence": {
+  "title": "Terra Curio",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1681557
+ },
+ "yezhiyi9670/clear-void": {
+  "title": "Clear Void",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 415842
+ },
+ "GaylordFockerCN/Cataclysm-Dimension": {
+  "title": "Cataclysm Dimension",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 262429
+ },
+ "LopyMine/Inventory-Particles": {
+  "title": "Inventory Particles",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 2894774
+ },
+ "CreativeMD/ItemPhysic": {
+  "title": "ItemPhysic",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 2877840
+ },
+ "Motschen/Blur": {
+  "title": "Blur+",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 10636583
+ },
+ "Shadows-of-Fire/Apothic-Enchanting": {
+  "title": "Apothic-Enchanting",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 71622
+ },
+ "BlakeBr0/MysticalAgriculture": {
+  "title": "Botany Pots - Mystical Agriculture Compat",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 1195468
+ },
+ "BlakeBr0/MysticalAgradditions": {
+  "title": "Mystical Agradditions",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 656192
+ },
+ "Auviotre/Enigmatic-Legacy-Plus": {
+  "title": "Enigmatic Legacy+",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 49002
+ },
+ "fonnymunkey/SimpleHats": {
+  "title": "Simple Hats",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 5829007
+ },
+ "AllenSeitz/DimDungeons": {
+  "title": "Dimensional Dungeons",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1147133
+ },
+ "teamfusion/rottencreatures": {
+  "title": "Rotten Creatures",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 3842478
+ },
+ "starfish-studios/Naturalist": {
+  "title": "Naturalist",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 10929146
+ },
+ "bonsaistudi0s/Creeper-Overhaul": {
+  "title": "Creeper Overhaul",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 10346120
+ },
+ "Minecraft-LightLand/L2Artifacts": {
+  "title": "L2 Artifacts",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 739323
+ },
+ "Minecraft-LightLand/L2Weaponry": {
+  "title": "L2 Weaponry",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 576029
+ },
+ "Cheaterpaul/fallingleaves": {
+  "title": "Falling Leaves (NeoForge/Forge)",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 5439161
+ },
+ "KosmX/emotes": {
+  "title": "Emotecraft",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 7347402
+ },
+ "Exopandora/ShoulderSurfing": {
+  "title": "Shoulder Surfing Reloaded",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 11490068
+ },
+ "AHilyard/AdvancementPlaques": {
+  "title": "Advancement Plaques",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 16883362
+ },
+ "Theoness1/EatingAnimation": {
+  "title": "Eating Animation",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 14982349
+ },
+ "Fuzss/universalenchants": {
+  "title": "Universal Enchants",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 1784061
+ },
+ "FlashyReese/sodium-extra-fabric": {
+  "title": "Sodium Extra",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 95121473
+ },
+ "illusivesoulworks/elytraslot": {
+  "title": "Elytra Slot",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 13540453
+ },
+ "CircuitLord/AdventureRedefined": {
+  "title": "Reactive Music",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 7157077
+ },
+ "jinqinxixi/Trinkets-and-Baubles-Forge-1.20.1": {
+  "title": "Trinkets and Baubles Reforked",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 284389
+ },
+ "someaddons/structureessentials": {
+  "title": "structureessentials-1.21.1-5.0.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "KubeJS-Mods/KubeJS-Create": {
+  "title": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-Ultimine": {
+  "title": "a/[连锁破坏] ftb-ultimine-neoforge-2101.1.13.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "shedaniel/LightOverlay": {
+  "title": "[亮度覆盖] light-overlay-12.0.0-neoforge.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "P3pp3rF1y/SophisticatedCore": {
+  "title": "a/[精妙核心] sophisticatedcore-1.21.1-1.4.33.1808.jar",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "TwelveIterations/TrashSlot": {
+  "title": "a/[垃圾槽] trashslot-neoforge-1.21.1-21.1.9.jar",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "TwelveIterations/CookingForBlockheads": {
+  "title": "a/[傻瓜烹饪／懒人厨房] cookingforblockheads-neoforge-1.21.1-21.1.21.jar",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "Shadows-of-Fire/FastWorkbench": {
+  "title": "a/[工作台性能优化] FastWorkbench-1.21.1-9.1.3.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "Rain156/disable-enderman-picking-up-blocks": {
+  "title": "[禁用末影人搬运] depub.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "KODU16/vsie": {
+  "title": "AeroIE-1.0.0-hotfix2.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "TwelveIterations/CraftingTweaks": {
+  "title": "a/[合成辅助] craftingtweaks-neoforge-1.21.1-21.1.9.jar",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "someaddons/smoothchunksave": {
+  "title": "a/[平滑区块保存] smoothchunk-1.21-4.1.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "P3pp3rF1y/SophisticatedStorage": {
+  "title": "a/[精妙存储] sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "rikka0w0/LanServerProperties": {
+  "title": "[自定义局域网联机] lanserverproperties-1.13.2-neoforge.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "JTK222/common-networking": {
+  "title": "common-networking-neoforge-1.0.21-1.21.1.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "P3pp3rF1y/SophisticatedBackpacks": {
+  "title": "a/[精妙背包] sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "P3pp3rF1y/Reliquary": {
+  "title": "[圣遗物] reliquary-1.21.1-2.0.78.1552.jar",
+  "packs": [
+   "ATM10",
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "FTBTeam/FTB-Chunks": {
+  "title": "a/[FTB 区块] ftb-chunks-neoforge-2101.1.14.jar",
+  "packs": [
+   "星轨重铸"
+  ],
+  "dl": 0
+ },
+ "Team-EnderIO/EnderIO": {
+  "title": "Ender IO",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "CyclopsMC/EvilCraft": {
+  "title": "EvilCraft",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "CyclopsMC/CyclopsCore": {
+  "title": "Cyclops Core",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "CyclopsMC/IntegratedDynamics": {
+  "title": "Integrated Dynamics",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "McJty/MFFS": {
+  "title": "Modular Force Field Systems (MFFS)",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "gigabit101/EnderStorage": {
+  "title": "Ender Storage 1.8.+",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "CyclopsMC/CommonCapabilities": {
+  "title": "Common Capabilities",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "McJty/XNet": {
+  "title": "Flux Networks",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "desht/ModularRouters": {
+  "title": "Modular Routers",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "ZeroNoRyouki/ExtremeReactors": {
+  "title": "Extreme Reactors",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "CyclopsMC/IntegratedTunnels": {
+  "title": "Integrated Tunnels",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "vadis365/Mob-Grinding-Utils": {
+  "title": "Mob Grinding Utils",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Buuz135/Industrial-Foregoing": {
+  "title": "More Industrial Foregoing Addons (MIFA)",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "TeamPneumatic/pnc-repressurized": {
+  "title": "PneumaticCraft: Repressurized",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "BlakeBr0/IronJetpacks": {
+  "title": "Iron Jetpacks",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "CyclopsMC/IntegratedCrafting": {
+  "title": "Integrated Crafting",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Buuz135/titanium": {
+  "title": "Titanium",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "MysticMods/Roots": {
+  "title": "Roots Classic",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "CyclopsMC/IntegratedTerminals": {
+  "title": "Integrated Terminals",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "SilentChaos512/Silent-Gear": {
+  "title": "Silent Gear Metalworks",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "McJty/RFToolsBase": {
+  "title": "RFTools Base",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "McJty/RFToolsBuilder": {
+  "title": "RFTools Builder",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "TelepathicGrunt/Bumblezone": {
+  "title": "The Bumblezone (NeoForge/Forge)",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "klikli-dev/occultism": {
+  "title": "Occultism KubeJS",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Commoble/MoreRed": {
+  "title": "More Red x CC:Tweaked Compat",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "SuperMartijn642/SimpleMagnets": {
+  "title": "Simple Magnets",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "SuperMartijn642/TrashCans": {
+  "title": "Trash Cans",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "SuperMartijn642/ItemCollectors": {
+  "title": "Item Collectors",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "baileyholl/Ars-Nouveau": {
+  "title": "Ars Nouveau",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Technici4n/Modern-Industrialization": {
+  "title": "Modern Industrialization",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "SuperMartijn642/SuperMartijn642sConfigLib": {
+  "title": "SuperMartijn642's Config Lib",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "XFactHD/FramedBlocks": {
+  "title": "FramedBlocks",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "henkelmax/pipez": {
+  "title": "Pipez",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Ultramega/CableTiers": {
+  "title": "Cable Tiers",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Buuz135/Functional-Storage": {
+  "title": "Functional Storage",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Direwolf20-MC/LaserIO": {
+  "title": "LaserIO",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "owmii/Powah": {
+  "title": "Powah! (Rearchitected)",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "XyCraft-Mods/XyCraft": {
+  "title": "XyCraft: Override",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Railcraft/Railcraft": {
+  "title": "Railcraft Reborn",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Draconic-Inc/Draconic-Evolution": {
+  "title": "Draconic Evolution",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "AlphaMode/CompactMachines": {
+  "title": "Compact Machines",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Draconic-Inc/BrandonsCore": {
+  "title": "Brandon's Core",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "marlester-dev/twilightforest-unofficial": {
+  "title": "The Twilight Forest",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "SilentChaos512/SilentGems": {
+  "title": "Silent's Gems",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "TeamJM/journeymap": {
+  "title": "JourneyMap",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Ellpeck/ActuallyAdditions": {
+  "title": "Actually Additions",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "BuiltBrokenModding/AI-Improvements": {
+  "title": "AI Improvements: Performance Tuning",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Geforce132/SecurityCraft": {
+  "title": "Security Craft",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "McJty/McJtyLib": {
+  "title": "McJtyLib",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "refinedmods/refinedstorage2": {
+  "title": "Refined Storage",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "SilentChaos512/SilentLib": {
+  "title": "Silent Lib (silentlib)",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Leclowndu93150/Corpse-Cosmetic-Armor-Compat": {
+  "title": "Cosmetic Armor Reworked",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "refinedmods/rangedpumps": {
+  "title": "Ranged Pumps",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "VazkiiMods/AkashicTome": {
+  "title": "Akashic Tome",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "ARxyt/ColonyPathingEdition": {
+  "title": "MineColonies",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "The-Aether-Team/The-Aether": {
+  "title": "The Aether",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "Shadows-of-Fire/Wither-Skeleton-Tweaks": {
+  "title": "Wither Skeleton Tweaks",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ },
+ "ImFalling/OpenBlocks_Elevator_Fabric": {
+  "title": "OpenBlocks Elevator",
+  "packs": [
+   "ATM10"
+  ],
+  "dl": 0
+ }
+}

@@ -1,0 +1,13 @@
+name = "高人一等"
+filename = "manabove-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-manabove/manabove-8.jar"
+hash-format = "sha256"
+hash = "7b1872c24fbb9877bdb1d52f67f799671d058f726e9c4e327b9bb4b442c8ef9d"
+
+[option]
+optional = false
+description = "高人一等 by 折戏鸢\nBuild #8\n可以骑到其他玩家头上，或者他们的肩膀上……\n当然，要小心他让你飞起来……"
+

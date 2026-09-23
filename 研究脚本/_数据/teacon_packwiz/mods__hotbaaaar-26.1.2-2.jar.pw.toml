@@ -1,0 +1,13 @@
+name = "hotbaaaar"
+filename = "hotbaaaar-26.1.2-2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/cn/uss-shenzhou/hotbaaaar/26.1.2-2/hotbaaaar-26.1.2-2.jar"
+hash-format = "sha256"
+hash = "6fc5e47e0d99366acc8e4b5f8414cf81fa54307c2d1bed74bdd375775c252cdb"
+
+[option]
+optional = false
+description = "Mod dependency of hotbaaaar\nIncluded inside official TeaCon mod list"
+

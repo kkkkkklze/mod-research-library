@@ -1,0 +1,13 @@
+name = "铁砧工艺"
+filename = "anvilcraft-neoforge-26.1.2-1.6.0+build.374.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-anvilcraft/anvilcraft-374.jar"
+hash-format = "sha256"
+hash = "1862c2f6766c0a2d9643f296c440401a37d59e2441c8a362ccb39633e4ad6575"
+
+[option]
+optional = false
+description = "铁砧工艺 by 铁砧工艺开发组\nBuild #374\n一个原版风科技模组，以铁砧为核心的原版生存拓展"
+

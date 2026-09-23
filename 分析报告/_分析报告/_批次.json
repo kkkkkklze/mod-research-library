@@ -1,0 +1,4202 @@
+[
+ {
+  "id": "B001",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "shedaniel/ClothConfig",
+    "path": "源码库/_参考仓库\\_bulk\\shedaniel__ClothConfig",
+    "title": "Cloth Config API (Fabric/Forge/NeoForge)",
+    "tier": "deep"
+   },
+   {
+    "gh": "malte0811/FerriteCore",
+    "path": "源码库/_参考仓库\\FerriteCore",
+    "title": "FerriteCore",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B002",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "caffeinemc/lithium-fabric",
+    "path": "源码库/_参考仓库\\_bulk\\caffeinemc__lithium-fabric",
+    "title": "Lithium",
+    "tier": "deep"
+   },
+   {
+    "gh": "Traben-0/Entity_Texture_Features",
+    "path": "源码库/_参考仓库\\_bulk\\Traben-0__Entity_Texture_Features",
+    "title": "[ETF] Entity Texture Features",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B003",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "FlashyReese/sodium-extra-fabric",
+    "path": "源码库/_参考仓库\\_bulk\\FlashyReese__sodium-extra-fabric",
+    "title": "Sodium Extra",
+    "tier": "deep"
+   },
+   {
+    "gh": "squeek502/AppleSkin",
+    "path": "源码库/_参考仓库\\AppleSkin",
+    "title": "AppleSkin",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B004",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "tr7zw/NotEnoughAnimations",
+    "path": "源码库/_参考仓库\\_bulk\\tr7zw__NotEnoughAnimations",
+    "title": "Not Enough Animations",
+    "tier": "deep"
+   },
+   {
+    "gh": "mezz/JustEnoughItems",
+    "path": "源码库/_参考仓库\\_bulk\\mezz__JustEnoughItems",
+    "title": "Smithing Template Viewer for JEI/EMI",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B005",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "tr7zw/3d-skin-layers",
+    "path": "源码库/_参考仓库\\_bulk\\tr7zw__3d-skin-layers",
+    "title": "3D Skin Layers",
+    "tier": "deep"
+   },
+   {
+    "gh": "Snownee/Jade",
+    "path": "源码库/_参考仓库\\Jade",
+    "title": "Jade 🔍",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B006",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "juliand665/Dynamic-FPS",
+    "path": "源码库/_参考仓库\\_bulk\\juliand665__Dynamic-FPS",
+    "title": "Dynamic FPS",
+    "tier": "mid"
+   },
+   {
+    "gh": "Keksuccino/FancyMenu",
+    "path": "源码库/_参考仓库\\_bulk\\Keksuccino__FancyMenu",
+    "title": "FancyMenu",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B007",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Fuzss/puzzleslib",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__puzzleslib",
+    "title": "Puzzles Lib",
+    "tier": "deep"
+   },
+   {
+    "gh": "Keksuccino/Konkrete",
+    "path": "源码库/_参考仓库\\_bulk\\Keksuccino__Konkrete",
+    "title": "Konkrete",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B008",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "TwelveIterations/Balm",
+    "path": "源码库/_参考仓库\\_bulk\\TwelveIterations__Balm",
+    "title": "Balm",
+    "tier": "deep"
+   },
+   {
+    "gh": "YaLTeR/MouseTweaks",
+    "path": "源码库/_参考仓库\\_bulk\\YaLTeR__MouseTweaks",
+    "title": "Mouse Tweaks",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B009",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Aizistral-Studios/No-Chat-Reports",
+    "path": "源码库/_参考仓库\\_bulk\\Aizistral-Studios__No-Chat-Reports",
+    "title": "No Chat Reports",
+    "tier": "deep"
+   },
+   {
+    "gh": "henkelmax/sound-physics-remastered",
+    "path": "源码库/_参考仓库\\_bulk\\henkelmax__sound-physics-remastered",
+    "title": "Sound Physics Remastered",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B010",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "CreativeMD/CreativeCore",
+    "path": "源码库/_参考仓库\\_bulk\\CreativeMD__CreativeCore",
+    "title": "CreativeCore",
+    "tier": "deep"
+   },
+   {
+    "gh": "thedarkcolour/KotlinForForge",
+    "path": "源码库/_参考仓库\\_bulk\\thedarkcolour__KotlinForForge",
+    "title": "kotlinforforge-5.12.0-all.jar",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B011",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Keksuccino/Melody",
+    "path": "源码库/_参考仓库\\_bulk\\Keksuccino__Melody",
+    "title": "Melody",
+    "tier": "deep"
+   },
+   {
+    "gh": "dzwdz/chat_heads",
+    "path": "源码库/_参考仓库\\_bulk\\dzwdz__chat_heads",
+    "title": "Chat Heads",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B012",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Darkhax-Minecraft/Bookshelf",
+    "path": "源码库/_参考仓库\\_bulk\\Darkhax-Minecraft__Bookshelf",
+    "title": "Bookshelf",
+    "tier": "deep"
+   },
+   {
+    "gh": "blackd/Inventory-Profiles",
+    "path": "源码库/_参考仓库\\_bulk\\blackd__Inventory-Profiles",
+    "title": "Inventory Profiles Next",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B013",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "jaredlll08/searchables",
+    "path": "源码库/_参考仓库\\_bulk\\jaredlll08__searchables",
+    "title": "Searchables-forge-1.20.1-1.0.3.jar",
+    "tier": "deep"
+   },
+   {
+    "gh": "CreativeMD/AmbientSounds",
+    "path": "源码库/_参考仓库\\_bulk\\CreativeMD__AmbientSounds",
+    "title": "AmbientSounds",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B014",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "fxmorin/memoryLeakFix",
+    "path": "源码库/_参考仓库\\_bulk\\fxmorin__memoryLeakFix",
+    "title": "Memory Leak Fix",
+    "tier": "mid"
+   },
+   {
+    "gh": "Darkhax-Minecraft/Enchantment-Descriptions",
+    "path": "源码库/_参考仓库\\_bulk\\Darkhax-Minecraft__Enchantment-Descriptions",
+    "title": "Enchantment Descriptions",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B015",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Asek3/Oculus",
+    "path": "源码库/_参考仓库\\_bulk\\Asek3__Oculus",
+    "title": "mekalus-mc1.20.1-1.8.0.1.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "FiniteReality/embeddium",
+    "path": "源码库/_参考仓库\\_bulk\\FiniteReality__embeddium",
+    "title": "Embeddium",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B016",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Team-Resourceful/ResourcefulLib",
+    "path": "源码库/_参考仓库\\_bulk\\Team-Resourceful__ResourcefulLib",
+    "title": "Resourceful Lib",
+    "tier": "deep"
+   },
+   {
+    "gh": "blackd/libIPN",
+    "path": "源码库/_参考仓库\\_bulk\\blackd__libIPN",
+    "title": "libIPN",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B017",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "TreyRuffy/BetterF3",
+    "path": "源码库/_参考仓库\\_bulk\\TreyRuffy__BetterF3",
+    "title": "BetterF3",
+    "tier": "deep"
+   },
+   {
+    "gh": "illusivesoulworks/cherishedworlds",
+    "path": "源码库/_参考仓库\\_bulk\\illusivesoulworks__cherishedworlds",
+    "title": "Cherished Worlds",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B018",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Sinytra/ForgifiedFabricAPI",
+    "path": "源码库/_参考仓库\\_bulk\\Sinytra__ForgifiedFabricAPI",
+    "title": "forgified-fabric-api-0.116.15+2.3.4+1.21.1.jar",
+    "tier": "deep"
+   },
+   {
+    "gh": "EuphoriaPatches/EuphoriaPatcher",
+    "path": "源码库/_参考仓库\\_bulk\\EuphoriaPatches__EuphoriaPatcher",
+    "title": "Euphoria Patches",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B019",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "terrarium-earth/Handcrafted",
+    "path": "源码库/_参考仓库\\_bulk\\terrarium-earth__Handcrafted",
+    "title": "Handcrafted",
+    "tier": "deep"
+   },
+   {
+    "gh": "way2muchnoise/BetterAdvancements",
+    "path": "源码库/_参考仓库\\_bulk\\way2muchnoise__BetterAdvancements",
+    "title": "Better Advancements",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B020",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "MattCzyr/NaturesCompass",
+    "path": "源码库/_参考仓库\\_bulk\\MattCzyr__NaturesCompass",
+    "title": "Nature's Compass",
+    "tier": "deep"
+   },
+   {
+    "gh": "Tschipp/CarryOn",
+    "path": "源码库/_参考仓库\\_bulk\\Tschipp__CarryOn",
+    "title": "Carry On",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B021",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Fuzss/visualworkbench",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__visualworkbench",
+    "title": "Visual Workbench",
+    "tier": "deep"
+   },
+   {
+    "gh": "Sinytra/Connector",
+    "path": "源码库/_参考仓库\\_bulk\\Sinytra__Connector",
+    "title": "信雅互联connector-2.0.0-beta.17+1.21.1-full.jar",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B022",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Team-Resourceful/Resourceful-Config",
+    "path": "源码库/_参考仓库\\_bulk\\Team-Resourceful__Resourceful-Config",
+    "title": "Resourceful Config",
+    "tier": "deep"
+   },
+   {
+    "gh": "TwelveIterations/NetherPortalFix",
+    "path": "源码库/_参考仓库\\_bulk\\TwelveIterations__NetherPortalFix",
+    "title": "NetherPortalFix",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B023",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "vectorwing/FarmersDelight",
+    "path": "源码库/_参考仓库\\FarmersDelight",
+    "title": "Farmer's Delight",
+    "tier": "deep"
+   },
+   {
+    "gh": "xfl03/MCCustomSkinLoader",
+    "path": "源码库/_参考仓库\\_bulk\\xfl03__MCCustomSkinLoader",
+    "title": "CustomSkinLoader",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B024",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Apollounknowndev/lithostitched",
+    "path": "源码库/_参考仓库\\_bulk\\Apollounknowndev__lithostitched",
+    "title": "Lithostitched",
+    "tier": "deep"
+   },
+   {
+    "gh": "noobanidus/lootr",
+    "path": "源码库/_参考仓库\\lootr",
+    "title": "Lootr (Forge & NeoForge)",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B025",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Glitchfiend/GlitchCore",
+    "path": "源码库/_参考仓库\\_bulk\\Glitchfiend__GlitchCore",
+    "title": "四季前置GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+    "tier": "deep"
+   },
+   {
+    "gh": "Ezzenix/ChatAnimation",
+    "path": "源码库/_参考仓库\\_bulk\\Ezzenix__ChatAnimation",
+    "title": "Chat Animation [Smooth Chat]",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B026",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Keksuccino/Drippy-Loading-Screen",
+    "path": "源码库/_参考仓库\\_bulk\\Keksuccino__Drippy-Loading-Screen",
+    "title": "Drippy Loading Screen",
+    "tier": "deep"
+   },
+   {
+    "gh": "KubeJS-Mods/Rhino",
+    "path": "源码库/_参考仓库\\_bulk\\KubeJS-Mods__Rhino",
+    "title": "[犀牛] rhino-2101.2.7-build.81.jar",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B027",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "BloCamLimb/ModernUI-MC",
+    "path": "源码库/_参考仓库\\_bulk\\BloCamLimb__ModernUI-MC",
+    "title": "Modern UI",
+    "tier": "deep"
+   },
+   {
+    "gh": "YUNG-GANG/YUNGs-Better-Ocean-Monuments",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__YUNGs-Better-Ocean-Monuments",
+    "title": "YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B028",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Darkhax-Minecraft/AttributeFix",
+    "path": "源码库/_参考仓库\\_bulk\\Darkhax-Minecraft__AttributeFix",
+    "title": "AttributeFix",
+    "tier": "deep"
+   },
+   {
+    "gh": "YUNG-GANG/YUNGs-Better-Dungeons",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__YUNGs-Better-Dungeons",
+    "title": "YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B029",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "KubeJS-Mods/KubeJS",
+    "path": "源码库/_参考仓库\\_bulk\\KubeJS-Mods__KubeJS",
+    "title": "kubejs-neoforge-2101.7.2-build.368.jar",
+    "tier": "deep"
+   },
+   {
+    "gh": "Tiviacz1337/Travelers-Backpack",
+    "path": "源码库/_参考仓库\\_bulk\\Tiviacz1337__Travelers-Backpack",
+    "title": "Traveler's Backpack",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B030",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "YUNG-GANG/YUNGs-Better-Mineshafts",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__YUNGs-Better-Mineshafts",
+    "title": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+    "tier": "deep"
+   },
+   {
+    "gh": "YUNG-GANG/YUNGs-Better-Jungle-Temples",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__YUNGs-Better-Jungle-Temples",
+    "title": "YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B031",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "yungnickyoung/YUNGs-Better-End-Island",
+    "path": "源码库/_参考仓库\\_bulk\\yungnickyoung__YUNGs-Better-End-Island",
+    "title": "YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+    "tier": "deep"
+   },
+   {
+    "gh": "CreativeMD/EnhancedVisuals",
+    "path": "源码库/_参考仓库\\_bulk\\CreativeMD__EnhancedVisuals",
+    "title": "EnhancedVisuals",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B032",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "txnimc/SodiumDynamicLights",
+    "path": "源码库/_参考仓库\\_bulk\\txnimc__SodiumDynamicLights",
+    "title": "Sodium Dynamic Lights",
+    "tier": "deep"
+   },
+   {
+    "gh": "YUNG-GANG/YUNGs-Better-Strongholds",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__YUNGs-Better-Strongholds",
+    "title": "YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B033",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "lender544/new1.20.1",
+    "path": "源码库/_参考仓库\\_bulk\\lender544__new1.20.1",
+    "title": "L_Ender 's Cataclysm",
+    "tier": "deep"
+   },
+   {
+    "gh": "pop4959/Chunky",
+    "path": "源码库/_参考仓库\\_bulk\\pop4959__Chunky",
+    "title": "Chunky",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B034",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Cristelknight999/Cristel-Lib",
+    "path": "源码库/_参考仓库\\_bulk\\Cristelknight999__Cristel-Lib",
+    "title": "Cristel Lib",
+    "tier": "deep"
+   },
+   {
+    "gh": "AHilyard/Prism",
+    "path": "源码库/_参考仓库\\_bulk\\AHilyard__Prism",
+    "title": "Prism [Neo/Forge]",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B035",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "SuperMartijn642/SuperMartijn642sCoreLib",
+    "path": "源码库/_参考仓库\\SuperMartijn642sCoreLib",
+    "title": "SuperMartijn642's Core Lib",
+    "tier": "mid"
+   },
+   {
+    "gh": "YUNG-GANG/YUNGs-Better-Witch-Huts",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__YUNGs-Better-Witch-Huts",
+    "title": "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B036",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "AHilyard/AdvancementPlaques",
+    "path": "源码库/_参考仓库\\_bulk\\AHilyard__AdvancementPlaques",
+    "title": "Advancement Plaques",
+    "tier": "mid"
+   },
+   {
+    "gh": "xfl03/I18nUpdateMod3",
+    "path": "源码库/_参考仓库\\_bulk\\xfl03__I18nUpdateMod3",
+    "title": "I18nUpdateMod",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B037",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "AHilyard/Highlighter",
+    "path": "源码库/_参考仓库\\_bulk\\AHilyard__Highlighter",
+    "title": "Item Highlighter",
+    "tier": "mid"
+   },
+   {
+    "gh": "YUNG-GANG/YUNGs-Better-Desert-Temples",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__YUNGs-Better-Desert-Temples",
+    "title": "YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B038",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Alex-the-666/Citadel",
+    "path": "源码库/_参考仓库\\_bulk\\Alex-the-666__Citadel",
+    "title": "Citadel",
+    "tier": "mid"
+   },
+   {
+    "gh": "Octo-Studios/octo-lib",
+    "path": "源码库/_参考仓库\\_bulk\\Octo-Studios__octo-lib",
+    "title": "ShatterLib | OctoLib",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B039",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "YUNG-GANG/YUNGs-Bridges",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__YUNGs-Bridges",
+    "title": "YUNG's Bridges",
+    "tier": "deep"
+   },
+   {
+    "gh": "Fuzss/pickupnotifier",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__pickupnotifier",
+    "title": "Pick Up Notifier",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B040",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Theoness1/EatingAnimation",
+    "path": "源码库/_参考仓库\\_bulk\\Theoness1__EatingAnimation",
+    "title": "Eating Animation",
+    "tier": "mid"
+   },
+   {
+    "gh": "AlexModGuy/AlexsMobs",
+    "path": "源码库/_参考仓库\\_bulk\\AlexModGuy__AlexsMobs",
+    "title": "Alex's Mobs",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B041",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Luke100000/ImmersiveAircraft",
+    "path": "源码库/_参考仓库\\_bulk\\Luke100000__ImmersiveAircraft",
+    "title": "Immersive Aircraft",
+    "tier": "deep"
+   },
+   {
+    "gh": "YesSteveModel/YSM-Wiki-Issues",
+    "path": "源码库/_参考仓库\\_bulk\\YesSteveModel__YSM-Wiki-Issues",
+    "title": "Yes Steve Model",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B042",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "Towdium/JustEnoughCharacters",
+    "path": "源码库/_参考仓库\\_bulk\\Towdium__JustEnoughCharacters",
+    "title": "JustEnoughCharacters",
+    "tier": "deep"
+   },
+   {
+    "gh": "mortuusars/Exposure",
+    "path": "源码库/_参考仓库\\_bulk\\mortuusars__Exposure",
+    "title": "Exposure",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B043",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "illusivesoulworks/elytraslot",
+    "path": "源码库/_参考仓库\\_bulk\\illusivesoulworks__elytraslot",
+    "title": "Elytra Slot",
+    "tier": "mid"
+   },
+   {
+    "gh": "reserveword/IMBlocker",
+    "path": "源码库/_参考仓库\\_bulk\\reserveword__IMBlocker",
+    "title": "IMBlocker",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B044",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "wisp-forest/accessories",
+    "path": "源码库/_参考仓库\\_bulk\\wisp-forest__accessories",
+    "title": "Accessories",
+    "tier": "mid"
+   },
+   {
+    "gh": "ochotonida/artifacts",
+    "path": "源码库/_参考仓库\\_bulk\\ochotonida__artifacts",
+    "title": "Artifacts",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B045",
+  "kind": "pair",
+  "repos": [
+   {
+    "gh": "DynamicTreesTeam/DynamicTrees",
+    "path": "源码库/_参考仓库\\_bulk\\DynamicTreesTeam__DynamicTrees",
+    "title": "Dynamic Trees",
+    "tier": "mid"
+   },
+   {
+    "gh": "Darkhax-Minecraft/PrickleMC",
+    "path": "源码库/_参考仓库\\_bulk\\Darkhax-Minecraft__PrickleMC",
+    "title": "Prickle",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B046",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "MehVahdJukaar/DuMmmMmmy",
+    "path": "源码库/_参考仓库\\_bulk\\MehVahdJukaar__DuMmmMmmy",
+    "title": "MmmMmmMmmMmm (Target Dummy)",
+    "tier": "mid"
+   },
+   {
+    "gh": "Exopandora/ShoulderSurfing",
+    "path": "源码库/_参考仓库\\_bulk\\Exopandora__ShoulderSurfing",
+    "title": "Shoulder Surfing Reloaded",
+    "tier": "mid"
+   },
+   {
+    "gh": "rfresh2/XaeroPlus",
+    "path": "源码库/_参考仓库\\_bulk\\rfresh2__XaeroPlus",
+    "title": "XaeroPlus",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B047",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "MattCzyr/ExplorersCompass",
+    "path": "源码库/_参考仓库\\_bulk\\MattCzyr__ExplorersCompass",
+    "title": "[探险者指南针 修改] explorerscompass-edited-1.21.1-3.0.4-neoforge.jar",
+    "tier": "deep"
+   },
+   {
+    "gh": "starfish-studios/Naturalist",
+    "path": "源码库/_参考仓库\\_bulk\\starfish-studios__Naturalist",
+    "title": "Naturalist",
+    "tier": "mid"
+   },
+   {
+    "gh": "TartaricAcid/TouhouLittleMaid",
+    "path": "源码库/_参考仓库\\TouhouLittleMaid",
+    "title": "Touhou Little Maid",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B048",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "McJtyMods/LostCities",
+    "path": "源码库/_参考仓库\\_bulk\\McJtyMods__LostCities",
+    "title": "The Lost Cities",
+    "tier": "mid"
+   },
+   {
+    "gh": "Motschen/Blur",
+    "path": "源码库/_参考仓库\\_bulk\\Motschen__Blur",
+    "title": "Blur+",
+    "tier": "mid"
+   },
+   {
+    "gh": "sketchmacaw/Fences",
+    "path": "源码库/_参考仓库\\_bulk\\sketchmacaw__Fences",
+    "title": "Macaw's Fences and Walls",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B049",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "EngineHub/WorldEdit",
+    "path": "源码库/_参考仓库\\_bulk\\EngineHub__WorldEdit",
+    "title": "WorldEdit",
+    "tier": "mid"
+   },
+   {
+    "gh": "YUNG-GANG/Paxi",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__Paxi",
+    "title": "Paxi",
+    "tier": "mid"
+   },
+   {
+    "gh": "mrh0/createaddition",
+    "path": "源码库/_参考仓库\\createaddition",
+    "title": "Create Crafts & Additions",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B050",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "bonsaistudi0s/Creeper-Overhaul",
+    "path": "源码库/_参考仓库\\_bulk\\bonsaistudi0s__Creeper-Overhaul",
+    "title": "Creeper Overhaul",
+    "tier": "mid"
+   },
+   {
+    "gh": "Serilum/Starter-Kit",
+    "path": "源码库/_参考仓库\\_bulk\\Serilum__Starter-Kit",
+    "title": "Starter Kit",
+    "tier": "mid"
+   },
+   {
+    "gh": "AHilyard/LegendaryTooltips",
+    "path": "源码库/_参考仓库\\_bulk\\AHilyard__LegendaryTooltips",
+    "title": "Legendary Tooltips",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B051",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "decce6/Ixeris",
+    "path": "源码库/_参考仓库\\_bulk\\decce6__Ixeris",
+    "title": "Ixeris",
+    "tier": "mid"
+   },
+   {
+    "gh": "copycats-plus/copycats",
+    "path": "源码库/_参考仓库\\_bulk\\copycats-plus__copycats",
+    "title": "Create: Copycats+",
+    "tier": "mid"
+   },
+   {
+    "gh": "Qelifern/IronFurnaces",
+    "path": "源码库/_参考仓库\\_bulk\\Qelifern__IronFurnaces",
+    "title": "Iron Furnaces",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B052",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "FoggyHillside/End-s-Delight",
+    "path": "源码库/_参考仓库\\_bulk\\FoggyHillside__End-s-Delight",
+    "title": "End's Delight",
+    "tier": "mid"
+   },
+   {
+    "gh": "YUNG-GANG/Travelers-Titles",
+    "path": "源码库/_参考仓库\\_bulk\\YUNG-GANG__Travelers-Titles",
+    "title": "Traveler's Titles",
+    "tier": "mid"
+   },
+   {
+    "gh": "sketchmacaw/Bridges",
+    "path": "源码库/_参考仓库\\_bulk\\sketchmacaw__Bridges",
+    "title": "Macaw's Bridges",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B053",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "illusivesoulworks/charmofundying",
+    "path": "源码库/_参考仓库\\_bulk\\illusivesoulworks__charmofundying",
+    "title": "Charm of Undying",
+    "tier": "mid"
+   },
+   {
+    "gh": "DynamicTreesTeam/DynamicTreesPlus",
+    "path": "源码库/_参考仓库\\_bulk\\DynamicTreesTeam__DynamicTreesPlus",
+    "title": "Dynamic Trees Plus",
+    "tier": "mid"
+   },
+   {
+    "gh": "Luke100000/ImmersiveMelodies",
+    "path": "源码库/_参考仓库\\_bulk\\Luke100000__ImmersiveMelodies",
+    "title": "Immersive Melodies",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B054",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "ItsBlackGear/Platform",
+    "path": "源码库/_参考仓库\\_bulk\\ItsBlackGear__Platform",
+    "title": "Platform",
+    "tier": "mid"
+   },
+   {
+    "gh": "Let-s-Do-Collection/Beachparty",
+    "path": "源码库/_参考仓库\\_bulk\\Let-s-Do-Collection__Beachparty",
+    "title": "[Let's Do] Beachparty",
+    "tier": "mid"
+   },
+   {
+    "gh": "Minenash/Enhanced-Attack-Indicator",
+    "path": "源码库/_参考仓库\\_bulk\\Minenash__Enhanced-Attack-Indicator",
+    "title": "Enhanced Attack Indicator",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B055",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "bonsaistudi0s/Enderman-Overhaul",
+    "path": "源码库/_参考仓库\\_bulk\\bonsaistudi0s__Enderman-Overhaul",
+    "title": "Enderman Overhaul",
+    "tier": "mid"
+   },
+   {
+    "gh": "Creators-of-Aeronautics/Simulated-Project",
+    "path": "源码库/_参考仓库\\_bulk\\Creators-of-Aeronautics__Simulated-Project",
+    "title": "Create Aeronautics",
+    "tier": "mid"
+   },
+   {
+    "gh": "MaxenceDC/sparsestructures",
+    "path": "源码库/_参考仓库\\_bulk\\MaxenceDC__sparsestructures",
+    "title": "Sparse Structures",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B056",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "TheIllusiveC4/Caelus",
+    "path": "源码库/_参考仓库\\_bulk\\TheIllusiveC4__Caelus",
+    "title": "Caelus API",
+    "tier": "mid"
+   },
+   {
+    "gh": "Miauczel/Legendary-Monsters-1.21.1-NeoForge",
+    "path": "源码库/_参考仓库\\_bulk\\Miauczel__Legendary-Monsters-1.21.1-NeoForge",
+    "title": "Legendary Monsters",
+    "tier": "mid"
+   },
+   {
+    "gh": "Schauweg/Smooth-Swapping",
+    "path": "源码库/_参考仓库\\_bulk\\Schauweg__Smooth-Swapping",
+    "title": "Smooth Swapping",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B057",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "TJT01/GlobalServerConfig",
+    "path": "源码库/_参考仓库\\_bulk\\TJT01__GlobalServerConfig",
+    "title": "Global Server Config",
+    "tier": "mid"
+   },
+   {
+    "gh": "Cannoneers-of-Create/CreateBigCannons",
+    "path": "源码库/_参考仓库\\_bulk\\Cannoneers-of-Create__CreateBigCannons",
+    "title": "Create Big Cannons",
+    "tier": "deep"
+   },
+   {
+    "gh": "team-abnormals/blueprint",
+    "path": "源码库/_参考仓库\\_bulk\\team-abnormals__blueprint",
+    "title": "Blueprint",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B058",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "KosmX/emotes",
+    "path": "源码库/_参考仓库\\_bulk\\KosmX__emotes",
+    "title": "Emotecraft",
+    "tier": "mid"
+   },
+   {
+    "gh": "talrey/CreateDeco",
+    "path": "源码库/_参考仓库\\_bulk\\talrey__CreateDeco",
+    "title": "Create Deco",
+    "tier": "deep"
+   },
+   {
+    "gh": "CircuitLord/AdventureRedefined",
+    "path": "源码库/_参考仓库\\_bulk\\CircuitLord__AdventureRedefined",
+    "title": "Reactive Music",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B059",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "way2muchnoise/JustEnoughResources",
+    "path": "源码库/_参考仓库\\_bulk\\way2muchnoise__JustEnoughResources",
+    "title": "Just Enough Resources (JER)",
+    "tier": "mid"
+   },
+   {
+    "gh": "hlysine/create_connected",
+    "path": "源码库/_参考仓库\\_bulk\\hlysine__create_connected",
+    "title": "Create: Connected",
+    "tier": "deep"
+   },
+   {
+    "gh": "bl4ckscor3/Sit",
+    "path": "源码库/_参考仓库\\_bulk\\bl4ckscor3__Sit",
+    "title": "Sit",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B060",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Octo-Studios/immersive-ui",
+    "path": "源码库/_参考仓库\\_bulk\\Octo-Studios__immersive-ui",
+    "title": "Immersive UI",
+    "tier": "deep"
+   },
+   {
+    "gh": "ITsMrToad/GpuTape",
+    "path": "源码库/_参考仓库\\_bulk\\ITsMrToad__GpuTape",
+    "title": "GPUBooster",
+    "tier": "mid"
+   },
+   {
+    "gh": "yungnickyoung/YUNGs-Menu-Tweaks",
+    "path": "源码库/_参考仓库\\_bulk\\yungnickyoung__YUNGs-Menu-Tweaks",
+    "title": "YUNG's Menu Tweaks",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B061",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "AppliedEnergistics/Applied-Energistics-2",
+    "path": "源码库/_参考仓库\\_bulk\\AppliedEnergistics__Applied-Energistics-2",
+    "title": "Applied Energistics 2",
+    "tier": "deep"
+   },
+   {
+    "gh": "fonnymunkey/SimpleHats",
+    "path": "源码库/_参考仓库\\_bulk\\fonnymunkey__SimpleHats",
+    "title": "Simple Hats",
+    "tier": "mid"
+   },
+   {
+    "gh": "Kitteh6660/DramaticDoors",
+    "path": "源码库/_参考仓库\\_bulk\\Kitteh6660__DramaticDoors",
+    "title": "Dramatic Doors",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B062",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "george8188625/Create-Diesel-Generators",
+    "path": "源码库/_参考仓库\\_bulk\\george8188625__Create-Diesel-Generators",
+    "title": "Create: Diesel Generators",
+    "tier": "deep"
+   },
+   {
+    "gh": "DragonsPlusMinecraft/CreateEnchantmentIndustry",
+    "path": "源码库/_参考仓库\\_bulk\\DragonsPlusMinecraft__CreateEnchantmentIndustry",
+    "title": "Create: Enchantment Industry",
+    "tier": "deep"
+   },
+   {
+    "gh": "DragonsPlusMinecraft/VisualityReforged",
+    "path": "源码库/_参考仓库\\_bulk\\DragonsPlusMinecraft__VisualityReforged",
+    "title": "Visuality: Reforged",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B063",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Cheaterpaul/fallingleaves",
+    "path": "源码库/_参考仓库\\_bulk\\Cheaterpaul__fallingleaves",
+    "title": "Falling Leaves (NeoForge/Forge)",
+    "tier": "mid"
+   },
+   {
+    "gh": "samedifferent/Ecologics",
+    "path": "源码库/_参考仓库\\_bulk\\samedifferent__Ecologics",
+    "title": "Ecologics",
+    "tier": "mid"
+   },
+   {
+    "gh": "ryanhcode/sable",
+    "path": "源码库/_参考仓库\\_bulk\\ryanhcode__sable",
+    "title": "Sable",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B064",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "TwelveIterations/ForgivingVoid",
+    "path": "源码库/_参考仓库\\_bulk\\TwelveIterations__ForgivingVoid",
+    "title": "Forgiving Void",
+    "tier": "mid"
+   },
+   {
+    "gh": "FoundationGames/Automobility",
+    "path": "源码库/_参考仓库\\_bulk\\FoundationGames__Automobility",
+    "title": "Automobility",
+    "tier": "mid"
+   },
+   {
+    "gh": "sketchmacaw/Paths-Pavings",
+    "path": "源码库/_参考仓库\\_bulk\\sketchmacaw__Paths-Pavings",
+    "title": "Macaw's Paths and Pavings",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B065",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "DragonsPlusMinecraft/CreateCentralKitchen",
+    "path": "源码库/_参考仓库\\_bulk\\DragonsPlusMinecraft__CreateCentralKitchen",
+    "title": "Create: Central Kitchen",
+    "tier": "deep"
+   },
+   {
+    "gh": "MrMelon54/draggable_lists",
+    "path": "源码库/_参考仓库\\_bulk\\MrMelon54__draggable_lists",
+    "title": "Draggable Lists",
+    "tier": "light"
+   },
+   {
+    "gh": "Fuzss/mutantmonsters",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__mutantmonsters",
+    "title": "Mutant Monsters",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B066",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "MoePus/Flerovium",
+    "path": "源码库/_参考仓库\\_bulk\\MoePus__Flerovium",
+    "title": "Flerovium",
+    "tier": "mid"
+   },
+   {
+    "gh": "TartaricAcid/NetMusic",
+    "path": "源码库/_参考仓库\\_bulk\\TartaricAcid__NetMusic",
+    "title": "Net Music",
+    "tier": "mid"
+   },
+   {
+    "gh": "sudolev/CreateInteriorsMod",
+    "path": "源码库/_参考仓库\\_bulk\\sudolev__CreateInteriorsMod",
+    "title": "Create: Interiors",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B067",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Terrails/colorful-hearts",
+    "path": "源码库/_参考仓库\\_bulk\\Terrails__colorful-hearts",
+    "title": "Colorful Hearts",
+    "tier": "mid"
+   },
+   {
+    "gh": "lender544/Lionfish-API",
+    "path": "源码库/_参考仓库\\_bulk\\lender544__Lionfish-API",
+    "title": "Lionfish-API",
+    "tier": "mid"
+   },
+   {
+    "gh": "teamfusion/rottencreatures",
+    "path": "源码库/_参考仓库\\_bulk\\teamfusion__rottencreatures",
+    "title": "Rotten Creatures",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B068",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "decce6/Gnetum",
+    "path": "源码库/_参考仓库\\_bulk\\decce6__Gnetum",
+    "title": "Gnetum",
+    "tier": "mid"
+   },
+   {
+    "gh": "mekanism/Mekanism",
+    "path": "源码库/_参考仓库\\_bulk\\mekanism__Mekanism",
+    "title": "Refined Storage - Mekanism Integration",
+    "tier": "deep"
+   },
+   {
+    "gh": "Monad-Modding/BrewinAndChewin",
+    "path": "源码库/_参考仓库\\_bulk\\Monad-Modding__BrewinAndChewin",
+    "title": "Brewin' And Chewin'",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B069",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "BluSunrize/ImmersiveEngineering",
+    "path": "源码库/_参考仓库\\_bulk\\BluSunrize__ImmersiveEngineering",
+    "title": "Immersive Engineering",
+    "tier": "deep"
+   },
+   {
+    "gh": "McJtyMods/InControl",
+    "path": "源码库/_参考仓库\\_bulk\\McJtyMods__InControl",
+    "title": "In Control!",
+    "tier": "mid"
+   },
+   {
+    "gh": "1foxy2/neo_mod_menu",
+    "path": "源码库/_参考仓库\\_bulk\\1foxy2__neo_mod_menu",
+    "title": "Better ModList",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B070",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Minecraft-LightLand/L2Library",
+    "path": "源码库/_参考仓库\\L2Library",
+    "title": "L2 Library",
+    "tier": "mid"
+   },
+   {
+    "gh": "Lightman314/LightmansCurrency",
+    "path": "源码库/_参考仓库\\_bulk\\Lightman314__LightmansCurrency",
+    "title": "Lightman's Currency",
+    "tier": "light"
+   },
+   {
+    "gh": "TheCBProject/CodeChickenLib",
+    "path": "源码库/_参考仓库\\_bulk\\TheCBProject__CodeChickenLib",
+    "title": "CodeChicken Lib",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B071",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Wagers-of-Industrial-Warfare/RitchiesProjectileLib",
+    "path": "源码库/_参考仓库\\_bulk\\Wagers-of-Industrial-Warfare__RitchiesProjectileLib",
+    "title": "Ritchie's Projectile Library",
+    "tier": "mid"
+   },
+   {
+    "gh": "Serilum/Inventory-Totem",
+    "path": "源码库/_参考仓库\\_bulk\\Serilum__Inventory-Totem",
+    "title": "Inventory Totem",
+    "tier": "light"
+   },
+   {
+    "gh": "juancarloscp52/spyglass-improvements",
+    "path": "源码库/_参考仓库\\_bulk\\juancarloscp52__spyglass-improvements",
+    "title": "Spyglass Improvements",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B072",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Minecraft-LightLand/L2Complements",
+    "path": "源码库/_参考仓库\\_bulk\\Minecraft-LightLand__L2Complements",
+    "title": "l2complements-3.1.3.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "Xalcon/TorchMaster",
+    "path": "源码库/_参考仓库\\_bulk\\Xalcon__TorchMaster",
+    "title": "TorchMaster",
+    "tier": "mid"
+   },
+   {
+    "gh": "Umpaz/NethersDelight",
+    "path": "源码库/_参考仓库\\_bulk\\Umpaz__NethersDelight",
+    "title": "Nether's Delight",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B073",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "AppliedEnergistics/GuideME",
+    "path": "源码库/_参考仓库\\_bulk\\AppliedEnergistics__GuideME",
+    "title": "GuideME",
+    "tier": "deep"
+   },
+   {
+    "gh": "Mari023/AE2WirelessTerminalLibrary",
+    "path": "源码库/_参考仓库\\_bulk\\Mari023__AE2WirelessTerminalLibrary",
+    "title": "Applied Energistics 2 Wireless Terminals",
+    "tier": "deep"
+   },
+   {
+    "gh": "alRex-U/ParCool",
+    "path": "源码库/_参考仓库\\_bulk\\alRex-U__ParCool",
+    "title": "ParCool!",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B074",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "LopyMine/Inventory-Particles",
+    "path": "源码库/_参考仓库\\_bulk\\LopyMine__Inventory-Particles",
+    "title": "Inventory Particles",
+    "tier": "light"
+   },
+   {
+    "gh": "DragonsPlusMinecraft/CreateDragonsPlus",
+    "path": "源码库/_参考仓库\\_bulk\\DragonsPlusMinecraft__CreateDragonsPlus",
+    "title": "Create: Dragons Plus",
+    "tier": "deep"
+   },
+   {
+    "gh": "CreativeMD/ItemPhysic",
+    "path": "源码库/_参考仓库\\_bulk\\CreativeMD__ItemPhysic",
+    "title": "ItemPhysic",
+    "tier": "light"
+   },
+   {
+    "gh": "Tictim/Paraglider",
+    "path": "源码库/_参考仓库\\_bulk\\Tictim__Paraglider",
+    "title": "Paragliders",
+    "tier": "light"
+   },
+   {
+    "gh": "Minecraft-LightLand/L2Hostility",
+    "path": "源码库/_参考仓库\\_bulk\\Minecraft-LightLand__L2Hostility",
+    "title": "l2hostility-3.0.18.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "progwml6/ironchest",
+    "path": "源码库/_参考仓库\\_bulk\\progwml6__ironchest",
+    "title": "Iron Chests",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B075",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Darkhax-Minecraft/Max-Health-Fix",
+    "path": "源码库/_参考仓库\\_bulk\\Darkhax-Minecraft__Max-Health-Fix",
+    "title": "Max Health Fix",
+    "tier": "mid"
+   },
+   {
+    "gh": "LopyMine/MossyLib",
+    "path": "源码库/_参考仓库\\_bulk\\LopyMine__MossyLib",
+    "title": "MossyLib",
+    "tier": "light"
+   },
+   {
+    "gh": "Low-Drag-MC/LDLib-Architectury",
+    "path": "源码库/_参考仓库\\_bulk\\Low-Drag-MC__LDLib-Architectury",
+    "title": "LDLib",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B076",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "PoppyBlossom/Railway-1.21.1",
+    "path": "源码库/_参考仓库\\_bulk\\PoppyBlossom__Railway-1.21.1",
+    "title": "Steam 'n' Rails Neoforge",
+    "tier": "mid"
+   },
+   {
+    "gh": "CoFH/CoFHCore",
+    "path": "源码库/_参考仓库\\_bulk\\CoFH__CoFHCore",
+    "title": "CoFH Core",
+    "tier": "light"
+   },
+   {
+    "gh": "VsnGamer/ElevatorMod",
+    "path": "源码库/_参考仓库\\_bulk\\VsnGamer__ElevatorMod",
+    "title": "ElevatorMod",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B077",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Darkhax-Minecraft/BotanyPots",
+    "path": "源码库/_参考仓库\\_bulk\\Darkhax-Minecraft__BotanyPots",
+    "title": "Botany Pots",
+    "tier": "deep"
+   },
+   {
+    "gh": "0999312/MMLib",
+    "path": "源码库/_参考仓库\\_bulk\\0999312__MMLib",
+    "title": "Mysterious Mountain Lib",
+    "tier": "mid"
+   },
+   {
+    "gh": "skyecodes/IBE-Editor",
+    "path": "源码库/_参考仓库\\_bulk\\skyecodes__IBE-Editor",
+    "title": "IBE Editor",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B078",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Fuzss/universalenchants",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__universalenchants",
+    "title": "Universal Enchants",
+    "tier": "light"
+   },
+   {
+    "gh": "Mars-The-Planet/Deimos",
+    "path": "源码库/_参考仓库\\_bulk\\Mars-The-Planet__Deimos",
+    "title": "Deimos",
+    "tier": "mid"
+   },
+   {
+    "gh": "MagicHarp/confluence",
+    "path": "源码库/_参考仓库\\_bulk\\MagicHarp__confluence",
+    "title": "Terra Curio",
+    "tier": "light"
+   },
+   {
+    "gh": "AlmostReliable/merequester",
+    "path": "源码库/_参考仓库\\_bulk\\AlmostReliable__merequester",
+    "title": "ME Requester",
+    "tier": "mid"
+   },
+   {
+    "gh": "BlakeBr0/Cucumber",
+    "path": "源码库/_参考仓库\\_bulk\\BlakeBr0__Cucumber",
+    "title": "Cucumber Library",
+    "tier": "mid"
+   },
+   {
+    "gh": "Mars-The-Planet/More-Music-Discs",
+    "path": "源码库/_参考仓库\\_bulk\\Mars-The-Planet__More-Music-Discs",
+    "title": "More Music Discs",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B079",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "DrexHD/quick-pack",
+    "path": "源码库/_参考仓库\\_bulk\\DrexHD__quick-pack",
+    "title": "quick pack",
+    "tier": "light"
+   },
+   {
+    "gh": "ZhuRuoLing/startup-time",
+    "path": "源码库/_参考仓库\\_bulk\\ZhuRuoLing__startup-time",
+    "title": "Startup Time",
+    "tier": "light"
+   },
+   {
+    "gh": "Arsenalists-of-Create/Create-Radar",
+    "path": "源码库/_参考仓库\\_bulk\\Arsenalists-of-Create__Create-Radar",
+    "title": "Create: Radars",
+    "tier": "deep"
+   },
+   {
+    "gh": "decce6/AsyncLogger",
+    "path": "源码库/_参考仓库\\_bulk\\decce6__AsyncLogger",
+    "title": "Async Logger",
+    "tier": "mid"
+   },
+   {
+    "gh": "jkvin114/display-delight-neoforge",
+    "path": "源码库/_参考仓库\\_bulk\\jkvin114__display-delight-neoforge",
+    "title": "Display Delight",
+    "tier": "mid"
+   },
+   {
+    "gh": "Insane96/InsaneLib",
+    "path": "源码库/_参考仓库\\_bulk\\Insane96__InsaneLib",
+    "title": "InsaneLib",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B080",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "0999312/Corn-Delight",
+    "path": "源码库/_参考仓库\\_bulk\\0999312__Corn-Delight",
+    "title": "Corn Delight",
+    "tier": "light"
+   },
+   {
+    "gh": "Suel-ki/FoodEffectTooltips-Forge",
+    "path": "源码库/_参考仓库\\_bulk\\Suel-ki__FoodEffectTooltips-Forge",
+    "title": "Food Effect Tooltips (Forge)",
+    "tier": "light"
+   },
+   {
+    "gh": "BlakeBr0/MysticalAgriculture",
+    "path": "源码库/_参考仓库\\_bulk\\BlakeBr0__MysticalAgriculture",
+    "title": "Botany Pots - Mystical Agriculture Compat",
+    "tier": "deep"
+   },
+   {
+    "gh": "AllenSeitz/DimDungeons",
+    "path": "源码库/_参考仓库\\_bulk\\AllenSeitz__DimDungeons",
+    "title": "Dimensional Dungeons",
+    "tier": "mid"
+   },
+   {
+    "gh": "Low-Drag-MC/Photon",
+    "path": "源码库/_参考仓库\\_bulk\\Low-Drag-MC__Photon",
+    "title": "Photon Editor",
+    "tier": "light"
+   },
+   {
+    "gh": "kltyton/LightSpeedRe",
+    "path": "源码库/_参考仓库\\_bulk\\kltyton__LightSpeedRe",
+    "title": "LightSpeedRe",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B081",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Moralle/VanillaCookbook",
+    "path": "源码库/_参考仓库\\_bulk\\Moralle__VanillaCookbook",
+    "title": "Vanilla Cookbook",
+    "tier": "light"
+   },
+   {
+    "gh": "PedroRok/CreateHypertubes",
+    "path": "源码库/_参考仓库\\_bulk\\PedroRok__CreateHypertubes",
+    "title": "Create: Hypertubes",
+    "tier": "deep"
+   },
+   {
+    "gh": "Shadows-of-Fire/Placebo",
+    "path": "源码库/_参考仓库\\_bulk\\Shadows-of-Fire__Placebo",
+    "title": "Placebo",
+    "tier": "mid"
+   },
+   {
+    "gh": "btwonion/KotlinLangForge",
+    "path": "源码库/_参考仓库\\_bulk\\btwonion__KotlinLangForge",
+    "title": "KotlinLangForge",
+    "tier": "light"
+   },
+   {
+    "gh": "TeamMetallurgy/Aquaculture",
+    "path": "源码库/_参考仓库\\_bulk\\TeamMetallurgy__Aquaculture",
+    "title": "Aquaculture 2",
+    "tier": "deep"
+   },
+   {
+    "gh": "Xiaoyu-2009/visual_recipe_editor",
+    "path": "源码库/_参考仓库\\_bulk\\Xiaoyu-2009__visual_recipe_editor",
+    "title": "Workstation Recipe Exporter",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B082",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "afoxxvi/AsteorBarMod",
+    "path": "源码库/_参考仓库\\_bulk\\afoxxvi__AsteorBarMod",
+    "title": "AsteorBar",
+    "tier": "light"
+   },
+   {
+    "gh": "mortuusars/ExposurePolaroid",
+    "path": "源码库/_参考仓库\\_bulk\\mortuusars__ExposurePolaroid",
+    "title": "Exposure: Polaroid",
+    "tier": "mid"
+   },
+   {
+    "gh": "Keksuccino/ModernWorldCreation",
+    "path": "源码库/_参考仓库\\_bulk\\Keksuccino__ModernWorldCreation",
+    "title": "Modern World Creation",
+    "tier": "light"
+   },
+   {
+    "gh": "MUKSC/TACZ-1.21.1",
+    "path": "源码库/_参考仓库\\_bulk\\MUKSC__TACZ-1.21.1",
+    "title": "[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port",
+    "tier": "mid"
+   },
+   {
+    "gh": "Create-In-Locomotion/Create-Escalated",
+    "path": "源码库/_参考仓库\\_bulk\\Create-In-Locomotion__Create-Escalated",
+    "title": "Create: Escalated",
+    "tier": "deep"
+   },
+   {
+    "gh": "Penumbra-MC/Enderscape",
+    "path": "源码库/_参考仓库\\_bulk\\Penumbra-MC__Enderscape",
+    "title": "Enderscape",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B083",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Minecraft-LightLand/L2Archery",
+    "path": "源码库/_参考仓库\\_bulk\\Minecraft-LightLand__L2Archery",
+    "title": "L2 Archery",
+    "tier": "mid"
+   },
+   {
+    "gh": "iSeeEthan/voxy_worldgen_v2",
+    "path": "源码库/_参考仓库\\_bulk\\iSeeEthan__voxy_worldgen_v2",
+    "title": "Voxy WorldGen",
+    "tier": "light"
+   },
+   {
+    "gh": "Forsteri123/CreateEnderTransmission",
+    "path": "源码库/_参考仓库\\_bulk\\Forsteri123__CreateEnderTransmission",
+    "title": "Create: Ender Transmission",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B084",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Propulsion-Team/create-propulsion-simulated",
+    "path": "源码库/_参考仓库\\_bulk\\Propulsion-Team__create-propulsion-simulated",
+    "title": "Create Propulsion: Simulated",
+    "tier": "deep"
+   },
+   {
+    "gh": "AppliedEnergistics/Applied-Mekanistics",
+    "path": "源码库/_参考仓库\\_bulk\\AppliedEnergistics__Applied-Mekanistics",
+    "title": "Applied Mekanistics",
+    "tier": "deep"
+   },
+   {
+    "gh": "Minecraft-LightLand/L2Artifacts",
+    "path": "源码库/_参考仓库\\_bulk\\Minecraft-LightLand__L2Artifacts",
+    "title": "L2 Artifacts",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B085",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "CinemaMod/mcef",
+    "path": "源码库/_参考仓库\\_bulk\\CinemaMod__mcef",
+    "title": "MCEF (Minecraft Chromium Embedded Framework)",
+    "tier": "light"
+   },
+   {
+    "gh": "Prunoideae/ProbeJS",
+    "path": "源码库/_参考仓库\\_bulk\\Prunoideae__ProbeJS",
+    "title": "ProbeJS",
+    "tier": "mid"
+   },
+   {
+    "gh": "villainous-j/toolbar-sounds",
+    "path": "源码库/_参考仓库\\_bulk\\villainous-j__toolbar-sounds",
+    "title": "Toolbar Sounds",
+    "tier": "light"
+   },
+   {
+    "gh": "XiaoXianHW/EasyLAN",
+    "path": "源码库/_参考仓库\\_bulk\\XiaoXianHW__EasyLAN",
+    "title": "EasyLAN",
+    "tier": "light"
+   },
+   {
+    "gh": "BlakeBr0/MysticalAgradditions",
+    "path": "源码库/_参考仓库\\_bulk\\BlakeBr0__MysticalAgradditions",
+    "title": "Mystical Agradditions",
+    "tier": "deep"
+   },
+   {
+    "gh": "TheCBProject/EnderStorage",
+    "path": "源码库/_参考仓库\\_bulk\\TheCBProject__EnderStorage",
+    "title": "Ender Storage",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B086",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "SettingDust/MoreEnchantmentInfo",
+    "path": "源码库/_参考仓库\\_bulk\\SettingDust__MoreEnchantmentInfo",
+    "title": "More Enchantment Info",
+    "tier": "light"
+   },
+   {
+    "gh": "Insane96/EnhancedAI",
+    "path": "源码库/_参考仓库\\_bulk\\Insane96__EnhancedAI",
+    "title": "Enhanced AI",
+    "tier": "light"
+   },
+   {
+    "gh": "JeremySeq/DamageIndicators",
+    "path": "源码库/_参考仓库\\_bulk\\JeremySeq__DamageIndicators",
+    "title": "JeremySeq's Damage Indicator",
+    "tier": "light"
+   },
+   {
+    "gh": "Minecraft-LightLand/L2Weaponry",
+    "path": "源码库/_参考仓库\\_bulk\\Minecraft-LightLand__L2Weaponry",
+    "title": "L2 Weaponry",
+    "tier": "light"
+   },
+   {
+    "gh": "timplay33/Create-Mobile-Packages",
+    "path": "源码库/_参考仓库\\_bulk\\timplay33__Create-Mobile-Packages",
+    "title": "Create: Mobile Packages",
+    "tier": "deep"
+   },
+   {
+    "gh": "infernalstudios/Celestial-Configuration",
+    "path": "源码库/_参考仓库\\_bulk\\infernalstudios__Celestial-Configuration",
+    "title": "Sun and Moon Celestial Configuration",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B087",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "SuperMartijn642/AdditionalLanterns",
+    "path": "源码库/_参考仓库\\_bulk\\SuperMartijn642__AdditionalLanterns",
+    "title": "Additional Lanterns",
+    "tier": "light"
+   },
+   {
+    "gh": "nonamecrackers2/ender-trigon",
+    "path": "源码库/_参考仓库\\_bulk\\nonamecrackers2__ender-trigon",
+    "title": "Ender Trigon",
+    "tier": "light"
+   },
+   {
+    "gh": "Txt-Text/TaCZ-Labs",
+    "path": "源码库/_参考仓库\\_bulk\\Txt-Text__TaCZ-Labs",
+    "title": "TaCZ-Labs",
+    "tier": "mid"
+   },
+   {
+    "gh": "zbx1425/WorldEditCUI-Arch",
+    "path": "源码库/_参考仓库\\_bulk\\zbx1425__WorldEditCUI-Arch",
+    "title": "WorldEdit CUI (Unofficial Forge Port)",
+    "tier": "light"
+   },
+   {
+    "gh": "bonsaistudi0s/Golem-Overhaul",
+    "path": "源码库/_参考仓库\\_bulk\\bonsaistudi0s__Golem-Overhaul",
+    "title": "Golem Overhaul",
+    "tier": "light"
+   },
+   {
+    "gh": "starforcraft/Botany-Pots-Tiers",
+    "path": "源码库/_参考仓库\\_bulk\\starforcraft__Botany-Pots-Tiers",
+    "title": "Botany Pots Tiers",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B088",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "yezhiyi9670/clear-void",
+    "path": "源码库/_参考仓库\\_bulk\\yezhiyi9670__clear-void",
+    "title": "Clear Void",
+    "tier": "light"
+   },
+   {
+    "gh": "Rew1nd-dev/sable-schematic-api",
+    "path": "源码库/_参考仓库\\_bulk\\Rew1nd-dev__sable-schematic-api",
+    "title": "Sable Photomancy",
+    "tier": "light"
+   },
+   {
+    "gh": "SettingDust/preloading-tricks",
+    "path": "源码库/_参考仓库\\_bulk\\SettingDust__preloading-tricks",
+    "title": "Preloading Tricks",
+    "tier": "light"
+   },
+   {
+    "gh": "TUsama/Loot-Beams-Refork",
+    "path": "源码库/_参考仓库\\_bulk\\TUsama__Loot-Beams-Refork",
+    "title": "Loot Beams: Refork",
+    "tier": "light"
+   },
+   {
+    "gh": "duckgun13476/Create-SchematicChecker",
+    "path": "源码库/_参考仓库\\_bulk\\duckgun13476__Create-SchematicChecker",
+    "title": "Create: SchematicChecker",
+    "tier": "mid"
+   },
+   {
+    "gh": "sguest/jei-multiblocks",
+    "path": "源码库/_参考仓库\\_bulk\\sguest__jei-multiblocks",
+    "title": "Just Enough Immersive Multiblocks",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B089",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "SSKirillSS/Curios",
+    "path": "源码库/_参考仓库\\_bulk\\SSKirillSS__Curios",
+    "title": "Curios API Continuation",
+    "tier": "mid"
+   },
+   {
+    "gh": "userenxv/create-aeronautics-toolgun",
+    "path": "源码库/_参考仓库\\_bulk\\userenxv__create-aeronautics-toolgun",
+    "title": "Create Aeronautics: Toolgun",
+    "tier": "mid"
+   },
+   {
+    "gh": "jinqinxixi/Trinkets-and-Baubles-Forge-1.20.1",
+    "path": "源码库/_参考仓库\\_bulk\\jinqinxixi__Trinkets-and-Baubles-Forge-1.20.1",
+    "title": "Trinkets and Baubles Reforked",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B090",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "GaylordFockerCN/Cataclysm-Dimension",
+    "path": "源码库/_参考仓库\\_bulk\\GaylordFockerCN__Cataclysm-Dimension",
+    "title": "Cataclysm Dimension",
+    "tier": "mid"
+   },
+   {
+    "gh": "dhyces/trimmed",
+    "path": "源码库/_参考仓库\\_bulk\\dhyces__trimmed",
+    "title": "Trimmed",
+    "tier": "light"
+   },
+   {
+    "gh": "iMoonDay/Soulbound",
+    "path": "源码库/_参考仓库\\_bulk\\iMoonDay__Soulbound",
+    "title": "Soulbound Enchantment",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B091",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Flemmli97/Flan",
+    "path": "源码库/_参考仓库\\_bulk\\Flemmli97__Flan",
+    "title": "Flan",
+    "tier": "light"
+   },
+   {
+    "gh": "Shadows-of-Fire/Apotheosis",
+    "path": "源码库/_参考仓库\\_bulk\\Shadows-of-Fire__Apotheosis",
+    "title": "Apotheosis",
+    "tier": "deep"
+   },
+   {
+    "gh": "DenisMasterHerobrine/TheAfterdark",
+    "path": "源码库/_参考仓库\\_bulk\\DenisMasterHerobrine__TheAfterdark",
+    "title": "The Afterdark",
+    "tier": "light"
+   },
+   {
+    "gh": "Unixkitty/timecontrol",
+    "path": "源码库/_参考仓库\\_bulk\\Unixkitty__timecontrol",
+    "title": "Time Control",
+    "tier": "light"
+   },
+   {
+    "gh": "Povstalec/StellarView",
+    "path": "源码库/_参考仓库\\_bulk\\Povstalec__StellarView",
+    "title": "Stellar View",
+    "tier": "light"
+   },
+   {
+    "gh": "TUsama/NirvanaLib",
+    "path": "源码库/_参考仓库\\_bulk\\TUsama__NirvanaLib",
+    "title": "Nirvana Library",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B092",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "CoFH/Ensorcellation",
+    "path": "源码库/_参考仓库\\_bulk\\CoFH__Ensorcellation",
+    "title": "Ensorcellation",
+    "tier": "light"
+   },
+   {
+    "gh": "SShakusora/WaystonesSable",
+    "path": "源码库/_参考仓库\\_bulk\\SShakusora__WaystonesSable",
+    "title": "Waystones: Sable (Create Aeronautics Addon)",
+    "tier": "mid"
+   },
+   {
+    "gh": "Serilum/Starter-Structure",
+    "path": "源码库/_参考仓库\\_bulk\\Serilum__Starter-Structure",
+    "title": "Starter Structure",
+    "tier": "mid"
+   },
+   {
+    "gh": "pitbox46/ItemBlacklist",
+    "path": "源码库/_参考仓库\\_bulk\\pitbox46__ItemBlacklist",
+    "title": "Item Banning",
+    "tier": "light"
+   },
+   {
+    "gh": "MUKSC/TaCZPackUpgrader",
+    "path": "源码库/_参考仓库\\_bulk\\MUKSC__TaCZPackUpgrader",
+    "title": "TaCZ Pack Upgrader",
+    "tier": "mid"
+   },
+   {
+    "gh": "MeherBenSalem/Jauml",
+    "path": "源码库/_参考仓库\\_bulk\\MeherBenSalem__Jauml",
+    "title": "Jauml",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B093",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Hunter19823/kubejsoffline",
+    "path": "源码库/_参考仓库\\_bulk\\Hunter19823__kubejsoffline",
+    "title": "KubeJS Offline",
+    "tier": "mid"
+   },
+   {
+    "gh": "klinbee/Aetherial-Islands",
+    "path": "源码库/_参考仓库\\_bulk\\klinbee__Aetherial-Islands",
+    "title": "Aetherial Islands",
+    "tier": "mid"
+   },
+   {
+    "gh": "Ineffa/Truly-Treasures",
+    "path": "源码库/_参考仓库\\_bulk\\Ineffa__Truly-Treasures",
+    "title": "Truly Treasures",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B094",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "mango-buff/BotanyPotsOrePlanting",
+    "path": "源码库/_参考仓库\\_bulk\\mango-buff__BotanyPotsOrePlanting",
+    "title": "[BPOP]Botany Pots Ore Planting",
+    "tier": "mid"
+   },
+   {
+    "gh": "leon-o/iris-veil-compat",
+    "path": "源码库/_参考仓库\\_bulk\\leon-o__iris-veil-compat",
+    "title": "Iris Veil Compat",
+    "tier": "light"
+   },
+   {
+    "gh": "Shadows-of-Fire/Apothic-Enchanting",
+    "path": "源码库/_参考仓库\\_bulk\\Shadows-of-Fire__Apothic-Enchanting",
+    "title": "Apothic-Enchanting",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B095",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "TwistedGate/ImmersivePetroleum",
+    "path": "源码库/_参考仓库\\_bulk\\TwistedGate__ImmersivePetroleum",
+    "title": "Immersive Petroleum",
+    "tier": "mid"
+   },
+   {
+    "gh": "EnderTurret/PatchedMod",
+    "path": "源码库/_参考仓库\\_bulk\\EnderTurret__PatchedMod",
+    "title": "Patched",
+    "tier": "light"
+   },
+   {
+    "gh": "Shadows-of-Fire/Apothic-Spawners",
+    "path": "源码库/_参考仓库\\_bulk\\Shadows-of-Fire__Apothic-Spawners",
+    "title": "Apothic-Spawners",
+    "tier": "deep"
+   }
+  ]
+ },
+ {
+  "id": "B096",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "GLDYM/ConstructionWand-KOTS",
+    "path": "源码库/_参考仓库\\_bulk\\GLDYM__ConstructionWand-KOTS",
+    "title": "Construction Wand - KOTS",
+    "tier": "light"
+   },
+   {
+    "gh": "CeoOfGoogle1/CreateClothes",
+    "path": "源码库/_参考仓库\\_bulk\\CeoOfGoogle1__CreateClothes",
+    "title": "Create: Clothes",
+    "tier": "mid"
+   },
+   {
+    "gh": "Auviotre/Enigmatic-Legacy-Plus",
+    "path": "源码库/_参考仓库\\_bulk\\Auviotre__Enigmatic-Legacy-Plus",
+    "title": "Enigmatic Legacy+",
+    "tier": "light"
+   },
+   {
+    "gh": "Keksuccino/Panoramica",
+    "path": "源码库/_参考仓库\\_bulk\\Keksuccino__Panoramica",
+    "title": "Panoramica",
+    "tier": "light"
+   },
+   {
+    "gh": "Alvaro842DEV/AsyncLocator-Refined",
+    "path": "源码库/_参考仓库\\_bulk\\Alvaro842DEV__AsyncLocator-Refined",
+    "title": "Async Locator Refined",
+    "tier": "light"
+   },
+   {
+    "gh": "ggrgg13/Create--Redstone-Link-GUI",
+    "path": "源码库/_参考仓库\\_bulk\\ggrgg13__Create--Redstone-Link-GUI",
+    "title": "Create: Redstone Link GUI",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B097",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Low-Drag-MC/KilaGraph",
+    "path": "源码库/_参考仓库\\_bulk\\Low-Drag-MC__KilaGraph",
+    "title": "KilaGraph",
+    "tier": "light"
+   },
+   {
+    "gh": "klinbee/Diabolical-Islands",
+    "path": "源码库/_参考仓库\\_bulk\\klinbee__Diabolical-Islands",
+    "title": "Diabolical Islands",
+    "tier": "light"
+   },
+   {
+    "gh": "sam-makes-stuff/ping_system",
+    "path": "源码库/_参考仓库\\_bulk\\sam-makes-stuff__ping_system",
+    "title": "Ping System",
+    "tier": "light"
+   },
+   {
+    "gh": "Autovw/AdvancedNetherite",
+    "path": "源码库/_参考仓库\\_bulk\\Autovw__AdvancedNetherite",
+    "title": "Advanced Netherite",
+    "tier": "light"
+   },
+   {
+    "gh": "Raguto/Citadel-1.21.1",
+    "path": "源码库/_参考仓库\\_bulk\\Raguto__Citadel-1.21.1",
+    "title": "Citadel (Unofficial Port)",
+    "tier": "light"
+   },
+   {
+    "gh": "Raguto/AlexsMobs-1.21.1",
+    "path": "源码库/_参考仓库\\_bulk\\Raguto__AlexsMobs-1.21.1",
+    "title": "Alex's Mobs (Unofficial Port)",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B098",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "TheFogIOF/AlloySmelter",
+    "path": "源码库/_参考仓库\\_bulk\\TheFogIOF__AlloySmelter",
+    "title": "Alloy Smelter",
+    "tier": "light"
+   },
+   {
+    "gh": "DawnOfTimeMC/armoreddoggo",
+    "path": "源码库/_参考仓库\\_bulk\\DawnOfTimeMC__armoreddoggo",
+    "title": "Armored Doggo",
+    "tier": "light"
+   },
+   {
+    "gh": "DawnOfTimeMC/armoroftheages",
+    "path": "源码库/_参考仓库\\_bulk\\DawnOfTimeMC__armoroftheages",
+    "title": "Armor of the Ages",
+    "tier": "light"
+   },
+   {
+    "gh": "MoePus/BiomeSpy",
+    "path": "源码库/_参考仓库\\_bulk\\MoePus__BiomeSpy",
+    "title": "BiomeSpy",
+    "tier": "light"
+   },
+   {
+    "gh": "RelativityMC/C2ME-neoforge",
+    "path": "源码库/_参考仓库\\_bulk\\RelativityMC__C2ME-neoforge",
+    "title": "Concurrent Chunk Management Engine (NeoForge)",
+    "tier": "light"
+   },
+   {
+    "gh": "djefrey/Colorwheel",
+    "path": "源码库/_参考仓库\\_bulk\\djefrey__Colorwheel",
+    "title": "Colorwheel",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B099",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "djefrey/Colorwheel-Patcher",
+    "path": "源码库/_参考仓库\\_bulk\\djefrey__Colorwheel-Patcher",
+    "title": "Colorwheel Patcher",
+    "tier": "light"
+   },
+   {
+    "gh": "Fuzss/combatnouveau",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__combatnouveau",
+    "title": "Combat Nouveau",
+    "tier": "light"
+   },
+   {
+    "gh": "Fuzss/configureddefaults",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__configureddefaults",
+    "title": "Configured Defaults",
+    "tier": "light"
+   },
+   {
+    "gh": "DragonsPlusMinecraft/CreateIntegratedFarming",
+    "path": "源码库/_参考仓库\\_bulk\\DragonsPlusMinecraft__CreateIntegratedFarming",
+    "title": "Create: Integrated Farming",
+    "tier": "mid"
+   },
+   {
+    "gh": "KhloeLeclair/CreateAdditionalLogistics",
+    "path": "源码库/_参考仓库\\_bulk\\KhloeLeclair__CreateAdditionalLogistics",
+    "title": "Create: Additional Logistics",
+    "tier": "mid"
+   },
+   {
+    "gh": "MoePus/CreateBetterFPS",
+    "path": "源码库/_参考仓库\\_bulk\\MoePus__CreateBetterFPS",
+    "title": "CreateBetterFps",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B100",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "duckgun13476/Create-FastCannon",
+    "path": "源码库/_参考仓库\\_bulk\\duckgun13476__Create-FastCannon",
+    "title": "Create: FastSchematicCannon",
+    "tier": "mid"
+   },
+   {
+    "gh": "Forsteri123/CreateLiquidFuel",
+    "path": "源码库/_参考仓库\\_bulk\\Forsteri123__CreateLiquidFuel",
+    "title": "Create: Liquid Fuel",
+    "tier": "mid"
+   },
+   {
+    "gh": "tom5454/Create-Ore-Excavation",
+    "path": "源码库/_参考仓库\\_bulk\\tom5454__Create-Ore-Excavation",
+    "title": "Create Ore Excavation",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B101",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "JuniKnytt/CreateRailGrinding",
+    "path": "源码库/_参考仓库\\_bulk\\JuniKnytt__CreateRailGrinding",
+    "title": "Create: Train Track Rail Grinding",
+    "tier": "mid"
+   },
+   {
+    "gh": "cakeGit/Create-Ez-Stock-Ticker",
+    "path": "源码库/_参考仓库\\_bulk\\cakeGit__Create-Ez-Stock-Ticker",
+    "title": "Create: Easy Stock Ticker",
+    "tier": "mid"
+   },
+   {
+    "gh": "oierbravo/create-mechanical-spawner",
+    "path": "源码库/_参考仓库\\_bulk\\oierbravo__create-mechanical-spawner",
+    "title": "Create Mechanical Spawner",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B102",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "hlysine/create_power_loader",
+    "path": "源码库/_参考仓库\\_bulk\\hlysine__create_power_loader",
+    "title": "Create: Power Loader",
+    "tier": "mid"
+   },
+   {
+    "gh": "PierreChag/dawnoftimebuilder",
+    "path": "源码库/_参考仓库\\_bulk\\PierreChag__dawnoftimebuilder",
+    "title": "Dawn of Time",
+    "tier": "light"
+   },
+   {
+    "gh": "ascpixi/disconnect-packet-fix",
+    "path": "源码库/_参考仓库\\_bulk\\ascpixi__disconnect-packet-fix",
+    "title": "Disconnect Packet Fix",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B103",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "enjarai/do-a-barrel-roll",
+    "path": "源码库/_参考仓库\\_bulk\\enjarai__do-a-barrel-roll",
+    "title": "Do a Barrel Roll",
+    "tier": "light"
+   },
+   {
+    "gh": "ZZZank/EfficientHashing",
+    "path": "源码库/_参考仓库\\_bulk\\ZZZank__EfficientHashing",
+    "title": "EfficientHashing",
+    "tier": "light"
+   },
+   {
+    "gh": "george8188625/Create-Electro-Energetics",
+    "path": "源码库/_参考仓库\\_bulk\\george8188625__Create-Electro-Energetics",
+    "title": "Create: Electro Energetics",
+    "tier": "mid"
+   },
+   {
+    "gh": "nanite/Flat-Bedrock",
+    "path": "源码库/_参考仓库\\_bulk\\nanite__Flat-Bedrock",
+    "title": "Flat Bedrock",
+    "tier": "light"
+   },
+   {
+    "gh": "ObscuriaLithium/Fragmentum",
+    "path": "源码库/_参考仓库\\_bulk\\ObscuriaLithium__Fragmentum",
+    "title": "Fragmentum",
+    "tier": "mid"
+   },
+   {
+    "gh": "MaliceZed/frequency-create",
+    "path": "源码库/_参考仓库\\_bulk\\MaliceZed__frequency-create",
+    "title": "Frequency Create",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B104",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "remarxk/GUI-Tween",
+    "path": "源码库/_参考仓库\\_bulk\\remarxk__GUI-Tween",
+    "title": "GUI Tween",
+    "tier": "light"
+   },
+   {
+    "gh": "RaphiMC/ImmediatelyFast",
+    "path": "源码库/_参考仓库\\_bulk\\RaphiMC__ImmediatelyFast",
+    "title": "ImmediatelyFast",
+    "tier": "light"
+   },
+   {
+    "gh": "Iron431/irons-spells-n-spellbooks",
+    "path": "源码库/_参考仓库\\_bulk\\Iron431__irons-spells-n-spellbooks",
+    "title": "Iron's Spells 'n Spellbooks",
+    "tier": "mid"
+   },
+   {
+    "gh": "Snownee/JadeAddons",
+    "path": "源码库/_参考仓库\\_bulk\\Snownee__JadeAddons",
+    "title": "Jade Addons (Neo/Forge)",
+    "tier": "mid"
+   },
+   {
+    "gh": "404Setup/KryptonReno",
+    "path": "源码库/_参考仓库\\_bulk\\404Setup__KryptonReno",
+    "title": "Krypton Reno",
+    "tier": "light"
+   },
+   {
+    "gh": "AlmostReliable/lootjs",
+    "path": "源码库/_参考仓库\\_bulk\\AlmostReliable__lootjs",
+    "title": "LootJS: KubeJS Addon",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B105",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Wall-ev/MaidsoulKitchen",
+    "path": "源码库/_参考仓库\\_bulk\\Wall-ev__MaidsoulKitchen",
+    "title": "Maidsoul Kitchen",
+    "tier": "light"
+   },
+   {
+    "gh": "sch246/MaidUseHandCrank",
+    "path": "源码库/_参考仓库\\_bulk\\sch246__MaidUseHandCrank",
+    "title": "MaidUseHandCrank",
+    "tier": "light"
+   },
+   {
+    "gh": "oierbravo/mechanicals-lib",
+    "path": "源码库/_参考仓库\\_bulk\\oierbravo__mechanicals-lib",
+    "title": "Mechanicals Lib",
+    "tier": "light"
+   },
+   {
+    "gh": "Craft1x/MedievalBuildingsEnder",
+    "path": "源码库/_参考仓库\\_bulk\\Craft1x__MedievalBuildingsEnder",
+    "title": "Medieval Buildings [End Edition]",
+    "tier": "light"
+   },
+   {
+    "gh": "FinnSetchell/MoogsStructureLib",
+    "path": "源码库/_参考仓库\\_bulk\\FinnSetchell__MoogsStructureLib",
+    "title": "Moog's Structure Lib (moogs_structures)",
+    "tier": "mid"
+   },
+   {
+    "gh": "FinnSetchell/MoogsEndStructures",
+    "path": "源码库/_参考仓库\\_bulk\\FinnSetchell__MoogsEndStructures",
+    "title": "MES - Moog's End Structures",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B106",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "SoyTutta/MyNethersDelight",
+    "path": "源码库/_参考仓库\\_bulk\\SoyTutta__MyNethersDelight",
+    "title": "My Nether's Delight",
+    "tier": "light"
+   },
+   {
+    "gh": "ObscuriaLithium/obscure-tooltips",
+    "path": "源码库/_参考仓库\\_bulk\\ObscuriaLithium__obscure-tooltips",
+    "title": "Obscure Tooltips",
+    "tier": "mid"
+   },
+   {
+    "gh": "TonimatasDEV/PacketFixer",
+    "path": "源码库/_参考仓库\\_bulk\\TonimatasDEV__PacketFixer",
+    "title": "Packet Fixer",
+    "tier": "light"
+   },
+   {
+    "gh": "Leclowndu93150/Particular",
+    "path": "源码库/_参考仓库\\_bulk\\Leclowndu93150__Particular",
+    "title": "Particular ✨ Reforged",
+    "tier": "light"
+   },
+   {
+    "gh": "KosmX/fabricPlayerAnimation",
+    "path": "源码库/_参考仓库\\_bulk\\KosmX__fabricPlayerAnimation",
+    "title": "playerAnimator",
+    "tier": "light"
+   },
+   {
+    "gh": "TelepathicGrunt/RepurposedStructures",
+    "path": "源码库/_参考仓库\\_bulk\\TelepathicGrunt__RepurposedStructures",
+    "title": "Repurposed Structures - Neoforge/Forge",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B107",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Jaredlll08/Searchables",
+    "path": "源码库/_参考仓库\\_bulk\\Jaredlll08__Searchables",
+    "title": "Searchables",
+    "tier": "light"
+   },
+   {
+    "gh": "starforcraft/Showcase-Item",
+    "path": "源码库/_参考仓库\\_bulk\\starforcraft__Showcase-Item",
+    "title": "Showcase Item",
+    "tier": "light"
+   },
+   {
+    "gh": "LIUKRAST/SmartBounds",
+    "path": "源码库/_参考仓库\\_bulk\\LIUKRAST__SmartBounds",
+    "title": "Create Smart Bounds",
+    "tier": "light"
+   },
+   {
+    "gh": "mortuusars/SootyChimneys",
+    "path": "源码库/_参考仓库\\_bulk\\mortuusars__SootyChimneys",
+    "title": "Sooty Chimneys",
+    "tier": "mid"
+   },
+   {
+    "gh": "lucko/spark",
+    "path": "源码库/_参考仓库\\_bulk\\lucko__spark",
+    "title": "spark",
+    "tier": "light"
+   },
+   {
+    "gh": "TelepathicGrunt/StructureLayoutOptimizer",
+    "path": "源码库/_参考仓库\\_bulk\\TelepathicGrunt__StructureLayoutOptimizer",
+    "title": "Structure Layout Optimizer",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B108",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Faboslav/it-takes-a-pillage",
+    "path": "源码库/_参考仓库\\_bulk\\Faboslav__it-takes-a-pillage",
+    "title": "It Takes a Pillage Continuation",
+    "tier": "light"
+   },
+   {
+    "gh": "Fuzss/tinyskeletons",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__tinyskeletons",
+    "title": "Tiny Skeletons",
+    "tier": "light"
+   },
+   {
+    "gh": "LocusAzzurro/Ultramarine",
+    "path": "源码库/_参考仓库\\_bulk\\LocusAzzurro__Ultramarine",
+    "title": "Ultramarine",
+    "tier": "light"
+   },
+   {
+    "gh": "0999312/umapyoi",
+    "path": "源码库/_参考仓库\\_bulk\\0999312__umapyoi",
+    "title": "Umapyoi",
+    "tier": "light"
+   },
+   {
+    "gh": "MincraftEinstein/UsefulSlime",
+    "path": "源码库/_参考仓库\\_bulk\\MincraftEinstein__UsefulSlime",
+    "title": "Useful Slime",
+    "tier": "light"
+   },
+   {
+    "gh": "sketchmacaw/Trapdoors",
+    "path": "源码库/_参考仓库\\_bulk\\sketchmacaw__Trapdoors",
+    "title": "Macaw's Trapdoors",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B109",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "sketchmacaw/MacawsDoors",
+    "path": "源码库/_参考仓库\\_bulk\\sketchmacaw__MacawsDoors",
+    "title": "Macaw's Doors",
+    "tier": "light"
+   },
+   {
+    "gh": "sketchmacaw/Macaws-Stairs",
+    "path": "源码库/_参考仓库\\_bulk\\sketchmacaw__Macaws-Stairs",
+    "title": "Macaw's Stairs",
+    "tier": "light"
+   },
+   {
+    "gh": "breezeth-CN/OrdertoCook",
+    "path": "源码库/_参考仓库\\_bulk\\breezeth-CN__OrdertoCook",
+    "title": "Order to cook下单了！",
+    "tier": "light"
+   },
+   {
+    "gh": "Alex-Hashtag/LegendarySurvivalOverhaul",
+    "path": "源码库/_参考仓库\\_bulk\\Alex-Hashtag__LegendarySurvivalOverhaul",
+    "title": "Legendary Survival Overhaul",
+    "tier": "light"
+   },
+   {
+    "gh": "Corosauce/ZombieAwareness",
+    "path": "源码库/_参考仓库\\_bulk\\Corosauce__ZombieAwareness",
+    "title": "Zombie Awareness",
+    "tier": "light"
+   },
+   {
+    "gh": "Baisylia/Cultural-Delights-1.19.2",
+    "path": "源码库/_参考仓库\\_bulk\\Baisylia__Cultural-Delights-1.19.2",
+    "title": "Cultural Delights",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B110",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Corosauce/Weather2",
+    "path": "源码库/_参考仓库\\_bulk\\Corosauce__Weather2",
+    "title": "Weather Storms & Tornadoes",
+    "tier": "light"
+   },
+   {
+    "gh": "Hidoni/Transmog",
+    "path": "源码库/_参考仓库\\_bulk\\Hidoni__Transmog",
+    "title": "Transmog",
+    "tier": "light"
+   },
+   {
+    "gh": "Minecraft-LightLand/Cuisine-Delight",
+    "path": "源码库/_参考仓库\\_bulk\\Minecraft-LightLand__Cuisine-Delight",
+    "title": "Cuisine Delight",
+    "tier": "light"
+   },
+   {
+    "gh": "Tower-of-Sighs/AUI",
+    "path": "源码库/_参考仓库\\_bulk\\Tower-of-Sighs__AUI",
+    "title": "ApricityUI",
+    "tier": "light"
+   },
+   {
+    "gh": "ExpensiveKoala/Fishing-Real",
+    "path": "源码库/_参考仓库\\_bulk\\ExpensiveKoala__Fishing-Real",
+    "title": "Fishing Real",
+    "tier": "light"
+   },
+   {
+    "gh": "xianziyu001-stack/End-Remastered-ProMax",
+    "path": "源码库/_参考仓库\\_bulk\\xianziyu001-stack__End-Remastered-ProMax",
+    "title": "End Remastered ProMax",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B111",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Jack-Bagel/End-Remastered",
+    "path": "源码库/_参考仓库\\_bulk\\Jack-Bagel__End-Remastered",
+    "title": "End Remastered",
+    "tier": "light"
+   },
+   {
+    "gh": "CubesterYT/CBC-CompactMount",
+    "path": "源码库/_参考仓库\\_bulk\\CubesterYT__CBC-CompactMount",
+    "title": "CBC: Compact Mount",
+    "tier": "light"
+   },
+   {
+    "gh": "ZLT9/create-vibrant-vaults",
+    "path": "源码库/_参考仓库\\_bulk\\ZLT9__create-vibrant-vaults",
+    "title": "Create: Vibrant Vaults",
+    "tier": "mid"
+   },
+   {
+    "gh": "cff1028/create_schematics_fix",
+    "path": "源码库/_参考仓库\\_bulk\\cff1028__create_schematics_fix",
+    "title": "Create Bugfix: Schematic Patch",
+    "tier": "mid"
+   },
+   {
+    "gh": "ForgeStove/CreateCyberGoogles",
+    "path": "源码库/_参考仓库\\_bulk\\ForgeStove__CreateCyberGoogles",
+    "title": "Create: Cyber Goggles",
+    "tier": "mid"
+   },
+   {
+    "gh": "getItemFromBlock/Create-Tweaked-Controllers",
+    "path": "源码库/_参考仓库\\_bulk\\getItemFromBlock__Create-Tweaked-Controllers",
+    "title": "Create: Tweaked Controllers",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B112",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Minecraft-LightLand/FruitsDelight",
+    "path": "源码库/_参考仓库\\_bulk\\Minecraft-LightLand__FruitsDelight",
+    "title": "Fruits Delight",
+    "tier": "light"
+   },
+   {
+    "gh": "BmtUltra/Kaleidoscope-Compat",
+    "path": "源码库/_参考仓库\\_bulk\\BmtUltra__Kaleidoscope-Compat",
+    "title": "Kaleidoscope Compat",
+    "tier": "light"
+   },
+   {
+    "gh": "KaleidoscopeMods/KaleidoscopeCookery",
+    "path": "源码库/_参考仓库\\KaleidoscopeCookery",
+    "title": "Kaleidoscope Cookery",
+    "tier": "light"
+   },
+   {
+    "gh": "WitherRedstone/Kaleidoscope-DimensionsWine",
+    "path": "源码库/_参考仓库\\_bulk\\WitherRedstone__Kaleidoscope-DimensionsWine",
+    "title": "Kaleidoscope：Dimensions wine",
+    "tier": "light"
+   },
+   {
+    "gh": "TartaricAcid/KaleidoscopeDoll",
+    "path": "源码库/_参考仓库\\_bulk\\TartaricAcid__KaleidoscopeDoll",
+    "title": "Kaleidoscope Doll",
+    "tier": "light"
+   },
+   {
+    "gh": "baiyin1223/Kaleidoscope_bloodwine",
+    "path": "源码库/_参考仓库\\_bulk\\baiyin1223__Kaleidoscope_bloodwine",
+    "title": "Kaleidoscope_bloodwine",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B113",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "LeoMinecraftModding/eternal-starlight",
+    "path": "源码库/_参考仓库\\_bulk\\LeoMinecraftModding__eternal-starlight",
+    "title": "Eternal Starlight",
+    "tier": "light"
+   },
+   {
+    "gh": "Lightning-64/Tide-2",
+    "path": "源码库/_参考仓库\\_bulk\\Lightning-64__Tide-2",
+    "title": "Tide 2",
+    "tier": "light"
+   },
+   {
+    "gh": "Scouter456/Nether_Depths_Upgrade",
+    "path": "源码库/_参考仓库\\_bulk\\Scouter456__Nether_Depths_Upgrade",
+    "title": "Nether Depths Upgrade",
+    "tier": "light"
+   },
+   {
+    "gh": "Let-s-Do-Collection/Candlelight",
+    "path": "源码库/_参考仓库\\_bulk\\Let-s-Do-Collection__Candlelight",
+    "title": "[Let's Do] Candlelight - Farm&Charm compat",
+    "tier": "light"
+   },
+   {
+    "gh": "CreativeMD/PlayerRevive",
+    "path": "源码库/_参考仓库\\_bulk\\CreativeMD__PlayerRevive",
+    "title": "PlayerRevive",
+    "tier": "light"
+   },
+   {
+    "gh": "ZCRAFT-NPE/Presence-Footsteps-NeoForge",
+    "path": "源码库/_参考仓库\\_bulk\\ZCRAFT-NPE__Presence-Footsteps-NeoForge",
+    "title": "Presence Footsteps (NeoForge)",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B114",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Let-s-Do-Collection/vinery",
+    "path": "源码库/_参考仓库\\_bulk\\Let-s-Do-Collection__vinery",
+    "title": "[Let's Do] Vinery",
+    "tier": "light"
+   },
+   {
+    "gh": "Let-s-Do-Collection/Bakery",
+    "path": "源码库/_参考仓库\\_bulk\\Let-s-Do-Collection__Bakery",
+    "title": "[Let's Do] Bakery - Farm&Charm Compat",
+    "tier": "light"
+   },
+   {
+    "gh": "yision1/GearsandTavern",
+    "path": "源码库/_参考仓库\\_bulk\\yision1__GearsandTavern",
+    "title": "Create: Gears and Tavern",
+    "tier": "mid"
+   },
+   {
+    "gh": "klinbee/No-Void-Structures",
+    "path": "源码库/_参考仓库\\_bulk\\klinbee__No-Void-Structures",
+    "title": "No Void Structures",
+    "tier": "mid"
+   },
+   {
+    "gh": "FOOLSIX/ldip",
+    "path": "源码库/_参考仓库\\_bulk\\FOOLSIX__ldip",
+    "title": "Limited Damage Indicator Particle",
+    "tier": "light"
+   },
+   {
+    "gh": "TakeruDavis/CreateCardboardedConveynience",
+    "path": "源码库/_参考仓库\\_bulk\\TakeruDavis__CreateCardboardedConveynience",
+    "title": "Create: Cardboarded Conveynience",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B115",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "IAFEnvoy/Jupiter",
+    "path": "源码库/_参考仓库\\_bulk\\IAFEnvoy__Jupiter",
+    "title": "Jupiter",
+    "tier": "light"
+   },
+   {
+    "gh": "Industrialists-Of-Create/Create-Bits-n-Bobs",
+    "path": "源码库/_参考仓库\\_bulk\\Industrialists-Of-Create__Create-Bits-n-Bobs",
+    "title": "Create: Bits 'n' Bobs",
+    "tier": "mid"
+   },
+   {
+    "gh": "CosmonauticsTeam/Create-Cosmonautics",
+    "path": "源码库/_参考仓库\\_bulk\\CosmonauticsTeam__Create-Cosmonautics",
+    "title": "Create Cosmonautics",
+    "tier": "mid"
+   },
+   {
+    "gh": "yision1/CreateFluidLogistic",
+    "path": "源码库/_参考仓库\\_bulk\\yision1__CreateFluidLogistic",
+    "title": "Create: FluidLogistics",
+    "tier": "mid"
+   },
+   {
+    "gh": "Fallen-Breath/fast-ip-ping",
+    "path": "源码库/_参考仓库\\_bulk\\Fallen-Breath__fast-ip-ping",
+    "title": "Fast IP Ping",
+    "tier": "light"
+   },
+   {
+    "gh": "zhenshiz/ViScriptShop",
+    "path": "源码库/_参考仓库\\_bulk\\zhenshiz__ViScriptShop",
+    "title": "ViScriptShop",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B116",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "IanMods/SeasonHUD",
+    "path": "源码库/_参考仓库\\_bulk\\IanMods__SeasonHUD",
+    "title": "SeasonHud",
+    "tier": "light"
+   },
+   {
+    "gh": "Fuzss/forgeconfigapiport",
+    "path": "源码库/_参考仓库\\_bulk\\Fuzss__forgeconfigapiport",
+    "title": "Forge Config API Port",
+    "tier": "light"
+   },
+   {
+    "gh": "WitherRedstone/Fox-Trot-Brew",
+    "path": "源码库/_参考仓库\\_bulk\\WitherRedstone__Fox-Trot-Brew",
+    "title": "Fox Trot Brew",
+    "tier": "light"
+   },
+   {
+    "gh": "WinExp/MaidTavern",
+    "path": "源码库/_参考仓库\\_bulk\\WinExp__MaidTavern",
+    "title": "Maid Tavern",
+    "tier": "light"
+   },
+   {
+    "gh": "redtardis12/Tornado-Physics",
+    "path": "源码库/_参考仓库\\_bulk\\redtardis12__Tornado-Physics",
+    "title": "Weather Physics (Wind, Sails & Tornadoes)",
+    "tier": "light"
+   },
+   {
+    "gh": "AzureDoom/Log-Begone",
+    "path": "源码库/_参考仓库\\_bulk\\AzureDoom__Log-Begone",
+    "title": "Log Begone",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B117",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Richy-Z/ThreatenGL",
+    "path": "源码库/_参考仓库\\_bulk\\Richy-Z__ThreatenGL",
+    "title": "ThreatenGL",
+    "tier": "light"
+   },
+   {
+    "gh": "hotsu0p/Trek-Issues",
+    "path": "源码库/_参考仓库\\_bulk\\hotsu0p__Trek-Issues",
+    "title": "Trek",
+    "tier": "light"
+   },
+   {
+    "gh": "Traverse-Joe/Baubley-Heart-Canisters",
+    "path": "源码库/_参考仓库\\_bulk\\Traverse-Joe__Baubley-Heart-Canisters",
+    "title": "Baubley Heart Canisters",
+    "tier": "light"
+   },
+   {
+    "gh": "frcvdt45g6by7hnj8ukm-nh8b7g6vtf5r4de3/FastQuit-Forge",
+    "path": "源码库/_参考仓库\\_bulk\\frcvdt45g6by7hnj8ukm-nh8b7g6vtf5r4de3__FastQuit-Forge",
+    "title": "FastQuit-Forge",
+    "tier": "light"
+   },
+   {
+    "gh": "Bivrik/FancyToasts",
+    "path": "源码库/_参考仓库\\_bulk\\Bivrik__FancyToasts",
+    "title": "Fancy Toasts | Better Advancements",
+    "tier": "light"
+   },
+   {
+    "gh": "sprocketaudio/Create-Aeronautics-Throwable-Rope-Connector",
+    "path": "源码库/_参考仓库\\_bulk\\sprocketaudio__Create-Aeronautics-Throwable-Rope-Connector",
+    "title": "Create Aeronautics: Throwable Rope Connector",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B118",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "CancriRecoleta/NewVisualKebing",
+    "path": "源码库/_参考仓库\\_bulk\\CancriRecoleta__NewVisualKebing",
+    "title": "New Visual Keybing",
+    "tier": "light"
+   },
+   {
+    "gh": "matejhozlar/Create-Aeronautics-Climbable-Ropes",
+    "path": "源码库/_参考仓库\\_bulk\\matejhozlar__Create-Aeronautics-Climbable-Ropes",
+    "title": "Climbable Ropes for Create Aeronautics",
+    "tier": "mid"
+   },
+   {
+    "gh": "Okabintaro/UntitledDuckMod",
+    "path": "源码库/_参考仓库\\_bulk\\Okabintaro__UntitledDuckMod",
+    "title": "Untitled Duck Mod",
+    "tier": "light"
+   },
+   {
+    "gh": "maDU59/FancyWorldAnimations",
+    "path": "源码库/_参考仓库\\_bulk\\maDU59__FancyWorldAnimations",
+    "title": "Fancy World Animations [FWA]",
+    "tier": "light"
+   },
+   {
+    "gh": "ChoiceTheorem/ChoiceTheorem-s-overhauled-village",
+    "path": "源码库/_参考仓库\\_bulk\\ChoiceTheorem__ChoiceTheorem-s-overhauled-village",
+    "title": "ChoiceTheorem's Overhauled Village",
+    "tier": "light"
+   },
+   {
+    "gh": "FionaTheMortal/better-biome-blend",
+    "path": "源码库/_参考仓库\\_bulk\\FionaTheMortal__better-biome-blend",
+    "title": "[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B119",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "maDU59/FasterIrisShadowMapper",
+    "path": "源码库/_参考仓库\\_bulk\\maDU59__FasterIrisShadowMapper",
+    "title": "Faster Iris Shadow Mapper [FISM]",
+    "tier": "light"
+   },
+   {
+    "gh": "cakeGit/Create-Trading-Floor",
+    "path": "源码库/_参考仓库\\_bulk\\cakeGit__Create-Trading-Floor",
+    "title": "Create: Trading floor",
+    "tier": "mid"
+   },
+   {
+    "gh": "Nobodiiiii/Create-Biotech",
+    "path": "源码库/_参考仓库\\_bulk\\Nobodiiiii__Create-Biotech",
+    "title": "Create: Biotech - 机械动力：生物科技",
+    "tier": "mid"
+   },
+   {
+    "gh": "ausmez/create-storage-neo-forge",
+    "path": "源码库/_参考仓库\\_bulk\\ausmez__create-storage-neo-forge",
+    "title": "Create: Storage [Neo/Forge]",
+    "tier": "mid"
+   },
+   {
+    "gh": "breezeth-CN/KaleidoscopeGrilling",
+    "path": "源码库/_参考仓库\\_bulk\\breezeth-CN__KaleidoscopeGrilling",
+    "title": "Kaleidoscope Grilling",
+    "tier": "light"
+   },
+   {
+    "gh": "NightEpiphany/KaleidoscopeHodgepodge",
+    "path": "源码库/_参考仓库\\_bulk\\NightEpiphany__KaleidoscopeHodgepodge",
+    "title": "Kaleidoscope Hodgepodge",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B120",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "KaleidoscopeMods/KaleidoscopeTavern",
+    "path": "源码库/_参考仓库\\_bulk\\KaleidoscopeMods__KaleidoscopeTavern",
+    "title": "Kaleidoscope Tavern",
+    "tier": "light"
+   },
+   {
+    "gh": "cakeGit/Pattern-Schematics-Multiloader",
+    "path": "源码库/_参考仓库\\_bulk\\cakeGit__Pattern-Schematics-Multiloader",
+    "title": "Create: Pattern Schematics",
+    "tier": "light"
+   },
+   {
+    "gh": "joshieman06/SunkenSpires",
+    "path": "源码库/_参考仓库\\_bulk\\joshieman06__SunkenSpires",
+    "title": "Sunken Spires",
+    "tier": "light"
+   },
+   {
+    "gh": "MIKOALOPEX/Create-FireFightingAdd",
+    "path": "源码库/_参考仓库\\_bulk\\MIKOALOPEX__Create-FireFightingAdd",
+    "title": "Create: FireFighting Additions",
+    "tier": "mid"
+   },
+   {
+    "gh": "KreloX/Duplicate-Entity-UUID-Fix",
+    "path": "源码库/_参考仓库\\_bulk\\KreloX__Duplicate-Entity-UUID-Fix",
+    "title": "DEUF - Duplicate Entity UUID Fix [NeoForge]",
+    "tier": "light"
+   },
+   {
+    "gh": "userenxv/aeronautics-utility-objects",
+    "path": "源码库/_参考仓库\\_bulk\\userenxv__aeronautics-utility-objects",
+    "title": "Create Aeronautics: Transmission & Linkage",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B121",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Chaolux1/LendersDelight",
+    "path": "源码库/_参考仓库\\_bulk\\Chaolux1__LendersDelight",
+    "title": "L_Ender 's Cataclysm Delight",
+    "tier": "light"
+   },
+   {
+    "gh": "weaversworkshop/grapplemod-skybound",
+    "path": "源码库/_参考仓库\\_bulk\\weaversworkshop__grapplemod-skybound",
+    "title": "Grappling Hook Mod: Skybound",
+    "tier": "light"
+   },
+   {
+    "gh": "blorbee1/createaerophysicsgantry",
+    "path": "源码库/_参考仓库\\_bulk\\blorbee1__createaerophysicsgantry",
+    "title": "Create Aeronautics Physics Gantry",
+    "tier": "mid"
+   },
+   {
+    "gh": "zhenshiz/ViScriptShop-Market",
+    "path": "源码库/_参考仓库\\_bulk\\zhenshiz__ViScriptShop-Market",
+    "title": "ViScriptShop Market",
+    "tier": "light"
+   },
+   {
+    "gh": "xienaoban/minecraft-biology-dictionary",
+    "path": "源码库/_参考仓库\\_bulk\\xienaoban__minecraft-biology-dictionary",
+    "title": "Biology Dictionary",
+    "tier": "light"
+   },
+   {
+    "gh": "Corosauce/WATUT",
+    "path": "源码库/_参考仓库\\_bulk\\Corosauce__WATUT",
+    "title": "What Are They Up To (Watut)",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B122",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "axperty/cratedelight",
+    "path": "源码库/_参考仓库\\_bulk\\axperty__cratedelight",
+    "title": "Crate Delight",
+    "tier": "light"
+   },
+   {
+    "gh": "rekales/create-more-package-couriers",
+    "path": "源码库/_参考仓库\\_bulk\\rekales__create-more-package-couriers",
+    "title": "Create More: Package Couriers",
+    "tier": "mid"
+   },
+   {
+    "gh": "LOVE-U987/Adaptive-Nemesis",
+    "path": "源码库/_参考仓库\\_bulk\\LOVE-U987__Adaptive-Nemesis",
+    "title": "[AN]Adaptive Nemesis",
+    "tier": "light"
+   },
+   {
+    "gh": "Maxenonyme/Create-Deep-Seas",
+    "path": "源码库/_参考仓库\\_bulk\\Maxenonyme__Create-Deep-Seas",
+    "title": "Create Deep Seas",
+    "tier": "mid"
+   },
+   {
+    "gh": "SuperMartijn642/Fusion",
+    "path": "源码库/_参考仓库\\_bulk\\SuperMartijn642__Fusion",
+    "title": "Fusion (Connected Textures)",
+    "tier": "light"
+   },
+   {
+    "gh": "M-K2525/VS_Hose_Connectors",
+    "path": "源码库/_参考仓库\\_bulk\\M-K2525__VS_Hose_Connectors",
+    "title": "VS / Sable Hose Connectors",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B123",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "leon-o/Create-Dynamic-Lights",
+    "path": "源码库/_参考仓库\\_bulk\\leon-o__Create-Dynamic-Lights",
+    "title": "Create Sable Dynamic Lights",
+    "tier": "mid"
+   },
+   {
+    "gh": "MaxnessAWA/Wind-Tunnel",
+    "path": "源码库/_参考仓库\\_bulk\\MaxnessAWA__Wind-Tunnel",
+    "title": "Aeronautics:Wind Tunnel",
+    "tier": "light"
+   },
+   {
+    "gh": "Nova-Committee/0Pack2Reload",
+    "path": "源码库/_参考仓库\\_bulk\\Nova-Committee__0Pack2Reload",
+    "title": "0Pack2Reload",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B124",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "FINDERFEED/FDLib",
+    "path": "源码库/_参考仓库\\_bulk\\FINDERFEED__FDLib",
+    "title": "FDLib",
+    "tier": "light"
+   },
+   {
+    "gh": "zhenshiz/ViScriptRecipe",
+    "path": "源码库/_参考仓库\\_bulk\\zhenshiz__ViScriptRecipe",
+    "title": "ViScriptRecipe",
+    "tier": "light"
+   },
+   {
+    "gh": "mortuusars/Horseman",
+    "path": "源码库/_参考仓库\\_bulk\\mortuusars__Horseman",
+    "title": "Horseman",
+    "tier": "mid"
+   },
+   {
+    "gh": "Shadows-of-Fire/Apothic-Attributes",
+    "path": "源码库/_参考仓库\\_bulk\\Shadows-of-Fire__Apothic-Attributes",
+    "title": "ApothicAttributes-1.21.1-2.10.1.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "TerminalMC/ClientSort",
+    "path": "源码库/_参考仓库\\_bulk\\TerminalMC__ClientSort",
+    "title": "clientsort-neoforge-3.89.0-beta.2+1.21.1.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "MrCrayfish/Configured",
+    "path": "源码库/_参考仓库\\_bulk\\MrCrayfish__Configured",
+    "title": "a/[配置界面] configured-neoforge-1.21.1-2.6.3.jar",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B125",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Olafski/FastLeafDecay",
+    "path": "源码库/_参考仓库\\_bulk\\Olafski__FastLeafDecay",
+    "title": "a/[树叶快速腐烂] fastleafdecay-35.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "nutant233/Fast-Recipe-Search",
+    "path": "源码库/_参考仓库\\_bulk\\nutant233__Fast-Recipe-Search",
+    "title": "fastrecipesearch-1.21.1-26.8.1-neoforge.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "MrCrayfish/Framework",
+    "path": "源码库/_参考仓库\\_bulk\\MrCrayfish__Framework",
+    "title": "framework-neoforge-1.21.1-0.13.11.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "FTBTeam/FTB-Library",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-Library",
+    "title": "ftb-library-neoforge-2101.1.35.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "FTBTeam/FTB-Teams",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-Teams",
+    "title": "a/[FTB 团队] ftb-teams-neoforge-2101.1.10.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "FTBTeam/FTB-XMod-Compat",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-XMod-Compat",
+    "title": "ftb-xmod-compat-neoforge-21.1.11.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B126",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "MrCrayfish/GoblinTraders",
+    "path": "源码库/_参考仓库\\_bulk\\MrCrayfish__GoblinTraders",
+    "title": "goblintraders-neoforge-1.21.1-1.11.2.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Iron431/irons-jewelry",
+    "path": "源码库/_参考仓库\\_bulk\\Iron431__irons-jewelry",
+    "title": "irons_jewelry-1.21.1-1.6.0.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Mrbysco/JustEnoughProfessions",
+    "path": "源码库/_参考仓库\\_bulk\\Mrbysco__JustEnoughProfessions",
+    "title": "a/[JEI工作方块] JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "MrCrayfish/MightyMail",
+    "path": "源码库/_参考仓库\\_bulk\\MrCrayfish__MightyMail",
+    "title": "mighty_mail-neoforge-1.21.1-1.1.4.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Mrbysco/Retraining",
+    "path": "源码库/_参考仓库\\_bulk\\Mrbysco__Retraining",
+    "title": "Retraining-neoforge-1.21-2.0.0.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "FTBTeam/FTB-Quests",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-Quests",
+    "title": "[FTB 任务] ftb-quests-neoforge-2101.1.34.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B127",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "MrCrayfish/MrCrayfishFurnitureMod-Refurbished",
+    "path": "源码库/_参考仓库\\_bulk\\MrCrayfish__MrCrayfishFurnitureMod-Refurbished",
+    "title": "[MrCrayfish 的家具：重制] refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "someaddons/gpumemleakfix",
+    "path": "源码库/_参考仓库\\_bulk\\someaddons__gpumemleakfix",
+    "title": "a/[修复GPU内存泄漏] gpumemleakfix-1.21-1.8.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "IAFEnvoy/IceAndFire-CE",
+    "path": "源码库/_参考仓库\\_bulk\\IAFEnvoy__IceAndFire-CE",
+    "title": "[冰火传说社区版] iceandfire-2.1.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "EccentricVamp/EccentricTome",
+    "path": "源码库/_参考仓库\\_bulk\\EccentricVamp__EccentricTome",
+    "title": "[怪奇宝典] eccentrictome-1.21.1-1.2.0.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Buuz135/FindMe",
+    "path": "源码库/_参考仓库\\_bulk\\Buuz135__FindMe",
+    "title": "[找到我] findme-1.21.1-neoforge-1.3.0-test.7.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "TeamTwilight/twilightforest",
+    "path": "源码库/_参考仓库\\_bulk\\TeamTwilight__twilightforest",
+    "title": "a/[暮色森林] twilightforest-1.21.1-4.8.3345-universal.jar",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B128",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Renyigesai/bakery",
+    "path": "源码库/_参考仓库\\_bulk\\Renyigesai__bakery",
+    "title": "[烘焙坊] bakeries-1.21.1-NeoForge-1.0.3.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Cazsius/Spice-of-Life-Carrot-Edition",
+    "path": "源码库/_参考仓库\\_bulk\\Cazsius__Spice-of-Life-Carrot-Edition",
+    "title": "[生活调味料：胡萝卜版] solcarrot-1.21.1-1.16.6.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "AtomicStryker/atomicstrykers-minecraft-mods",
+    "path": "源码库/_参考仓库\\_bulk\\AtomicStryker__atomicstrykers-minecraft-mods",
+    "title": "[稀有精英怪] infernalmobs-1.21.1.3NF.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "henkelmax/corpse",
+    "path": "源码库/_参考仓库\\_bulk\\henkelmax__corpse",
+    "title": "[遗体] corpse-neoforge-1.21.1-1.1.13.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Glitchfiend/SereneSeasons",
+    "path": "源码库/_参考仓库\\_bulk\\Glitchfiend__SereneSeasons",
+    "title": "a/[静谧四季／季节] SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "breeze-devs/Settlements-Alpha",
+    "path": "源码库/_参考仓库\\_bulk\\breeze-devs__Settlements-Alpha",
+    "title": "万家烟火settlements-1.0.0-beta.1.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B129",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "MoePus/SaveMyRecipeBook",
+    "path": "源码库/_参考仓库\\_bulk\\MoePus__SaveMyRecipeBook",
+    "title": "保存我的配方书smrb-1.0.0.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Minecraft-LightLand/ModularGolems",
+    "path": "源码库/_参考仓库\\_bulk\\Minecraft-LightLand__ModularGolems",
+    "title": "傀儡装配modulargolems-3.1.43.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "pietro-lopes/AllTheLeaks",
+    "path": "源码库/_参考仓库\\_bulk\\pietro-lopes__AllTheLeaks",
+    "title": "内存泄漏alltheleaks-1.1.12+1.21.1-neoforge.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "IAFEnvoy/Uranus",
+    "path": "源码库/_参考仓库\\_bulk\\IAFEnvoy__Uranus",
+    "title": "冰火前置uranus-2.4.1-bugfix-1.21.1-neoforge.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Shadows-of-Fire/FastFurnace",
+    "path": "源码库/_参考仓库\\_bulk\\Shadows-of-Fire__FastFurnace",
+    "title": "a/[熔炉性能优化] FastFurnace-1.21.1-9.0.1.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "gizmo-ds/smsn-mod",
+    "path": "源码库/_参考仓库\\_bulk\\gizmo-ds__smsn-mod",
+    "title": "救救网络smsn-neoforge-1.4.3-1.21.1.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B130",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "AlexModGuy/AlexsCaves",
+    "path": "源码库/_参考仓库\\_bulk\\AlexModGuy__AlexsCaves",
+    "title": "洞穴alexscaves-2.0.2.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "Argon4W/AcceleratedRendering",
+    "path": "源码库/_参考仓库\\_bulk\\Argon4W__AcceleratedRendering",
+    "title": "[加速渲染] acceleratedrendering-1.0.14-1.20.1-alpha.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Corosauce/CoroUtil",
+    "path": "源码库/_参考仓库\\_bulk\\Corosauce__CoroUtil",
+    "title": "看看你在干什么前置coroutil-neoforge-1.21.0-1.3.9.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B131",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Mrbysco/StructureCompass",
+    "path": "源码库/_参考仓库\\_bulk\\Mrbysco__StructureCompass",
+    "title": "结构指南针StructureCompass-1.21.1-4.2.1.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "Mrbysco/AgeingSpawners",
+    "path": "源码库/_参考仓库\\_bulk\\Mrbysco__AgeingSpawners",
+    "title": "AgeingSpawners-1.20.1-2.0.0.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "CraftTweaker/CraftTweaker",
+    "path": "源码库/_参考仓库\\_bulk\\CraftTweaker__CraftTweaker",
+    "title": "CraftTweaker-forge-1.20.1-14.0.60.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B132",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "someaddons/cupboard",
+    "path": "源码库/_参考仓库\\_bulk\\someaddons__cupboard",
+    "title": "cupboard-1.20.1-4.1.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "ExcessiveAmountsOfZombies/EpheroLib",
+    "path": "源码库/_参考仓库\\_bulk\\ExcessiveAmountsOfZombies__EpheroLib",
+    "title": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "FTBTeam/FTB-Essentials",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-Essentials",
+    "title": "ftb-essentials-forge-2001.2.4.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "FTBTeam/FTB-Ranks",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-Ranks",
+    "title": "ftb-ranks-forge-2001.1.7.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "hammertater/treechop",
+    "path": "源码库/_参考仓库\\_bulk\\hammertater__treechop",
+    "title": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "FTBTeam/FTB-Mods-Issues",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-Mods-Issues",
+    "title": "a/[FTB任务] ftb-quests-neoforge-2101.1.24.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B133",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "stfwi/engineers-decor",
+    "path": "源码库/_参考仓库\\_bulk\\stfwi__engineers-decor",
+    "title": "[工程师的装饰]engineersdecor-1.3.31.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Tfarcenim/OverloadedArmorBar",
+    "path": "源码库/_参考仓库\\_bulk\\Tfarcenim__OverloadedArmorBar",
+    "title": "[护甲上限突破] overloadedarmorbar-1.20.1-1.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "zlainsama/CosmeticArmorReworked",
+    "path": "源码库/_参考仓库\\_bulk\\zlainsama__CosmeticArmorReworked",
+    "title": "[时装盔甲重置版] cosmeticarmorreworked-1.20.1-v1a.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "LatvianModder/Item-Filters",
+    "path": "源码库/_参考仓库\\_bulk\\LatvianModder__Item-Filters",
+    "title": "[物品过滤器] item-filters-forge-2001.1.0-build.59.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "PaintNinja/Presence-Footsteps-Forge",
+    "path": "源码库/_参考仓库\\_bulk\\PaintNinja__Presence-Footsteps-Forge",
+    "title": "[脚步声Forge版] PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "SonarSonic/Flux-Networks",
+    "path": "源码库/_参考仓库\\_bulk\\SonarSonic__Flux-Networks",
+    "title": "[通量网络] FluxNetworks-1.20.1-7.2.1.15.jar",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B134",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "someaddons/structureessentials",
+    "path": "源码库/_参考仓库\\_bulk\\someaddons__structureessentials",
+    "title": "structureessentials-1.21.1-5.0.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "KubeJS-Mods/KubeJS-Create",
+    "path": "源码库/_参考仓库\\_bulk\\KubeJS-Mods__KubeJS-Create",
+    "title": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "FTBTeam/FTB-Ultimine",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-Ultimine",
+    "title": "a/[连锁破坏] ftb-ultimine-neoforge-2101.1.13.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B135",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "shedaniel/LightOverlay",
+    "path": "源码库/_参考仓库\\_bulk\\shedaniel__LightOverlay",
+    "title": "[亮度覆盖] light-overlay-12.0.0-neoforge.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "P3pp3rF1y/SophisticatedCore",
+    "path": "源码库/_参考仓库\\_bulk\\P3pp3rF1y__SophisticatedCore",
+    "title": "a/[精妙核心] sophisticatedcore-1.21.1-1.4.33.1808.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "TwelveIterations/TrashSlot",
+    "path": "源码库/_参考仓库\\_bulk\\TwelveIterations__TrashSlot",
+    "title": "a/[垃圾槽] trashslot-neoforge-1.21.1-21.1.9.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "TwelveIterations/CookingForBlockheads",
+    "path": "源码库/_参考仓库\\_bulk\\TwelveIterations__CookingForBlockheads",
+    "title": "a/[傻瓜烹饪／懒人厨房] cookingforblockheads-neoforge-1.21.1-21.1.21.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Shadows-of-Fire/FastWorkbench",
+    "path": "源码库/_参考仓库\\_bulk\\Shadows-of-Fire__FastWorkbench",
+    "title": "a/[工作台性能优化] FastWorkbench-1.21.1-9.1.3.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "Rain156/disable-enderman-picking-up-blocks",
+    "path": "源码库/_参考仓库\\_bulk\\Rain156__disable-enderman-picking-up-blocks",
+    "title": "[禁用末影人搬运] depub.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B136",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "KODU16/vsie",
+    "path": "源码库/_参考仓库\\_bulk\\KODU16__vsie",
+    "title": "AeroIE-1.0.0-hotfix2.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "TwelveIterations/CraftingTweaks",
+    "path": "源码库/_参考仓库\\_bulk\\TwelveIterations__CraftingTweaks",
+    "title": "a/[合成辅助] craftingtweaks-neoforge-1.21.1-21.1.9.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "someaddons/smoothchunksave",
+    "path": "源码库/_参考仓库\\_bulk\\someaddons__smoothchunksave",
+    "title": "a/[平滑区块保存] smoothchunk-1.21-4.1.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "P3pp3rF1y/SophisticatedStorage",
+    "path": "源码库/_参考仓库\\_bulk\\P3pp3rF1y__SophisticatedStorage",
+    "title": "a/[精妙存储] sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "rikka0w0/LanServerProperties",
+    "path": "源码库/_参考仓库\\_bulk\\rikka0w0__LanServerProperties",
+    "title": "[自定义局域网联机] lanserverproperties-1.13.2-neoforge.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "JTK222/common-networking",
+    "path": "源码库/_参考仓库\\_bulk\\JTK222__common-networking",
+    "title": "common-networking-neoforge-1.0.21-1.21.1.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B137",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "P3pp3rF1y/SophisticatedBackpacks",
+    "path": "源码库/_参考仓库\\_bulk\\P3pp3rF1y__SophisticatedBackpacks",
+    "title": "a/[精妙背包] sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+    "tier": "mid"
+   },
+   {
+    "gh": "P3pp3rF1y/Reliquary",
+    "path": "源码库/_参考仓库\\_bulk\\P3pp3rF1y__Reliquary",
+    "title": "[圣遗物] reliquary-1.21.1-2.0.78.1552.jar",
+    "tier": "light"
+   },
+   {
+    "gh": "FTBTeam/FTB-Chunks",
+    "path": "源码库/_参考仓库\\_bulk\\FTBTeam__FTB-Chunks",
+    "title": "a/[FTB 区块] ftb-chunks-neoforge-2101.1.14.jar",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B138",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "Team-EnderIO/EnderIO",
+    "path": "源码库/_参考仓库\\_bulk\\Team-EnderIO__EnderIO",
+    "title": "Ender IO",
+    "tier": "mid"
+   },
+   {
+    "gh": "CyclopsMC/EvilCraft",
+    "path": "源码库/_参考仓库\\_bulk\\CyclopsMC__EvilCraft",
+    "title": "EvilCraft",
+    "tier": "light"
+   },
+   {
+    "gh": "CyclopsMC/CyclopsCore",
+    "path": "源码库/_参考仓库\\_bulk\\CyclopsMC__CyclopsCore",
+    "title": "Cyclops Core",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B139",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "CyclopsMC/IntegratedDynamics",
+    "path": "源码库/_参考仓库\\_bulk\\CyclopsMC__IntegratedDynamics",
+    "title": "Integrated Dynamics",
+    "tier": "mid"
+   },
+   {
+    "gh": "CyclopsMC/CommonCapabilities",
+    "path": "源码库/_参考仓库\\_bulk\\CyclopsMC__CommonCapabilities",
+    "title": "Common Capabilities",
+    "tier": "light"
+   },
+   {
+    "gh": "McJty/XNet",
+    "path": "源码库/_参考仓库\\_bulk\\McJty__XNet",
+    "title": "Flux Networks",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B140",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "desht/ModularRouters",
+    "path": "源码库/_参考仓库\\_bulk\\desht__ModularRouters",
+    "title": "Modular Routers",
+    "tier": "light"
+   },
+   {
+    "gh": "CyclopsMC/IntegratedTunnels",
+    "path": "源码库/_参考仓库\\_bulk\\CyclopsMC__IntegratedTunnels",
+    "title": "Integrated Tunnels",
+    "tier": "mid"
+   },
+   {
+    "gh": "vadis365/Mob-Grinding-Utils",
+    "path": "源码库/_参考仓库\\_bulk\\vadis365__Mob-Grinding-Utils",
+    "title": "Mob Grinding Utils",
+    "tier": "light"
+   },
+   {
+    "gh": "Buuz135/Industrial-Foregoing",
+    "path": "源码库/_参考仓库\\_bulk\\Buuz135__Industrial-Foregoing",
+    "title": "More Industrial Foregoing Addons (MIFA)",
+    "tier": "light"
+   },
+   {
+    "gh": "TeamPneumatic/pnc-repressurized",
+    "path": "源码库/_参考仓库\\_bulk\\TeamPneumatic__pnc-repressurized",
+    "title": "PneumaticCraft: Repressurized",
+    "tier": "mid"
+   },
+   {
+    "gh": "BlakeBr0/IronJetpacks",
+    "path": "源码库/_参考仓库\\_bulk\\BlakeBr0__IronJetpacks",
+    "title": "Iron Jetpacks",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B141",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "CyclopsMC/IntegratedCrafting",
+    "path": "源码库/_参考仓库\\_bulk\\CyclopsMC__IntegratedCrafting",
+    "title": "Integrated Crafting",
+    "tier": "mid"
+   },
+   {
+    "gh": "MysticMods/Roots",
+    "path": "源码库/_参考仓库\\_bulk\\MysticMods__Roots",
+    "title": "Roots Classic",
+    "tier": "mid"
+   },
+   {
+    "gh": "CyclopsMC/IntegratedTerminals",
+    "path": "源码库/_参考仓库\\_bulk\\CyclopsMC__IntegratedTerminals",
+    "title": "Integrated Terminals",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B142",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "SilentChaos512/Silent-Gear",
+    "path": "源码库/_参考仓库\\_bulk\\SilentChaos512__Silent-Gear",
+    "title": "Silent Gear Metalworks",
+    "tier": "light"
+   },
+   {
+    "gh": "TelepathicGrunt/Bumblezone",
+    "path": "源码库/_参考仓库\\_bulk\\TelepathicGrunt__Bumblezone",
+    "title": "The Bumblezone (NeoForge/Forge)",
+    "tier": "mid"
+   },
+   {
+    "gh": "klikli-dev/occultism",
+    "path": "源码库/_参考仓库\\_bulk\\klikli-dev__occultism",
+    "title": "Occultism KubeJS",
+    "tier": "mid"
+   },
+   {
+    "gh": "Commoble/MoreRed",
+    "path": "源码库/_参考仓库\\_bulk\\Commoble__MoreRed",
+    "title": "More Red x CC:Tweaked Compat",
+    "tier": "light"
+   },
+   {
+    "gh": "SuperMartijn642/SimpleMagnets",
+    "path": "源码库/_参考仓库\\_bulk\\SuperMartijn642__SimpleMagnets",
+    "title": "Simple Magnets",
+    "tier": "light"
+   },
+   {
+    "gh": "SuperMartijn642/TrashCans",
+    "path": "源码库/_参考仓库\\_bulk\\SuperMartijn642__TrashCans",
+    "title": "Trash Cans",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B143",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "SuperMartijn642/ItemCollectors",
+    "path": "源码库/_参考仓库\\_bulk\\SuperMartijn642__ItemCollectors",
+    "title": "Item Collectors",
+    "tier": "light"
+   },
+   {
+    "gh": "baileyholl/Ars-Nouveau",
+    "path": "源码库/_参考仓库\\_bulk\\baileyholl__Ars-Nouveau",
+    "title": "Ars Nouveau",
+    "tier": "mid"
+   },
+   {
+    "gh": "SuperMartijn642/SuperMartijn642sConfigLib",
+    "path": "源码库/_参考仓库\\_bulk\\SuperMartijn642__SuperMartijn642sConfigLib",
+    "title": "SuperMartijn642's Config Lib",
+    "tier": "light"
+   },
+   {
+    "gh": "XFactHD/FramedBlocks",
+    "path": "源码库/_参考仓库\\_bulk\\XFactHD__FramedBlocks",
+    "title": "FramedBlocks",
+    "tier": "light"
+   },
+   {
+    "gh": "henkelmax/pipez",
+    "path": "源码库/_参考仓库\\_bulk\\henkelmax__pipez",
+    "title": "Pipez",
+    "tier": "light"
+   },
+   {
+    "gh": "Direwolf20-MC/LaserIO",
+    "path": "源码库/_参考仓库\\_bulk\\Direwolf20-MC__LaserIO",
+    "title": "LaserIO",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B144",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "owmii/Powah",
+    "path": "源码库/_参考仓库\\_bulk\\owmii__Powah",
+    "title": "Powah! (Rearchitected)",
+    "tier": "mid"
+   },
+   {
+    "gh": "Railcraft/Railcraft",
+    "path": "源码库/_参考仓库\\_bulk\\Railcraft__Railcraft",
+    "title": "Railcraft Reborn",
+    "tier": "mid"
+   },
+   {
+    "gh": "Draconic-Inc/Draconic-Evolution",
+    "path": "源码库/_参考仓库\\_bulk\\Draconic-Inc__Draconic-Evolution",
+    "title": "Draconic Evolution",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B145",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "AlphaMode/CompactMachines",
+    "path": "源码库/_参考仓库\\_bulk\\AlphaMode__CompactMachines",
+    "title": "Compact Machines",
+    "tier": "mid"
+   },
+   {
+    "gh": "Draconic-Inc/BrandonsCore",
+    "path": "源码库/_参考仓库\\_bulk\\Draconic-Inc__BrandonsCore",
+    "title": "Brandon's Core",
+    "tier": "light"
+   },
+   {
+    "gh": "marlester-dev/twilightforest-unofficial",
+    "path": "源码库/_参考仓库\\_bulk\\marlester-dev__twilightforest-unofficial",
+    "title": "The Twilight Forest",
+    "tier": "mid"
+   }
+  ]
+ },
+ {
+  "id": "B146",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "SilentChaos512/SilentGems",
+    "path": "源码库/_参考仓库\\_bulk\\SilentChaos512__SilentGems",
+    "title": "Silent's Gems",
+    "tier": "light"
+   },
+   {
+    "gh": "TeamJM/journeymap",
+    "path": "源码库/_参考仓库\\_bulk\\TeamJM__journeymap",
+    "title": "JourneyMap",
+    "tier": "light"
+   },
+   {
+    "gh": "Ellpeck/ActuallyAdditions",
+    "path": "源码库/_参考仓库\\_bulk\\Ellpeck__ActuallyAdditions",
+    "title": "Actually Additions",
+    "tier": "light"
+   },
+   {
+    "gh": "BuiltBrokenModding/AI-Improvements",
+    "path": "源码库/_参考仓库\\_bulk\\BuiltBrokenModding__AI-Improvements",
+    "title": "AI Improvements: Performance Tuning",
+    "tier": "light"
+   },
+   {
+    "gh": "Geforce132/SecurityCraft",
+    "path": "源码库/_参考仓库\\_bulk\\Geforce132__SecurityCraft",
+    "title": "Security Craft",
+    "tier": "light"
+   },
+   {
+    "gh": "McJty/McJtyLib",
+    "path": "源码库/_参考仓库\\_bulk\\McJty__McJtyLib",
+    "title": "McJtyLib",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B147",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "refinedmods/refinedstorage2",
+    "path": "源码库/_参考仓库\\_bulk\\refinedmods__refinedstorage2",
+    "title": "Refined Storage",
+    "tier": "mid"
+   },
+   {
+    "gh": "SilentChaos512/SilentLib",
+    "path": "源码库/_参考仓库\\_bulk\\SilentChaos512__SilentLib",
+    "title": "Silent Lib (silentlib)",
+    "tier": "light"
+   },
+   {
+    "gh": "Leclowndu93150/Corpse-Cosmetic-Armor-Compat",
+    "path": "源码库/_参考仓库\\_bulk\\Leclowndu93150__Corpse-Cosmetic-Armor-Compat",
+    "title": "Cosmetic Armor Reworked",
+    "tier": "light"
+   }
+  ]
+ },
+ {
+  "id": "B148",
+  "kind": "group",
+  "repos": [
+   {
+    "gh": "refinedmods/rangedpumps",
+    "path": "源码库/_参考仓库\\_bulk\\refinedmods__rangedpumps",
+    "title": "Ranged Pumps",
+    "tier": "light"
+   },
+   {
+    "gh": "VazkiiMods/AkashicTome",
+    "path": "源码库/_参考仓库\\_bulk\\VazkiiMods__AkashicTome",
+    "title": "Akashic Tome",
+    "tier": "light"
+   },
+   {
+    "gh": "ARxyt/ColonyPathingEdition",
+    "path": "源码库/_参考仓库\\_bulk\\ARxyt__ColonyPathingEdition",
+    "title": "MineColonies",
+    "tier": "light"
+   },
+   {
+    "gh": "The-Aether-Team/The-Aether",
+    "path": "源码库/_参考仓库\\_bulk\\The-Aether-Team__The-Aether",
+    "title": "The Aether",
+    "tier": "mid"
+   },
+   {
+    "gh": "Shadows-of-Fire/Wither-Skeleton-Tweaks",
+    "path": "源码库/_参考仓库\\_bulk\\Shadows-of-Fire__Wither-Skeleton-Tweaks",
+    "title": "Wither Skeleton Tweaks",
+    "tier": "light"
+   },
+   {
+    "gh": "ImFalling/OpenBlocks_Elevator_Fabric",
+    "path": "源码库/_参考仓库\\_bulk\\ImFalling__OpenBlocks_Elevator_Fabric",
+    "title": "OpenBlocks Elevator",
+    "tier": "light"
+   }
+  ]
+ }
+]

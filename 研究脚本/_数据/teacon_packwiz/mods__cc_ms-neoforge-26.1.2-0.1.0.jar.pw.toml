@@ -1,0 +1,13 @@
+name = "撅电报"
+filename = "cc_ms-neoforge-26.1.2-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-cc-ms/cc-ms-10.jar"
+hash-format = "sha256"
+hash = "e876411806db6dd56e602f53db23e0a1147ef8df7d2ef9d32e476e2c76769e2b"
+
+[option]
+optional = false
+description = "撅电报 by CC2001\nBuild #10\n给蹲起加点声音😁\n\n介绍：https://github.com/C20C01/MorSneak/blob/master/README.md"
+

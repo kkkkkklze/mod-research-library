@@ -1,0 +1,13 @@
+name = "NeoMystiasIzakaya"
+filename = "neo_mystias_izakaya-neoforge-26.1.6.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-neo-mystias-izakaya/neo-mystias-izakaya-67.jar"
+hash-format = "sha256"
+hash = "3808641811cc727e65550b296d783003d50428f864608d83c4a368c81df1b0cc"
+
+[option]
+optional = false
+description = "NeoMystiasIzakaya by mc幻想乡\nBuild #67\nNeoMystiasIzakaya 制作决定！\n决定参展teacon2026！\n原班人马，两家食堂合作，全新体验！\n最新最热Minecraft JE 26.1.2+neoforge\n敬请期待"
+

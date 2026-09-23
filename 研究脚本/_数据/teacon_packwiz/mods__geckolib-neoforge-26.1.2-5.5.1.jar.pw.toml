@@ -1,0 +1,13 @@
+name = "GeckoLib"
+filename = "geckolib-neoforge-26.1.2-5.5.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/geckolib-neoforge-26.1.2-5.5.1.9c603a1b.jar"
+hash-format = "sha256"
+hash = "1d1f9eecfe48225556c38220d1cb97dc5b7ee23372d16791475ab4c79c603a1b"
+
+[option]
+optional = false
+description = "Mod dependency of GeckoLib\nManaged by Biluochun"
+

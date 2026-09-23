@@ -1,0 +1,13 @@
+name = "Girlfriends"
+filename = "girlfriends-0.1.0+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-girlfriends/girlfriends-14.jar"
+hash-format = "sha256"
+hash = "147682540703926e36ceeae90a4bcf303c70aacf27796780281aa74568f3cab3"
+
+[option]
+optional = false
+description = "Girlfriends by 重生之我在 TeaCon 做 Galgame\nBuild #14\n> 一个人挖矿、建造、探索——这是许多玩家熟悉的世界。\n> 但如果有一天，你发现某个角落藏着一位等待与你相遇的伙伴呢？\n\n《Girlfriends》是一款面向 Java 版 Minecraft 生存模式的全年龄模组。它不改变原版的核心机制，而是在你的冒险途中悄然织入一张“联系”的网——你会在森林、矿洞、村庄或雪原中偶然发现一些陌生的少女角色。她们可能是迷路的旅人，也可能是守护某片遗迹的隐士。从第一次尴尬的对话开始，一段温和而绵长的羁绊便种下了种子。\n\n**这是一场关于“连接”的旅程。**\n\n你可以通过完成她们的心愿委托、赠送礼物、并肩劳作，慢慢提升好感。随着关系加深，她们会在你战斗时远程助威、在你建造时提供小小的祝福、在你远行时留下一份自制点心。她们不是工具，也不是战利品——当你终于邀请心仪的伙伴入住自己亲手打造的家园时，你们之间的“联系”便从陌生人变成了真正的“家园伙伴”。\n\n模组刻意保留了“Girlfriend”一词的双重语义：你可以理解为恋人，也可以理解为最亲密的女性友人。无论哪种，故事的核心永远是 **陪伴、约定与共同成长**。没有强制恋爱线，没有成人内容，只有一次次委托里积累的信任，以及夜晚回到家中看到有人在篝火旁等你时的那份心安。\n\n**从“我”到“我们”**——这或许就是 Minecraft 世界里最朴素的“身边的联系”。而这份联系，正等待你亲手开启。\n\n相关链接：\n- CurseForge：https://www.curseforge.com/minecraft/mc-mods/girlfriends\n- Modrinth：https://modrinth.com/mod/girlfriends\n- MC 百科：https://www.mcmod.cn/class/28899.html\n- Bilibili：https://www.bilibili.com/video/BV1FA4k6xEb5"
+

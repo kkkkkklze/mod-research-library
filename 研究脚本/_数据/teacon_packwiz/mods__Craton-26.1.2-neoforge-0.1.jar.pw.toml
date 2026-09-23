@@ -1,0 +1,13 @@
+name = "Craton（克拉通）"
+filename = "Craton-26.1.2-neoforge-0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-craton/craton-12.jar"
+hash-format = "sha256"
+hash = "281f3e5981401228ec05a1d15c48386e625ce04c31618dfb64b00f9511831c32"
+
+[option]
+optional = false
+description = "Craton（克拉通） by CratonMC\nBuild #12\n一个研究地质学的mod，目前主要计划是做岩层。"
+

@@ -1,0 +1,13 @@
+name = "海瑞的连锁挖矿"
+filename = "dh_s_veinminer-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-dh-s-veinminer/dh-s-veinminer-26.jar"
+hash-format = "sha256"
+hash = "5d1471d0594447838a61dd1f420559e78610c7e936b121f1edf0b9204c6f9dc1"
+
+[option]
+optional = false
+description = "海瑞的连锁挖矿 by CloudsMC\nBuild #26\n如果连锁挖矿时必须要给镐子附魔，会发生什么？\n模组mcmod：https://www.mcmod.cn/class/27164.html\n模组发布贴：https://www.mcbbs.co/thread-5703-1-1.html"
+

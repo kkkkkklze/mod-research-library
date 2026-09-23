@@ -1,0 +1,13 @@
+name = "NetMusic 网络音乐机"
+filename = "netmusic-1.5.1-neoforge+mc26.1-all.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-netmusic/netmusic-40.jar"
+hash-format = "sha256"
+hash = "cdcc6d7b93d4feeff228ad2783dcf5d67ff5addf2f2c0455663b929bd2ddf4cd"
+
+[option]
+optional = false
+description = "NetMusic 网络音乐机 by NetMusic 制作委员会\nBuild #40\n一个允许你在 Minecraft 中播放网络音乐与广播的模组"
+

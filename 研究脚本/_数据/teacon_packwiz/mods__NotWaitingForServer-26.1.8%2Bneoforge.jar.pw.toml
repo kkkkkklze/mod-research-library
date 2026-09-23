@@ -1,0 +1,13 @@
+name = "NotWaitingForServer"
+filename = "NotWaitingForServer-26.1.8+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/NotWaitingForServer/26.1.8%2Bneoforge/NotWaitingForServer-26.1.8%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "6e7faa597e90e65403fc8673fbc492668f5fd1caca2ede17d7c32a6cd614bea9"
+
+[option]
+optional = false
+description = "Mod dependency of NotWaitingForServer\nIncluded inside official TeaCon mod list"
+

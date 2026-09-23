@@ -1,0 +1,13 @@
+name = "工业基石"
+filename = "industrybase-26.1.2-1.0-alpha.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-industrybase/industrybase-126.jar"
+hash-format = "sha256"
+hash = "847a8e67a2ae1fb43ec1d9ceea2c551c020b455408803eca4f74c7f2ce8fe255"
+
+[option]
+optional = false
+description = "工业基石 by 斌政工作室\nBuild #126\n机械、电力与更真实的流体管道。\nhttps://www.mcmod.cn/class/10791.html"
+

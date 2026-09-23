@@ -1,0 +1,13 @@
+name = "展示玩偶（Display Doll）"
+filename = "displaydoll-1.0.0-neoforge+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-displaydoll/displaydoll-11.jar"
+hash-format = "sha256"
+hash = "91def4572d6f1682a1e006ae996880468b0834f8a59057a12fa1aab8df173709"
+
+[option]
+optional = false
+description = "展示玩偶（Display Doll） by TeaCon\nBuild #11\n放置你的玩偶，摆出你的姿态，展示那些相遇的故事。"
+

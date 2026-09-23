@@ -1,0 +1,13 @@
+name = "LiveHelper"
+filename = "live_helper-1.0.0-all.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-live-helper/live-helper-25.jar"
+hash-format = "sha256"
+hash = "1fb8a7ede2198eedce821cb79be17d2a8946352f56389b0d76baddb5e906424a"
+
+[option]
+optional = false
+description = "LiveHelper by LiveHelper 直播助手\nBuild #25\n支持多机位直播。\n- 将渲染结果通过 Spout 库推流至外部程序 (如 OBS)；\n- 基于 WebAssembly 的可编程沙盒控制。"
+

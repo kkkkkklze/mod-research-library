@@ -1,0 +1,13 @@
+name = "书信，信号，电话"
+filename = "letter_signal_phone-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-letter-signal-phone/letter-signal-phone-14.jar"
+hash-format = "sha256"
+hash = "ef97b02f19f0894f0209f084d80902de6bd1ab6c16be15be2faa1660f17872a2"
+
+[option]
+optional = false
+description = "书信，信号，电话 by 镭射牌\nBuild #14\n本模组以玩家之间的通讯方式为主，目前包含“书信”，“电报”，“打电话”等主要方式。此外，加入了收集邮票的系统。"
+

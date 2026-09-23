@@ -1,0 +1,13 @@
+name = "1u6JkXh5"
+filename = "1u6JkXh5-gjsLvJfW.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/1u6JkXh5/gjsLvJfW/1u6JkXh5-gjsLvJfW.jar"
+hash-format = "sha256"
+hash = "a8b0d9cdafac9e718de0d00c493d49c4535e41008c51b8469d16cd78865d89f2"
+
+[option]
+optional = false
+description = "Mod dependency of 1u6JkXh5\nIncluded inside official TeaCon mod list"
+

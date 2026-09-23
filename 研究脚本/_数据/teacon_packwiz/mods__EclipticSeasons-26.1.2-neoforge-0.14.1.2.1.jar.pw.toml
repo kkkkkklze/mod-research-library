@@ -1,0 +1,13 @@
+name = "节气"
+filename = "EclipticSeasons-26.1.2-neoforge-0.14.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-eclipticseasons/eclipticseasons-155.jar"
+hash-format = "sha256"
+hash = "0a9b8039327d4d61d7fd86e1cdceaab1919bac687625e5b9ebb96682f59e7956"
+
+[option]
+optional = false
+description = "节气 by 节气开发组\nBuild #155\n季节模组节气，TeaCon甲辰参赛模组。"
+

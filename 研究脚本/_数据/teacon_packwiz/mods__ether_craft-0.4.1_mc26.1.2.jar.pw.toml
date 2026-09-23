@@ -1,0 +1,13 @@
+name = "以太工艺"
+filename = "ether_craft-0.4.1_mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-ether-craft/ether-craft-106.jar"
+hash-format = "sha256"
+hash = "7faa30d586bb22b78a58ac14c7f7ee50922dee41abbd26ddd8e56192826868dc"
+
+[option]
+optional = false
+description = "以太工艺 by FantasyIT Studio\nBuild #106\n《Minecraft》原版的物流与自动化常局限于漏斗、矿车和红石，而这个模组围绕“以太”这一核心资源，构建了一套全新的科技逻辑：你将搬运以太作为能源，再通过以太节点和以太流发射器，将能源转化为实体形态的以太流，让它携带物品、传输能量甚至主动拾取。加工环节则交给以太加工中心——一个提供空白格子的方块，你可以在其中亲手用隔板和芯片铺设通路，像设计微型流水线一样为每种物品定制加工流程。这种设计彻底重塑了自动化的感知——你不再是摆放模块化的机器，而是亲眼见证能源化为流动实体，亲手在空白中排布逻辑路径，从而在旧有的方块世界中创造出一种从能源开采到物流调度全盘自主、全程可视的崭新创造体验。\n\n模组已发布到CurseForge：https://www.curseforge.com/minecraft/mc-mods/ether-craft\nmc百科：https://www.mcmod.cn/class/30310.html"
+

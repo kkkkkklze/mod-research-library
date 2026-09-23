@@ -1,0 +1,13 @@
+name = "吾有一術"
+filename = "wenyan_programming-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-wenyan-programming/wenyan-programming-58.jar"
+hash-format = "sha256"
+hash = "f463a012c454b055dd963fbc1b1cabbe029ff3faacf5b39a5d8e5cee1f7a9f13"
+
+[option]
+optional = false
+description = "吾有一術 by 吾有一隊\nBuild #58\n使用文言创造奇妙魔法的Minecraft模组。将在teacon间加入许多符咒间通讯功能\nhttps://www.mcmod.cn/class/18983.html"
+

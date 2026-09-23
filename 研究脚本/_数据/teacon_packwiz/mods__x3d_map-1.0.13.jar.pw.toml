@@ -1,0 +1,13 @@
+name = "x3d map"
+filename = "x3d_map-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-x3d-map/x3d-map-64.jar"
+hash-format = "sha256"
+hash = "8954fa6097dd16db6f2edcc088f0f979090c6d73f91fdbba731461447dbf4770"
+
+[option]
+optional = false
+description = "x3d map by xkball and ?, Ⅰ\nBuild #64\n3d世界地图"
+

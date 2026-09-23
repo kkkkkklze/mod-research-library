@@ -1,0 +1,13 @@
+name = "MinecartRevolution"
+filename = "minecartrevolution-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-minecartrevolution/minecartrevolution-82.jar"
+hash-format = "sha256"
+hash = "49bbfbd8488aa03191f46455eef82d617235c050b98255e4a7ff156e95d7ef9d"
+
+[option]
+optional = false
+description = "MinecartRevolution by MinecartRevolution Dev\nBuild #82\n在 Minecraft 中，我们只有熔炉、漏斗、箱子、刷怪笼、指令方块和 TNT 矿车。\n为什么只有这么一点方块矿车？我们想要更多！现在，你可以把任何方块装进矿车，让它们动起来、跑起来，在轨道上大展身手！\n\n宣传视频链接：https://b23.tv/afvOUBV\n模组Modinth链接：https://modrinth.com/mod/minecartrevolution"
+

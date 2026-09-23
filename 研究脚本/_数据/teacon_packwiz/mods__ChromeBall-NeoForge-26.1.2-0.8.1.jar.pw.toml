@@ -1,0 +1,13 @@
+name = "ChromeBall NeoForge 26.1.2"
+filename = "ChromeBall-NeoForge-26.1.2-0.8.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/ChromeBall-NeoForge-26.1.2/0.8.1/ChromeBall-NeoForge-26.1.2-0.8.1.jar"
+hash-format = "sha256"
+hash = "f8337aae03719f324a546b3e01315af6ea46d689e583e1f9f50380ae43678a5b"
+
+[option]
+optional = false
+description = "Mod dependency of ChromeBall NeoForge 26.1.2\nIncluded inside official TeaCon mod list"
+

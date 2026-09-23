@@ -1,0 +1,13 @@
+name = "苇原"
+filename = "ashihara-0.0.0.15.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-ashihara/ashihara-243.jar"
+hash-format = "sha256"
+hash = "fa29a45949978fd9f12a91f84106f7bf7baad3cc9ce438961b7cfb0f745a581e"
+
+[option]
+optional = false
+description = "苇原 by 遗失唐伞绘卷屋\nBuild #243\n苇原mod是一款致力于在Minecraft中还原自神代至1800年以前的古代日本原风景的Minecraft mod. 其预计涵括的范围从农业，手工业，传统建筑到民俗学，神道文化学；并且包含多样化的定制UI系统与沉浸式设计。"
+

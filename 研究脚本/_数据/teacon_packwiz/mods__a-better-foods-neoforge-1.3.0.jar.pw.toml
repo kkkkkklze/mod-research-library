@@ -1,0 +1,13 @@
+name = "更多的食物"
+filename = "a-better-foods-neoforge-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-a-better-foods/a-better-foods-10.jar"
+hash-format = "sha256"
+hash = "a706ceadcaaa73cbfb9b1862496eb48bed37ccbd58c932e21d8000b159ae8c54"
+
+[option]
+optional = false
+description = "更多的食物 by CatPixel Craft\nBuild #10\n模组为游戏增添了丰富的美食体验，从经典的甜点到世界各地的特色佳肴。"
+

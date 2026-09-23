@@ -1,0 +1,13 @@
+name = "Shake n Stir"
+filename = "shakenstir-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-shakenstir/shakenstir-63.jar"
+hash-format = "sha256"
+hash = "74c6a9b3dfb525827040bb009ac18091378dd5732ede93e3857623bd26b2469a"
+
+[option]
+optional = false
+description = "Shake n Stir by hawah\nBuild #63\n真希望能在游戏中也恣意调酒！\n怀着这样的愿景，本模组加入了完整的调酒玩法。玩家可以通过拟真的调酒流程，自由调制各种饮品，与朋友分享，或独自享用，在游戏中打造属于自己的虚拟酒吧。\n除此之外，本模组还支持通过数据包扩展调酒配方，拥有良好的兼容性与强大的拓展能力，让更多自定义内容成为可能。"
+

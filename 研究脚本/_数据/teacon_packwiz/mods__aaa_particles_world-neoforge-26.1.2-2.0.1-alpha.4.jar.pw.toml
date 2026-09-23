@@ -1,0 +1,13 @@
+name = "AAA Particles: World"
+filename = "aaa_particles_world-neoforge-26.1.2-2.0.1-alpha.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-aaa-particles-world/aaa-particles-world-14.jar"
+hash-format = "sha256"
+hash = "8d6002d8c54b9149025d16f7225a649c2a30fb9f119f3dcc55cb3c24f59d4883"
+
+[option]
+optional = false
+description = "AAA Particles: World by 克洛伊的小队\nBuild #14\n向游戏内添加了一些基于 Effekseer 粒子中间件的特效，类似一个高清版的 Subtle Effects。\n模组官网：https://www.curseforge.com/minecraft/mc-mods/aaa-particles-world"
+

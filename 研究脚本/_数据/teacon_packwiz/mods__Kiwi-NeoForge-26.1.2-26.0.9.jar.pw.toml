@@ -1,0 +1,13 @@
+name = "Kiwi NeoForge 26.1.2"
+filename = "Kiwi-NeoForge-26.1.2-26.0.9.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/Kiwi-NeoForge-26.1.2/26.0.9/Kiwi-NeoForge-26.1.2-26.0.9.jar"
+hash-format = "sha256"
+hash = "0a7414f7ac095170831484dcdaeb305128de8ce5d80918c8ab35d3783b7cb3d1"
+
+[option]
+optional = false
+description = "Mod dependency of Kiwi NeoForge 26.1.2\nIncluded inside official TeaCon mod list"
+

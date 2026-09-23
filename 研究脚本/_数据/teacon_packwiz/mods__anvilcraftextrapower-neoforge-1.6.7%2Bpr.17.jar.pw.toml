@@ -1,0 +1,13 @@
+name = "铁砧工艺：额外电力 | Anvilcraft-ExtraPower"
+filename = "anvilcraftextrapower-neoforge-1.6.7+pr.17.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-anvilcraftextrapower/anvilcraftextrapower-17.jar"
+hash-format = "sha256"
+hash = "ad70c6b4088bd5babc4024ffc48aa2bafb9cc6ccce913e6a6cbaf363ab2dd21d"
+
+[option]
+optional = false
+description = "铁砧工艺：额外电力 | Anvilcraft-ExtraPower by 铅垂线\nBuild #17\n以铁砧工艺为基础，添加了一系列发电设施和多方块结构，还有基于铁砧工艺的实用设备"
+

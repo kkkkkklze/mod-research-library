@@ -1,0 +1,13 @@
+name = "Phone Generator"
+filename = "phone_generator-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-phone-generator/phone-generator-22.jar"
+hash-format = "sha256"
+hash = "bc4ce9369ba15dda2689e0502f9c78c1455ba362ec2c75d741f2aaca49041e0c"
+
+[option]
+optional = false
+description = "Phone Generator by 摇就对了\nBuild #22\n扫描发电机二维码，与发电机完成配对，大力摇动手机进行发电"
+

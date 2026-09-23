@@ -1,0 +1,3459 @@
+[
+ {
+  "jar": "1u6JkXh5-gjsLvJfW.jar",
+  "modids": [
+   "worldedit",
+   "worldedit"
+  ],
+  "dep_modids": [],
+  "names": [
+   "WorldEdit",
+   "WorldEdit"
+  ],
+  "authors": [
+   "EngineHub"
+  ],
+  "urls": [
+   "https://discord.gg/enginehub",
+   "https://enginehub.org/worldedit/",
+   "https://github.com/EngineHub/WorldEdit"
+  ],
+  "licenses": [
+   "GPLv3"
+  ],
+  "version": "7.4.3+7515-78babeb",
+  "err": ""
+ },
+ {
+  "jar": "26.1.2-maid_storage_manager-2.0.0-neoforge+mc26.1.2.jar",
+  "modids": [
+   "maid_storage_manager"
+  ],
+  "dep_modids": [
+   "touhou_little_maid",
+   "emi",
+   "jei",
+   "create",
+   "cloth_config"
+  ],
+  "names": [
+   "maid storage manager"
+  ],
+  "authors": [
+   "xypp"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2.0.0-neoforge+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "AreaControl-NeoForge-26.1-0.9.17.jar",
+  "modids": [
+   "area_control"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Area Control"
+  ],
+  "authors": [
+   "3TUSK, Burning_TNT (Migrate to NeoForge 1.21)"
+  ],
+  "urls": [],
+  "licenses": [
+   "BSD-3-Clause"
+  ],
+  "version": "0.9.17",
+  "err": ""
+ },
+ {
+  "jar": "Baihao-NeoForge-26.1-1.0.8.jar",
+  "modids": [
+   "baihao"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Bai Hao"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "BSD-3-Clause"
+  ],
+  "version": "1.0.8",
+  "err": ""
+ },
+ {
+  "jar": "Caupona-26.1.2-6.1.4.jar",
+  "modids": [
+   "caupona"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Caupona"
+  ],
+  "authors": [
+   "[TeamMoeg] khjxiaogu, Lyuuke"
+  ],
+  "urls": [
+   "https://github.com/TeamMoegMC/Caupona/issues"
+  ],
+  "licenses": [
+   "GPLv3"
+  ],
+  "version": "${file.jarVersion}",
+  "err": ""
+ },
+ {
+  "jar": "ChromeBall-NeoForge-26.1.2-0.8.1.jar",
+  "modids": [
+   "chromeball"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Chrome Ball"
+  ],
+  "authors": [
+   "jihuayu"
+  ],
+  "urls": [],
+  "licenses": [
+   "BSD-3-Clause"
+  ],
+  "version": "0.8.1",
+  "err": ""
+ },
+ {
+  "jar": "CommandConfirm-NeoForge-26-1.2.1.jar",
+  "modids": [
+   "commandconfirm"
+  ],
+  "dep_modids": [],
+  "names": [
+   "CommandConfirm"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.2.1",
+  "err": ""
+ },
+ {
+  "jar": "Craton-26.1.2-neoforge-0.1.jar",
+  "modids": [
+   "craton"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Craton"
+  ],
+  "authors": [
+   ""
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1",
+  "err": ""
+ },
+ {
+  "jar": "CrockPot-26.1.2-0.1.0-beta.jar",
+  "modids": [
+   "crockpot"
+  ],
+  "dep_modids": [],
+  "names": [
+   "CrockPot"
+  ],
+  "authors": [
+   "Si_hen,idyllicbean,Whyte_V,MalayP,SeraphJack"
+  ],
+  "urls": [
+   "https://github.com/SihenZhang/CrockPot/issues",
+   "https://www.curseforge.com/minecraft/mc-mods/crock-pot"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1.0",
+  "err": ""
+ },
+ {
+  "jar": "DistantHorizons-3.2.0-b-26.1.2-fabric-neoforge.jar",
+  "modids": [
+   "distanthorizons",
+   "distanthorizons"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Distant Horizons",
+   "Distant Horizons"
+  ],
+  "authors": [
+   "Massive thanks to all the developers for their hard work to bring Distant Horizons to where it is today. - James"
+  ],
+  "urls": [
+   "https://gitlab.com/distant-horizons-team/distant-horizons/",
+   "https://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
+   "https://modrinth.com/mod/distanthorizons"
+  ],
+  "licenses": [
+   "LGPL"
+  ],
+  "version": "3.2.0-b",
+  "err": ""
+ },
+ {
+  "jar": "EclipticSeasons-26.1.2-neoforge-0.14.1.2.1.jar",
+  "modids": [
+   "eclipticseasons"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Ecliptic Seasons"
+  ],
+  "authors": [
+   "joe_vettek(jianzoushihu), Sam_Chai, RoitoLeonine"
+  ],
+  "urls": [],
+  "licenses": [
+   "Code licensed under BSD-3-Clause, resources under CC BY-NC-SA 4.0, disc Snowless Homeland used under special authorization from Beishanwei & Orangesoda."
+  ],
+  "version": "0.14.1.2.1",
+  "err": ""
+ },
+ {
+  "jar": "Kiwi-NeoForge-26.1.2-26.0.9.jar",
+  "modids": [
+   "kiwi"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Kiwi Library"
+  ],
+  "authors": [
+   "Snownee",
+   "3TUSK, SettingDust"
+  ],
+  "urls": [
+   "https://www.curseforge.com/minecraft/mc-mods/kiwi"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "${file.jarVersion}",
+  "err": ""
+ },
+ {
+  "jar": "LuckPerms-NeoForge-5.5-20260902.124952-3-all.jar",
+  "modids": [
+   "luckperms"
+  ],
+  "dep_modids": [],
+  "names": [
+   "LuckPerms"
+  ],
+  "authors": [
+   "Luck",
+   "Luck"
+  ],
+  "urls": [
+   "https://github.com/LuckPerms/LuckPerms/issues",
+   "https://luckperms.net/"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "5.5.54",
+  "err": ""
+ },
+ {
+  "jar": "NeoMTR-300.6.1+26.1.2.jar",
+  "modids": [
+   "mtr"
+  ],
+  "dep_modids": [],
+  "names": [
+   "NeoMTR"
+  ],
+  "authors": [
+   "Jonathan Ho & Zbx1425"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "300.6.1+26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "NotEnoughBandwidth-NeoForge-26.1-0.2.20.jar",
+  "modids": [
+   "nebw"
+  ],
+  "dep_modids": [],
+  "names": [
+   "NotEnoughBandwidth ++"
+  ],
+  "authors": [
+   "TeaCon Team"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "0.2.20",
+  "err": ""
+ },
+ {
+  "jar": "NotWaitingForServer-26.1.8+neoforge.jar",
+  "modids": [
+   "jade"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Jade"
+  ],
+  "authors": [
+   "Snownee",
+   "TehNut, ProfMobius, kalkafox"
+  ],
+  "urls": [
+   "https://www.curseforge.com/minecraft/mc-mods/jade"
+  ],
+  "licenses": [
+   "CC-BY-NC-SA-4.0"
+  ],
+  "version": "${file.jarVersion}",
+  "err": ""
+ },
+ {
+  "jar": "ObeliskDepths-NeoForge-26.1.2.87-0.0.1-0.0.1.jar",
+  "modids": [
+   "obeliskdepths"
+  ],
+  "dep_modids": [
+   "damagenexus"
+  ],
+  "names": [
+   "Obelisk Depths"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "MIT + ARR"
+  ],
+  "version": "0.0.1",
+  "err": ""
+ },
+ {
+  "jar": "PlayerAnimationLibMerged-1.2.3+mc.26.1.jar",
+  "modids": [
+   "player_animation_library",
+   "player_animation_library"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Player Animation Library",
+   "Player Animation Library"
+  ],
+  "authors": [
+   "Zigy, dima_dencep"
+  ],
+  "urls": [
+   "https://docs.zigythebird.com/pal/intro",
+   "https://github.com/ZigyTheBird/PlayerAnimationLibrary",
+   "https://github.com/ZigyTheBird/PlayerAnimationLibrary/issues"
+  ],
+  "licenses": [
+   "MIT License"
+  ],
+  "version": "1.2.3+mc.26.1",
+  "err": ""
+ },
+ {
+  "jar": "PowerTool-NeoForge-26.1-1.5.30.jar",
+  "modids": [
+   "powertool"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Power Tool"
+  ],
+  "authors": [
+   "IzzelAliz 3TUSK xkball"
+  ],
+  "urls": [],
+  "licenses": [
+   "GPL-3.0"
+  ],
+  "version": "1.5.30",
+  "err": ""
+ },
+ {
+  "jar": "ProjectMe-26.1.2-0.5.0.jar",
+  "modids": [
+   "project_me"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Project Me"
+  ],
+  "authors": [
+   "Zbx1425, Burning_TNT"
+  ],
+  "urls": [],
+  "licenses": [
+   "Insert License Here"
+  ],
+  "version": "0.5.0",
+  "err": ""
+ },
+ {
+  "jar": "SignMeUp-NeoForge-26.1-1.1.12.jar",
+  "modids": [
+   "exhibition_portal"
+  ],
+  "dep_modids": [],
+  "names": [
+   "ExhibitionPortal"
+  ],
+  "authors": [
+   "Thanks to JianmoOvO and MalaP for designing GUI textures",
+   "TeaCon Team"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "1.1.12",
+  "err": ""
+ },
+ {
+  "jar": "SlideShow-NeoForge-26.1.2-0.10.11.jar",
+  "modids": [
+   "slide_show"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Slide Show"
+  ],
+  "authors": [
+   "3TUSK, BloCamLimb, ustc-zzzz"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPL-3.0-only"
+  ],
+  "version": "0.10.11",
+  "err": ""
+ },
+ {
+  "jar": "TeasupFlavorRequest-26.1.2-0.1.0+1.jar",
+  "modids": [
+   "teasupflavor"
+  ],
+  "dep_modids": [],
+  "names": [
+   "TeasupFlavorRequest"
+  ],
+  "authors": [
+   "Zbx1425"
+  ],
+  "urls": [
+   "https://github.com/zbx1425"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1.0+1",
+  "err": ""
+ },
+ {
+  "jar": "ToadSync-NeoForge-26.1.2-0.2.4.jar",
+  "modids": [
+   "toad_sync"
+  ],
+  "dep_modids": [],
+  "names": [
+   "ToadSync"
+  ],
+  "authors": [
+   "ustc-zzzz"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPL-3.0-only"
+  ],
+  "version": "0.2.4",
+  "err": ""
+ },
+ {
+  "jar": "VoteMe-NeoForge-26.1.2-0.10.3.jar",
+  "modids": [
+   "voteme"
+  ],
+  "dep_modids": [],
+  "names": [
+   "VoteMe"
+  ],
+  "authors": [
+   "Yuri's Cat, 3TUSK, ustc-zzzz"
+  ],
+  "urls": [],
+  "licenses": [
+   "BSD-3-Clause"
+  ],
+  "version": "0.10.3",
+  "err": ""
+ },
+ {
+  "jar": "WorldComment-neoforge-0.7.0-beta.1+26.1.2.jar",
+  "modids": [
+   "worldcomment"
+  ],
+  "dep_modids": [],
+  "names": [
+   "WorldComment"
+  ],
+  "authors": [
+   "Zbx1425"
+  ],
+  "urls": [
+   "https://github.com/zbx1425/WorldComment/",
+   "https://github.com/zbx1425/WorldComment/issues"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.7.0-beta.1",
+  "err": ""
+ },
+ {
+  "jar": "WorldEditCUI-NeoForge-26.1.2-643d105.jar",
+  "modids": [
+   "worldeditcui",
+   "worldeditcui"
+  ],
+  "dep_modids": [
+   "worldedit"
+  ],
+  "names": [
+   "WorldEditCUI",
+   "WorldEditCUI"
+  ],
+  "authors": [
+   "lahwran, yetanotherx, Mumfrey, TomyLobo, mikroskeem"
+  ],
+  "urls": [
+   "https://github.com/EngineHub/WorldEditCUI"
+  ],
+  "licenses": [
+   "EPL-2.0"
+  ],
+  "version": "26.1.2+02+SNAPSHOT",
+  "err": ""
+ },
+ {
+  "jar": "XKDeco-NeoForge-26.1.2-2.0.0.2.jar",
+  "modids": [
+   "xkdeco"
+  ],
+  "dep_modids": [
+   "kiwi"
+  ],
+  "names": [
+   "XeKr's Decoration"
+  ],
+  "authors": [
+   "XeKr, Snownee, LittleBai, TeaConMC",
+   "ustc-zzzz, LucunJi, 3TUSK, TartaricAcid, IzzelAliz, Gu-ZT, SettingDust, a1640727878, xkball"
+  ],
+  "urls": [
+   "https://github.com/teaconmc/XKDeco/issues?q=is%3Aissue",
+   "https://www.curseforge.com/minecraft/mc-mods/xks-decoration"
+  ],
+  "licenses": [
+   "ARR"
+  ],
+  "version": "${file.jarVersion}",
+  "err": ""
+ },
+ {
+  "jar": "Xibao-NeoForge-26.1-5.0.2.jar",
+  "modids": [
+   "xibao"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Xibao"
+  ],
+  "authors": [
+   "IzzelAliz"
+  ],
+  "urls": [],
+  "licenses": [
+   "Unlicense"
+  ],
+  "version": "5.0.2",
+  "err": ""
+ },
+ {
+  "jar": "a-better-foods-neoforge-1.3.0.jar",
+  "modids": [
+   "a_better_foods"
+  ],
+  "dep_modids": [],
+  "names": [
+   "A Better Foods"
+  ],
+  "authors": [
+   "xiaomian124"
+  ],
+  "urls": [
+   "https://www.curseforge.com/minecraft/mc-mods/a-better-foods"
+  ],
+  "licenses": [
+   "CC0 1.0 Universal"
+  ],
+  "version": "1.3.0",
+  "err": ""
+ },
+ {
+  "jar": "aaa_particles-neoforge-26.1.2-2.2.4-alpha.1.jar",
+  "modids": [
+   "aaa_particles"
+  ],
+  "dep_modids": [],
+  "names": [
+   "AAA Particles"
+  ],
+  "authors": [
+   "",
+   "ChloePrime"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2.2.4-alpha.1",
+  "err": ""
+ },
+ {
+  "jar": "aaa_particles_world-neoforge-26.1.2-2.0.1-alpha.4.jar",
+  "modids": [
+   "aaa_particles_world"
+  ],
+  "dep_modids": [
+   "aaa_particles"
+  ],
+  "names": [
+   "AAA Particles: World"
+  ],
+  "authors": [
+   "",
+   "ChloePrime"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2.0.1-alpha.4",
+  "err": ""
+ },
+ {
+  "jar": "advanced_clover-1.0.2.jar",
+  "modids": [
+   "advanced_clover"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Advanced Clover"
+  ],
+  "authors": [
+   "luoxueyasha"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPLv3"
+  ],
+  "version": "1.0.2",
+  "err": ""
+ },
+ {
+  "jar": "ageratum-neoforge-26.1.2-0.0.1+pr.22.jar",
+  "modids": [
+   "ageratum"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Ageratum"
+  ],
+  "authors": [
+   "Gugle"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU LGPL 3.0"
+  ],
+  "version": "0.0.1+pr.22",
+  "err": ""
+ },
+ {
+  "jar": "aleeve_atlas-0.0.1.jar",
+  "modids": [
+   "aleeve_atlas"
+  ],
+  "dep_modids": [],
+  "names": [
+   "AleeveAtlas"
+  ],
+  "authors": [
+   "Gugle"
+  ],
+  "urls": [
+   "https://chainmine.dubhe.dev"
+  ],
+  "licenses": [
+   "GNU LGPL 3.0"
+  ],
+  "version": "0.0.1",
+  "err": ""
+ },
+ {
+  "jar": "anisum-neoforge-26.1.2-0.0.1+build.18.jar",
+  "modids": [
+   "anisum"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Anisum"
+  ],
+  "authors": [
+   "Gugle"
+  ],
+  "urls": [
+   "https://www.anvilcraft.dev/anisum"
+  ],
+  "licenses": [
+   "GNU LGPL 3.0"
+  ],
+  "version": "0.0.1",
+  "err": ""
+ },
+ {
+  "jar": "anvilcraft-nekoplus-26.1.1-alpha.1.jar",
+  "modids": [
+   "nekoplus"
+  ],
+  "dep_modids": [
+   "anvilcraft"
+  ],
+  "names": [
+   "AnvilCraft: NekoPLUS!"
+  ],
+  "authors": [
+   "ZhuRuoLing, MercuryGryph"
+  ],
+  "urls": [
+   "https://github.com/ZhuRuoLing/nekoplus"
+  ],
+  "licenses": [
+   "LGPL-2.0"
+  ],
+  "version": "26.1.1-alpha.1",
+  "err": ""
+ },
+ {
+  "jar": "anvilcraft-neoforge-26.1.2-1.6.0+build.374.jar",
+  "modids": [
+   "anvilcraft"
+  ],
+  "dep_modids": [
+   "anvillib",
+   "jei"
+  ],
+  "names": [
+   "AnvilCraft"
+  ],
+  "authors": [
+   "Gugle,XeKr"
+  ],
+  "urls": [
+   "https://github.com/Anvil-Dev/AnvilCraft/issues",
+   "https://www.anvilcraft.dev/"
+  ],
+  "licenses": [
+   "LGPL-3.0 license"
+  ],
+  "version": "1.6.0+build.374",
+  "err": ""
+ },
+ {
+  "jar": "anvilcraft-voidinair-neoforge-26.1.2-1.1.1+build.25.jar",
+  "modids": [
+   "voidinair"
+  ],
+  "dep_modids": [
+   "anvillib",
+   "anvilcraft"
+  ],
+  "names": [
+   "AnvilCraft: Void in Air"
+  ],
+  "authors": [
+   "QiuShui1012"
+  ],
+  "urls": [
+   "https://github.com/QiuShui1012/AnvilCraft-VoidInAir",
+   "https://github.com/QiuShui1012/AnvilCraft-VoidInAir/issues"
+  ],
+  "licenses": [
+   "LGPL-3.0 license"
+  ],
+  "version": "1.1.1+build.25",
+  "err": ""
+ },
+ {
+  "jar": "anvilcraft_pigsplus-neoforge-2.0.4+pr.23.jar",
+  "modids": [
+   "anvilcraft_pigsplus"
+  ],
+  "dep_modids": [
+   "anvilcraft"
+  ],
+  "names": [
+   "AnvilCraft-PigsPlus"
+  ],
+  "authors": [
+   "TB_pig"
+  ],
+  "urls": [
+   "https://docs.anvilcraft.dev/"
+  ],
+  "licenses": [
+   "LGPL-3.0 license"
+  ],
+  "version": "2.0.4+pr.23",
+  "err": ""
+ },
+ {
+  "jar": "anvilcraftextrapower-neoforge-1.6.7+pr.17.jar",
+  "modids": [
+   "anvilcraftextrapower"
+  ],
+  "dep_modids": [
+   "anvilcraft"
+  ],
+  "names": [
+   "AnvilCraft:Extra Power"
+  ],
+  "authors": [
+   "Leaden_TP"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPL-3.0 license"
+  ],
+  "version": "1.6.7+pr.17",
+  "err": ""
+ },
+ {
+  "jar": "anvillib-neoforge-26.1-2.0.0+snapshot.494.jar",
+  "modids": [
+   "anvillib"
+  ],
+  "dep_modids": [
+   "anvillib_codec",
+   "anvillib_collision",
+   "anvillib_config",
+   "anvillib_integration",
+   "anvillib_moveable_entity_block",
+   "anvillib_network",
+   "anvillib_rendering",
+   "anvillib_space_select",
+   "anvillib_font",
+   "anvillib_util",
+   "anvillib_explosion",
+   "anvillib_rpc",
+   "anvillib_multiblock",
+   "anvillib_recipe",
+   "anvillib_registrum",
+   "anvillib_sync",
+   "anvillib_wheel",
+   "anvillib_codec",
+   "anvillib_collision",
+   "anvillib_config",
+   "anvillib_integration",
+   "anvillib_moveable_entity_block",
+   "anvillib_network",
+   "anvillib_rendering",
+   "anvillib_space_select",
+   "anvillib_font",
+   "anvillib_util",
+   "anvillib_explosion",
+   "anvillib_rpc",
+   "anvillib_multiblock",
+   "anvillib_recipe",
+   "anvillib_registrum",
+   "anvillib_sync",
+   "anvillib_wheel"
+  ],
+  "names": [
+   "AnvilLib"
+  ],
+  "authors": [
+   "Gugle"
+  ],
+  "urls": [
+   "https://github.com/Anvil-Dev/AnvilLib"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2.0.0+snapshot.494",
+  "err": ""
+ },
+ {
+  "jar": "appliedenergistics2-26.1.10-beta.346110f2.jar",
+  "modids": [
+   "ae2"
+  ],
+  "dep_modids": [
+   "guideme",
+   "emi",
+   "jei",
+   "jade",
+   "vanillafix"
+  ],
+  "names": [
+   "Applied Energistics 2"
+  ],
+  "authors": [
+   "Team AppliedEnergistics"
+  ],
+  "urls": [
+   "https://appliedenergistics.org",
+   "https://github.com/AppliedEnergistics/Applied-Energistics-2/issues"
+  ],
+  "licenses": [
+   "See GitHub repository for details"
+  ],
+  "version": "26.1.10-beta",
+  "err": ""
+ },
+ {
+  "jar": "ashihara-0.0.0.15.jar",
+  "modids": [
+   "ashihara"
+  ],
+  "dep_modids": [
+   "geckolib"
+  ],
+  "names": [
+   "Ashihara"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "${mod_license}"
+  ],
+  "version": "0.0.0.15",
+  "err": ""
+ },
+ {
+  "jar": "astral_craft-neoforge-26.1.2-1.0.0.jar",
+  "modids": [
+   "astral_craft"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Astral Craft"
+  ],
+  "authors": [
+   "Glyceryl6"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "auth-me-sgiODmNN.jar",
+  "modids": [
+   "authme"
+  ],
+  "dep_modids": [
+   "resourcefulconfig"
+  ],
+  "names": [
+   "Auth Me"
+  ],
+  "authors": [
+   "axieum"
+  ],
+  "urls": [
+   "https://github.com/axieum/authme",
+   "https://github.com/axieum/authme/issues"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "9.2.1+26.1",
+  "err": ""
+ },
+ {
+  "jar": "autosprint-0.org-itk.0.1.jar",
+  "modids": [
+   "autosprint"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Orga's AutoSprint"
+  ],
+  "authors": [
+   "luoxueyasha"
+  ],
+  "urls": [],
+  "licenses": [
+   "CC0"
+  ],
+  "version": "0.org-itk.0.1",
+  "err": ""
+ },
+ {
+  "jar": "bakeries-1.0.0.jar",
+  "modids": [
+   "bakeries"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Bakeries"
+  ],
+  "authors": [
+   "Renyigesai,1-weibai-1"
+  ],
+  "urls": [],
+  "licenses": [
+   "BSD-3-Clause + CC BY-NC-SA 4.0"
+  ],
+  "version": "1.21.1-NeoForge-1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "beecrasy-1.0.0.jar",
+  "modids": [
+   "beecrasy"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Beecrasy"
+  ],
+  "authors": [
+   "[IEEMTS]khjxiaogu,Lyuuke"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPL2.1"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "betterrod-1.0.1.jar",
+  "modids": [
+   "better_rod"
+  ],
+  "dep_modids": [],
+  "names": [
+   "BetterRod"
+  ],
+  "authors": [
+   "wither_123"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.1",
+  "err": ""
+ },
+ {
+  "jar": "boxdeco-1.0.0.jar",
+  "modids": [
+   "boxdeco"
+  ],
+  "dep_modids": [],
+  "names": [
+   "BoxDeco"
+  ],
+  "authors": [
+   "Zbx1425"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "bsf3lite-1.0.0.jar",
+  "modids": [
+   "bsf3lite"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Better Snowball Fight 3 Reforged"
+  ],
+  "authors": [
+   "Linngdu664, zx1316"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPLv3"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "cartridge-1.1.2.0.jar",
+  "modids": [
+   "cartridge",
+   "geckolib",
+   "carryon",
+   "touhou_little_maid"
+  ],
+  "dep_modids": [
+   "curios"
+  ],
+  "names": [
+   "Cartridge"
+  ],
+  "authors": [
+   "Thanks to thedarkcolour and all the contributors for making Kotlin for Forge",
+   "Chlamydomonos"
+  ],
+  "urls": [],
+  "licenses": [],
+  "version": "1.1.2.0",
+  "err": ""
+ },
+ {
+  "jar": "cauldronpp-1.0.2.jar",
+  "modids": [
+   "cauldronpp"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Cauldron++"
+  ],
+  "authors": [
+   "redColmula55"
+  ],
+  "urls": [
+   "https://github.com/redColmula55/cauldronpp-neoforge",
+   "https://github.com/redColmula55/cauldronpp-neoforge/issues"
+  ],
+  "licenses": [
+   "GPL-3.0 & CC-BY-NC-SA 4.0"
+  ],
+  "version": "1.0.2",
+  "err": ""
+ },
+ {
+  "jar": "cc_mb-neoforge-26.1.2-0.5.4.jar",
+  "modids": [
+   "cc_mb"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Music Box"
+  ],
+  "authors": [
+   "CC2001"
+  ],
+  "urls": [
+   "https://github.com/C20C01/MusicBox"
+  ],
+  "licenses": [
+   "GPL-3.0"
+  ],
+  "version": "0.5.4",
+  "err": ""
+ },
+ {
+  "jar": "cc_ms-neoforge-26.1.2-0.1.0.jar",
+  "modids": [
+   "cc_ms"
+  ],
+  "dep_modids": [],
+  "names": [
+   "MorSneak"
+  ],
+  "authors": [
+   "CC2001"
+  ],
+  "urls": [
+   "https://github.com/C20C01/MorSneak"
+  ],
+  "licenses": [
+   "GPL-3.0"
+  ],
+  "version": "0.1.0",
+  "err": ""
+ },
+ {
+  "jar": "ccw-v1.3.1-mc26.1.2.jar",
+  "modids": [
+   "ccw"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Calypso's Candy Workshop"
+  ],
+  "authors": [
+   "Yuri'sCat (Calypso) and Loci_Natit"
+  ],
+  "urls": [
+   "https://github.com/LNatit/CandyWorkshop",
+   "https://github.com/LNatit/CandyWorkshop/issues"
+  ],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.3.1",
+  "err": ""
+ },
+ {
+  "jar": "channel-26.1.2-39+beta.jar",
+  "modids": [
+   "channel"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Channel"
+  ],
+  "authors": [
+   "USS_Shenzhou, MalayP"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "26.1.2-39+beta",
+  "err": ""
+ },
+ {
+  "jar": "chatbox-26.1.2-1.1.4.jar",
+  "modids": [
+   "chatbox",
+   "chatbox"
+  ],
+  "dep_modids": [
+   "cloth_config"
+  ],
+  "names": [
+   "ChatBox",
+   "ChatBox"
+  ],
+  "authors": [
+   "",
+   "zhenshiz, Amotassic"
+  ],
+  "urls": [
+   "https://doc.mafuyu.moe/",
+   "https://github.com/zhenshiz/chatbox",
+   "https://github.com/zhenshiz/chatbox/issues"
+  ],
+  "licenses": [
+   "GPL-3.0 license"
+  ],
+  "version": "1.1.4",
+  "err": ""
+ },
+ {
+  "jar": "cloth-config-26.1.154.jar",
+  "modids": [
+   "cloth_config"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Cloth Config v26.1 API"
+  ],
+  "authors": [
+   "shedaniel"
+  ],
+  "urls": [
+   "https://github.com/architectury/ClothConfig/issues/",
+   "https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/"
+  ],
+  "licenses": [
+   "GNU LGPLv3"
+  ],
+  "version": "26.1.154",
+  "err": ""
+ },
+ {
+  "jar": "colorful_crystals-0.0.1+build.13.jar",
+  "modids": [
+   "colorful_crystals"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Colorful Crystals"
+  ],
+  "authors": [
+   "MercuryGryph"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.0.1",
+  "err": ""
+ },
+ {
+  "jar": "continuity-3.0.1-0.0.8.jar",
+  "modids": [
+   "continuity",
+   "continuity"
+  ],
+  "dep_modids": [],
+  "names": [
+   "NeoContinuity",
+   "Continuity"
+  ],
+  "authors": [
+   "Argon4W, PepperCode1"
+  ],
+  "urls": [
+   "https://github.com/Argon4W/NeoContinuity/issues",
+   "https://github.com/PepperCode1/Continuity",
+   "https://github.com/PepperCode1/Continuity/issues",
+   "https://modrinth.com/mod/continuity",
+   "https://www.curseforge.com/minecraft/mc-mods/neocontinuity"
+  ],
+  "licenses": [
+   "LGPL-3.0-only"
+  ],
+  "version": "3.0.1-0.0.8",
+  "err": ""
+ },
+ {
+  "jar": "curios-neoforge-15.0.0-beta.2+26.1.2.jar",
+  "modids": [
+   "curios"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Curios API"
+  ],
+  "authors": [
+   "C4"
+  ],
+  "urls": [
+   "https://github.com/TheIllusiveC4/Curios",
+   "https://github.com/TheIllusiveC4/Curios/issues"
+  ],
+  "licenses": [
+   "LGPL-3.0-or-later"
+  ],
+  "version": "15.0.0-beta.2+26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "damagenexus-0.1.0.jar",
+  "modids": [
+   "damagenexus"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Damage Nexus"
+  ],
+  "authors": [
+   "NaimJeg"
+  ],
+  "urls": [
+   "https://github.com/NaimJeg/DamageNexus-NeoForge26.1.2"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1.0",
+  "err": ""
+ },
+ {
+  "jar": "delicacyworld-0.4.03.jar",
+  "modids": [
+   "delicacyworld"
+  ],
+  "dep_modids": [
+   "geckolib",
+   "ldlib2"
+  ],
+  "names": [
+   "DelicacyWorld"
+  ],
+  "authors": [
+   "DelicacyWorld Team"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "0.4.03",
+  "err": ""
+ },
+ {
+  "jar": "dh_s_veinminer-1.0.13.jar",
+  "modids": [
+   "dh_s_veinminer"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Harry-hq's Vein Miner"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "GNU General Public License v3.0"
+  ],
+  "version": "1.0.13",
+  "err": ""
+ },
+ {
+  "jar": "diagonal-fences-26.1.0.jar",
+  "modids": [
+   "diagonalfences"
+  ],
+  "dep_modids": [
+   "diagonalblocks",
+   "puzzleslib"
+  ],
+  "names": [
+   "Diagonal Fences"
+  ],
+  "authors": [
+   "Fuzs, XFactHD"
+  ],
+  "urls": [
+   "https://github.com/Fuzss/diagonal-fences/issues",
+   "https://modrinth.com/mod/diagonal-fences"
+  ],
+  "licenses": [
+   "MPL-2.0"
+  ],
+  "version": "26.1.0",
+  "err": ""
+ },
+ {
+  "jar": "displaydoll-1.0.0-neoforge+mc26.1.2.jar",
+  "modids": [
+   "displaydoll"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Display Doll"
+  ],
+  "authors": [
+   "TartaricAcid, YSBB"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0-neoforge+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "drglaserpointer-1.2.0.jar",
+  "modids": [
+   "drglaserpointer"
+  ],
+  "dep_modids": [],
+  "names": [
+   "DRG Laser Pointer"
+  ],
+  "authors": [
+   "linngdu664, zx1316"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPLv3"
+  ],
+  "version": "1.2.0",
+  "err": ""
+ },
+ {
+  "jar": "dungeon_infinity-26.1.2.4+teacon.52.jar",
+  "modids": [
+   "dungeon_infinity"
+  ],
+  "dep_modids": [
+   "modulargolems"
+  ],
+  "names": [
+   "Dungeon Infinity"
+  ],
+  "authors": [
+   "lcy0x1"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPL-2.1"
+  ],
+  "version": "26.1.2.4+teacon.52",
+  "err": ""
+ },
+ {
+  "jar": "dynamictrees-neoforge-26.1.2-1.8.0-BETA03.jar",
+  "modids": [
+   "dynamictrees"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Dynamic Trees"
+  ],
+  "authors": [
+   "Current developer: MaxHyper. Development of treepacks: Harley O'Connor. Help with version ports: Nyfaria, SizeableShrimp & Harley O'Connor",
+   "Ferreusveritas"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.8.0-BETA03",
+  "err": ""
+ },
+ {
+  "jar": "enchanted-vertical-slabs-EUlKZFNN.jar",
+  "modids": [
+   "evs"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Enchanted Vertical Slabs"
+  ],
+  "authors": [
+   "",
+   "Enchanted_Games"
+  ],
+  "urls": [
+   "https://github.com/Enchanted-Games/enchanted-vertical-slabs/issues",
+   "https://verticalslabs.enchanted.games/"
+  ],
+  "licenses": [
+   "CC BY-NC 4.0"
+  ],
+  "version": "2.6.6",
+  "err": ""
+ },
+ {
+  "jar": "ether_craft-0.4.1_mc26.1.2.jar",
+  "modids": [
+   "ether_craft"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Ether Craft"
+  ],
+  "authors": [
+   "xypp, Yuia"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.4.1",
+  "err": ""
+ },
+ {
+  "jar": "extra_interaction-1.0.jar",
+  "modids": [
+   "extra_interaction"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Extra Interaction"
+  ],
+  "authors": [
+   "Amotassic"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0",
+  "err": ""
+ },
+ {
+  "jar": "ferrite-core-9.0.0-neoforge.jar",
+  "modids": [
+   "ferritecore"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Ferrite Core"
+  ],
+  "authors": [
+   "malte0811"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "9.0.0",
+  "err": ""
+ },
+ {
+  "jar": "furnitureplan-0.1.00.jar",
+  "modids": [
+   "furnitureplan"
+  ],
+  "dep_modids": [
+   "ageratum"
+  ],
+  "names": [
+   "Furniture Plan Mod"
+  ],
+  "authors": [
+   "Maker As YEEEEAH~, Jing_qi As DownAndUp"
+  ],
+  "urls": [],
+  "licenses": [
+   "GPLv3"
+  ],
+  "version": "0.1.00",
+  "err": ""
+ },
+ {
+  "jar": "geckolib-neoforge-26.1.2-5.5.1.jar",
+  "modids": [
+   "geckolib"
+  ],
+  "dep_modids": [],
+  "names": [
+   "GeckoLib 5"
+  ],
+  "authors": [
+   "Tslat",
+   "Zigy, Witixin, Gecko"
+  ],
+  "urls": [
+   "http://geckolib.com/",
+   "https://github.com/bernie-g/geckolib/issues"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "5.5.1",
+  "err": ""
+ },
+ {
+  "jar": "gensokyoontology-1.0.0.jar",
+  "modids": [
+   "gensokyoontology"
+  ],
+  "dep_modids": [],
+  "names": [
+   "GensokyoOntology"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "girlfriends-0.1.0+mc26.1.2.jar",
+  "modids": [
+   "girlfriends"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Girlfriends"
+  ],
+  "authors": [
+   "Hexagram",
+   "Liu Dongyu"
+  ],
+  "urls": [
+   "https://github.com/Viola-Siemens/Girlfriends/issues"
+  ],
+  "licenses": [
+   "Artistic-2.0"
+  ],
+  "version": "0.1.0+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "grack-0.1.jar",
+  "modids": [
+   "grack"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Grack"
+  ],
+  "authors": [
+   "MaxPixelStudios(XiaoPangxie732)"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1",
+  "err": ""
+ },
+ {
+  "jar": "guide_me_to-26.1.2-6.jar",
+  "modids": [
+   "guide_me_to"
+  ],
+  "dep_modids": [
+   "t88"
+  ],
+  "names": [
+   "GuideMeTo"
+  ],
+  "authors": [
+   "USS_Shenzhou"
+  ],
+  "urls": [
+   "https://holojaneway.uss-shenzhou.cn/tellmewhere/home"
+  ],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "26.1.2-6",
+  "err": ""
+ },
+ {
+  "jar": "guideme-26.1.12-beta.jar",
+  "modids": [
+   "guideme"
+  ],
+  "dep_modids": [],
+  "names": [
+   "GuideME"
+  ],
+  "authors": [
+   "shartte"
+  ],
+  "urls": [
+   "https://github.com/AppliedEnergistics/GuideME/",
+   "https://github.com/AppliedEnergistics/GuideME/issues"
+  ],
+  "licenses": [
+   "See GitHub repository for details"
+  ],
+  "version": "26.1.12-beta",
+  "err": ""
+ },
+ {
+  "jar": "harvestheritage-1.3.4.jar",
+  "modids": [
+   "harvestheritage"
+  ],
+  "dep_modids": [],
+  "names": [
+   "HarvestHeritage"
+  ],
+  "authors": [
+   "theabab2333, Abslb, GTriXy"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.3.4",
+  "err": ""
+ },
+ {
+  "jar": "hotbaaaar-26.1.2-2.jar",
+  "modids": [
+   "hotbaaaar"
+  ],
+  "dep_modids": [],
+  "names": [
+   "HotBaaaar"
+  ],
+  "authors": [
+   "USS_Shenzhou"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "26.1.2-2",
+  "err": ""
+ },
+ {
+  "jar": "hurriedness-0.1.jar",
+  "modids": [
+   "hurriedness"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Hurriedness"
+  ],
+  "authors": [
+   "MaxPixelStudios(XiaoPangxie732)"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1",
+  "err": ""
+ },
+ {
+  "jar": "industrybase-26.1.2-1.0-alpha.jar",
+  "modids": [
+   "industrybase"
+  ],
+  "dep_modids": [],
+  "names": [
+   "IndustryBase"
+  ],
+  "authors": [
+   "Make Minecraft great again!",
+   "BinZhengStudio, vvvbbbcz, FengMing, forever_Starship"
+  ],
+  "urls": [
+   "https://github.com/BinZhengStudio/IndustryBase/"
+  ],
+  "licenses": [
+   "Mozilla Public License Version 2.0"
+  ],
+  "version": "1.0-alpha",
+  "err": ""
+ },
+ {
+  "jar": "infinite_board_games-0.1.jar",
+  "modids": [
+   "infinite_board_games"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Infinite Board Games"
+  ],
+  "authors": [
+   "MaxPixelStudios(XiaoPangxie732)"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1",
+  "err": ""
+ },
+ {
+  "jar": "inkraft-neoforge-2.0.0+mc26.1.2.jar",
+  "modids": [
+   "inkraft"
+  ],
+  "dep_modids": [
+   "adventure_platform_neoforge"
+  ],
+  "names": [
+   "Inkraft"
+  ],
+  "authors": [
+   "qyl27"
+  ],
+  "urls": [
+   "https://github.com/qyl27/Inkraft/issues"
+  ],
+  "licenses": [
+   "PolyForm Shield 1.0.0"
+  ],
+  "version": "2.0.0",
+  "err": ""
+ },
+ {
+  "jar": "iris-neoforge-1.10.9+mc26.1.1.jar",
+  "modids": [
+   "iris",
+   "iris"
+  ],
+  "dep_modids": [
+   "embeddium",
+   "sodium"
+  ],
+  "names": [
+   "Iris",
+   "Iris"
+  ],
+  "authors": [
+   "coderbot, IMS212"
+  ],
+  "urls": [
+   "https://github.com/IrisShaders/Iris",
+   "https://github.com/IrisShaders/Iris.git",
+   "https://github.com/IrisShaders/Iris/issues"
+  ],
+  "licenses": [
+   "LGPL-3.0-only"
+  ],
+  "version": "1.10.9+mc26.1.1",
+  "err": ""
+ },
+ {
+  "jar": "jecharacters-NeoForge-26.1.2-26.0.9.jar",
+  "modids": [
+   "jecharacters"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Just Enough Characters"
+  ],
+  "authors": [
+   "Thanks to TartaricAcid, 3TUSK, Seraph_JACK, Snownee and many people for their efforts for development of the Chinese modding community.",
+   "Towdium, yzl210, Death-123, vfyjxf_"
+  ],
+  "urls": [
+   "https://github.com/Towdium/JustEnoughCharacters",
+   "https://github.com/Towdium/JustEnoughCharacters/issues"
+  ],
+  "licenses": [
+   "MIT License"
+  ],
+  "version": "4.6.3",
+  "err": ""
+ },
+ {
+  "jar": "jei-9G0iRx9i.jar",
+  "modids": [
+   "jei"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Just Enough Items"
+  ],
+  "authors": [
+   "mezz"
+  ],
+  "urls": [
+   "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
+   "https://www.curseforge.com/minecraft/mc-mods/jei"
+  ],
+  "licenses": [
+   "The MIT License (MIT)"
+  ],
+  "version": "29.21.0.66",
+  "err": ""
+ },
+ {
+  "jar": "kaleidoscopetavern-1.1.2-neoforge+mc26.1.2.jar",
+  "modids": [
+   "kaleidoscope_tavern"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Kaleidoscope Tavern"
+  ],
+  "authors": [
+   "ysbbbbbb, tartaric_acid"
+  ],
+  "urls": [],
+  "licenses": [
+   "BSD-3-Clause + CC BY-NC-SA 4.0"
+  ],
+  "version": "1.1.2-neoforge+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "kilagraphdemo-neoforge-26.1-26.1.0.3.jar",
+  "modids": [
+   "kilagraphdemo"
+  ],
+  "dep_modids": [
+   "kilagraph",
+   "slide_show"
+  ],
+  "names": [
+   "KilaGraphDemo"
+  ],
+  "authors": [
+   "KilaBash"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT-LICENSE"
+  ],
+  "version": "26.1.0.3",
+  "err": ""
+ },
+ {
+  "jar": "kotlinforforge-6.2.0-all.9114aa0f.jar",
+  "modids": [],
+  "dep_modids": [],
+  "names": [],
+  "authors": [],
+  "urls": [],
+  "licenses": [],
+  "version": "",
+  "err": ""
+ },
+ {
+  "jar": "lanfasie_benderson-0.1.1.jar",
+  "modids": [
+   "lanfasie_benderson"
+  ],
+  "dep_modids": [
+   "geckolib",
+   "project_me"
+  ],
+  "names": [
+   "Lanfasie: Chapter Benderson"
+  ],
+  "authors": [
+   "cvrunmin"
+  ],
+  "urls": [
+   "https://github.com/cvrunmin/LanfasieBenderson"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1.1",
+  "err": ""
+ },
+ {
+  "jar": "ldlib2-neoforge-26.1-26.1.2.31.jar",
+  "modids": [
+   "ldlib2"
+  ],
+  "dep_modids": [
+   "jei"
+  ],
+  "names": [
+   "LowDragLib2"
+  ],
+  "authors": [
+   "KilaBash"
+  ],
+  "urls": [
+   "https://github.com/Low-Drag-MC/LDLib2"
+  ],
+  "licenses": [
+   "LGPL-3.0 license"
+  ],
+  "version": "26.1.2.31",
+  "err": ""
+ },
+ {
+  "jar": "let_me_see_see-1.3.10.jar",
+  "modids": [
+   "let_me_see_see"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Let Me See See (Your Code)"
+  ],
+  "authors": [
+   "xkball"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPLv3.0"
+  ],
+  "version": "1.3.10",
+  "err": ""
+ },
+ {
+  "jar": "letter_signal_phone-1.0.0.jar",
+  "modids": [
+   "letter_signal_phone"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Letter,Signal,Phone"
+  ],
+  "authors": [
+   "Royling"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "lights_up-1.0.0.jar",
+  "modids": [
+   "lights_up"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Lights up!"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "link_portals-1.0.0.jar",
+  "modids": [
+   "link_portals"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Link Portals"
+  ],
+  "authors": [
+   "haohao0407"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "live_helper-1.0.0-all.jar",
+  "modids": [
+   "live_helper"
+  ],
+  "dep_modids": [],
+  "names": [
+   "LiveHelper"
+  ],
+  "authors": [
+   "Burning_TNT"
+  ],
+  "urls": [],
+  "licenses": [
+   "AGPL-3.0-only"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "living_unvanished-1.0.0.jar",
+  "modids": [
+   "living_unvanished"
+  ],
+  "dep_modids": [
+   "geckolib"
+  ],
+  "names": [
+   "Living Unvanished"
+  ],
+  "authors": [
+   "qyl27"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "locusazzurro_icaruswings-26.1.2-0.7.0.jar",
+  "modids": [
+   "locusazzurro_icaruswings"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Icarus Wings"
+  ],
+  "authors": [
+   "LocusAzzurro",
+   "Contributors on GitHub and all who supported development."
+  ],
+  "urls": [
+   "https://github.com/LocusAzzurro/icaruswings_mod/issues"
+  ],
+  "licenses": [
+   "GPL-3.0"
+  ],
+  "version": "26.1.2-0.7.0",
+  "err": ""
+ },
+ {
+  "jar": "madparticle-26.1.2-13.jar",
+  "modids": [
+   "madparticle"
+  ],
+  "dep_modids": [
+   "t88"
+  ],
+  "names": [
+   "MadParticle"
+  ],
+  "authors": [
+   "USS_Shenzhou"
+  ],
+  "urls": [
+   "https://holojaneway.uss-shenzhou.cn/madparticle"
+  ],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "26.1.2-13",
+  "err": ""
+ },
+ {
+  "jar": "magic_io-1.0.0.jar",
+  "modids": [
+   "magic_io"
+  ],
+  "dep_modids": [
+   "jade",
+   "jei",
+   "ageratum"
+  ],
+  "names": [
+   "MagicIO"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "maid_bakeries-1.0.0.jar",
+  "modids": [
+   "maid_bakeries"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Maid Bakeries"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "manabove-0.0.4.jar",
+  "modids": [
+   "manabove"
+  ],
+  "dep_modids": [],
+  "names": [
+   "ManAbove"
+  ],
+  "authors": [
+   "",
+   "Zershyan"
+  ],
+  "urls": [
+   "https://github.com/Zershyan/ManAbove"
+  ],
+  "licenses": [
+   "GNU AGPL 3.0"
+  ],
+  "version": "0.0.4",
+  "err": ""
+ },
+ {
+  "jar": "mekmm-26.1.2-2.0.0.jar",
+  "modids": [
+   "mekmm"
+  ],
+  "dep_modids": [
+   "mekanism"
+  ],
+  "names": [
+   "Mekanism: MoreMachine"
+  ],
+  "authors": [
+   "Lost Myself",
+   "Thank you to all those who have made any contributions to this mod"
+  ],
+  "urls": [
+   "https://github.com/lostmyself8/Mekanism-MoreMachine",
+   "https://github.com/lostmyself8/Mekanism-MoreMachine/issues"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2.0.0",
+  "err": ""
+ },
+ {
+  "jar": "middle_key_ping-neoforge-26.1.2-2.0.0+pr.15.jar",
+  "modids": [
+   "middle_key_ping"
+  ],
+  "dep_modids": [],
+  "names": [
+   "MiddleKeyPing"
+  ],
+  "authors": [
+   "Anvil-Dev"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU LGPL 3.0"
+  ],
+  "version": "2.0.0",
+  "err": ""
+ },
+ {
+  "jar": "minecartrevolution-1.0.1.jar",
+  "modids": [
+   "minecartrevolution"
+  ],
+  "dep_modids": [],
+  "names": [
+   "MinecartRevolution"
+  ],
+  "authors": [
+   "Ryan100C Liuyue_awa Mulatram_UwU Yakon0705"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT License"
+  ],
+  "version": "1.0.1",
+  "err": ""
+ },
+ {
+  "jar": "minecraft-moddev-mcp-neoforge-26.1.2-0.2.0.jar",
+  "modids": [
+   "mcpmod"
+  ],
+  "dep_modids": [],
+  "names": [
+   "ModDev MCP"
+  ],
+  "authors": [
+   "langyo"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.2.0",
+  "err": ""
+ },
+ {
+  "jar": "minethespire-0.0.1.jar",
+  "modids": [
+   "minethespire"
+  ],
+  "dep_modids": [
+   "curios",
+   "jade",
+   "jei"
+  ],
+  "names": [
+   "Mine the Spire"
+  ],
+  "authors": [
+   "PajangForever"
+  ],
+  "urls": [],
+  "licenses": [
+   "GPL v3.0"
+  ],
+  "version": "0.0.1",
+  "err": ""
+ },
+ {
+  "jar": "minopp-1.5.0+26.1.2-neoforge.jar",
+  "modids": [
+   "minopp"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Minopp"
+  ],
+  "authors": [
+   "Zbx1425, MalayP"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.5.0+26.1.2-neoforge",
+  "err": ""
+ },
+ {
+  "jar": "modern-ui-3.13.0.5.jar",
+  "modids": [
+   "modernui"
+  ],
+  "dep_modids": [
+   "tipthescales"
+  ],
+  "names": [
+   "Modern UI"
+  ],
+  "authors": [
+   "BloCamLimb"
+  ],
+  "urls": [
+   "https://curseforge.com/minecraft/mc-mods/modern-ui",
+   "https://github.com/BloCamLimb/ModernUI/issues"
+  ],
+  "licenses": [
+   "LGPL-3.0-or-later"
+  ],
+  "version": "3.13.0.5",
+  "err": ""
+ },
+ {
+  "jar": "modulargolems-26.1.2.0+12+dungeon.jar",
+  "modids": [
+   "modulargolems"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Modular Golems"
+  ],
+  "authors": [
+   "lcy0x1"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPL-2.1"
+  ],
+  "version": "26.1.2.0+12+dungeon",
+  "err": ""
+ },
+ {
+  "jar": "momentum-1.2.10-release.jar",
+  "modids": [
+   "momentum"
+  ],
+  "dep_modids": [
+   "player_animation_library",
+   "curios"
+  ],
+  "names": [
+   "Momentum"
+  ],
+  "authors": [
+   "AkiraHane"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.2.10-release",
+  "err": ""
+ },
+ {
+  "jar": "nature_rebirth-1.0.4.jar",
+  "modids": [
+   "nature_rebirth"
+  ],
+  "dep_modids": [
+   "ageratum"
+  ],
+  "names": [
+   "Nature Rebirth"
+  ],
+  "authors": [
+   "Nature Rebirth Team",
+   "gloomybanana"
+  ],
+  "urls": [],
+  "licenses": [
+   "CC0-1.0"
+  ],
+  "version": "1.0.4",
+  "err": ""
+ },
+ {
+  "jar": "neo_mystias_izakaya-neoforge-26.1.6.jar",
+  "modids": [
+   "neo_mystias_izakaya",
+   "kaguya"
+  ],
+  "dep_modids": [
+   "jei",
+   "rei",
+   "touhou_little_maid",
+   "kaguya"
+  ],
+  "names": [
+   "NeoMystiasIzakaya",
+   "Kaguya"
+  ],
+  "authors": [
+   "NeoMystiasIzakaya Team: Kaguya154, Crystal1921, SAGUMEDREAM",
+   "Kaguya154"
+  ],
+  "urls": [],
+  "licenses": [
+   "GPLv3 or later",
+   "GPLv3 or later",
+   "GPLv3 or later"
+  ],
+  "version": "26.1.6",
+  "err": ""
+ },
+ {
+  "jar": "neoecoae-1.3.4.jar",
+  "modids": [
+   "neoecoae"
+  ],
+  "dep_modids": [
+   "ae2",
+   "ldlib2"
+  ],
+  "names": [
+   "Neo ECO AE Extension"
+  ],
+  "authors": [
+   "DancingSnow, ZhuRuoLing"
+  ],
+  "urls": [
+   "https://github.com/DancingSnow0517/NeoECOAEExtension",
+   "https://github.com/DancingSnow0517/NeoECOAEExtension/issues"
+  ],
+  "licenses": [
+   "GPLv3"
+  ],
+  "version": "1.3.4",
+  "err": ""
+ },
+ {
+  "jar": "nestle-0.1.2-neoforge+mc26.1.2.jar",
+  "modids": [
+   "nestle"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Nestle"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1.2-neoforge+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "net_music_can_play_bili-0.7.10-beta.jar",
+  "modids": [
+   "net_music_can_play_bili"
+  ],
+  "dep_modids": [
+   "netmusic",
+   "curios",
+   "area_control"
+  ],
+  "names": [
+   "Net Music Can Play Bili"
+  ],
+  "authors": [
+   "zhongbai233"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.7.10-beta",
+  "err": ""
+ },
+ {
+  "jar": "netherlink-26.1.2-neoforge-0.1.0-tc.jar",
+  "modids": [
+   "netherlink"
+  ],
+  "dep_modids": [],
+  "names": [
+   "NetherLink"
+  ],
+  "authors": [
+   "",
+   "MUYU_Twilighter"
+  ],
+  "urls": [
+   "https://github.com/MUYUTwilighter/NetherLink/issues",
+   "https://nli.muyucloud.cool/"
+  ],
+  "licenses": [
+   "MIT with Additional Terms"
+  ],
+  "version": "0.1.0-tc-beta",
+  "err": ""
+ },
+ {
+  "jar": "netmusic-1.5.1-neoforge+mc26.1-all.jar",
+  "modids": [
+   "netmusic"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Net Music Mod"
+  ],
+  "authors": [
+   "TartaricAcid, IMG, 郝南村, 琥珀酸, 帕金伊, SQwatermark"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.5.1-neoforge+mc26.1",
+  "err": ""
+ },
+ {
+  "jar": "nowaterupdate-26.1.2-1.jar",
+  "modids": [
+   "nowaterupdate"
+  ],
+  "dep_modids": [],
+  "names": [
+   "NoWaterUpdate"
+  ],
+  "authors": [
+   "USS_Shenzhou"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "26.1.2-1",
+  "err": ""
+ },
+ {
+  "jar": "olru-0.0.1-alpha.jar",
+  "modids": [
+   "olru"
+  ],
+  "dep_modids": [],
+  "names": [
+   "One Last Rising Uppercut"
+  ],
+  "authors": [
+   "MarbleGate"
+  ],
+  "urls": [],
+  "licenses": [
+   "See License files"
+  ],
+  "version": "0.0.1-alpha",
+  "err": ""
+ },
+ {
+  "jar": "parkour-1.0.3+mc26.1.2.jar",
+  "modids": [
+   "parkour"
+  ],
+  "dep_modids": [
+   "player_animation_library"
+  ],
+  "names": [
+   "Parkour"
+  ],
+  "authors": [
+   "【排名不分先后】瑞雪真冬、artemisSystem、alRex_U",
+   "arcomit"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU LGPL 3.0"
+  ],
+  "version": "1.0.3+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "path_script-1.0.0.jar",
+  "modids": [
+   "path_script"
+  ],
+  "dep_modids": [
+   "touhou_little_maid"
+  ],
+  "names": [
+   "path_script"
+  ],
+  "authors": [
+   ""
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "phone_generator-1.0.0.jar",
+  "modids": [
+   "phone_generator"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Phone Generator"
+  ],
+  "authors": [
+   "1"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "programmable_magic-0.1.3.jar",
+  "modids": [
+   "programmable_magic"
+  ],
+  "dep_modids": [],
+  "names": [
+   "programmable_magic"
+  ],
+  "authors": [
+   ""
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "0.1.3",
+  "err": ""
+ },
+ {
+  "jar": "puzzles-lib-26.1.11.jar",
+  "modids": [
+   "puzzleslib"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Puzzles Lib"
+  ],
+  "authors": [
+   "Fuzs"
+  ],
+  "urls": [
+   "https://github.com/Fuzss/puzzles-lib/issues",
+   "https://modrinth.com/mod/puzzles-lib"
+  ],
+  "licenses": [
+   "MPL-2.0"
+  ],
+  "version": "26.1.11",
+  "err": ""
+ },
+ {
+  "jar": "repo-26.1.2-0.0.1+build.13.jar",
+  "modids": [
+   "bonded_peaks"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Bonded Peaks"
+  ],
+  "authors": [
+   "Gugle"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPL-3.0"
+  ],
+  "version": "0.0.1",
+  "err": ""
+ },
+ {
+  "jar": "repo-26.1.2-3.0.jar",
+  "modids": [
+   "convivium"
+  ],
+  "dep_modids": [
+   "caupona"
+  ],
+  "names": [
+   "Convivium"
+  ],
+  "authors": [
+   "khjxiaogu, Lyuuke"
+  ],
+  "urls": [
+   "https://github.com/khjxiaogu/Convivium/issues"
+  ],
+  "licenses": [
+   "GPLv3"
+  ],
+  "version": "${file.jarVersion}",
+  "err": ""
+ },
+ {
+  "jar": "resin_gun-neoforge-26.1.2-0.0.1+build.12.jar",
+  "modids": [
+   "resin_gun",
+   "resin_gun"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Resin Gun",
+   "树脂枪"
+  ],
+  "authors": [
+   "CR-019 AbraHam_0624"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Right Reserved"
+  ],
+  "version": "0.0.1",
+  "err": ""
+ },
+ {
+  "jar": "shadowsandpetals-1.0.0.jar",
+  "modids": [
+   "shadowsandpetals"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Shadows And Petals"
+  ],
+  "authors": [
+   "Shinonome Shakusora, Centurion"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "shakenstir-1.0.0.jar",
+  "modids": [
+   "shakenstir"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Shake n Stir"
+  ],
+  "authors": [
+   "hawah"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "shengpi-1.0.0.jar",
+  "modids": [
+   "shengpi"
+  ],
+  "dep_modids": [],
+  "names": [
+   "圣脾"
+  ],
+  "authors": [
+   "秦千久"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "simple_path_finder-0.1.0-neoforge+mc26.1.2.jar",
+  "modids": [
+   "simple_path_finder"
+  ],
+  "dep_modids": [],
+  "names": [
+   "SimplePathFinder"
+  ],
+  "authors": [],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "0.1.0-neoforge+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "sip_moment-1.0.0.jar",
+  "modids": [
+   "sip_moment"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Sip Moment"
+  ],
+  "authors": [
+   "Renyigesai"
+  ],
+  "urls": [],
+  "licenses": [
+   "BSD-3-Clause + CC BY-NC-SA 4.0"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "skywarddive-1.0.0.jar",
+  "modids": [
+   "skywarddive"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Skyward Dive"
+  ],
+  "authors": [
+   "MarbleGate"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "sodium-neoforge-0.8.12+mc26.1.2.jar",
+  "modids": [
+   "sodium"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Sodium"
+  ],
+  "authors": [
+   "JellySquid (jellysquid3), IMS212",
+   "bytzo, PepperCode1, FlashyReese, altrisi, Grayray75, Madis0, Johni0702, comp500, coderbot16, Moulberry, MCRcortex, Altirix, embeddedt, pajicadvance, Kroppeb, douira, burgerindividual, TwistedZero, Leo40Git, haykam821, muzikbike"
+  ],
+  "urls": [],
+  "licenses": [
+   "Polyform-Shield-1.0.0"
+  ],
+  "version": "0.8.12+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "spark-1.10.172-neoforge.jar",
+  "modids": [
+   "spark"
+  ],
+  "dep_modids": [],
+  "names": [
+   "spark"
+  ],
+  "authors": [
+   "Luck"
+  ],
+  "urls": [],
+  "licenses": [
+   "GPLv3"
+  ],
+  "version": "1.10.172",
+  "err": ""
+ },
+ {
+  "jar": "spitfight-1.0.0.jar",
+  "modids": [
+   "spitfight"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Spit Fight"
+  ],
+  "authors": [
+   "redColmula55"
+  ],
+  "urls": [],
+  "licenses": [
+   "GPL-3.0"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "stoneworks-yI3EuefP.jar",
+  "modids": [
+   "stoneworks"
+  ],
+  "dep_modids": [
+   "puzzleslib"
+  ],
+  "names": [
+   "Stoneworks"
+  ],
+  "authors": [
+   "Fuzs"
+  ],
+  "urls": [
+   "https://github.com/Fuzss/stoneworks/issues",
+   "https://modrinth.com/mod/stoneworks"
+  ],
+  "licenses": [
+   "MPL-2.0"
+  ],
+  "version": "26.1.0",
+  "err": ""
+ },
+ {
+  "jar": "super_lead-0.4.9-beta.jar",
+  "modids": [
+   "super_lead"
+  ],
+  "dep_modids": [
+   "ae2",
+   "mekanism",
+   "mekmm",
+   "jei",
+   "netmusic",
+   "net_music_can_play_bili"
+  ],
+  "names": [
+   "Super Lead"
+  ],
+  "authors": [
+   "zhongbai233"
+  ],
+  "urls": [],
+  "licenses": [
+   "Apache 2.0"
+  ],
+  "version": "0.4.9-beta",
+  "err": ""
+ },
+ {
+  "jar": "superpipeslide-0.4.0-beta.jar",
+  "modids": [
+   "superpipeslide"
+  ],
+  "dep_modids": [],
+  "names": [
+   "SuperPipeSlide"
+  ],
+  "authors": [
+   "MarbleGate"
+  ],
+  "urls": [],
+  "licenses": [
+   "See License files"
+  ],
+  "version": "0.4.0-beta",
+  "err": ""
+ },
+ {
+  "jar": "t88-26.1.2-1.jar",
+  "modids": [
+   "t88"
+  ],
+  "dep_modids": [],
+  "names": [
+   "T88"
+  ],
+  "authors": [
+   "USS_Shenzhou"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPL 3.0"
+  ],
+  "version": "26.1.2-1",
+  "err": ""
+ },
+ {
+  "jar": "terraria_boulders-1.0.jar",
+  "modids": [
+   "terraria_boulders"
+  ],
+  "dep_modids": [],
+  "names": [
+   "TerrariaBoulders"
+  ],
+  "authors": [
+   "XiaoJin,Txt Text"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0",
+  "err": ""
+ },
+ {
+  "jar": "tetrachordlib-26.1+1.0.3.jar",
+  "modids": [
+   "tetrachordlib"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Tetrachord Lib"
+  ],
+  "authors": [
+   "Hexagram",
+   "Liu Dongyu"
+  ],
+  "urls": [
+   "https://github.com/Viola-Siemens/Tetrachord-Lib/issues"
+  ],
+  "licenses": [
+   "LGPL v2.1"
+  ],
+  "version": "26.1+1.0.3",
+  "err": ""
+ },
+ {
+  "jar": "thatskyinteractions-26.1.2-2.1.0-rc2.jar",
+  "modids": [
+   "thatskyinteractions"
+  ],
+  "dep_modids": [],
+  "names": [
+   "ThatSkyInteractions"
+  ],
+  "authors": [
+   "Louis_Quepierts QuepiertsAndier"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2.1.0-rc2",
+  "err": ""
+ },
+ {
+  "jar": "thestreetism-2668-debug.jar",
+  "modids": [
+   "thestreetism"
+  ],
+  "dep_modids": [],
+  "names": [
+   "TheStreetism"
+  ],
+  "authors": [
+   "cuitteacon"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2668-debug",
+  "err": ""
+ },
+ {
+  "jar": "touhoulittlemaid-2.0.0-neoforge+mc26.1.2-all.jar",
+  "modids": [
+   "touhou_little_maid"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Touhou Little Maid"
+  ],
+  "authors": [
+   "Verclene, ZUN",
+   "TartaricAcid, Snownee, Succinum, Pajinyi, Zhi_Ban, CrystalizedSun, Foky, ZeniCrow, Paulzzh, Yuriscat, Lappland162"
+  ],
+  "urls": [
+   "https://discord.gg/re4xQtb",
+   "https://github.com/TartaricAcid/TouhouLittleMaid/issues"
+  ],
+  "licenses": [
+   "MIT / CC BY-NC-SA 4.0"
+  ],
+  "version": "2.0.0-neoforge+mc26.1.2",
+  "err": ""
+ },
+ {
+  "jar": "trading_table-1.0.0.jar",
+  "modids": [
+   "trading_table"
+  ],
+  "dep_modids": [
+   "neo_mystias_izakaya"
+  ],
+  "names": [
+   "Harvista's Trading Table"
+  ],
+  "authors": [
+   "HaooooZhang, Aurora_Feather"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "transmutatoria-1.0.0.jar",
+  "modids": [
+   "transmutatoria"
+  ],
+  "dep_modids": [
+   "ageratum",
+   "patchouli",
+   "touhou_little_maid"
+  ],
+  "names": [
+   "Ars Transmutatoria"
+  ],
+  "authors": [
+   "linngdu664,zx1316"
+  ],
+  "urls": [],
+  "licenses": [
+   "GNU GPLv3"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "ultramarine-0.8-snapshot.jar",
+  "modids": [
+   "ultramarine"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Ultramarine"
+  ],
+  "authors": [
+   "Soul_Shadow, LocusAzzurro",
+   "See credits file"
+  ],
+  "urls": [
+   "https://github.com/LocusAzzurro/Ultramarine/issues"
+  ],
+  "licenses": [
+   "source and binary under BSD-3, assets under CC-BY-NC 4.0"
+  ],
+  "version": "0.8-snapshot",
+  "err": ""
+ },
+ {
+  "jar": "valorant-1.0.0.jar",
+  "modids": [
+   "valorant"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Valorant"
+  ],
+  "authors": [
+   "StrangeSmell"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "vw50-1.0.0.jar",
+  "modids": [
+   "vw50"
+  ],
+  "dep_modids": [],
+  "names": [
+   "VW50"
+  ],
+  "authors": [
+   "Glyceryl6, Zoshsgahdnkc"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "wenyan_addon-1.0.0.jar",
+  "modids": [
+   "wenyan_addon"
+  ],
+  "dep_modids": [
+   "wenyan_programming",
+   "middle_key_ping"
+  ],
+  "names": [
+   "Wenyan Addon"
+  ],
+  "authors": [
+   "WenyanTeam"
+  ],
+  "urls": [],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "wenyan_programming-1.0.1.jar",
+  "modids": [
+   "wenyan_programming"
+  ],
+  "dep_modids": [
+   "cloth_config",
+   "jei"
+  ],
+  "names": [
+   "Wenyan Programming"
+  ],
+  "authors": [
+   "gyxx_xc, ugnjhjf"
+  ],
+  "urls": [
+   "https://github.com/gyxx-xc/WenyanNature/issues",
+   "https://gyxx-xc.github.io/WenyanNature/"
+  ],
+  "licenses": [
+   "GNU LGPLv3"
+  ],
+  "version": "1.0.1",
+  "err": ""
+ },
+ {
+  "jar": "womm-1.0.0.jar",
+  "modids": [
+   "womm"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Works On My Machine"
+  ],
+  "authors": [
+   "Loci_Natit"
+  ],
+  "urls": [],
+  "licenses": [
+   "All Rights Reserved"
+  ],
+  "version": "1.0.0",
+  "err": ""
+ },
+ {
+  "jar": "woodenanvil-26.1-5e28a9c.jar",
+  "modids": [
+   "woodenanvil"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Twelve Wooden Anvil"
+  ],
+  "authors": [
+   "maidong0809",
+   "12idea"
+  ],
+  "urls": [
+   "https://gitee.com/XII-idea/wooden-anvil"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "26.1-5e28a9c",
+  "err": ""
+ },
+ {
+  "jar": "x3d_map-1.0.13.jar",
+  "modids": [
+   "x3d_map"
+  ],
+  "dep_modids": [],
+  "names": [
+   "x3d map"
+  ],
+  "authors": [
+   "xkball"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPLv3"
+  ],
+  "version": "1.0.13",
+  "err": ""
+ },
+ {
+  "jar": "yet_another_config_lib_v3-3.9.3+26.1-neoforge.efecea6b.jar",
+  "modids": [
+   "yet_another_config_lib_v3"
+  ],
+  "dep_modids": [],
+  "names": [
+   "YetAnotherConfigLib"
+  ],
+  "authors": [
+   "isXander"
+  ],
+  "urls": [],
+  "licenses": [
+   "LGPL-3.0-or-later"
+  ],
+  "version": "3.9.3+26.1-neoforge",
+  "err": ""
+ },
+ {
+  "jar": "yuushya-26.1-neoforge-2.3.0.jar",
+  "modids": [
+   "yuushya"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Yuushya"
+  ],
+  "authors": [
+   "Coco, Xiao2 or XiLaiTL, SQwatermark, XieZai, Hikari, LD_Anvil, Little Panda"
+  ],
+  "urls": [
+   "https://yuushya.com/townscape/"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2.3.0",
+  "err": ""
+ },
+ {
+  "jar": "yuushya_modelling-26.1.2-2.4.2.jar",
+  "modids": [
+   "yuushya_modelling"
+  ],
+  "dep_modids": [],
+  "names": [
+   "Yuushya Modelling"
+  ],
+  "authors": [
+   "Solid support from the team and the community!",
+   "Coco, Xiao2 or XiLaiTL, SQwatermark, XieZai, Hikari, LD_Anvil, Little Panda, Crystal1921"
+  ],
+  "urls": [
+   "https://yuushya.com/townscape/"
+  ],
+  "licenses": [
+   "MIT"
+  ],
+  "version": "2.4.2",
+  "err": ""
+ }
+]

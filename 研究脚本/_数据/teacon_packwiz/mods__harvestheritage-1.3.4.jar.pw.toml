@@ -1,0 +1,13 @@
+name = "收获：遗产"
+filename = "harvestheritage-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-harvestheritage/harvestheritage-63.jar"
+hash-format = "sha256"
+hash = "67182f78f98a10e22bc4c36ad2e2a9c0945c0fed5dc53c779fd3bf9685d059eb"
+
+[option]
+optional = false
+description = "收获：遗产 by 默默的摸鱼\nBuild #63\n\"我很敬佩第一个从草里打出种子的人——说不定那是小麦种子呢。\"\n当人们第一次从草丛中收获小麦种子时，可曾想过：真的只有小麦种子吗？将种子播撒入土时，可曾思考过：种植的方式只能如此吗？\n疑问一旦生根，思考便无法停止。后人在草间发现了先人留下的遗产：形态各异的种子、分门别类的种植技艺。\n这份遗产诉说着：观察每一颗种子，培育每一份生机，将它们种植在最适宜的土地上，你将收获一片大好河山。\n这一次，打草收获的，不止是小麦种子。\n\n发布帖或介绍内容的链接\nmc百科：https://www.mcmod.cn/class/edit/28158/\ncurseforge：https://www.curseforge.com/minecraft/mc-mods/harvestheritage"
+

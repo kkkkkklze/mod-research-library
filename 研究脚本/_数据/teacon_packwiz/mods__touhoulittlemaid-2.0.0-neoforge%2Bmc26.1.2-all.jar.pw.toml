@@ -1,0 +1,13 @@
+name = "车万女仆"
+filename = "touhoulittlemaid-2.0.0-neoforge+mc26.1.2-all.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-touhou-little-maid/touhou-little-maid-161.jar"
+hash-format = "sha256"
+hash = "e4f5ce179a9fd9301219e620dd4b74265108a1cb414f06e2c475299f2f04e8b5"
+
+[option]
+optional = false
+description = "车万女仆 by 车万女仆制作委员会\nBuild #161\n为游戏添加了可爱而又全能的酒狐女仆，让你的游戏增加更多缤纷色彩！"
+

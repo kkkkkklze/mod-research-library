@@ -1,0 +1,497 @@
+# All the Mods 10 — Mod 源码(GitHub)对照表（含本地反编译）
+
+- mod 总数 **491**：定位到公开仓库 **435**；无公开源码者 **81** 个已用本地安装 jar 反编译
+
+| Mod | GitHub | 来源 | 本地反编译 | 代码行数 | jar |
+|---|---|---|---|---|---|
+| Accelerated Decay | https://github.com/ErrorMikey/AcceleratedDecay | 搜索 |  |  | `` |
+| Actually Additions | https://github.com/Ellpeck/ActuallyAdditions | 搜索 |  |  | `` |
+| Ad Astra | https://github.com/terrarium-earth/Ad-Astra | 搜索 |  |  | `` |
+| Ad Astra: Giselle Addon | https://github.com/gisellevonbingen-Minecraft/Ad-Astra-Giselle-Addon | 搜索 |  |  | `` |
+| Additional Enchanted Miner | https://github.com/Kotori316/QuarryPlus | 搜索 |  |  | `` |
+| Additional Lights | https://github.com/cyberdragon442/AdditionalLights | 搜索 |  |  | `` |
+| Advanced Peripherals | https://github.com/Seniorendi/AdvancedPeripherals | 搜索 |  |  | `` |
+| AdvancedAE | https://github.com/pedroksl/AdvancedAE | 搜索 |  |  | `` |
+| AE2 Import Export Card | https://github.com/starforcraft/AE2-Insert-Export-Card | 搜索 |  |  | `` |
+| AE2 JEI Integration | https://github.com/mezz/JustEnoughItems | 已知 |  |  | `` |
+| AE2 Network Analyser | https://github.com/GlodBlock/ExtendedAE | 本地 jar 元数据 | Y | 3,147 | `AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar` |
+| AE2: Crafting Tree | https://github.com/vcwdfca/AE2CraftingTree | 搜索 |  |  | `` |
+| AEInfinityBooster | https://github.com/hexeption/aeinfinitybooster | 搜索 |  |  | `` |
+| AI Improvements: Performance Tuning | https://github.com/BuiltBrokenModding/AI-Improvements | 搜索 |  |  | `` |
+| Akashic Tome | https://github.com/VazkiiMods/AkashicTome | 搜索 |  |  | `` |
+| All The Arcanist Gear | https://github.com/Jarva/All-The-Arcanist-Gear | 本地 jar 元数据 | Y | 2,118 | `allthearcanistgear-1.21.1-21.3.2.jar` |
+| All The Tweaks | — |  | Y | 7,005 | `allthetweaks-1.21.1-2.9.4.jar` |
+| All the Wizard Gear | — |  | Y | 929 | `allthewizardgear-1.21.1-1.2.0.jar` |
+| AllTheCompressed | — |  | Y | 1,508 | `allthecompressed-1.21.1-4.4.0.jar` |
+| AllTheLeaks (Memory Leak Fix) | — |  | Y | 11,321 | `内存泄漏alltheleaks-1.1.12+1.21.1-neoforge.jar` |
+| Allthemodium | https://github.com/ton185/MinableAtmOres | 搜索 |  |  | `` |
+| Almost Unified | https://github.com/AlmostReliable/almostunified | 搜索 |  |  | `` |
+| Amendments | https://github.com/MehVahdJukaar/amendments | 本地 jar 元数据 | Y | 18,606 | `amendments-1.21-2.1.9-neoforge.jar` |
+| Apotheosis | https://github.com/Shadows-of-Fire/Apotheosis | 已知 |  |  | `` |
+| Apothic Attributes | https://github.com/Shadows-of-Fire/Apothic-Attributes | 搜索 |  |  | `` |
+| Apothic Enchanting | https://github.com/Shadows-of-Fire/Apothic-Enchanting | 已知 |  |  | `` |
+| Apothic Spawners | https://github.com/Shadows-of-Fire/Apothic-Spawners | 已知 |  |  | `` |
+| AppleSkin | https://github.com/squeek502/AppleSkin | 已知 |  |  | `` |
+| Applied Energistics 2 | https://github.com/AppliedEnergistics/Applied-Energistics-2 | 已知 |  |  | `` |
+| Applied Energistics 2 Wireless Terminals | https://github.com/Mari023/AE2WirelessTerminalLibrary | 已知 |  |  | `` |
+| Applied Flux | https://github.com/GlodBlock/ExtendedAE | 搜索 |  |  | `` |
+| Applied Mekanistics | https://github.com/AppliedEnergistics/Applied-Mekanistics | 已知 |  |  | `` |
+| Aquaculture 2 | https://github.com/TeamMetallurgy/Aquaculture | 已知 |  |  | `` |
+| Architectury API | https://github.com/architectury/architectury | 已知 |  |  | `` |
+| Ars Additions | https://github.com/Jarva/Ars-Additions | 搜索 |  |  | `` |
+| Ars Controle | https://github.com/Vonr/Ars-Controle | 搜索 |  |  | `` |
+| Ars Creo | https://github.com/baileyholl/Ars-Creo | 搜索 |  |  | `` |
+| Ars Elemancy | https://github.com/Lyrellion/Ars-Elemancy | 搜索 |  |  | `` |
+| Ars Elemental | https://github.com/Alexthw46/Ars-Elemental | 本地 jar 元数据 | Y | 24,273 | `ars_elemental-1.21.1-0.7.10.1.jar` |
+| Ars Nouveau | https://github.com/baileyholl/Ars-Nouveau | 已知 |  |  | `` |
+| Ars Ocultas | https://github.com/dphaldes/Ars-Ocultas | 搜索 |  |  | `` |
+| Ars Polymorphia | https://github.com/Vonr/Ars-Polymorphia | 搜索 |  |  | `` |
+| Ars Technica | — |  | Y | 13,039 | `ars_technica-1.21.1-2.7.6.jar` |
+| Ars Unification | https://github.com/Vonr/Ars-Unification | 搜索 |  |  | `` |
+| Ars Énergistique | https://github.com/62832/ArsEnergistique | 搜索 |  |  | `` |
+| Artifacts | https://github.com/ochotonida/artifacts | 已知 |  |  | `` |
+| Athena | https://github.com/terrarium-earth/Athena | 搜索 |  |  | `` |
+| Atlas API | https://github.com/Redspace-io/atlas-api | 搜索 |  |  | `` |
+| ATO - All the Ores | — |  |  |  | `` |
+| AttributeFix | https://github.com/Darkhax-Minecraft/AttributeFix | 已知 |  |  | `` |
+| Auroral | https://github.com/breakinblocks/auroral | 搜索 |  |  | `` |
+| Auroras | — |  | Y | 3,761 | `Auroras-1.21-1.6.2.jar` |
+| Bad Wither No Cookie - Reloaded | — |  | Y | 274 | `bwncr-neoforge-1.21.1-3.20.4.jar` |
+| Balm | https://github.com/TwelveIterations/Balm | 已知 |  |  | `` |
+| Baubley Heart Canisters | https://github.com/Traverse-Joe/Baubley-Heart-Canisters | 已知 |  |  | `` |
+| Better Advanced Tooltips | https://github.com/latvian-dev/better-advanced-tooltips | 搜索 |  |  | `` |
+| Better Advancements | https://github.com/way2muchnoise/BetterAdvancements | 已知 |  |  | `` |
+| Better Compatibility Checker | https://github.com/nanite/BetterCompatibilityChecker | 搜索 |  |  | `` |
+| Bibliobiomes Legacy | https://github.com/MinecraftschurliMods/Bibliobiomes-Legacy | 搜索 |  |  | `` |
+| Bibliocraft Legacy | https://github.com/MinecraftschurliMods/Bibliocraft-Legacy | 搜索 |  |  | `` |
+| Bibliowoods Legacy | https://github.com/MinecraftschurliMods/Bibliocraft-Legacy | 搜索 |  |  | `` |
+| BlockUI | https://github.com/ldtteam/BlockUI | 本地 jar 元数据 | Y | 11,800 | `blockui-1.0.211-1.21.1-snapshot.jar` |
+| Blue Flame Burning | https://github.com/JDKDigital/blueflame | 搜索 |  |  | `` |
+| Bookshelf | https://github.com/Darkhax-Minecraft/Bookshelf | 已知 |  |  | `` |
+| Borderless Window | https://github.com/cutebow/Borderless-Windowed-Vulkan | 搜索 |  |  | `` |
+| Botany Pots | https://github.com/Darkhax-Minecraft/BotanyPots | 已知 |  |  | `` |
+| Botany Pots - Mystical Agriculture Compat | https://github.com/BlakeBr0/MysticalAgriculture | 已知 |  |  | `` |
+| Botany Trees | https://github.com/Darkhax-Minecraft/BotanyTrees | 搜索 |  |  | `` |
+| Brandon's Core | https://github.com/Draconic-Inc/BrandonsCore | 搜索 |  |  | `` |
+| Bridging Mod | https://github.com/squeeglii/BridgingMod | 搜索 |  |  | `` |
+| BSL Shaders | — |  |  |  | `` |
+| Building Gadgets | https://github.com/MellowArpeggiation/Effortless-Building-Gadgets | 搜索 |  |  | `` |
+| Byzantine Styles Pack for Minecolonies | — |  | Y |  | `Byzantine-1.21.1-51.jar` |
+| Cable Tiers | https://github.com/Ultramega/CableTiers | 已知 |  |  | `` |
+| Caelus API | https://github.com/TheIllusiveC4/Caelus | 已知 |  |  | `` |
+| Camol | — |  | Y | 1,072 | `camol-1.21.1-0.3.1.jar` |
+| Cat Jammies | — |  | Y | 154 | `catjammies-1.21-1.7.1.jar` |
+| CC: Tweaked | https://github.com/cc-tweaked/CC-Tweaked | 搜索 |  |  | `` |
+| Charging Gadgets | https://github.com/Direwolf20-MC/ChargingGadgets | 本地 jar 元数据 | Y | 1,032 | `charginggadgets-1.14.1.jar` |
+| Chipped | https://github.com/terrarium-earth/Chipped | 搜索 |  |  | `` |
+| Chisel Reborn [Forge/Fabric/NeoForge] | https://github.com/matthewperiut/Chisel-Fabric | 搜索 |  |  | `` |
+| ChoiceTheorem's Overhauled Village | https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village | 已知 |  |  | `` |
+| Chroma Carvings | — |  | Y | 964 | `chromacarvings-1.21.1-0.2.0.jar` |
+| Clean Swing Through Grass | — |  | Y | 55 | `cleanswing-1.9.jar` |
+| Cloth Config API (Fabric/Forge/NeoForge) | https://github.com/shedaniel/ClothConfig | 已知 |  |  | `` |
+| Cloud Glass | https://github.com/Mrbysco/CloudGlass | 搜索 |  |  | `` |
+| Clumps | https://github.com/jaredlll08/Clumps | 搜索 |  |  | `` |
+| Cobblegen Galore | — |  | Y | 855 | `cobblegengalore-1.21.1-0.2.9.jar` |
+| Cobweb | https://github.com/Crystal-Nest/cobweb | 搜索 |  |  | `` |
+| CodeChicken Lib 1.8.+ | https://github.com/TheCBProject/CodeChickenLib | 本地 jar 元数据 | Y | 36,036 | `CodeChickenLib-1.21.1-4.6.1.529.jar` |
+| Colorful Hearts | https://github.com/Terrails/colorful-hearts | 已知 |  |  | `` |
+| Colorwheel | https://github.com/djefrey/Colorwheel | 已知 |  |  | `` |
+| Colorwheel Patcher | https://github.com/djefrey/Colorwheel-Patcher | 已知 |  |  | `` |
+| Comforts | https://github.com/illusivesoulworks/comforts | 搜索 |  |  | `` |
+| Common Capabilities | https://github.com/CyclopsMC/CommonCapabilities | 已知 |  |  | `` |
+| Common Storage Lib | https://github.com/terrarium-earth/Common-Storage-Lib | 搜索 |  |  | `` |
+| Compact Machines | https://github.com/AlphaMode/CompactMachines | 搜索 |  |  | `` |
+| Complementary Shaders - Reimagined | https://github.com/ComplementaryDevelopment/ComplementaryReimagined | 搜索 |  |  | `` |
+| Complementary Shaders - Unbound | https://github.com/ComplementaryDevelopment/ComplementaryReimagined | 搜索 |  |  | `` |
+| Connected Glass | https://github.com/SuperMartijn642/ConnectedGlass | 搜索 |  |  | `` |
+| ConnectedTexturesMod | https://github.com/ralf2oo2/ConnectedTexturesMod-Beta | 搜索 |  |  | `` |
+| Connectivity | https://github.com/sschr15/quasi-crafter-connectivity | 搜索 |  |  | `` |
+| Construction Sticks | https://github.com/Mrbysco/ConstructionSticks | 搜索 |  |  | `` |
+| Controlling | https://github.com/jaredlll08/Controlling | 已知 |  |  | `` |
+| Cooking for Blockheads | https://github.com/TwelveIterations/CookingForBlockheads | 已知 |  |  | `` |
+| Corail Tombstone | https://github.com/Corail31/tombstone_lite | 本地 jar 元数据 | Y | 39,465 | `tombstone-neoforge-1.21.1-9.5.5.jar` |
+| CorgiLib | https://github.com/CorgiTaco/CorgiLib | 搜索 |  |  | `` |
+| Cosmetic Armor Reworked | https://github.com/Leclowndu93150/Corpse-Cosmetic-Armor-Compat | 搜索 |  |  | `` |
+| Crafting on a stick | https://github.com/OfekN-mods/crafting-on-a-stick | 搜索 |  |  | `` |
+| Crafting Tweaks | https://github.com/TwelveIterations/CraftingTweaks | 搜索 |  |  | `` |
+| Crash Assistant | https://github.com/KostromDan/Crash-Assistant | 搜索 |  |  | `` |
+| Crash Utilities | https://github.com/Darkere/CrashUtilities | 本地 jar 元数据 | Y | 6,027 | `crashutilities-9.0.4.jar` |
+| Create | https://github.com/Creators-of-Create/Create | 已知 |  |  | `` |
+| Create Crafts & Additions | https://github.com/mrh0/createaddition | 已知 |  |  | `` |
+| Create: Aquatic Ambitions | https://github.com/Creators-of-Create/Create | 已知 |  |  | `` |
+| Create: Bells & Whistles | https://github.com/Creators-of-Create/Create | 已知 |  |  | `` |
+| Create: Dragons Plus | https://github.com/DragonsPlusMinecraft/CreateDragonsPlus | 已知 |  |  | `` |
+| Create: Enchantment Industry | https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry | 已知 |  |  | `` |
+| Create: Hypertubes | https://github.com/PedroRok/CreateHypertubes | 已知 |  |  | `` |
+| Creeper Overhaul | https://github.com/bonsaistudi0s/Creeper-Overhaul | 已知 |  |  | `` |
+| CreeperHost Presents Steve's Carts | https://github.com/CreeperHost/StevesCarts2 | 搜索 |  |  | `` |
+| Cristel Lib | https://github.com/Cristelknight999/Cristel-Lib | 已知 |  |  | `` |
+| Cryonic Config | https://github.com/matthewperiut/cryonic_config | 搜索 |  |  | `` |
+| Crystalix | https://github.com/Satherov/Crystalix | 搜索 |  |  | `` |
+| Cucumber Library | https://github.com/BlakeBr0/Cucumber | 已知 |  |  | `` |
+| Cupboard | https://github.com/gungun974/BTA-Cupboards | 搜索 |  |  | `` |
+| Curios API | https://github.com/TheIllusiveC4/Curios | 已知 |  |  | `` |
+| Cyclops Core | https://github.com/CyclopsMC/CyclopsCore | 已知 |  |  | `` |
+| Dark Mode Everywhere | https://github.com/Buuz135/DarkModeEverywhere | 搜索 |  |  | `` |
+| Deeper and Darker | https://github.com/KyaniteMods/DeeperAndDarker | 搜索 |  |  | `` |
+| Deimos Lib | — |  | Y | 1,278 | `deimos-1.21.1-neoforge-2.7.jar` |
+| DimStorage | https://github.com/Edivad99/DimStorage | 搜索 |  |  | `` |
+| Dis-Enchanting Table | https://github.com/Mods-For-Lupin/Dis-Enchanting-Redux | 搜索 |  |  | `` |
+| Domum Ornamentum | https://github.com/ldtteam/Domum-Ornamentum | 本地 jar 元数据 | Y | 15,499 | `domum-ornamentum-1.0.234-snapshot-main.jar` |
+| Draconic Evolution | https://github.com/Draconic-Inc/Draconic-Evolution | 搜索 |  |  | `` |
+| Drippy Loading Screen | https://github.com/Keksuccino/Drippy-Loading-Screen | 已知 |  |  | `` |
+| Dungeon Crawl | https://github.com/xyroc/DungeonCrawl | 搜索 |  |  | `` |
+| Dyenamics | https://github.com/JDKDigital/dyenamicsandfriends | 搜索 |  |  | `` |
+| Dyenamics and Friends | https://github.com/JDKDigital/dyenamicsandfriends | 搜索 |  |  | `` |
+| Dyson Cube Project | — |  | Y | 3,183 | `dysoncubeproject-1.0.5.jar` |
+| Easy Villagers | https://github.com/henkelmax/easy-villagers | 搜索 |  |  | `` |
+| EdivadLib | https://github.com/Edivad99/EdivadLib | 搜索 |  |  | `` |
+| Enchantment Descriptions | https://github.com/Darkhax-Minecraft/Enchantment-Descriptions | 已知 |  |  | `` |
+| Ender IO | https://github.com/Team-EnderIO/EnderIO | 已知 |  |  | `` |
+| Ender Storage 1.8.+ | https://github.com/gigabit101/EnderStorage | 已知 |  |  | `` |
+| EnderDrives | https://github.com/STS15/enderdrives | 搜索 |  |  | `` |
+| Enderman Overhaul | https://github.com/bonsaistudi0s/Enderman-Overhaul | 已知 |  |  | `` |
+| Energy Meter | https://github.com/AlmostReliable/energymeter | 搜索 |  |  | `` |
+| Entangled | https://github.com/SuperMartijn642/Entangled | 搜索 |  |  | `` |
+| Eternal Starlight | https://github.com/LeoMinecraftModding/eternal-starlight | 已知 |  |  | `` |
+| Euphoria Patches | https://github.com/EuphoriaPatches/EuphoriaPatcher | 已知 |  |  | `` |
+| Everything is Copper | https://github.com/JDKDigital/everythingcopper | 搜索 |  |  | `` |
+| EvilCraft | https://github.com/CyclopsMC/EvilCraft | 已知 |  |  | `` |
+| Expanded AE | https://github.com/ko-lja/expandedae | 搜索 |  |  | `` |
+| ExperienceLib | https://github.com/alec016/experiencelib | 搜索 |  |  | `` |
+| Explorer's Compass | https://github.com/MattCzyr/ExplorersCompass | 已知 |  |  | `` |
+| Explorify – Dungeons & Structures | — |  | Y |  | `Explorify v1.6.5.mod.jar` |
+| Extended Industrialization | https://github.com/Swedz/Extended-Industrialization | 搜索 |  |  | `` |
+| ExtendedAE | https://github.com/GaLicn/ExtendedAE_Plus | 搜索 |  |  | `` |
+| Extra Disks | https://github.com/ChaoticTrials/ExtraDisks | 搜索 |  |  | `` |
+| ExtraStorage | https://github.com/Edivad99/ExtraStorage | 搜索 |  |  | `` |
+| Extreme Reactors | https://github.com/ZeroNoRyouki/ExtremeReactors | 已知 |  |  | `` |
+| Extreme sound muffler - (Neo)Forge | https://github.com/ZeroNoRyouki/ExtremeReactors2 | 本地 jar 元数据 | Y | 28,447 | `ExtremeReactors2-1.21.1-2.4.28.jar` |
+| Factory Blocks [Forge/Fabric/NeoForge] | https://github.com/matthewperiut/factory_blocks | 搜索 |  |  | `` |
+| FancyMenu | https://github.com/Keksuccino/FancyMenu | 已知 |  |  | `` |
+| Farmer's Delight | https://github.com/vectorwing/FarmersDelight | 已知 |  |  | `` |
+| Farming for Blockheads | https://github.com/TwelveIterations/FarmingForBlockheads | 搜索 |  |  | `` |
+| FastFurnace | https://github.com/Shadows-of-Fire/FastFurnace | 搜索 |  |  | `` |
+| FastSuite | https://github.com/Shadows-of-Fire/FastSuite | 搜索 |  |  | `` |
+| FastWorkbench | https://github.com/Shadows-of-Fire/FastWorkbench | 搜索 |  |  | `` |
+| FerriteCore ((Neo)Forge) | — |  | Y | 3,211 | `ferritecore-7.0.3-neoforge.jar` |
+| Fireproof Boats | https://github.com/JDKDigital/fireproofboats | 搜索 |  |  | `` |
+| FlickerFix | https://github.com/jeremiahwinsley/flickerfix | 搜索 |  |  | `` |
+| Flux Networks | https://github.com/McJty/XNet | 已知 |  |  | `` |
+| Forbidden and Arcanus | https://github.com/stal111/Forbidden-Arcanus | 搜索 |  |  | `` |
+| Formations (Structure Library) | https://github.com/SuperMartijn642/Formations | 搜索 |  |  | `` |
+| Formations Nether | https://github.com/SuperMartijn642/FormationsNether | 搜索 |  |  | `` |
+| Formations Overworld | https://github.com/SuperMartijn642/FormationsOverworld | 搜索 |  |  | `` |
+| FramedBlocks | https://github.com/XFactHD/FramedBlocks | 已知 |  |  | `` |
+| Framework | https://github.com/sisby-folk/surveyor | 搜索 |  |  | `` |
+| FTB Chunks (NeoForge) | https://github.com/maks-gaming/ftbchunksaerospace | 搜索 |  |  | `` |
+| FTB Essentials (Forge & Fabric) | — |  | Y | 4,733 | `ftb-essentials-neoforge-2101.1.10.jar` |
+| FTB Filter System | — |  | Y | 4,939 | `ftb-filter-system-neoforge-21.1.4.jar` |
+| FTB JEI Extras | https://github.com/mezz/JustEnoughItems | 已知 |  |  | `` |
+| FTB Library (NeoForge) | https://github.com/BlakeBr0/Cucumber | 本地 jar 元数据 | Y | 6,001 | `Cucumber-1.21.1-8.0.16.jar` |
+| FTB Quests (NeoForge) | https://github.com/txnimc/FTBQuestsFreezeFix | 搜索 |  |  | `` |
+| FTB Ranks (NeoForge) | https://github.com/MEGATREX4/ftb-ranks-inventoryweight | 搜索 |  |  | `` |
+| FTB Teams (NeoForge) | https://github.com/HenryCROSS/Irons-Spell-N-FTB-Teams | 搜索 |  |  | `` |
+| FTB Ultimine (NeoForge) | https://github.com/GaLicn/Ultimine-Rewind | 搜索 |  |  | `` |
+| FTB XMod Compat | — |  | Y | 3,846 | `ftb-xmod-compat-neoforge-21.1.11.jar` |
+| Fuel Goes Here | https://github.com/JDKDigital/fuelgoeshere | 搜索 |  |  | `` |
+| Functional Storage | https://github.com/Buuz135/Functional-Storage | 已知 |  |  | `` |
+| Fusion (Connected Textures) | https://github.com/SuperMartijn642/Fusion | 已知 |  |  | `` |
+| Fzzy Config | https://github.com/fzzyhmstrs/fconfig | 已知 |  |  | `` |
+| Gateways to Eternity | https://github.com/Shadows-of-Fire/GatewaysToEternity | 搜索 |  |  | `` |
+| GeckoLib | https://github.com/bernie-g/geckolib | 已知 |  |  | `` |
+| Generator Galore | https://github.com/JDKDigital/generatorgalore | 搜索 |  |  | `` |
+| Get It Together, Drops! | https://github.com/bl4ckscor3/GetItTogetherDrops | 搜索 |  |  | `` |
+| Glassential Renewed | https://github.com/bigenergy/glassential-renewed | 搜索 |  |  | `` |
+| Glodium | https://github.com/GlodBlock/Glodium | 搜索 |  |  | `` |
+| Gravitational Modulating Additional Unit | https://github.com/gisellevonbingen/Minecraft-GravitationalModulatingAdditionalUnit | 本地 jar 元数据 | Y | 809 | `GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar` |
+| GuideME | https://github.com/AppliedEnergistics/GuideME | 已知 |  |  | `` |
+| Handcrafted | https://github.com/terrarium-earth/Handcrafted | 已知 |  |  | `` |
+| Hardened Armadillos | https://github.com/JDKDigital/hardenedarmadillos | 本地 jar 元数据 | Y | 163 | `hardenedarmadillos-1.21.1-0.2.0.jar` |
+| Hey Berry! SHUT UP | https://github.com/JDKDigital/heyberry | 搜索 |  |  | `` |
+| Hostile Neural Networks | https://github.com/Shadows-of-Fire/Hostile-Neural-Networks | 搜索 |  |  | `` |
+| I'm Fast | https://github.com/Gabriel-Hiss/Im-Fast | 搜索 |  |  | `` |
+| IceAndFire Community Edition | https://github.com/IAFEnvoy/IceAndFire-CE | 本地 jar 元数据 | Y | 63,051 | `[冰火传说社区版] iceandfire-2.1.jar` |
+| Iceberg [Neo/Forge] | https://github.com/AHilyard/Iceberg | 已知 |  |  | `` |
+| Illager Warship | — |  | Y | 76 | `illagerwarship-1.0.1-neoforge-1.21.1.jar` |
+| ImmediatelyFast | https://github.com/RaphiMC/ImmediatelyFast | 已知 |  |  | `` |
+| Immersive Energistics | https://github.com/AppliedEnergistics/Immersive-Energistics | 本地 jar 元数据 | Y | 688 | `Immersive-Energistics-1.1.0-beta.jar` |
+| Immersive Engineering | https://github.com/BluSunrize/ImmersiveEngineering | 已知 |  |  | `` |
+| In Control! | https://github.com/McJtyMods/InControl | 已知 |  |  | `` |
+| Industrial Foregoing | https://github.com/Buuz135/Industrial-Foregoing | 已知 |  |  | `` |
+| Industrial Foregoing Souls | https://github.com/Buuz135/Industrial-Foregoing | 已知 |  |  | `` |
+| Industrialization Overdrive | https://github.com/WhitePhant0m/Industrialization-Overdrive | 搜索 |  |  | `` |
+| Integrated Crafting | https://github.com/CyclopsMC/IntegratedCrafting | 已知 |  |  | `` |
+| Integrated Dynamics | https://github.com/CyclopsMC/IntegratedDynamics | 已知 |  |  | `` |
+| Integrated Scripting | https://github.com/CyclopsMC/IntegratedScripting | 搜索 |  |  | `` |
+| Integrated Terminals | https://github.com/CyclopsMC/IntegratedTerminals | 已知 |  |  | `` |
+| Integrated Tunnels | https://github.com/CyclopsMC/IntegratedTunnels | 已知 |  |  | `` |
+| Interdimensional Wireless Transmitter | https://github.com/starforcraft/Interdimensional-Wireless-Transmitter | 搜索 |  |  | `` |
+| Invasive Optimizations | https://github.com/Vonr/invasiveopts | 搜索 |  |  | `` |
+| Inventory Tweaks - ReFoxed | https://github.com/JDKDigital/InvTweaksRefoxed | 搜索 |  |  | `` |
+| Iris & Oculus Search | https://github.com/SpacEagle17/IrisSearch | 搜索 |  |  | `` |
+| Iris Shaders | https://github.com/IrisShaders/Iris | 已知 |  |  | `` |
+| Iron Furnaces | https://github.com/Qelifern/IronFurnaces | 已知 |  |  | `` |
+| Iron Jetpacks | https://github.com/BlakeBr0/IronJetpacks | 已知 |  |  | `` |
+| Iron's Gems 'n Jewelry | https://github.com/iron431/irons-jewelry | 搜索 |  |  | `` |
+| Iron's Lib | — |  | Y | 6,254 | `irons_lib-1.21.1-2.1.0.jar` |
+| Iron's Spells 'n Spellbooks | https://github.com/Iron431/irons-spells-n-spellbooks | 已知 |  |  | `` |
+| Item Collectors | https://github.com/SuperMartijn642/ItemCollectors | 已知 |  |  | `` |
+| Jade 🔍 | https://github.com/Snownee/Jade | 已知 |  |  | `` |
+| Jonn's Trophies | https://github.com/JDKDigital/trophymanager | 搜索 |  |  | `` |
+| JourneyMap | https://github.com/TeamJM/journeymap | 搜索 |  |  | `` |
+| Jumpy Boats | https://github.com/JDKDigital/jumpboat | 搜索 |  |  | `` |
+| Jupiter | https://github.com/IAFEnvoy/Jupiter | 已知 |  |  | `` |
+| Just Dire Things | https://github.com/An0mz/JustDireThings | 搜索 |  |  | `` |
+| Just Enough Archaeology | — |  | Y | 1,099 | `jearchaeology-1.21.1-1.2.0.jar` |
+| Just Enough Breeding (JEBr) | https://github.com/Christofmeg/JustEnoughBreeding | 搜索 |  |  | `` |
+| Just Enough Items (JEI) | https://github.com/mezz/JustEnoughItems | 已知 |  |  | `` |
+| Just Enough Mekanism Multiblocks | https://github.com/mekanism/Mekanism | 已知 |  |  | `` |
+| Just Enough Professions (JEP) | https://github.com/Mrbysco/JustEnoughProfessions | 搜索 |  |  | `` |
+| Just Zoom | https://github.com/Keksuccino/JustZoom | 搜索 |  |  | `` |
+| KeyBind Bundles | — |  | Y | 2,225 | `keybindbundles-1.4.0.jar` |
+| KeybindsPurger | https://github.com/ZedDevStuff/KeybindsPurger | 搜索 |  |  | `` |
+| Konkrete | https://github.com/Keksuccino/Konkrete | 已知 |  |  | `` |
+| Kotlin for Forge | https://github.com/thedarkcolour/KotlinForForge | 已知 |  |  | `` |
+| KubeJS | https://github.com/KubeJS-Mods/KubeJS | 已知 |  |  | `` |
+| KubeJS Tweaks | — |  | Y | 5,688 | `kubejstweaks-1.0.6.jar` |
+| L_Ender 's Cataclysm | https://github.com/lender544/new1.20.1 | 已知 |  |  | `` |
+| Laser Bridges & Doors [Fabric/Forge/NeoForge] | https://github.com/Mars-The-Planet/Laser-Bridges-And-Doors | 搜索 |  |  | `` |
+| LaserIO | https://github.com/Direwolf20-MC/LaserIO | 已知 |  |  | `` |
+| Lionfish API | https://github.com/lender544/Lionfish-API | 已知 |  |  | `` |
+| Lithostitched | https://github.com/Apollounknowndev/lithostitched | 已知 |  |  | `` |
+| Little Big Redstone | https://github.com/Swedz/Little-Big-Redstone | 搜索 |  |  | `` |
+| LivingThings | https://github.com/tristankechlo/LivingThings | 搜索 |  |  | `` |
+| Load My F***ing Tags | https://github.com/Dragon-Seeker/LoadMyFuckingTags | 搜索 |  |  | `` |
+| Logistics Network | https://github.com/Almana-mc/LogisticsNetworks | 搜索 |  |  | `` |
+| Lootr (Forge & NeoForge) | https://github.com/noobanidus/lootr | 已知 |  |  | `` |
+| Luminax | https://github.com/Satherov/Luminax | 搜索 |  |  | `` |
+| Macaw's Bridges | https://github.com/sketchmacaw/Bridges | 已知 |  |  | `` |
+| Macaw's Doors | https://github.com/sketchmacaw/MacawsDoors | 已知 |  |  | `` |
+| Macaw's Fences and Walls | https://github.com/sketchmacaw/Fences | 已知 |  |  | `` |
+| Macaw's Furniture | — |  | Y | 5,018 | `mcw-furniture-3.4.1-mc1.21.1neoforge.jar` |
+| Macaw's Holidays | — |  | Y | 4,461 | `mcw-holidays-1.1.2-mc1.21.1neoforge.jar` |
+| Macaw's Lights and Lamps | — |  | Y | 2,375 | `mcw-lights-1.1.5-mc1.21.1neoforge.jar` |
+| Macaw's Paths and Pavings | https://github.com/sketchmacaw/Paths-Pavings | 已知 |  |  | `` |
+| Macaw's Roofs | https://github.com/Samlegamer/Macaw-s-Roofs-Compat | 搜索 |  |  | `` |
+| Macaw's Stairs | https://github.com/sketchmacaw/Macaws-Stairs | 已知 |  |  | `` |
+| Macaw's Trapdoors | https://github.com/sketchmacaw/Trapdoors | 已知 |  |  | `` |
+| Macaw's Windows | — |  | Y | 2,961 | `[Macaw 的窗户] mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar` |
+| Mahou Tsukai | — |  | Y | 68,424 | `mahoutsukai-1.21.1-v1.36.27.jar` |
+| MakeUp - Ultra Fast / Shaders | https://github.com/javiergcim/MakeUpUltraFast | 搜索 |  |  | `` |
+| Mama's Herbs and Harvest | — |  | Y | 15,169 | `herbsandharvest-1.21.1-19.jar` |
+| Mama's Merrymaking - A Minecraft Christmas and Winter Holiday Mod | — |  | Y | 13,302 | `merrymaking-1.21.1-16.jar` |
+| McJtyLib | https://github.com/McJty/McJtyLib | 搜索 |  |  | `` |
+| ME Requester | https://github.com/AlmostReliable/merequester | 已知 |  |  | `` |
+| Measurements | https://github.com/Mrbysco/Measurements | 搜索 |  |  | `` |
+| MEGA Cells | https://github.com/62832/MEGACells | 搜索 |  |  | `` |
+| Mekanism | https://github.com/mekanism/Mekanism | 已知 |  |  | `` |
+| Mekanism Covers | https://github.com/mekanism/Mekanism | 已知 |  |  | `` |
+| Mekanism Generators | https://github.com/mekanism/Mekanism | 已知 |  |  | `` |
+| Mekanism Tools | https://github.com/mekanism/Mekanism | 已知 |  |  | `` |
+| Mekanism:More Machine | https://github.com/mekanism/Mekanism | 已知 |  |  | `` |
+| Mekanistic Routers | https://github.com/MatyrobbrtMods/MekanisticRouters | 搜索 |  |  | `` |
+| Melody | https://github.com/Keksuccino/Melody | 已知 |  |  | `` |
+| Memory Settings | — |  | Y | 527 | `memorysettings-1.21-6.0.jar` |
+| MES - Moog's End Structures | https://github.com/FinnSetchell/MoogsEndStructures | 已知 |  |  | `` |
+| MineColonies | https://github.com/ARxyt/ColonyPathingEdition | 搜索 |  |  | `` |
+| Mining Gadgets | https://github.com/AlphaMode/MiningGadgets | 搜索 |  |  | `` |
+| MmmMmmMmmMmm (Target Dummy) | https://github.com/MehVahdJukaar/DuMmmMmmy | 已知 |  |  | `` |
+| MNS - Moog's Nether Structures | https://github.com/FinnSetchell/MoogsNetherStructures2 | 搜索 |  |  | `` |
+| Mo' Structures (NeoForge/Fabric) | https://github.com/frqnny/mostructures | 搜索 |  |  | `` |
+| Mob Grinding Utils | https://github.com/vadis365/Mob-Grinding-Utils | 已知 |  |  | `` |
+| Model Gap Fix | https://github.com/MehVahdJukaar/modefix-multi | 搜索 |  |  | `` |
+| Modern Dynamics | https://github.com/Technici4n/Modern-Dynamics | 搜索 |  |  | `` |
+| Modern Industrialization | https://github.com/Technici4n/Modern-Industrialization | 已知 |  |  | `` |
+| ModernFix | https://github.com/embeddedt/ModernFix | 已知 |  |  | `` |
+| Modonomicon | https://github.com/klikli-dev/modonomicon | 搜索 |  |  | `` |
+| Modular Bees | — |  | Y | 13,468 | `ModularBees-1.21.1-3.4-neoforge.jar` |
+| Modular Force Field Systems (MFFS) | https://github.com/McJty/MFFS | 已知 |  |  | `` |
+| Modular Routers | https://github.com/desht/ModularRouters | 已知 |  |  | `` |
+| MonoLib | https://github.com/Mods-For-Lupin/MonoLib | 搜索 |  |  | `` |
+| Moog's Structure Lib (moogs_structures) | https://github.com/FinnSetchell/MoogsStructureLib | 已知 |  |  | `` |
+| Moonlight Lib | https://github.com/MehVahdJukaar/Moonlight | 已知 |  |  | `` |
+| More Dragon Eggs | — |  | Y | 120 | `moredragoneggs-5.0.jar` |
+| More Industrial Foregoing Addons (MIFA) | https://github.com/Buuz135/Industrial-Foregoing | 已知 |  |  | `` |
+| More Overlays Updated | https://github.com/r8420/MoreOverlays-updated | 搜索 |  |  | `` |
+| More Red | https://github.com/Commoble/MoreRed | 已知 |  |  | `` |
+| More Red x CC:Tweaked Compat | https://github.com/Commoble/MoreRed | 已知 |  |  | `` |
+| Mouse Tweaks | https://github.com/YaLTeR/MouseTweaks | 已知 |  |  | `` |
+| MrCrayfish's Furniture Mod: Refurbished | — |  | Y | 41,781 | `[MrCrayfish 的家具：重制] refurbished_furniture-neoforge-1.21.1-1.0.22.jar` |
+| MSS - Moog's Soaring Structures | https://github.com/FinnSetchell/MoogsSoaringStructures | 搜索 |  |  | `` |
+| Multi-Piston | https://github.com/ldtteam/Piston-Unlimited | 本地 jar 元数据 | Y | 704 | `multipiston-1.2.58-1.21.1.jar` |
+| MVS - Moog's Voyager Structures | https://github.com/Moog-s-Mods/MoogsVoyagerStructures | 搜索 |  |  | `` |
+| Mystical Agradditions | https://github.com/BlakeBr0/MysticalAgradditions | 已知 |  |  | `` |
+| Mystical Agriculture | https://github.com/BlakeBr0/MysticalAgriculture | 已知 |  |  | `` |
+| Mystical Customization | https://github.com/BlakeBr0/MysticalCustomization | 搜索 |  |  | `` |
+| Nature's Aura | https://github.com/Ellpeck/NaturesAura | 搜索 |  |  | `` |
+| Nature's Compass | https://github.com/MattCzyr/NaturesCompass | 已知 |  |  | `` |
+| Neo Vitae | https://github.com/breakinblocks/NeoVitae | 搜索 |  |  | `` |
+| NeoAuth | https://github.com/Mrbysco/NeoAuth | 搜索 |  |  | `` |
+| Nether Trials & Chambers | — |  | Y | 41 | `HellishTrials-neoforge-1.0.5.jar` |
+| NetherPortalFix | https://github.com/TwelveIterations/NetherPortalFix | 已知 |  |  | `` |
+| No Chat Reports | https://github.com/Aizistral-Studios/No-Chat-Reports | 已知 |  |  | `` |
+| No Villager Death Messages | https://github.com/jeremiahwinsley/novillagerdm | 搜索 |  |  | `` |
+| Not Enough Animations | https://github.com/tr7zw/NotEnoughAnimations | 已知 |  |  | `` |
+| Not Enough Glyphs | https://github.com/Alexthw46/NotEnoughGlyphs | 搜索 |  |  | `` |
+| Nullscape | https://github.com/Stardust-Labs-MC/Nullscape | 搜索 |  |  | `` |
+| Observable | https://github.com/tasgon/observable | 搜索 |  |  | `` |
+| Occultism | https://github.com/klikli-dev/occultism | 已知 |  |  | `` |
+| Occultism KubeJS | https://github.com/klikli-dev/occultism | 已知 |  |  | `` |
+| Oh The Biomes We've Gone | https://github.com/Potion-Studios/Oh-The-Biomes-Weve-Gone | 搜索 |  |  | `` |
+| Oh The Trees You'll Grow | https://github.com/CorgiTaco/Oh-The-Trees-Youll-Grow | 搜索 |  |  | `` |
+| Omega Config | — |  | Y | 442 | `omegaconfig-neoforge-1.5.1.jar` |
+| Open Loader | https://github.com/Darkhax-Minecraft/Open-Loader | 搜索 |  |  | `` |
+| OpenBlocks Elevator | https://github.com/ImFalling/OpenBlocks_Elevator_Fabric | 搜索 |  |  | `` |
+| Oracle Index | https://github.com/Rearth/Oracle-Index | 搜索 |  |  | `` |
+| Oritech | https://github.com/Rearth/Oritech | 搜索 |  |  | `` |
+| Overloaded Armor Bar | https://github.com/Tfarcenim/OverloadedArmorBar | 搜索 |  |  | `` |
+| oωo (owo-lib) | https://github.com/glisco03/owo-lib | 已知 |  |  | `` |
+| Pam's HarvestCraft 2 - Crops | — |  | Y | 1,753 | `pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar` |
+| Pam's HarvestCraft 2 - Food Core | — |  | Y | 476 | `pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar` |
+| Pam's HarvestCraft 2 - Food Extended | — |  | Y | 476 | `pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar` |
+| Pam's HarvestCraft 2 - Trees | — |  | Y | 1,753 | `pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar` |
+| Patchouli | https://github.com/VazkiiMods/Patchouli | 已知 |  |  | `` |
+| Pipez | https://github.com/henkelmax/pipez | 已知 |  |  | `` |
+| Placebo | https://github.com/Shadows-of-Fire/Placebo | 已知 |  |  | `` |
+| playerAnimator | https://github.com/KosmX/fabricPlayerAnimation | 已知 |  |  | `` |
+| PneumaticCraft: Repressurized | https://github.com/TeamPneumatic/pnc-repressurized | 已知 |  |  | `` |
+| Pocket Storage | https://github.com/Flanks255/simplylight | 本地 jar 元数据 | Y | 2,080 | `pocketstorage-1.2.5+1.21.1-b3.jar` |
+| PolyLib | https://github.com/CreeperHost/PolyLib | 搜索 |  |  | `` |
+| Polymorph | https://github.com/illusivesoulworks/polymorph | 已知 |  |  | `` |
+| Polymorphic Energistics | https://github.com/62832/PolymorphicEnergistics | 搜索 |  |  | `` |
+| Ponder for KubeJS | https://github.com/AlmostReliable/ponderjs | 搜索 |  |  | `` |
+| Potions Master | — |  | Y | 3,071 | `potionsmaster-21.1.113-1.0.1.jar` |
+| Powah! (Rearchitected) | https://github.com/owmii/Powah | 已知 |  |  | `` |
+| Prickle | https://github.com/Darkhax-Minecraft/PrickleMC | 已知 |  |  | `` |
+| Prism [Neo/Forge] | https://github.com/AHilyard/Prism | 已知 |  |  | `` |
+| Productive Bees | https://github.com/JDKDigital/productive-bees | 搜索 |  |  | `` |
+| Productive Metalworks | https://github.com/JDKDigital/productivemetalworks | 本地 jar 元数据 | Y | 7,962 | `productivemetalworks-1.21.1-1.15.1.jar` |
+| Productive Trees | https://github.com/JDKDigital/productivetrees | 搜索 |  |  | `` |
+| Pylons | https://github.com/jeremiahwinsley/pylons | 搜索 |  |  | `` |
+| Quests Lang Splitter | — |  | Y | 690 | `ftbquestslangsplitter-1.0.7.jar` |
+| Railcraft Reborn | https://github.com/Railcraft/Railcraft | 已知 |  |  | `` |
+| Rainbows! | — |  | Y | 2,834 | `Rainbows-1.21-1.5.jar` |
+| Ranged Pumps | https://github.com/refinedmods/rangedpumps | 搜索 |  |  | `` |
+| Rebind Narrator | https://github.com/Ocraftyone/rebindnarrator | 搜索 |  |  | `` |
+| Rechiseled | https://github.com/SuperMartijn642/Rechiseled | 搜索 |  |  | `` |
+| Rechiseled: Chipped | — |  | Y | 147 | `rechiseled_chipped-2.0-1.21.1.jar` |
+| Rechiseled: Create | https://github.com/Creators-of-Create/Create | 已知 |  |  | `` |
+| Redstone Pen | https://github.com/stfwi/redstonepen | 本地 jar 元数据 | Y | 10,252 | `redstonepen-1.21-neoforge-1.11.42.jar` |
+| Refined Storage | https://github.com/refinedmods/refinedstorage2 | 搜索 |  |  | `` |
+| Refined Storage - Curios Integration | https://github.com/TheIllusiveC4/Curios | 已知 |  |  | `` |
+| Refined Storage - JEI Integration | https://github.com/mezz/JustEnoughItems | 已知 |  |  | `` |
+| Refined Storage - Mekanism Integration | https://github.com/mekanism/Mekanism | 已知 |  |  | `` |
+| Refined Storage - Quartz Arsenal | https://github.com/refinedmods/refinedstorage-quartz-arsenal | 搜索 |  |  | `` |
+| Refined Types | https://github.com/starforcraft/Refined-Types | 搜索 |  |  | `` |
+| Regions Unexplored | https://github.com/Apollounknowndev/RegionsUnexplored | 搜索 |  |  | `` |
+| Relics | https://github.com/SSKirillSS/relics | 搜索 |  |  | `` |
+| Reliquary Reincarnations | https://github.com/P3pp3rF1y/Reliquary | 搜索 |  |  | `` |
+| Reliquified Artifacts | https://github.com/Octo-Studios/rar-compat | 搜索 |  |  | `` |
+| Repeatable Trial Vaults | https://github.com/Buuz135/Repeatable-Trial-Vaults | 搜索 |  |  | `` |
+| Repurposed Structures (Neoforge/Forge) | https://github.com/TelepathicGrunt/RepurposedStructures | 已知 |  |  | `` |
+| Resourceful Config | https://github.com/Team-Resourceful/Resourceful-Config | 已知 |  |  | `` |
+| Resourceful Lib | https://github.com/Team-Resourceful/ResourcefulLib | 已知 |  |  | `` |
+| Restrictions | https://github.com/Aizistral-Studios/No-Chat-Restrictions | 搜索 |  |  | `` |
+| RFTools Base | https://github.com/McJty/RFToolsBase | 已知 |  |  | `` |
+| RFTools Builder | https://github.com/McJty/RFToolsBuilder | 已知 |  |  | `` |
+| RFTools Power | https://github.com/McJty/RFToolsPower | 搜索 |  |  | `` |
+| RFTools Storage | https://github.com/McJtyMods/RFToolsStorage | 搜索 |  |  | `` |
+| RFTools Utility | https://github.com/McJtyMods/RFToolsUtility | 搜索 |  |  | `` |
+| Rhino | https://github.com/KubeJS-Mods/Rhino | 已知 |  |  | `` |
+| Roots Classic | https://github.com/MysticMods/Roots | 已知 |  |  | `` |
+| Sawmill | https://github.com/TelepathicGrunt/RepurposedStructuresCompatDatapacks | 搜索 |  |  | `` |
+| Scalable Cat's Force | https://github.com/Kotori316/SLP | 搜索 |  |  | `` |
+| Searchables | https://github.com/Jaredlll08/Searchables | 已知 |  |  | `` |
+| Security Craft | https://github.com/Geforce132/SecurityCraft | 搜索 |  |  | `` |
+| ShatterLib / OctoLib | https://github.com/Octo-Studios/octo-lib | 已知 |  |  | `` |
+| Shiny! Mobs | https://github.com/JDKDigital/shinymobs | 搜索 |  |  | `` |
+| Shrink. | https://github.com/gigabit101/Shrink | 搜索 |  |  | `` |
+| Silent Gear | https://github.com/SilentChaos512/Silent-Gear | 已知 |  |  | `` |
+| Silent Gear Metalworks | https://github.com/SilentChaos512/Silent-Gear | 已知 |  |  | `` |
+| Silent Lib (silentlib) | https://github.com/SilentChaos512/SilentLib | 搜索 |  |  | `` |
+| Silent's Gems | https://github.com/SilentChaos512/SilentGems | 搜索 |  |  | `` |
+| Simple Backups | https://github.com/ChaoticTrials/SimpleBackups | 搜索 |  |  | `` |
+| Simple Magnets | https://github.com/SuperMartijn642/SimpleMagnets | 已知 |  |  | `` |
+| Simple Weather | https://github.com/Soaryn/XyCraftTracker | 本地 jar 元数据 | Y | 651 | `simple_weather-1.0.13-hotfix.jar` |
+| Simply Light | https://github.com/Flanks255/simplylight | 本地 jar 元数据 | Y | 2,691 | `simplylight-1.5.3+1.21.1-b4.jar` |
+| SmartBrainLib (Forge/Fabric/Quilt) | https://github.com/Tslat/SmartBrainLib | 搜索 |  |  | `` |
+| Smithing Template Viewer for JEI/EMI | https://github.com/mezz/JustEnoughItems | 已知 |  |  | `` |
+| Sodium | https://github.com/CaffeineMC/sodium | 已知 |  |  | `` |
+| Sodium Extra | https://github.com/FlashyReese/sodium-extra-fabric | 已知 |  |  | `` |
+| Sophisticated Backpacks | https://github.com/P3pp3rF1y/SophisticatedBackpacks | 已知 |  |  | `` |
+| Sophisticated Backpacks Create Integration | https://github.com/Creators-of-Create/Create | 已知 |  |  | `` |
+| Sophisticated Core | https://github.com/P3pp3rF1y/SophisticatedCore | 已知 |  |  | `` |
+| Sophisticated Storage | https://github.com/P3pp3rF1y/SophisticatedStorage | 已知 |  |  | `` |
+| Sophisticated Storage Create Integration | https://github.com/Creators-of-Create/Create | 已知 |  |  | `` |
+| Sophisticated Storage in Motion | https://github.com/P3pp3rF1y/SophisticatedStorage | 已知 |  |  | `` |
+| Soulplied Energistics | — |  | Y | 555 | `soulplied_energistics-1.0.3.jar` |
+| spark | https://github.com/lucko/spark | 已知 |  |  | `` |
+| Spice of Life: Carrot Edition | https://github.com/GTNewHorizons/SpiceOfLife | 搜索 |  |  | `` |
+| StarbuncleMania | https://github.com/Alexthw46/StarbuncleMania | 本地 jar 元数据 | Y | 9,072 | `starbunclemania-1.21.1-1.5.7.jar` |
+| Step Crafter | https://github.com/starforcraft/Step-Crafter | 搜索 |  |  | `` |
+| Storage Delight (Forge & Neoforge) | https://github.com/axperty/storagedelight | 搜索 |  |  | `` |
+| Structory | https://github.com/Stardust-Labs-MC/Structory-Towers | 搜索 |  |  | `` |
+| Structory: Towers | https://github.com/Stardust-Labs-MC/Structory-Towers | 搜索 |  |  | `` |
+| StructureOverlapless | — |  | Y | 448 | `overlapless-1.21.1-1.2.0.jar` |
+| Structurize | https://github.com/fzzyhmstrs/structurized-reborn-1.0 | 搜索 |  |  | `` |
+| Stylecolonies | https://github.com/ldtteam/stylecolonies | 本地 jar 元数据 | Y | 12 | `stylecolonies-1.15.58-1.21.1.jar` |
+| Super Factory Manager ( SFM ) | https://github.com/TeamDman/SuperFactoryManager | 搜索 |  |  | `` |
+| SuperMartijn642's Config Lib | https://github.com/SuperMartijn642/SuperMartijn642sConfigLib | 已知 |  |  | `` |
+| SuperMartijn642's Core Lib | https://github.com/SuperMartijn642/SuperMartijn642sCoreLib | 已知 |  |  | `` |
+| Supplementaries | https://github.com/MehVahdJukaar/Supplementaries | 已知 |  |  | `` |
+| Sushi Go Crafting | https://github.com/Buuz135/SushiGoCrafting | 搜索 |  |  | `` |
+| Sussy Sniffers | — |  | Y | 583 | `sussysniffers-1.21.1-0.1.3.jar` |
+| Tempad | https://github.com/terrarium-earth/Tempad | 搜索 |  |  | `` |
+| TerraBlender (NeoForge) | https://github.com/Glitchfiend/TerraBlender | 已知 |  |  | `` |
+| Tesseract API (NeoForge) | https://github.com/Swedz/tesseract-neoforge | 搜索 |  |  | `` |
+| The Aether | https://github.com/The-Aether-Team/The-Aether | 搜索 |  |  | `` |
+| The Bumblezone (NeoForge/Forge) | https://github.com/TelepathicGrunt/Bumblezone | 已知 |  |  | `` |
+| The Twilight Forest | https://github.com/marlester-dev/twilightforest-unofficial | 搜索 |  |  | `` |
+| The Undergarden | https://github.com/quek04/The-Undergarden | 搜索 |  |  | `` |
+| Theurgy | https://github.com/klikli-dev/theurgy | 搜索 |  |  | `` |
+| Theurgy KubeJS | https://github.com/klikli-dev/theurgy-kubejs | 搜索 |  |  | `` |
+| Time in a Bottle | https://github.com/RealMangorage/time-in-a-bottle | 搜索 |  |  | `` |
+| Titanium | https://github.com/Buuz135/titanium | 已知 |  |  | `` |
+| Toast Control | https://github.com/Shadows-of-Fire/Toast-Control | 搜索 |  |  | `` |
+| Tool Belt | https://github.com/BeansGalaxy/Shorthand | 搜索 |  |  | `` |
+| Torchmaster | https://github.com/Xalcon/TorchMaster | 已知 |  |  | `` |
+| Towns and Towers | — |  | Y | 46 | `塔楼t_and_t-neoforge-fabric-1.13.9+1.21.1.jar` |
+| TownTalk | — |  | Y | 153 | `towntalk-1.2.0.jar` |
+| Transfer Labels | https://github.com/Buuz135/Transfer-Labels | 搜索 |  |  | `` |
+| Trash Cans | https://github.com/SuperMartijn642/TrashCans | 已知 |  |  | `` |
+| TrashSlot | https://github.com/TwelveIterations/TrashSlot | 搜索 |  |  | `` |
+| Tree Tap | https://github.com/JDKDigital/treetap | 搜索 |  |  | `` |
+| Underground Villages | https://github.com/Mrbysco/UndergroundVillages | 搜索 |  |  | `` |
+| Universal Grid | https://github.com/starforcraft/Universal-Grid | 搜索 |  |  | `` |
+| Uranus | https://github.com/IAFEnvoy/Uranus | 本地 jar 元数据 | Y | 9,133 | `冰火前置uranus-2.4.1-bugfix-1.21.1-neoforge.jar` |
+| Utilitarian | https://github.com/JDKDigital/utilitarian | 搜索 |  |  | `` |
+| Utility Vest | https://github.com/Satherov/Utility-Vest | 本地 jar 元数据 | Y | 2,723 | `utilityvest-1.3.0.jar` |
+| Valhelsia Core | — |  | Y | 4,470 | `valhelsia_core-neoforge-1.21.1-1.1.5.jar` |
+| Variants&Ventures | https://github.com/Faboslav/variants-and-ventures | 搜索 |  |  | `` |
+| Villages&Pillages | https://github.com/Faboslav/villages-and-pillages | 搜索 |  |  | `` |
+| Waystones | https://github.com/TwelveIterations/Waystones | 已知 |  |  | `` |
+| When Dungeons Arise - Forge! | — |  | Y | 423 | `DungeonsArise-1.21.1-2.1.68-release.jar` |
+| Wireless Chargers | https://github.com/SuperMartijn642/WirelessChargers | 搜索 |  |  | `` |
+| Wither Skeleton Tweaks | https://github.com/Shadows-of-Fire/Wither-Skeleton-Tweaks | 搜索 |  |  | `` |
+| WITS (What Is This Structure?) | https://github.com/TelepathicGrunt/WITS | 搜索 |  |  | `` |
+| XNet | https://github.com/McJty/XNet | 已知 |  |  | `` |
+| Xtones Reworked | https://github.com/TobsenD/XTones-Reworked | 搜索 |  |  | `` |
+| XyCraft | https://github.com/XyCraft-Mods/XyCraft | 已知 |  |  | `` |
+| XyCraft: Machines | https://github.com/XyCraft-Mods/XyCraft | 已知 |  |  | `` |
+| XyCraft: Override | https://github.com/XyCraft-Mods/XyCraft | 已知 |  |  | `` |
+| XyCraft: World | https://github.com/XyCraft-Mods/XyCraft | 已知 |  |  | `` |
+| Yeetus Experimentus | — |  | Y | 107 | `禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.jar` |
+| YetAnotherConfigLib | https://github.com/isXander/YetAnotherConfigLib | 搜索 |  |  | `` |
+| YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-API | 已知 |  |  | `` |
+| YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples | 已知 |  |  | `` |
+| YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Better-Dungeons | 已知 |  |  | `` |
+| YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/yungnickyoung/YUNGs-Better-End-Island | 已知 |  |  | `` |
+| YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Better-Jungle-Temples | 已知 |  |  | `` |
+| YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Better-Mineshafts | 已知 |  |  | `` |
+| YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Better-Fortresses | 已知 |  |  | `` |
+| YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments | 已知 |  |  | `` |
+| YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Better-Strongholds | 已知 |  |  | `` |
+| YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts | 已知 |  |  | `` |
+| YUNG's Extras (NeoForge) [1.20.4 - 1.21.1 ONLY] | https://github.com/YUNG-GANG/YUNGs-Extras | 搜索 |  |  | `` |
+| ZeroCore 2 | https://github.com/ZeroNoRyouki/ZeroCore2 | 本地 jar 元数据 | Y | 45,748 | `ZeroCore2-1.21.1-2.4.21.jar` |

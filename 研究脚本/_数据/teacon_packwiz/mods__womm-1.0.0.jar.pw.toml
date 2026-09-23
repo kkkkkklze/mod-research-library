@@ -1,0 +1,13 @@
+name = "本机正常"
+filename = "womm-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-womm/womm-28.jar"
+hash-format = "sha256"
+hash = "4a5df3667f8e5b86787c60cd9d942775b56a5b0db7af0b356be7ee3fce129193"
+
+[option]
+optional = false
+description = "本机正常 by 核马先生\nBuild #28\nWorksOnMyMachine（本机正常）允许服务器将玩家无缝转移至客户端本地世界中运行的实例空间。"
+

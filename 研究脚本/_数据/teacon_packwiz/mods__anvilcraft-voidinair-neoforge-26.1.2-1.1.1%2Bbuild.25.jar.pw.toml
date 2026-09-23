@@ -1,0 +1,13 @@
+name = "铁砧工艺：天猫行空"
+filename = "anvilcraft-voidinair-neoforge-26.1.2-1.1.1+build.25.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-voidinair/voidinair-25.jar"
+hash-format = "sha256"
+hash = "0f98a386c1a5512e3084d438a5276b5bdcea2eb8e2ddaa5a72e25d780831c02a"
+
+[option]
+optional = false
+description = "铁砧工艺：天猫行空 by 天猫行空开发组\nBuild #25\n尝试让每个玩家都飞起来（并非）的铁砧工艺附属\nhttps://www.curseforge.com/minecraft/mc-mods/anvilcraft-via\nhttps://modrinth.com/mod/anvilcraft-via"
+

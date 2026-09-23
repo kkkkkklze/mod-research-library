@@ -1,0 +1,15 @@
+name = "TeaCon 2026"
+author = "TeaCon Executive Committee"
+version = "6.1.168"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1dbec0040c00457e3c820598e472e99c3d58a9573cec240b94a609bc71a3b592"
+
+[versions]
+unsup = "1.2-custom+62556ffe7b.20260905"
+minecraft = "26.1.2"
+neoforge = "26.1.2.87"
+

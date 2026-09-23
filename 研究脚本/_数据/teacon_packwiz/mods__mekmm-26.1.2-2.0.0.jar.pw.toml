@@ -1,0 +1,13 @@
+name = "Mekanism:More Machine"
+filename = "mekmm-26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-mekmm/mekmm-74.jar"
+hash-format = "sha256"
+hash = "4f7cc11484a0f16922fde105699f41bf14a62a264d4cd40bec570a693904779d"
+
+[option]
+optional = false
+description = "Mekanism:More Machine by LostOurselves\nBuild #74\nMekMM为通用机械添加了种植机和复制机，以及氧化机、溶解机等机器的工厂版本。\n\nCF:https://www.curseforge.com/minecraft/mc-mods/mekanism-more-machine\nMR:https://modrinth.com/mod/mekanismmoremachine"
+

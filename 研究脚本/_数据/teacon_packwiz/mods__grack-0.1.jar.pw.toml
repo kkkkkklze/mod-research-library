@@ -1,0 +1,13 @@
+name = "Grack"
+filename = "grack-0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-grack/grack-7.jar"
+hash-format = "sha256"
+hash = "cac7eff09344da9acb65ce4422ef34c53d627d6a78e125e6783412f803890179"
+
+[option]
+optional = false
+description = "Grack by MaxPixel Studios Development γ\nBuild #7\n众所周知，Minecraft中有数据包，而CraftTweaker、KubeJS等mod可以让开发者通过JS等脚本语言对Minecraft进行修改，那么我们是否能将Groovy脚本塞进数据包呢？"
+

@@ -1,0 +1,13 @@
+name = "女仆的烘焙坊"
+filename = "maid_bakeries-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-maid-bakeries/maid-bakeries-6.jar"
+hash-format = "sha256"
+hash = "88b3e4517437029da0c89b89a3fb37adac4872b6e99ba775f37232030d4a1af7"
+
+[option]
+optional = false
+description = "女仆的烘焙坊 by 女仆的烘焙坊\nBuild #6\n使烘焙坊与车万女仆模组产生联动。"
+

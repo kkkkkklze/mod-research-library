@@ -1,0 +1,13 @@
+name = "方生未逝"
+filename = "living_unvanished-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-living-unvanished/living-unvanished-8.jar"
+hash-format = "sha256"
+hash = "c4f72059c79c1549958cca6bb72dbb9185696b03a07702ac4f91b2acdc9685fd"
+
+[option]
+optional = false
+description = "方生未逝 by 紫剑重工\nBuild #8\n「只要不被遗忘，它们就没有真正灭绝」\n玩家穿行方块世界，探寻埋藏化石的泥潭古迹，寻访散落各地的文献手记，拼凑毛里求斯蓝鸠、袋狼等物种失落的过往。收集完整生物痕迹，借助复原技术唤醒逝去生命，将它们放归适配的自然环境重塑生态群落，或驯养它们成为你探索世界的伙伴。在挖掘与寻访间铭记物种消亡的遗憾，用复活生灵的旅程，诠释铭记即是永续的新生。"
+

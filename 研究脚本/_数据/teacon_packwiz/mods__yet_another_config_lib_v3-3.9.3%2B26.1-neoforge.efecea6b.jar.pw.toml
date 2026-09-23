@@ -1,0 +1,13 @@
+name = "YetAnotherConfigLib (YACL)"
+filename = "yet_another_config_lib_v3-3.9.3+26.1-neoforge.efecea6b.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/yet_another_config_lib_v3-3.9.3%2B26.1-neoforge.efecea6b.jar"
+hash-format = "sha256"
+hash = "efecea6b2ac96612be3463d42eedacebb801732f2a461f6d5ecd42355130ed64"
+
+[option]
+optional = false
+description = "Mod dependency of YetAnotherConfigLib (YACL)\nManaged by Biluochun"
+

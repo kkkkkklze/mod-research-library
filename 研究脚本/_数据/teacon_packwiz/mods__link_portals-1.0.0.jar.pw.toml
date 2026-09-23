@@ -1,0 +1,13 @@
+name = "联界门"
+filename = "link_portals-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-link-portals/link-portals-23.jar"
+hash-format = "sha256"
+hash = "7d36526bffedabcd5c52dbbdaa29cb800c2d581d81f9bd6a3b432eb1f241502c"
+
+[option]
+optional = false
+description = "联界门 by 联界门\nBuild #23\n嘿Steve,你动不动就打开下界传送门的日子结束了.......把打火石给我。"
+

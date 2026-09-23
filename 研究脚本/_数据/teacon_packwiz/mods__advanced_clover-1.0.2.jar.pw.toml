@@ -1,0 +1,13 @@
+name = "进阶四叶草 Advanced Clover"
+filename = "advanced_clover-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-advanced-clover/advanced-clover-20.jar"
+hash-format = "sha256"
+hash = "b98c96f0a15432e919f5496b9cff269082e3ae41f706510e9f1042b576b16c81"
+
+[option]
+optional = false
+description = "进阶四叶草 Advanced Clover by 未来道具研究所\nBuild #20\n试图将旧版本的旧时光的旧模组带到新时代里。https://www.curseforge.com/minecraft/mc-mods/advanced-clover"
+

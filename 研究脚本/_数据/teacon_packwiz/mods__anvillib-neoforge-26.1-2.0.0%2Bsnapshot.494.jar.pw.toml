@@ -1,0 +1,13 @@
+name = "AnvilLib"
+filename = "anvillib-neoforge-26.1-2.0.0+snapshot.494.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/jiachen/ci/extra/anvillib-neoforge-26.1-2.0.0%2Bsnapshot.494.731d2a29.jar"
+hash-format = "sha256"
+hash = "be01c350c019f1cc64b2d550d7a48d4209b002382c8959bc6e7cab1a731d2a29"
+
+[option]
+optional = false
+description = "Mod dependency of AnvilLib\nManaged by Biluochun"
+

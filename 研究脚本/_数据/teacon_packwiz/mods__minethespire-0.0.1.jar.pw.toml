@@ -1,0 +1,13 @@
+name = "我的尖塔"
+filename = "minethespire-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-minethespire/minethespire-10.jar"
+hash-format = "sha256"
+hash = "53f9b7d372846741f93cfc1da73f36550e0e072c8f7f7790d9b03b4c005d2561"
+
+[option]
+optional = false
+description = "我的尖塔 by 永远的怕酱\nBuild #10\n将《杀戮尖塔》中的有趣内容融入Minecraft"
+

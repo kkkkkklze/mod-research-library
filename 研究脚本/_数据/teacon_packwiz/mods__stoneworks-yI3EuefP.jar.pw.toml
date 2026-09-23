@@ -1,0 +1,13 @@
+name = "stoneworks"
+filename = "stoneworks-yI3EuefP.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/stoneworks/yI3EuefP/stoneworks-yI3EuefP.jar"
+hash-format = "sha256"
+hash = "3c845e3a35322a3df12cc05e5aa582ad46a6dd4cfabe4ad6c022d268486dc8d8"
+
+[option]
+optional = false
+description = "Mod dependency of stoneworks\nIncluded inside official TeaCon mod list"
+

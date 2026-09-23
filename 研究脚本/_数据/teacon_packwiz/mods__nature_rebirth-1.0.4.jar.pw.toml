@@ -1,0 +1,13 @@
+name = "Nature Rebirth"
+filename = "nature_rebirth-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-nature-rebirth/nature-rebirth-13.jar"
+hash-format = "sha256"
+hash = "c9f41aa9bcc41bcab841a3bab1fd41e28e770b454fc9f5cdb54e08eb762a23ca"
+
+[option]
+optional = false
+description = "Nature Rebirth by 嗨皮的布拿拿\nBuild #13\n一个让Minecraft中那些不可再生资源变得可量产的模组"
+

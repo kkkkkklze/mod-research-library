@@ -1,0 +1,14 @@
+name = "Sodium"
+filename = "sodium-neoforge-0.8.12+mc26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/775xoFNg/sodium-neoforge-0.8.12%2Bmc26.1.2.jar"
+hash-format = "sha256"
+hash = "670df7ba4d4fcd3e0f2fde35fd967defa94f0b07376e4554126cc79afa44fec6"
+
+[option]
+optional = true
+default = false
+description = "Optional client-side rendering optimization."
+

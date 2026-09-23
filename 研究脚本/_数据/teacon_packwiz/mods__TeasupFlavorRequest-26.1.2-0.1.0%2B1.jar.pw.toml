@@ -1,0 +1,13 @@
+name = "TeasupFlavorRequest 26.1.2"
+filename = "TeasupFlavorRequest-26.1.2-0.1.0+1.jar"
+side = "client"
+
+[download]
+url = "https://archive.teacon.cn/maven/cn/zbx1425/TeasupFlavorRequest-26.1.2/0.1.0%2B1/TeasupFlavorRequest-26.1.2-0.1.0%2B1.jar"
+hash-format = "sha256"
+hash = "10633178d7178a0337d6827ad7e3eba7a3c3793fbd5538547d1aed54a5caf8c0"
+
+[option]
+optional = false
+description = "Mod dependency of TeasupFlavorRequest 26.1.2\nIncluded inside official TeaCon mod list"
+

@@ -1,0 +1,13 @@
+name = "吾有一术：新秩序"
+filename = "wenyan_addon-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-wenyan-addon/wenyan-addon-13.jar"
+hash-format = "sha256"
+hash = "0840d6bb9dcc96d44e8a302a0489cb1c1325a7606c0de3f76dd8f258e7f50ab5"
+
+[option]
+optional = false
+description = "吾有一术：新秩序 by 另有队 附属\nBuild #13\n作为一个附属模组，使用可编程的扩展接口。让符咒们响应指令、执行动作、做出原版规则之外的事。不推翻旧规则，只在其上添一笔自己的注解。这正是「在旧规则中，创造新体验」。"
+

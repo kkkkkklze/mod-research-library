@@ -1,0 +1,13 @@
+name = "简单路径查找器"
+filename = "simple_path_finder-0.1.0-neoforge+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-simple-path-finder/simple-path-finder-135.jar"
+hash-format = "sha256"
+hash = "65c25e805bcafcc0ffd2c916261f1539a8ec309d85a3e90b3386212e58e7137c"
+
+[option]
+optional = false
+description = "简单路径查找器 by 鱼塘迷失者\nBuild #135\n地下矿洞太复杂？基地房子房间太多找不到朋友？知道目的地坐标但不确定走什么路？来使用物品建立离线导航地图数据然后在客户端寻路吧！\nhttps://www.mcmod.cn/class/28609.html"
+

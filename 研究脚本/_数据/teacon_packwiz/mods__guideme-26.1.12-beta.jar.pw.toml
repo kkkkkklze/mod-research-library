@@ -1,0 +1,13 @@
+name = "guideme"
+filename = "guideme-26.1.12-beta.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/jiachen/ci/extra/guideme-26.1.12-beta.5494b2cd.jar"
+hash-format = "sha256"
+hash = "14a71c082ba176f5dab58f8bae9edd8baa8f3c636aed4356335fe5855494b2cd"
+
+[option]
+optional = false
+description = "Mod dependency of guideme\nManaged by Biluochun"
+

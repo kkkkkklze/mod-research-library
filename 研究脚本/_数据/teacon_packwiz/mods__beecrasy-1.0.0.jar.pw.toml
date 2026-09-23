@@ -1,0 +1,13 @@
+name = "蜂会"
+filename = "beecrasy-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-beecrasy/beecrasy-154.jar"
+hash-format = "sha256"
+hash = "33e7460899a70138a1ce796d9ae7e721292aef0203d2aba3ceb2837bbbd897c5"
+
+[option]
+optional = false
+description = "蜂会 by IEEM Trivium Society\nBuild #154\n在《林业大全》的著者森吉尔爵士生活的年代，蜜蜂是远比今日更加纤细与驯良的生灵。旧时代的居民不吝赞美蜜蜂：作为维系万物的纽带，驯养、育种、杂交——选育蜜蜂的轨迹即是造物的轨迹。\n造物法则终于将人与蜜蜂一同逐出伊甸园，但百密一疏。如今蜂起云涌，失散各地的卑贱种们已重新与世界的架构建立起联系。合成与世系将织造何等伟业？\nCurseForge:https://www.curseforge.com/minecraft/mc-mods/beecrasy\nBilibili:https://b23.tv/c8XP2vG"
+

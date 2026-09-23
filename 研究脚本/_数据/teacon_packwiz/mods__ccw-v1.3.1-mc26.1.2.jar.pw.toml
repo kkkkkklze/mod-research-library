@@ -1,0 +1,13 @@
+name = "卡里普索的糖果工坊"
+filename = "ccw-v1.3.1-mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-ccw/ccw-12.jar"
+hash-format = "sha256"
+hash = "e527d1d454a14954725dfc6bc441bf9ba0bc361a71447aa1a047f4e1cf79671f"
+
+[option]
+optional = false
+description = "卡里普索的糖果工坊 by 尤里的猫·卡里普索\nBuild #12\n《卡里普索的糖果工坊》是一个轻量级的实用模组，通过简单且具有沉浸感的方式制作各种带有药水效果的软糖。  \n无论是养老的田园生活还是惊险刺激的冒险旅途，带上一包糖果上路，带上更多的快乐和希望上路。"
+

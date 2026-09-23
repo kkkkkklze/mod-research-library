@@ -1,0 +1,13 @@
+name = "Orga's AutoSprint"
+filename = "autosprint-0.org-itk.0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-autosprint/autosprint-6.jar"
+hash-format = "sha256"
+hash = "6b12b43ba908e7f9c4b02115e255487f408e1303dccd1db065247d1880f0106a"
+
+[option]
+optional = false
+description = "Orga's AutoSprint by 铁华团\nBuild #6\n像MMORPG一样一键切换行走，解放W键……只要不停下来，道路就会不断延伸。"
+

@@ -1,0 +1,13 @@
+name = "guide_me_to"
+filename = "guide_me_to-26.1.2-6.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/cn/uss-shenzhou/guide_me_to/26.1.2-6/guide_me_to-26.1.2-6.jar"
+hash-format = "sha256"
+hash = "92019a56444dae3c751d29b780c910dd6a88fb5000f1a24bd7fb834fe7ed97cd"
+
+[option]
+optional = false
+description = "Mod dependency of guide_me_to\nIncluded inside official TeaCon mod list"
+

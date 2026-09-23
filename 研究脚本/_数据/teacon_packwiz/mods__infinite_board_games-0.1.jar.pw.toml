@@ -1,0 +1,13 @@
+name = "无穷桌游"
+filename = "infinite_board_games-0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-infinite-board-games/infinite-board-games-5.jar"
+hash-format = "sha256"
+hash = "767440f6594f100ed8bee5a132b8e3192291d2dc9b4873c7dd74a7d3e5fb231f"
+
+[option]
+optional = false
+description = "无穷桌游 by MaxPixel Studios Development ∞\nBuild #5\n五子棋的精神续作。旨在提供一个强大的数据驱动API，使任何人都可以在Minecraft中实现他们想要的桌游。以及，作为五子棋的精神续作，本mod会着重于世界交互而非UI交互，以此来带给玩家沉浸式的体验。"
+

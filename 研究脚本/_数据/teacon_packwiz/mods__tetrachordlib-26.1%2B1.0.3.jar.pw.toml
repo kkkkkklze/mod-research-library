@@ -1,0 +1,13 @@
+name = "TetrachordLib"
+filename = "tetrachordlib-26.1+1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/tetrachordlib-26.1%2B1.0.3.6ec3aabc.jar"
+hash-format = "sha256"
+hash = "2312a51a5a99c3e1ecb9b68cc980482ec08a42d9aa2c7a9962b0add46ec3aabc"
+
+[option]
+optional = false
+description = "Mod dependency of TetrachordLib\nManaged by Biluochun"
+

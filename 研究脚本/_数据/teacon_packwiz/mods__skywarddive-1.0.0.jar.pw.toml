@@ -1,0 +1,13 @@
+name = "我想加入天际俯冲 Skyward Dive"
+filename = "skywarddive-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-skywarddive/skywarddive-19.jar"
+hash-format = "sha256"
+hash = "3714535e07318529785f30a0546bad0c367d16c49f8d4150a55a88c75b5c00ac"
+
+[option]
+optional = false
+description = "我想加入天际俯冲 Skyward Dive by 那是……无法到达的地方\nBuild #19\n准备飞了，准备飞了，哥们儿😎😎\n我这枪捡两回都没捡上。😡😡\n快走，快走，缩圈了😩😩\n我换把枪，我换把枪😵😵\nok我来了哥，我来了🤓🤓\n我去😢😢\n我想加入天际俯冲😰😰\n我想加入天际俯冲！😭😭\n我想加入……I can't love you in the dark🎵🎵"
+

@@ -1,0 +1,13 @@
+name = "Channel"
+filename = "channel-26.1.2-39+beta.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-channel/channel-77.jar"
+hash-format = "sha256"
+hash = "15e658ef0c9b42b08cf255f13016d4a8712456a801488e5fc39bce1415db7b5b"
+
+[option]
+optional = false
+description = "Channel by 真是炕炕又踢踢啊\nBuild #77\n自由地与大家在游戏中讲话。"
+

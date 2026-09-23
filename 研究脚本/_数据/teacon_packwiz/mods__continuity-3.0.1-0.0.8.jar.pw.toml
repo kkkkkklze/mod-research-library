@@ -1,0 +1,13 @@
+name = "continuity"
+filename = "continuity-3.0.1-0.0.8.jar"
+side = "client"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/continuity-3.0.1-0.0.8.c4780ff4.jar"
+hash-format = "sha256"
+hash = "be57dd19cf719b8d46725a21246ca3d701a8e25b1158cbd10a50d205c4780ff4"
+
+[option]
+optional = false
+description = "Mod dependency of continuity\nManaged by Biluochun"
+

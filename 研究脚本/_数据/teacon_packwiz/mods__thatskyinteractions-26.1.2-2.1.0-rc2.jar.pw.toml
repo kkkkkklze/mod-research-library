@@ -1,0 +1,13 @@
+name = "ThatSkyInteractions"
+filename = "thatskyinteractions-26.1.2-2.1.0-rc2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-thatskyinteractions/thatskyinteractions-129.jar"
+hash-format = "sha256"
+hash = "465ad4357220993fb0455f3877f75787fb9e06fe7acc35241d021548c88b22c5"
+
+[option]
+optional = false
+description = "ThatSkyInteractions by ThatSkyMC\nBuild #129\n本模组受游戏《光·遇》启发，将其部分玩家互动机制引入Minecraft。设计上延续原作中对非暴力互动的探索，通过低侵入性的交流方式促进玩家连接，并尝试减少机制设计所来带的负面互动。\n模组介绍（mc百科）https://www.mcmod.cn/class/16188.html"
+

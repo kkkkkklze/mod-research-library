@@ -1,0 +1,13 @@
+name = "LowDragLib2"
+filename = "ldlib2-neoforge-26.1-26.1.2.31.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/jiachen/ci/extra/ldlib2-neoforge-26.1-26.1.2.31.a5706858.jar"
+hash-format = "sha256"
+hash = "02a9f8c1303e57c9b12ca538eca05aaa33c9e61f7a2d4c1576a6fa3ca5706858"
+
+[option]
+optional = false
+description = "Mod dependency of LowDragLib2\nManaged by Biluochun"
+

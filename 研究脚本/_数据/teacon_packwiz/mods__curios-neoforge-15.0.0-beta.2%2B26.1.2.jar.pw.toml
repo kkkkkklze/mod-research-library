@@ -1,0 +1,13 @@
+name = "Curios API"
+filename = "curios-neoforge-15.0.0-beta.2+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/curios-neoforge-15.0.0-beta.2%2B26.1.2.dd19b096.jar"
+hash-format = "sha256"
+hash = "dd19b0964a615f0771b177eff668f45de5ffd9e8443937b598a5dd35c4a63136"
+
+[option]
+optional = false
+description = "Mod dependency of Curios API\nManaged by Biluochun"
+

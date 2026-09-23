@@ -1,0 +1,13 @@
+name = "T88"
+filename = "t88-26.1.2-1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/t88-26.1.2-1.6469d76f.jar"
+hash-format = "sha256"
+hash = "a7d74eae1d09fe415ca8b22bb37b05e12a8d99f994b2ce9aaa5231536469d76f"
+
+[option]
+optional = false
+description = "Mod dependency of T88\nManaged by Biluochun"
+

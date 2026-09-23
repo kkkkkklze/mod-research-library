@@ -1,0 +1,13 @@
+name = "VoteMe NeoForge 26.1.2"
+filename = "VoteMe-NeoForge-26.1.2-0.10.3.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/VoteMe-NeoForge-26.1.2/0.10.3/VoteMe-NeoForge-26.1.2-0.10.3.jar"
+hash-format = "sha256"
+hash = "bd3ca899711c560e169a4945a52739b75fa5ea567a7afe2e651a2321924d7c51"
+
+[option]
+optional = false
+description = "Mod dependency of VoteMe NeoForge 26.1.2\nIncluded inside official TeaCon mod list"
+

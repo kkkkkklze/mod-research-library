@@ -1,0 +1,13 @@
+name = "山河同契"
+filename = "repo-26.1.2-0.0.1+build.13.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-bonded-peaks/bonded-peaks-13.jar"
+hash-format = "sha256"
+hash = "347c7caade4c9c91b9a77f717b1bdba34a886c119a639c5ea41e7d48b2bd240f"
+
+[option]
+optional = false
+description = "山河同契 by 天枢开发组-山河同契\nBuild #13\n以山河为契，结同袍之队"
+

@@ -1,0 +1,14 @@
+name = "Iris Shaders"
+filename = "iris-neoforge-1.10.9+mc26.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/YEGDGnJM/iris-neoforge-1.10.9%2Bmc26.1.1.jar"
+hash-format = "sha256"
+hash = "12d054d1ec800583b45de67acbf257ccdc0718ce95e2bd58b05b20a3c0940d7d"
+
+[option]
+optional = true
+default = false
+description = "Optional client-side shader support."
+

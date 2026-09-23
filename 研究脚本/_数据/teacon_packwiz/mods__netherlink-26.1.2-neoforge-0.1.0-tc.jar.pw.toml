@@ -1,0 +1,13 @@
+name = "NetherLink"
+filename = "netherlink-26.1.2-neoforge-0.1.0-tc.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-netherlink/netherlink-19.jar"
+hash-format = "sha256"
+hash = "3f14385c7b53494908a938b4eeee2df829c42c439d251b0757a59efea368e6ed"
+
+[option]
+optional = false
+description = "NetherLink by 暮の音\nBuild #19\n在较低的 MC 版本实现官方联机与好友功能的接入的同时，提供了一个能够通过好友列表进入专用服务端的新开服方式。\n模组介绍（官网） https://nli.muyucloud.cool/"
+

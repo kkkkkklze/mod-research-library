@@ -1,0 +1,13 @@
+name = "多彩水晶"
+filename = "colorful_crystals-0.0.1+build.13.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-colorful-crystals/colorful-crystals-13.jar"
+hash-format = "sha256"
+hash = "f4c6e853e6af319403a8a6712b9dafb99c696288f23321767c9dd48827a7759b"
+
+[option]
+optional = false
+description = "多彩水晶 by 好漂亮的水晶啊\nBuild #13\n一些水晶的装饰方块，以及3D的晶簇"
+

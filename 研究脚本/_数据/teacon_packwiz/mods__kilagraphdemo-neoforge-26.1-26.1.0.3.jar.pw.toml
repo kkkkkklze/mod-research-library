@@ -1,0 +1,13 @@
+name = "KilaGraph"
+filename = "kilagraphdemo-neoforge-26.1-26.1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-kilagraphdemo/kilagraphdemo-15.jar"
+hash-format = "sha256"
+hash = "b2eb6b77a351d5f5cdad84cb437cb12bd646fba6c241daec3026e7c0cc5ee2c0"
+
+[option]
+optional = false
+description = "KilaGraph by 图灵机\nBuild #15\n这个mod是对KilaGraph的展示，KilaGraph是一个面向Minecraft的可视化节点图工具包。\nKilaGraph基于ldlib2的node graph toolkit框架，为mod开发者这提供嵌入Blueprint（蓝图编程）以及使用ShaderGraph（可视化着色器编程）创建RenderType提供支持。"
+

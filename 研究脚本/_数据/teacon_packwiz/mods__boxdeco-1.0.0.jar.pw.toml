@@ -1,0 +1,13 @@
+name = "BoxDeco"
+filename = "boxdeco-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-boxdeco/boxdeco-9.jar"
+hash-format = "sha256"
+hash = "12c06ccc5c1f327a64a3b59cf05886ad8f27aeed92c599240d1bce5206ace5a7"
+
+[option]
+optional = false
+description = "BoxDeco by Zbx1425\nBuild #9\n内含装饰方块。https://modrinth.com/mod/boxdeco"
+

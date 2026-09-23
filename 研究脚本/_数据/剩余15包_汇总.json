@@ -1,0 +1,674 @@
+{
+ "stats": {
+  "Immersive Fight 4.2.4": [
+   305,
+   144
+  ],
+  "Infinity Legacy II": [
+   505,
+   307
+  ],
+  "New Age Science and Technology v1.9.9 ultimate beta2": [
+   263,
+   157
+  ],
+  "NovaEngineering-World": [
+   258,
+   37
+  ],
+  "SDBF": [
+   360,
+   177
+  ],
+  "Sky Energy Tech 0.01": [
+   284,
+   168
+  ],
+  "ea": [
+   278,
+   130
+  ],
+  "new age sky": [
+   278,
+   166
+  ],
+  "乌托邦探险之旅3.5.2": [
+   451,
+   337
+  ],
+  "你好，新蒸程！V1.7.5正式版": [
+   279,
+   126
+  ],
+  "愚者": [
+   191,
+   112
+  ],
+  "星罗棋布": [
+   241,
+   117
+  ],
+  "涟漪之篇·如涟漪之所见": [
+   291,
+   118
+  ],
+  "通天之路": [
+   259,
+   138
+  ],
+  "龙之冒险：新征程v2.3a": [
+   235,
+   123
+  ]
+ },
+ "new_repos": {
+  "yanny7/advanced_loot_info": [
+   "AdvancedLootInfo",
+   "ea"
+  ],
+  "CERBON-MODS/Bosses-of-Mass-Destruction-FORGE": [
+   "Bosses of Mass Destruction",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "FabricMC/fabric-example-mod": [
+   "FTB XMod Compat",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "dima-dencep/rubidium-extra": [
+   "Embeddium Extra",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "Yesssssman/epicfightmod": [
+   "Epic Fight",
+   "Immersive Fight 4.2.4"
+  ],
+  "TheDarkPeasant/Illage-and-Spillage--Respillaged": [
+   "Illage and Spillage: Respillaged",
+   "愚者"
+  ],
+  "ThatJadenXgamer/Jadens-Nether-Expansion": [
+   "Jaden's Nether Expansion",
+   "Immersive Fight 4.2.4"
+  ],
+  "Leawind/Third-Person": [
+   "Leawind's Third Person",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "Potion-Studios/Oh-The-Biomes-Weve-Gone": [
+   "Oh The Biomes We've Gone",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "CerbonXD/QueenBeeMod": [
+   "Queen Bee",
+   "Immersive Fight 4.2.4"
+  ],
+  "Team-Resourceful/ResoucefulLib": [
+   "Resourceful Lib",
+   "SDBF"
+  ],
+  "Team-Resourceful/Resouceful-Config": [
+   "Resourcefulconfig",
+   "通天之路"
+  ],
+  "dima-dencep/super-better-grass": [
+   "SuperBetterGrass",
+   "Immersive Fight 4.2.4"
+  ],
+  "ChannelingMC/visuality-forge": [
+   "Visuality: Reforged",
+   "Immersive Fight 4.2.4"
+  ],
+  "Reascer/WeaponsOfMinecraft": [
+   "Weapons of miracle",
+   "Immersive Fight 4.2.4"
+  ],
+  "MOAKIEE/AE2-Lightning-Tech": [
+   "AE2 Lighting Tech",
+   "通天之路"
+  ],
+  "qihua233/ME_Quests_Detector_1.21.1": [
+   "AE2-FTBquest-Detector",
+   "new age sky"
+  ],
+  "MOAKIEE/AE2LT-Packaged-Pattern-Provider": [
+   "AE2LT Packaged Pattern Provider",
+   "new age sky"
+  ],
+  "62832/ArsEnergique": [
+   "Ars Énergistique",
+   "Infinity Legacy II"
+  ],
+  "Darkhax-Minecraft/Botany-Pots-Mystical-Agriculture": [
+   "BotanyPots-Mystical",
+   "new age sky"
+  ],
+  "matthewperiut/Chisel-Reborn": [
+   "Chisel Reborn",
+   "SDBF"
+  ],
+  "Serilum/.issue-tracker": [
+   "Starter Kit",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "Darkhax-Minecraft/Dark-Utilities": [
+   "DarkUtilities",
+   "Infinity Legacy II"
+  ],
+  "Traben-0/EmissiveMod": [
+   "Entity Texture Features",
+   "涟漪之篇·如涟漪之所见"
+  ],
+  "ZeroNoRyouki/ExtremeReactors2": [
+   "Extreme Reactors",
+   "new age sky"
+  ],
+  "gisellevonbingen/Minecraft-GravitationalModulatingAdditionalUnit": [
+   "Gravitational Modulating Additional Unit",
+   "Infinity Legacy II"
+  ],
+  "AppliedEnergistics/Immersive-Energistics": [
+   "Immersive Energistics",
+   "Infinity Legacy II"
+  ],
+  "gisellevonbingen-Minecraft/JustEnoughMekanismMultiblocks": [
+   "Just Enough Mekanism Multiblocks",
+   "new age sky"
+  ],
+  "CagayakeGirls/malilib-neoforge": [
+   "MaFgLib",
+   "你好，新蒸程！V1.7.5正式版"
+  ],
+  "lostmyself8/Mekanism-MoreMachine": [
+   "Mekanism: More Machine",
+   "通天之路"
+  ],
+  "MehVahdJukaar/model-gap-fix": [
+   "Model Gap Fix",
+   "Infinity Legacy II"
+  ],
+  "Moog-s-Mods/MoogsVoyagerStructures": [
+   "MoogsVoyagerStructures",
+   "Infinity Legacy II"
+  ],
+  "Christofmeg/MoreIndustrialForegoingAddons": [
+   "More Industrial Foregoing Addons",
+   "Infinity Legacy II"
+  ],
+  "Electrolyte220/MysticalAgricultureTieredCrystals": [
+   "Mystical Agriculture Tiered Crystals",
+   "Infinity Legacy II"
+  ],
+  "MehVahdJukaar/mysticaloaktree-multi": [
+   "Mystical Oak Tree",
+   "Infinity Legacy II"
+  ],
+  "fzzyhmstrs/pc": [
+   "Particle Core",
+   "星罗棋布"
+  ],
+  "KosmX/minecraftPlayerAnimator": [
+   "Player Animator",
+   "Infinity Legacy II"
+  ],
+  "62832/PolymorphicEnergistics": [
+   "Polymorphic Energistics",
+   "new age sky"
+  ],
+  "Nova-Committee/Re-Avaritia": [
+   "Re-Avaritia",
+   "Infinity Legacy II"
+  ],
+  "txmmytwostraps/Scannable-Reforged": [
+   "Scannable Reforged",
+   "Infinity Legacy II"
+  ],
+  "nanite/Simple-Discord-Rich-Presence": [
+   "Simple Discord Rich Presence",
+   "Infinity Legacy II"
+  ],
+  "dragon-forge/SolarFluxReborn": [
+   "Solar Flux Reborn",
+   "Infinity Legacy II"
+  ],
+  "TeamDman/SuperFactoryManager": [
+   "Super Factory Manager (SFM)",
+   "new age sky"
+  ],
+  "Swedz/tesseract-neoforge": [
+   "Tesseract API",
+   "Infinity Legacy II"
+  ],
+  "Soaryn/XyCraftTracker": [
+   "Simple Weather",
+   "new age sky"
+  ],
+  "ZeroNoRyouki/ZeroCore2": [
+   "Zero CORE 2",
+   "new age sky"
+  ],
+  "davenonymous/BonsaiTrees": [
+   "Bonsai Trees 4",
+   "new age sky"
+  ],
+  "breakinblocks/CompactMachinesPreviewFix": [
+   "Compact Machines Preview Fixer",
+   "new age sky"
+  ],
+  "Chisel-Team/ConnectedTexturesMod": [
+   "ConnectedTexturesMod",
+   "new age sky"
+  ],
+  "DancingSnow0517/NeoECOAEExtension": [
+   "Neo ECO AE Extension",
+   "new age sky"
+  ],
+  "CagayakeGirls/tweakeroo-neoforge": [
+   "Tweakerge",
+   "new age sky"
+  ],
+  "ThePansmith/DeepMobEvolution": [
+   "DeepMobEvolution",
+   "NovaEngineering-World"
+  ],
+  "CleanroomMC/HadEnoughItems": [
+   "Had Enough Items",
+   "NovaEngineering-World"
+  ],
+  "DHJComical/IngameIME-1.12.2": [
+   "IngameIME",
+   "NovaEngineering-World"
+  ],
+  "MARYT-Studio/RawInputMod-BlessedEdition": [
+   "Raw Input - Blessed Edition",
+   "NovaEngineering-World"
+  ],
+  "Team-RTG/Realistic-Terrain-Generation": [
+   "RTG Unofficial",
+   "NovaEngineering-World"
+  ],
+  "jbredwards/Seared-Ladder-Backport-Mod": [
+   "Seared Ladder",
+   "NovaEngineering-World"
+  ],
+  "pWn3d1337/Techguns2": [
+   "Techguns",
+   "NovaEngineering-World"
+  ],
+  "SlimeKnights/TinkersToolLeveling": [
+   "Tinkers Tool Leveling",
+   "NovaEngineering-World"
+  ],
+  "Elite-Modding-Team/TinkersAntique": [
+   "Tinkers' Antique",
+   "NovaEngineering-World"
+  ],
+  "michaelhillcox/XRay-Mod": [
+   "XRay",
+   "NovaEngineering-World"
+  ],
+  "gisellevonbingen/Minecraft-Ad-Astra-Giselle-Addon": [
+   "Ad Astra: Giselle Addon",
+   "SDBF"
+  ],
+  "Frontiers-PackForge/Cosmic-Rocketry": [
+   "Ad Astra: Rocketed",
+   "SDBF"
+  ],
+  "ramidzkh/Applied-Botanics": [
+   "Applied Botanics",
+   "SDBF"
+  ],
+  "cc-tweaked/CC-Tweaked": [
+   "CC: Tweaked",
+   "你好，新蒸程！V1.7.5正式版"
+  ],
+  "cofh/feedback": [
+   "Right Click, Get Crops",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "ThinkingStudios/MaLiLib-Forge": [
+   "MaFgLib",
+   "涟漪之篇·如涟漪之所见"
+  ],
+  "igentuman/NuclearCraft-Neoteric": [
+   "Nuclearcraft Neoteric",
+   "SDBF"
+  ],
+  "Reforged-Hub/radium-upstream": [
+   "Radium",
+   "愚者"
+  ],
+  "AbdElAziz333/Smooth-Boot-Reloaded": [
+   "Smooth Boot (Reloaded)",
+   "SDBF"
+  ],
+  "Povstalec/StargateJourney": [
+   "Stargate Journey",
+   "SDBF"
+  ],
+  "Zepalesque/Aether-Redux-Issue-Tracker": [
+   "The Aether: Redux",
+   "ea"
+  ],
+  "quek04/The-Undergarden": [
+   "The Undergarden",
+   "SDBF"
+  ],
+  "Mrthomas20121/ThermalExtra": [
+   "Thermal And Space",
+   "SDBF"
+  ],
+  "The-Aether-Team/Treasure-Reforging": [
+   "Treasure Reforging",
+   "SDBF"
+  ],
+  "Low-Drag-MC/Multiblocked2": [
+   "Multiblocked2",
+   "Sky Energy Tech 0.01"
+  ],
+  "Minimaxi28/VoidMiners-Remastered-Reforked": [
+   "VoidMiners Remastered Reforked",
+   "new age sky"
+  ],
+  "Team-Remastered/End-Remastered-Forge": [
+   "End Remastered",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "bigenergy/ftb-quests-optimizer": [
+   "FTBQuestsOptimizer",
+   "ea"
+  ],
+  "ProfessorFichte/LNE-Archers-Add-On": [
+   "L&E Archers-Add On",
+   "ea"
+  ],
+  "ProfessorFichte/LNE-Paladins-Add-On": [
+   "L&E Paladins-Add On",
+   "ea"
+  ],
+  "ProfessorFichte/LNE-Wizards-Add-On": [
+   "L&E Wizards-Add On",
+   "ea"
+  ],
+  "RobertSkalko/Library-of-Exile-Rework": [
+   "Library of Exile",
+   "ea"
+  ],
+  "FinnSetchell/MoogsTemplesReimagined": [
+   "MoogsTemplesReimagined",
+   "ea"
+  ],
+  "Brian-Wuest/MC-Prefab": [
+   "Prefab",
+   "通天之路"
+  ],
+  "8sixik/SDM": [
+   "SDM UI Lib",
+   "愚者"
+  ],
+  "Ninjdai1/letsdo-compat-addon": [
+   "[Let's Do Addon] Compat",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "satisfyu/Let-s-Do-Hub": [
+   "[Let's Do] Vinery",
+   "星罗棋布"
+  ],
+  "DawsonBodenhamer/AdorableHamsterPets-Public": [
+   "Adorable Hamster Pets",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "architectury/architectury-api": [
+   "Architectury",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Suel-ki/Beautify-Refabricated": [
+   "Beautify",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "starfish-studios/Building-But-Better": [
+   "Building But Better",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Pandarix/BushyFlowers": [
+   "Bushier Flowers",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "OnyxStudios/Cardinal-Components-API": [
+   "Cardinal Components API",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "gnembon/fabric-carpet": [
+   "Carpet Mod",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "anviaan/Chiseled-Bookshelf-Visualizer": [
+   "Chiseled Bookshelf Visualizer",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "enjarai/cicada-lib": [
+   "CICADA",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "tyrannus00/CleanF3": [
+   "Clean F3",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "beelakes/Cluttered-1.19.2-MCreator-Fabric": [
+   "Cluttered",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "MrLoLf/compblocks": [
+   "Compressed Blocks",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "ThinkingStudios/IngameIME-ReInput": [
+   "ContingameIME",
+   "涟漪之篇·如涟漪之所见"
+  ],
+  "NovaWostra/Dungeons-and-Taverns": [
+   "Dungeons and Taverns",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "OreCruncher/DynamicSurroundingsFabric": [
+   "Dynamic Surroundings",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Dariensg/evoodooers": [
+   "Evoodooers",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "FabricMC/fabric": [
+   "Fabric API",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "lucaargolo/fabric-seasons": [
+   "Fabric Seasons",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "lucaargolo/fabric-seasons-delight-compat": [
+   "Fabric Seasons: Delight Compat",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "lucaargolo/fabric-seasons-extras": [
+   "Fabric Seasons: Extras",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "lucaargolo/fabric-seasons-terralith-compat": [
+   "Fabric Seasons: Terralith Compat",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Joshcraft2002/farmers-cutting": [
+   "Farmer's Cutting: Biomes O' Plenty",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Tfarcenim/FabricFastFurnace": [
+   "FastFurnace",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "tr7zw/FirstPersonModel": [
+   "FirstPerson",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Faboslav/friends-and-foes-beekeeper-hut-beekeeper-hut": [
+   "Friends&Foes - Beekeeper Hut",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Towdium/JustEnoughCaracters": [
+   "Just Enough Characters",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Anxxitty/Just-Enough-Farmers-Recipes": [
+   "Just Enough Farmer's Recipes",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "FinnSetchell/MoogsVoyagerStructures": [
+   "Moog's Voyager Structures",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "FinnSetchell/MoogsSoaringStructures": [
+   "MoogsSoaringStructures",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "DragonsPlusMinecraft/NethersDelightRefabricated": [
+   "Nether's Delight Refabricated",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Vazkii/ModsPatchouli": [
+   "Patchouli",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Link4real/Plushie-Mod": [
+   "Plushie Mod",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Suff99/HorseRider": [
+   "Riding Partners",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "comp500/ScreenshotToClipboard": [
+   "Screenshot to Clipboard",
+   "星罗棋布"
+  ],
+  "Slore-SMP/fabric-seasons-natures-spirit-compat": [
+   "Seasons Nature's Spirit Compat",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "CaffeineMC/sodium-fabric": [
+   "Sodium",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Rynnavinx/sodium-shadowy-path-blocks": [
+   "Sodium Shadowy Path Blocks",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "finallion/The_Graveyard_-FABRIC-": [
+   "The Graveyard",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Team-Remastered/The-Lost-Castle-Fabric": [
+   "The Lost Castle",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "TeamMidnightDust/ThisRocks": [
+   "This Rocks!",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Darkhax-Minecraft/Tips": [
+   "Tips",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "Fuzss/universalbonemeal-forge": [
+   "Universal Bone Meal",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "finallion/VillagersPlus_-FABRIC-": [
+   "Villagers Plus",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "WildfireRomeo/WildfireFemaleGenderMod": [
+   "Wildfire's Female Gender Mod",
+   "乌托邦探险之旅3.5.2"
+  ],
+  "Mrbysco/ConstructionSticks": [
+   "Construction Sticks",
+   "你好，新蒸程！V1.7.5正式版"
+  ],
+  "BoxxedDev/control-panels": [
+   "Dashpanels",
+   "你好，新蒸程！V1.7.5正式版"
+  ],
+  "LopyMine/inventory-particle": [
+   "Inventory Particles",
+   "你好，新蒸程！V1.7.5正式版"
+  ],
+  "LukenSkyne/Minecraft-Ping-Wheel": [
+   "Ping Wheel",
+   "你好，新蒸程！V1.7.5正式版"
+  ],
+  "MehVahdJukaar/cameramod": [
+   "Vista",
+   "你好，新蒸程！V1.7.5正式版"
+  ],
+  "Cheos137/ArmorpointsPlusplus": [
+   "ArmorPoints++",
+   "通天之路"
+  ],
+  "KyaniteMods/DeeperAndDarker": [
+   "Deeper and Darker",
+   "愚者"
+  ],
+  "LocalizedMC/FTBQLocalizationKeys-Arch": [
+   "FTBQLocalizationKeys",
+   "愚者"
+  ],
+  "Polarice3/Goety-2": [
+   "Goety",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "MCTeamPotato/RuOK": [
+   "RuOK Mod",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "ITsMrToad/EBEReforged": [
+   "EnlightedBlockEntities",
+   "星罗棋布"
+  ],
+  "ITsMrToad/ToadLib-mod": [
+   "ToadLib",
+   "星罗棋布"
+  ],
+  "TheDeathlyCow/more-geodes-reforged": [
+   "More Geodes Reforged",
+   "涟漪之篇·如涟漪之所见"
+  ],
+  "Nova-Committee/Re": [
+   "Re-Avaritia-forged",
+   "涟漪之篇·如涟漪之所见"
+  ],
+  "ExtremelyFrozen/AE2-Crystal-Science": [
+   "AE2 Crystal Science",
+   "通天之路"
+  ],
+  "lhy512103/Create-Package": [
+   "AE2 Utility",
+   "通天之路"
+  ],
+  "Viola-Siemens/Teleport-Master": [
+   "Teleport Master",
+   "通天之路"
+  ],
+  "MinecraftForge/MinecraftForge": [
+   "Better Furnaces Reforged",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "SpaceXVI/Rough-Tweaks-Revamped": [
+   "Rough Tweaks Revamped",
+   "龙之冒险：新征程v2.3a"
+  ],
+  "ghen-git/Thirst-Mod": [
+   "Thirst was Taken",
+   "龙之冒险：新征程v2.3a"
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+name = "深岩银河激光指示器"
+filename = "drglaserpointer-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-drglaserpointer/drglaserpointer-57.jar"
+hash-format = "sha256"
+hash = "6a1d1bc85561989885f9b8c33ce463ab4c271064353183be497d53a027c18e7d"
+
+[option]
+optional = false
+description = "深岩银河激光指示器 by 深岩银河研发部\nBuild #57\n使用激光指示器标点，提醒你的队友。管理层下达命令所有人去玩深岩银河：异动核心！"
+

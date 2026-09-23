@@ -1,0 +1,13 @@
+name = "织影落花"
+filename = "shadowsandpetals-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-shadowsandpetals/shadowsandpetals-129.jar"
+hash-format = "sha256"
+hash = "9c88cf0777e1020a593b382bc40697a616b51e61da151633eafdd6cdb6231ff6"
+
+[option]
+optional = false
+description = "织影落花 by 织影落花制作组\nBuild #129\n织影落花 是一款以和风美学为核心的装饰与农业模组。  \n它围绕“庭院、四季、耕作”展开，加入了大量兼具观赏性与实用性的和风建筑装饰、家具摆设、作物与环境细节，让玩家能够在 Minecraft 中构筑一座安静而富有诗意的和风村落。"
+

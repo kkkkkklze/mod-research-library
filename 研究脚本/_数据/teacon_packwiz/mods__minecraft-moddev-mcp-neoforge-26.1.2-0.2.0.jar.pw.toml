@@ -1,0 +1,13 @@
+name = "Minecraft Mod MCP"
+filename = "minecraft-moddev-mcp-neoforge-26.1.2-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-mcpmod/mcpmod-4.jar"
+hash-format = "sha256"
+hash = "64d95194654d080f9d4de529c47f06282678d5f94515c76e75df7e51ccb8b294"
+
+[option]
+optional = false
+description = "Minecraft Mod MCP by 鱼塘创富交流群\nBuild #4\nMinecraft 模组的 Agent 模型上下文协议设施"
+

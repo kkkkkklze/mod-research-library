@@ -1,0 +1,13 @@
+name = "Cloth Config"
+filename = "cloth-config-26.1.154.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/cloth-config-26.1.154.d9147c85.jar"
+hash-format = "sha256"
+hash = "d9147c8549fedad478bd18e2ddeef172ef290a081f80bd4d242d54e027ecd9d8"
+
+[option]
+optional = false
+description = "Mod dependency of Cloth Config\nManaged by Biluochun"
+

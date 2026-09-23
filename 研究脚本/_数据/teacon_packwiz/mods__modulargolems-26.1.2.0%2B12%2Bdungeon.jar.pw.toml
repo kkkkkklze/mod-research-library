@@ -1,0 +1,13 @@
+name = "傀儡装配（Modular Golems）"
+filename = "modulargolems-26.1.2.0+12+dungeon.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-modulargolems/modulargolems-97.jar"
+hash-format = "sha256"
+hash = "d3428024c6b763bab0dfacd1f8707dd0b231125ab3ba85e17373e5a17a0bf844"
+
+[option]
+optional = false
+description = "傀儡装配（Modular Golems） by LightLand\nBuild #97\n傀儡装配（Modular Golems），直译模块化傀儡，这是一个以创造傀儡为主题的模组。\n它增加了许多不同金属类型的傀儡部件，您可以在切石机制作所需要的傀儡部件后经过铁砧变成金属傀儡部件再在工作台上组装傀儡。\n您所制造的模块化傀儡是您的好帮手，它们会跟随玩家并主动攻击敌对生物或是对它们的创造者产生威胁的生物。"
+

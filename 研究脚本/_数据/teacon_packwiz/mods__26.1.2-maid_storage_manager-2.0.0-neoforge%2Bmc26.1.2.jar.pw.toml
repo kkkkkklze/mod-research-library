@@ -1,0 +1,13 @@
+name = "女仆仓管"
+filename = "26.1.2-maid_storage_manager-2.0.0-neoforge+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-maid-storage-manager/maid-storage-manager-10.jar"
+hash-format = "sha256"
+hash = "d65418f774934d30061abf8dbd6e5d330cf373b1b0f7dc501791657fe482926e"
+
+[option]
+optional = false
+description = "女仆仓管 by 仓管女仆\nBuild #10\n一个让女仆管理存储、自动合成和进行一些神秘物流的mod"
+

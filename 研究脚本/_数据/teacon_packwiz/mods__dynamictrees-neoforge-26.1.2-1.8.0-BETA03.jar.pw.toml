@@ -1,0 +1,13 @@
+name = "动态的树"
+filename = "dynamictrees-neoforge-26.1.2-1.8.0-BETA03.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-dynamictrees/dynamictrees-7.jar"
+hash-format = "sha256"
+hash = "73c496053653127a781c33b07577e5132a3b8b9f4f8ccd4af1a4f50136e559c4"
+
+[option]
+optional = false
+description = "动态的树 by 动态的树开发社区（代参展）\nBuild #7\n在尊重 Minecraft 图形风格的同时，创造更具动感、美观、有趣和自然外观的树木，并严格控制项目范围，保持简单。\n------------------------------------------------\n模组由Ferreus Veritas最开始开发，现在由Max Hyper作为主要负责人。\n剑走诗湖为社区组重要成员，制作的动态树模组数量一度占据了某版本一半以上，和Max Hyper讨论之后携带这个模组来参展。"
+

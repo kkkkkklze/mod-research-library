@@ -1,0 +1,13 @@
+name = "LuckPerms NeoForge"
+filename = "LuckPerms-NeoForge-5.5-20260902.124952-3-all.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/me/lucko/luckperms/LuckPerms-NeoForge/5.5-SNAPSHOT/LuckPerms-NeoForge-5.5-20260902.124952-3-all.jar"
+hash-format = "sha256"
+hash = "8fd2d5302e725fc5bbe300108abedf6a19c83164e3439f2f4887f0298945e6f1"
+
+[option]
+optional = false
+description = "Mod dependency of LuckPerms NeoForge\nIncluded inside official TeaCon mod list"
+

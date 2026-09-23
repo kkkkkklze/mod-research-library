@@ -1,0 +1,13 @@
+name = "伤害枢纽"
+filename = "damagenexus-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-damagenexus/damagenexus-45.jar"
+hash-format = "sha256"
+hash = "9301f1d93f651fee362243ba4b5c4350375c88ca5b598cfdb2f5961f37fa30cc"
+
+[option]
+optional = false
+description = "伤害枢纽 by Damage Rebuilder\nBuild #45\nDamageNexus 是一个 NeoForge 伤害管线重构框架：它将原版伤害拆入可数据驱动的伤害通道、应用桶、阶段处理器和规则系统中统一计算。"
+

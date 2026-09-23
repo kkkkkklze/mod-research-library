@@ -1,0 +1,13 @@
+name = "jecharacters NeoForge 26.1.2"
+filename = "jecharacters-NeoForge-26.1.2-26.0.9.jar"
+side = "client"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/jecharacters-NeoForge-26.1.2/26.0.9/jecharacters-NeoForge-26.1.2-26.0.9.jar"
+hash-format = "sha256"
+hash = "f1c38cd95d49a3e8abaf37096016bbbc3914b00a754e34be7b7b50c5243904c1"
+
+[option]
+optional = false
+description = "Mod dependency of jecharacters NeoForge 26.1.2\nIncluded inside official TeaCon mod list"
+

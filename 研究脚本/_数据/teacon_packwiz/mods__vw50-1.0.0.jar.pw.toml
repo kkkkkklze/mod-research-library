@@ -1,0 +1,13 @@
+name = "V我50"
+filename = "vw50-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-vw50/vw50-8.jar"
+hash-format = "sha256"
+hash = "b7d1079ab291176618153140437c2399a555930824e6c0335fbcc0f079e24d77"
+
+[option]
+optional = false
+description = "V我50 by 手气最佳\nBuild #8\n老板大气！"
+

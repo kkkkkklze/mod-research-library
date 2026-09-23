@@ -1,0 +1,13 @@
+name = "WorldEditCUI NeoForge 26.1.2"
+filename = "WorldEditCUI-NeoForge-26.1.2-643d105.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/WorldEditCUI-NeoForge-26.1.2/643d105/WorldEditCUI-NeoForge-26.1.2-643d105.jar"
+hash-format = "sha256"
+hash = "d8e8aa306cfcc6109695a713a709073836c9f9d9dd492da393d9cc65779df088"
+
+[option]
+optional = false
+description = "Mod dependency of WorldEditCUI NeoForge 26.1.2\nIncluded inside official TeaCon mod list"
+

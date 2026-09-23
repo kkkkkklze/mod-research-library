@@ -1,0 +1,13 @@
+name = "网络音乐机：听听B站"
+filename = "net_music_can_play_bili-0.7.10-beta.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-net-music-can-play-bili/net-music-can-play-bili-92.jar"
+hash-format = "sha256"
+hash = "0ecb442c73f37b682600721fa03ac4dec2cf8924ad593f7749b0262eeea50e14"
+
+[option]
+optional = false
+description = "网络音乐机：听听B站 by B站好声音\nBuild #92\n网络音乐机附属模组，用于支持其播放B站视频/直播的音频流"
+

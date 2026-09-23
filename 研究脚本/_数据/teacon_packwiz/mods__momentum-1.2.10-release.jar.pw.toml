@@ -1,0 +1,13 @@
+name = "动量"
+filename = "momentum-1.2.10-release.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-momentum/momentum-41.jar"
+hash-format = "sha256"
+hash = "903ee24fadda7de5e07405cfa00ae5a3c8d445d6798d4864259040e31ca266e2"
+
+[option]
+optional = false
+description = "动量 by Annki\nBuild #41\n一个为 Minecraft 增加跑酷与机动动作的模组。\n滑行、跑墙、闪避……在我的世界中以更顺畅的方式行动。"
+

@@ -1,0 +1,13 @@
+name = "Player Animation Library"
+filename = "PlayerAnimationLibMerged-1.2.3+mc.26.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/PlayerAnimationLibMerged-1.2.3%2Bmc.26.1.f151e6ce.jar"
+hash-format = "sha256"
+hash = "947819e5c66fd7babf5c3f11b5aa303657d5a591a674028fab6eb7f4f151e6ce"
+
+[option]
+optional = false
+description = "Mod dependency of Player Animation Library\nManaged by Biluochun"
+

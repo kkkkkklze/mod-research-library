@@ -1,0 +1,13 @@
+name = "铁砧工艺：猫+!"
+filename = "anvilcraft-nekoplus-26.1.1-alpha.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-nekoplus/nekoplus-81.jar"
+hash-format = "sha256"
+hash = "a1a72cd72d0c8fc9dd04c4f63d157493165850a875a9ac849643d97c94d740f0"
+
+[option]
+optional = false
+description = "铁砧工艺：猫+! by 冷月冰雨萃梦屋\nBuild #81\n开发组里的猫做的铁砧工艺附属\nModrinth: https://modrinth.com/mod/nekoplus\nCurseforge: https://www.curseforge.com/minecraft/mc-mods/anvilcraft-nekoplus"
+

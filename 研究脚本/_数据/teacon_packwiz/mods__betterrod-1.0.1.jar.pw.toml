@@ -1,0 +1,13 @@
+name = "更好的鱼竿"
+filename = "betterrod-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-better-rod/better-rod-9.jar"
+hash-format = "sha256"
+hash = "832322b9aa72a9c462941426ded9fa3aeb88631137e304cfb7b29c0431c97f46"
+
+[option]
+optional = false
+description = "更好的鱼竿 by wither123\nBuild #9\nMinecraft的鱼竿只能勾住单个实体或者钓鱼，但如果它还能干点别的呢？这个mod通过各种钓鱼配件，允许其移动方块，进行攻击等种种玩法"
+

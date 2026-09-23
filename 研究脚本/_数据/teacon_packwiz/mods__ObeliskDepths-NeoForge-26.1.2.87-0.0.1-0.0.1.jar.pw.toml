@@ -1,0 +1,13 @@
+name = "ObeliskDepths"
+filename = "ObeliskDepths-NeoForge-26.1.2.87-0.0.1-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-obeliskdepths/obeliskdepths-43.jar"
+hash-format = "sha256"
+hash = "22d685808eb8d78c0b1355eb4eb1a3825bbecada9be28dc7ea2442bf2f2e8497"
+
+[option]
+optional = false
+description = "ObeliskDepths by 地牢深处\nBuild #43\n添加了一个新的地牢维度和一些方块"
+

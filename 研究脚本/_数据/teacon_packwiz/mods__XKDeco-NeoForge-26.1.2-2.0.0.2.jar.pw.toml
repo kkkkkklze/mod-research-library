@@ -1,0 +1,13 @@
+name = "XKDeco NeoForge 26.1.2"
+filename = "XKDeco-NeoForge-26.1.2-2.0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/XKDeco-NeoForge-26.1.2/2.0.0.2/XKDeco-NeoForge-26.1.2-2.0.0.2.jar"
+hash-format = "sha256"
+hash = "92e6f523237ae70a7b28610b4ac3b11cffa2f9e72f391018f922abe374e5f0fe"
+
+[option]
+optional = false
+description = "Mod dependency of XKDeco NeoForge 26.1.2\nIncluded inside official TeaCon mod list"
+

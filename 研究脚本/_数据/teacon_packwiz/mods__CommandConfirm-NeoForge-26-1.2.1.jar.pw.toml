@@ -1,0 +1,13 @@
+name = "CommandConfirm NeoForge 26"
+filename = "CommandConfirm-NeoForge-26-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/CommandConfirm-NeoForge-26/1.2.1/CommandConfirm-NeoForge-26-1.2.1.jar"
+hash-format = "sha256"
+hash = "8425c8bd6f0f45630a53eb7aa1c83091d30fff4e79474a0fc1b78677818cebb4"
+
+[option]
+optional = false
+description = "Mod dependency of CommandConfirm NeoForge 26\nIncluded inside official TeaCon mod list"
+

@@ -1,0 +1,13 @@
+name = "吉星工艺（Astral Craft）"
+filename = "astral_craft-neoforge-26.1.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-astral-craft/astral-craft-38.jar"
+hash-format = "sha256"
+hash = "55640cfe3a5b87dc1a1d17a509553ff367562c8eb232aadf8c1cecaca2dc9897"
+
+[option]
+optional = false
+description = "吉星工艺（Astral Craft） by 我真求你了只要别给我骰1你说什么都队\nBuild #38\n我技能准备好了！😎我来收残血！😎看我的连招！😎（🎲=1）怎么会这样！🖥️🦐真是精彩~😅本模组将游戏《吉星派对》（原《星引擎》）中的部分玩法给还原到了MC中，包括但不限于各种手牌、地块、筹码、Buff等，旨在让玩家在MC中也能体验到玩星趴的乐趣。后面如果我们还有更多的时间和精力，届时还会将其地图和角色技能等进行还原，敬请期待！如果您还觉得不错的话，那就……关注星趴谢谢喵~❤️最后严正声明：真梦梓她就是区别于其他角色的在世真龙！🐉😠"
+

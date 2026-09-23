@@ -1,0 +1,13 @@
+name = "spark"
+filename = "spark-1.10.172-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/spark/1.10.172-neoforge/spark-1.10.172-neoforge.jar"
+hash-format = "sha256"
+hash = "e908b256769fd79c0d9182dc6fef8a3d7d66033be7bbbc81cb979c6658af785c"
+
+[option]
+optional = false
+description = "Mod dependency of spark\nIncluded inside official TeaCon mod list"
+

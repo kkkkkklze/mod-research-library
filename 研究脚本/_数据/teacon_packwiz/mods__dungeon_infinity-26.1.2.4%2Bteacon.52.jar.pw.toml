@@ -1,0 +1,13 @@
+name = "无限地牢（Dungeon-Infinity）"
+filename = "dungeon_infinity-26.1.2.4+teacon.52.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-dungeon-infinity/dungeon-infinity-40.jar"
+hash-format = "sha256"
+hash = "eb34c5d678e74fae323e722f3b947b738c7a2e791d4a7f73725636f19389bbf4"
+
+[option]
+optional = false
+description = "无限地牢（Dungeon-Infinity） by 莱特兰\nBuild #40\n以原版试炼为思路，限制方块交互，融合Roguelike随机迷宫和其他模组联动，带来无尽探险乐趣和丰厚奖励。"
+

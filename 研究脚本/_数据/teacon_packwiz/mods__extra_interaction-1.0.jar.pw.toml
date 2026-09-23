@@ -1,0 +1,13 @@
+name = "更多交互"
+filename = "extra_interaction-1.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-extra-interaction/extra-interaction-13.jar"
+hash-format = "sha256"
+hash = "3dc20f2fe5fff69ca0298d793cf93c40c9c5fdec087c9a1fa589bfedb90b0b27"
+
+[option]
+optional = false
+description = "更多交互 by 噶了给墓高寿\nBuild #13\n按下F与方块或实体进行交互！"
+

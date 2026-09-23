@@ -1,0 +1,13 @@
+name = "diagonal fences"
+filename = "diagonal-fences-26.1.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/diagonal-fences/26.1.0/diagonal-fences-26.1.0.jar"
+hash-format = "sha256"
+hash = "bbe0e7b04a264cc1f1d14bede98ec14786a918ce20fc44921f6b8449c781376f"
+
+[option]
+optional = false
+description = "Mod dependency of diagonal fences\nIncluded inside official TeaCon mod list"
+

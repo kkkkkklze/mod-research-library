@@ -1,0 +1,1456 @@
+{
+ "architectury-9.2.14-forge.jar": {
+  "path": "mods/architectury-9.2.14-forge.jar",
+  "title": "Architectury API",
+  "gh": "architectury/architectury",
+  "source": "https://github.com/architectury/architectury",
+  "downloads": 98546473,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "blueprint-1.20.1-7.1.4.jar": {
+  "path": "mods/blueprint-1.20.1-7.1.4.jar",
+  "title": "Blueprint",
+  "gh": "team-abnormals/blueprint",
+  "source": "https://github.com/team-abnormals/blueprint",
+  "downloads": 7369305,
+  "license": "LicenseRef-Abnormals-License",
+  "via": "modrinth-api"
+ },
+ "Bookshelf-Forge-1.20.1-20.2.15.jar": {
+  "path": "mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+  "title": "Bookshelf",
+  "gh": "Darkhax-Minecraft/Bookshelf",
+  "source": "https://github.com/Darkhax-Minecraft/Bookshelf",
+  "downloads": 45148100,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "celesteconfig-forge-1.20.1-1.1.2.jar": {
+  "path": "mods/celesteconfig-forge-1.20.1-1.1.2.jar",
+  "title": "Sun and Moon Celestial Configuration",
+  "gh": "infernalstudios/Celestial-Configuration",
+  "source": "https://github.com/infernalstudios/Celestial-Configuration",
+  "downloads": 544556,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "citadel-2.6.3-1.20.1.jar": {
+  "path": "mods/citadel-2.6.3-1.20.1.jar",
+  "title": "Citadel",
+  "gh": "Alex-the-666/Citadel",
+  "source": "https://github.com/Alex-the-666/Citadel",
+  "downloads": 16075199,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "cloth-config-11.1.136-forge.jar": {
+  "path": "mods/cloth-config-11.1.136-forge.jar",
+  "title": "Cloth Config API",
+  "gh": "shedaniel/ClothConfig",
+  "source": "https://github.com/shedaniel/ClothConfig/",
+  "downloads": 166142525,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "collective-1.20.1-8.39.jar": {
+  "path": "mods/collective-1.20.1-8.39.jar",
+  "title": "Collective",
+  "gh": "Serilum/Collective",
+  "source": "https://github.com/Serilum/Collective",
+  "downloads": 63827596,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "damageindicator-2.2.1-1.20.1.jar": {
+  "path": "mods/damageindicator-2.2.1-1.20.1.jar",
+  "title": "JeremySeq's Damage Indicator",
+  "gh": "JeremySeq/DamageIndicators",
+  "source": "https://github.com/JeremySeq/DamageIndicators",
+  "downloads": 581336,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "displaydelight-1.7.0.jar": {
+  "path": "mods/displaydelight-1.7.0.jar",
+  "title": "Display Delight",
+  "gh": "jkvin114/display-delight-neoforge",
+  "source": "https://github.com/jkvin114/display-delight-neoforge",
+  "downloads": 1364708,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar": {
+  "path": "mods/DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+  "title": "Dramatic Doors",
+  "gh": "Kitteh6660/DramaticDoors",
+  "source": "https://github.com/Kitteh6660/DramaticDoors",
+  "downloads": 5736057,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "embeddium-0.3.31+mc1.20.1.jar": {
+  "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+  "title": "Embeddium",
+  "gh": "FiniteReality/embeddium",
+  "source": "https://github.com/FiniteReality/embeddium",
+  "downloads": 34553725,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "endertrigon-1.20.1-1.1-all.jar": {
+  "path": "mods/endertrigon-1.20.1-1.1-all.jar",
+  "title": "Ender Trigon",
+  "gh": "nonamecrackers2/ender-trigon",
+  "source": "https://github.com/nonamecrackers2/ender-trigon",
+  "downloads": 533676,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "enhancedai-3.3.7.3.jar": {
+  "path": "mods/enhancedai-3.3.7.3.jar",
+  "title": "Enhanced AI",
+  "gh": "Insane96/EnhancedAI",
+  "source": "https://github.com/Insane96/EnhancedAI",
+  "downloads": 613755,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "exposure_polaroid-forge-1.20.1-1.1.4.jar": {
+  "path": "mods/exposure_polaroid-forge-1.20.1-1.1.4.jar",
+  "title": "Exposure: Polaroid",
+  "gh": "mortuusars/ExposurePolaroid",
+  "source": "https://github.com/mortuusars/ExposurePolaroid",
+  "downloads": 968493,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "flan-1.20.1-1.11.16-forge.jar": {
+  "path": "mods/flan-1.20.1-1.11.16-forge.jar",
+  "title": "Flan",
+  "gh": "Flemmli97/Flan",
+  "source": "https://github.com/Flemmli97/Flan",
+  "downloads": 239986,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "globalpacks-forge-1.20.1-19.3.7.jar": {
+  "path": "mods/globalpacks-forge-1.20.1-19.3.7.jar",
+  "title": "Global Packs",
+  "gh": null,
+  "source": "https://github.com/DarkRoleplay/Global-Data-and-Resourcepacks",
+  "downloads": 15192059,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "gh_bad": "DarkRoleplay/Global-Data-and-Resourcepacks",
+  "local_decompiled": true,
+  "local_jar": "[全局数据包] globalpacks-neoforge-1.21.1-21.0.6.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 728
+ },
+ "guideme-20.1.15.jar": {
+  "path": "mods/guideme-20.1.15.jar",
+  "title": "GuideME",
+  "gh": "AppliedEnergistics/GuideME",
+  "source": "https://github.com/AppliedEnergistics/GuideME/",
+  "downloads": 2958890,
+  "license": "LicenseRef-Multiple-OSS-Licenses",
+  "via": "modrinth-api"
+ },
+ "IBEEditor-1.20-2.2.8-forge.jar": {
+  "path": "mods/IBEEditor-1.20-2.2.8-forge.jar",
+  "title": "IBE Editor",
+  "gh": "skyecodes/IBE-Editor",
+  "source": "https://github.com/skyecodes/IBE-Editor",
+  "downloads": 1948797,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "incontrol-1.20-9.4.7.jar": {
+  "path": "mods/incontrol-1.20-9.4.7.jar",
+  "title": "In Control!",
+  "gh": "McJtyMods/InControl",
+  "source": "https://github.com/McJtyMods/InControl",
+  "downloads": 3456393,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "insanelib-1.23.4.6.jar": {
+  "path": "mods/insanelib-1.23.4.6.jar",
+  "title": "InsaneLib",
+  "gh": "Insane96/InsaneLib",
+  "source": "https://github.com/Insane96/InsaneLib",
+  "downloads": 1323843,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "itemblacklist-1.20.1-1.1.5.jar": {
+  "path": "mods/itemblacklist-1.20.1-1.1.5.jar",
+  "title": "Item Banning",
+  "gh": "pitbox46/ItemBlacklist",
+  "source": "https://github.com/pitbox46/ItemBlacklist",
+  "downloads": 170950,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "jeimultiblocks-1.20.1-1.0.6.jar": {
+  "path": "mods/jeimultiblocks-1.20.1-1.0.6.jar",
+  "title": "Just Enough Immersive Multiblocks",
+  "gh": "sguest/jei-multiblocks",
+  "source": "https://github.com/sguest/jei-multiblocks",
+  "downloads": 331694,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar": {
+  "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+  "title": "Konkrete",
+  "gh": "Keksuccino/Konkrete",
+  "source": "https://github.com/Keksuccino/Konkrete",
+  "downloads": 60266958,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "kotlinforforge-4.12.0-all.jar": {
+  "path": "mods/kotlinforforge-4.12.0-all.jar",
+  "title": "Kotlin for Forge",
+  "gh": "thedarkcolour/KotlinForForge",
+  "source": "https://github.com/thedarkcolour/KotlinForForge",
+  "downloads": 49534667,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "kubejs-forge-2001.6.5-build.26.jar": {
+  "path": "mods/kubejs-forge-2001.6.5-build.26.jar",
+  "title": "KubeJS",
+  "gh": "KubeJS-Mods/KubeJS",
+  "source": "https://github.com/KubeJS-Mods/KubeJS",
+  "downloads": 20802984,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "libIPN-forge-1.20-4.0.2.jar": {
+  "path": "mods/libIPN-forge-1.20-4.0.2.jar",
+  "title": "libIPN",
+  "gh": "blackd/libIPN",
+  "source": "https://github.com/blackd/libIPN",
+  "downloads": 33544214,
+  "license": "AGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "libraryferret-forge-1.20.1-4.0.0.jar": {
+  "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
+  "title": "Library Ferret",
+  "gh": null,
+  "source": null,
+  "downloads": 6099717,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "libraryferret-forge-1.20.1-4.0.0.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 2269
+ },
+ "lightspeed-1.20.1-1.2.3.jar": {
+  "path": "mods/lightspeed-1.20.1-1.2.3.jar",
+  "title": "LightSpeedRe",
+  "gh": "kltyton/LightSpeedRe",
+  "source": "https://github.com/kltyton/LightSpeedRe",
+  "downloads": 1136499,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "lootr-forge-1.20-0.7.35.94.jar": {
+  "path": "mods/lootr-forge-1.20-0.7.35.94.jar",
+  "title": "Lootr",
+  "gh": "noobanidus/lootr",
+  "source": "https://github.com/noobanidus/lootr",
+  "downloads": 22000519,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "lostcities-modern-tweaks-v1.0.10.jar": {
+  "path": "mods/lostcities-modern-tweaks-v1.0.10.jar",
+  "title": "Lost Cities Modern Tweaks",
+  "gh": null,
+  "source": null,
+  "downloads": 3029015,
+  "license": "MIT",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "lostcities-modern-tweaks-v1.0.10.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 0
+ },
+ "MaxHealthFix-Forge-1.20.1-12.0.4.jar": {
+  "path": "mods/MaxHealthFix-Forge-1.20.1-12.0.4.jar",
+  "title": "Max Health Fix",
+  "gh": "Darkhax-Minecraft/Max-Health-Fix",
+  "source": "https://github.com/Darkhax-Minecraft/Max-Health-Fix",
+  "downloads": 2555055,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "modern_glass_doors-1.1.0-1.20.1.jar": {
+  "path": "mods/modern_glass_doors-1.1.0-1.20.1.jar",
+  "title": "Modern Glass Doors(Forge)",
+  "gh": "embeddedt/ModernFix",
+  "source": null,
+  "downloads": 7378,
+  "license": "MIT",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[现代化修复] modernfix-forge-5.27.77+mc1.20.1.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 19454,
+  "gh_from": "本地 jar 元数据",
+  "gh_suspect": "embeddedt/ModernFix"
+ },
+ "moonlight-1.20-2.16.34-forge.jar": {
+  "path": "mods/moonlight-1.20-2.16.34-forge.jar",
+  "title": "Moonlight Lib",
+  "gh": "MehVahdJukaar/Moonlight",
+  "source": "https://github.com/MehVahdJukaar/Moonlight/tree/multi-loader",
+  "downloads": 39793064,
+  "license": "LicenseRef-LGPL-with-additional-dependency-clause",
+  "via": "modrinth-api"
+ },
+ "oculus-mc1.20.1-1.8.0.jar": {
+  "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+  "title": "Oculus",
+  "gh": "Asek3/Oculus",
+  "source": "https://github.com/Asek3/Oculus",
+  "downloads": 35627296,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "panoramica_forge_1.2.1_MC_1.19-1.19.2.jar": {
+  "path": "mods/panoramica_forge_1.2.1_MC_1.19-1.19.2.jar",
+  "title": "Panoramica",
+  "gh": "Keksuccino/Panoramica",
+  "source": "https://github.com/Keksuccino/Panoramica",
+  "downloads": 46149,
+  "license": "LicenseRef-DSMSL",
+  "via": "modrinth-api"
+ },
+ "Patched-9.0.0+1.20.1-forge.jar": {
+  "path": "mods/Patched-9.0.0+1.20.1-forge.jar",
+  "title": "Patched",
+  "gh": "EnderTurret/PatchedMod",
+  "source": "https://github.com/EnderTurret/PatchedMod",
+  "downloads": 68534,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "ping_system-1.01-1.20.1.jar": {
+  "path": "mods/ping_system-1.01-1.20.1.jar",
+  "title": "Ping System",
+  "gh": "sam-makes-stuff/ping_system",
+  "source": "https://github.com/sam-makes-stuff/ping_system",
+  "downloads": 1623,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "probejs-7.0.0-forge.jar": {
+  "path": "mods/probejs-7.0.0-forge.jar",
+  "title": "ProbeJS",
+  "gh": "Prunoideae/ProbeJS",
+  "source": "https://github.com/Prunoideae/ProbeJS",
+  "downloads": 712521,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "Stellar.View-1.20.1-0.5.3-Forge.jar": {
+  "path": "mods/Stellar.View-1.20.1-0.5.3-Forge.jar",
+  "title": "Stellar View",
+  "gh": "Povstalec/StellarView",
+  "source": "https://github.com/Povstalec/StellarView",
+  "downloads": 222419,
+  "license": "LicenseRef-Creative-Commons-Attribution-NonCommercial-ShareAlike-4.0-International-License",
+  "via": "modrinth-api"
+ },
+ "taczlabs-1.20.1-1.1.8.jar": {
+  "path": "mods/taczlabs-1.20.1-1.1.8.jar",
+  "title": "TaCZ-Labs",
+  "gh": "Txt-Text/TaCZ-Labs",
+  "source": "https://github.com/Txt-Text/TaCZ-Labs/",
+  "downloads": 520591,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "trimmed-forge-1.20.1-2.1.4-all.jar": {
+  "path": "mods/trimmed-forge-1.20.1-2.1.4-all.jar",
+  "title": "Trimmed",
+  "gh": "dhyces/trimmed",
+  "source": "https://github.com/dhyces/trimmed",
+  "downloads": 252487,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "trulytreasures-1.20-3.0.0-forge.jar": {
+  "path": "mods/trulytreasures-1.20-3.0.0-forge.jar",
+  "title": "Truly Treasures",
+  "gh": "Ineffa/Truly-Treasures",
+  "source": "https://github.com/Ineffa/Truly-Treasures",
+  "downloads": 97701,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "WorldEditCUI-1.20+01.jar": {
+  "path": "mods/WorldEditCUI-1.20+01.jar",
+  "title": "WorldEdit CUI (Unofficial Forge Port)",
+  "gh": "zbx1425/WorldEditCUI-Arch",
+  "source": "https://github.com/zbx1425/WorldEditCUI-Arch",
+  "downloads": 451859,
+  "license": "EPL-1.0",
+  "via": "modrinth-api"
+ },
+ "YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar": {
+  "path": "mods/YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar",
+  "title": "Yeetus Experimentus",
+  "gh": null,
+  "source": null,
+  "downloads": 18298196,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 107
+ },
+ "[Alex 的生物] alexsmobs-1.22.9.jar": {
+  "path": "mods/[Alex 的生物] alexsmobs-1.22.9.jar",
+  "title": "Alex's Mobs",
+  "gh": "AlexModGuy/AlexsMobs",
+  "source": "https://github.com/AlexModGuy/AlexsMobs",
+  "downloads": 14578289,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[CoFH核心] cofh_core-1.20.1-11.0.2.56.jar": {
+  "path": "mods/[CoFH核心] cofh_core-1.20.1-11.0.2.56.jar",
+  "title": "CoFH Core",
+  "gh": "CoFH/CoFHCore",
+  "source": null,
+  "downloads": 2163573,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "manual",
+  "gh_bad": "cofh/feedback"
+ },
+ "[JEI物品管理器] jei-1.20.1-forge-15.49.0.194.jar": {
+  "path": "mods/[JEI物品管理器] jei-1.20.1-forge-15.49.0.194.jar",
+  "title": "Just Enough Items (JEI)",
+  "gh": "mezz/JustEnoughItems",
+  "source": "https://github.com/mezz/JustEnoughItems",
+  "downloads": 75972741,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[KubeJS 离线文档] kubejsoffline-5.2.0.27.jar": {
+  "path": "mods/[KubeJS 离线文档] kubejsoffline-5.2.0.27.jar",
+  "title": "KubeJS Offline",
+  "gh": "Hunter19823/kubejsoffline",
+  "source": "https://github.com/Hunter19823/kubejsoffline",
+  "downloads": 153499,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[Xaero的世界地图] xaeroworldmap-forge-1.20.1-1.45.0.jar": {
+  "path": "mods/[Xaero的世界地图] xaeroworldmap-forge-1.20.1-1.45.0.jar",
+  "title": "Xaero's World Map",
+  "gh": null,
+  "source": null,
+  "downloads": 95299513,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 34696
+ },
+ "[Xaero的小地图] xaerominimap-forge-1.20.1-26.4.2.jar": {
+  "path": "mods/[Xaero的小地图] xaerominimap-forge-1.20.1-26.4.2.jar",
+  "title": "Xaero's Minimap",
+  "gh": null,
+  "source": null,
+  "downloads": 108838953,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 49026
+ },
+ "[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.20.jar": {
+  "path": "mods/[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.20.jar",
+  "title": "Inventory Profiles Next",
+  "gh": "blackd/Inventory-Profiles",
+  "source": "https://codeberg.org/Inventory-Profiles-Next-Mod/IPNentory-Profiles",
+  "downloads": 38920541,
+  "license": "AGPL-3.0-or-later",
+  "via": "jar-meta"
+ },
+ "[万用皮肤补丁] CustomSkinLoader_Universal-15.0.1.jar": {
+  "path": "mods/[万用皮肤补丁] CustomSkinLoader_Universal-15.0.1.jar",
+  "title": "CustomSkinLoader",
+  "gh": "xfl03/MCCustomSkinLoader",
+  "source": "https://github.com/xfl03/MCCustomSkinLoader",
+  "downloads": 23059738,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[万象] ensorcellation-1.20.1-5.0.2.24.jar": {
+  "path": "mods/[万象] ensorcellation-1.20.1-5.0.2.24.jar",
+  "title": "Ensorcellation",
+  "gh": "CoFH/Ensorcellation",
+  "source": null,
+  "downloads": 188567,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "manual-verified",
+  "gh_bad": "cofh/feedback"
+ },
+ "[下界乐事] nethersdelight-1.20.1-4.0.jar": {
+  "path": "mods/[下界乐事] nethersdelight-1.20.1-4.0.jar",
+  "title": "Nether's Delight",
+  "gh": "Umpaz/NethersDelight",
+  "source": null,
+  "downloads": 3006711,
+  "license": "MIT",
+  "via": "jar-meta"
+ },
+ "[传奇领主]block_factorys_bosses-2.1.2-forge-1.20.1.jar": {
+  "path": "mods/[传奇领主]block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+  "title": "Bosses'Rise",
+  "gh": null,
+  "source": null,
+  "downloads": 2460297,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 52417
+ },
+ "[全局服务器配置] global-server-config-forge-1.18.2+-1.0.jar": {
+  "path": "mods/[全局服务器配置] global-server-config-forge-1.18.2+-1.0.jar",
+  "title": "Global Server Config",
+  "gh": "TJT01/GlobalServerConfig",
+  "source": "https://github.com/TJT01/GlobalServerConfig",
+  "downloads": 7428932,
+  "license": "Unlicense",
+  "via": "modrinth-api"
+ },
+ "[内存泄漏修复] memoryleakfix-forge-1.17+-1.1.5.jar": {
+  "path": "mods/[内存泄漏修复] memoryleakfix-forge-1.17+-1.1.5.jar",
+  "title": "Memory Leak Fix",
+  "gh": "fxmorin/memoryLeakFix",
+  "source": "https://github.com/fxmorin/memoryLeakFix",
+  "downloads": 37185178,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[农夫乐事] FarmersDelight-1.20.1-1.3.3.jar": {
+  "path": "mods/[农夫乐事] FarmersDelight-1.20.1-1.3.3.jar",
+  "title": "Farmer's Delight",
+  "gh": "vectorwing/FarmersDelight",
+  "source": "https://github.com/vectorwing/FarmersDelight",
+  "downloads": 23447577,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[农夫暇事] farmersrespite-1.20.1-2.1.2.jar": {
+  "path": "mods/[农夫暇事] farmersrespite-1.20.1-2.1.2.jar",
+  "title": "Farmer's Respite",
+  "gh": null,
+  "source": null,
+  "downloads": 89298,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[农夫暇事] farmersrespite-1.20.1-2.1.2.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 6663
+ },
+ "[创世神] worldedit-mod-7.2.15.jar": {
+  "path": "mods/[创世神] worldedit-mod-7.2.15.jar",
+  "title": "WorldEdit",
+  "gh": "EngineHub/WorldEdit",
+  "source": "https://github.com/EngineHub/WorldEdit/",
+  "downloads": 10515226,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[原版烹饪书] VanillaCookbook-2.2.4.jar": {
+  "path": "mods/[原版烹饪书] VanillaCookbook-2.2.4.jar",
+  "title": "Vanilla Cookbook",
+  "gh": "Moralle/VanillaCookbook",
+  "source": "https://github.com/Moralle/VanillaCookbook",
+  "downloads": 1099727,
+  "license": "LicenseRef-Custom",
+  "via": "modrinth-api"
+ },
+ "[可视化配方编写] visual_recipe_editor1.20.1-1.1.0.jar": {
+  "path": "mods/[可视化配方编写] visual_recipe_editor1.20.1-1.1.0.jar",
+  "title": "Workstation Recipe Exporter",
+  "gh": "Xiaoyu-2009/visual_recipe_editor",
+  "source": "https://github.com/Xiaoyu-2009/visual_recipe_editor",
+  "downloads": 995588,
+  "license": "GPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[多态合成] polymorph-forge-0.49.10+1.20.1.jar": {
+  "path": "mods/[多态合成] polymorph-forge-0.49.10+1.20.1.jar",
+  "title": "Polymorph",
+  "gh": "illusivesoulworks/polymorph",
+  "source": "https://github.com/illusivesoulworks/polymorph",
+  "downloads": 24439356,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[失落的城市] lostcities-1.20-7.5.2.jar": {
+  "path": "mods/[失落的城市] lostcities-1.20-7.5.2.jar",
+  "title": "The Lost Cities",
+  "gh": "McJtyMods/LostCities",
+  "source": "https://github.com/McJtyMods/LostCities",
+  "downloads": 10745713,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[妖怪之山通用库] mysterious_mountain_lib-1.6.34-1.20.1.jar": {
+  "path": "mods/[妖怪之山通用库] mysterious_mountain_lib-1.6.34-1.20.1.jar",
+  "title": "Mysterious Mountain Lib",
+  "gh": "0999312/MMLib",
+  "source": "https://github.com/0999312/MMLib",
+  "downloads": 1957511,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[属性修复] AttributeFix-Forge-1.20.1-21.0.5.jar": {
+  "path": "mods/[属性修复] AttributeFix-Forge-1.20.1-21.0.5.jar",
+  "title": "AttributeFix",
+  "gh": "Darkhax-Minecraft/AttributeFix",
+  "source": "https://github.com/Darkhax-Minecraft/AttributeFix",
+  "downloads": 21384060,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[帕秋莉手册] Patchouli-1.20.1-85-FORGE.jar": {
+  "path": "mods/[帕秋莉手册] Patchouli-1.20.1-85-FORGE.jar",
+  "title": "Patchouli",
+  "gh": "VazkiiMods/Patchouli",
+  "source": "https://github.com/VazkiiMods/Patchouli/",
+  "downloads": 34331194,
+  "license": "CC-BY-NC-SA-3.0",
+  "via": "modrinth-api"
+ },
+ "[应用能源2] appliedenergistics2-forge-15.4.10.jar": {
+  "path": "mods/[应用能源2] appliedenergistics2-forge-15.4.10.jar",
+  "title": "Applied Energistics 2",
+  "gh": "AppliedEnergistics/Applied-Energistics-2",
+  "source": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+  "downloads": 5850461,
+  "license": "LicenseRef-Multiple",
+  "via": "modrinth-api"
+ },
+ "[拾光定影] exposure-forge-1.20.1-1.9.21.jar": {
+  "path": "mods/[拾光定影] exposure-forge-1.20.1-1.9.21.jar",
+  "title": "Exposure",
+  "gh": "mortuusars/Exposure",
+  "source": "https://github.com/mortuusars/Exposure",
+  "downloads": 13876809,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[旅行者背包] travelersbackpack-forge-1.20.1-9.1.56.jar": {
+  "path": "mods/[旅行者背包] travelersbackpack-forge-1.20.1-9.1.56.jar",
+  "title": "Traveler's Backpack",
+  "gh": "Tiviacz1337/Travelers-Backpack",
+  "source": "https://github.com/Tiviacz1337/Travelers-Backpack",
+  "downloads": 20130952,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[时间控制] timecontrol-1.20.1-1.6.0.jar": {
+  "path": "mods/[时间控制] timecontrol-1.20.1-1.6.0.jar",
+  "title": "Time Control",
+  "gh": "Unixkitty/timecontrol",
+  "source": "https://github.com/Unixkitty/timecontrol",
+  "downloads": 237312,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[是，史蒂夫模型] ysm-2.6.5-forge+mc1.20.1-release.jar": {
+  "path": "mods/[是，史蒂夫模型] ysm-2.6.5-forge+mc1.20.1-release.jar",
+  "title": "Yes Steve Model",
+  "gh": "YesSteveModel/YSM-Wiki-Issues",
+  "source": null,
+  "downloads": 14521661,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "jar-meta"
+ },
+ "[更美观的血条] colorfulhearts-forge-1.20.1-4.3.16.jar": {
+  "path": "mods/[更美观的血条] colorfulhearts-forge-1.20.1-4.3.16.jar",
+  "title": "Colorful Hearts",
+  "gh": "Terrails/colorful-hearts",
+  "source": "https://github.com/Terrails/colorful-hearts",
+  "downloads": 4279170,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[望远镜改进] spyglass_improvements-forge-1.5.12b+mc1.20+forge.jar": {
+  "path": "mods/[望远镜改进] spyglass_improvements-forge-1.5.12b+mc1.20+forge.jar",
+  "title": "Spyglass Improvements",
+  "gh": "juancarloscp52/spyglass-improvements",
+  "source": "https://github.com/juancarloscp52/spyglass-improvements",
+  "downloads": 3071468,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[末地乐事] ends_delight-2.6.1+forge.1.20.1.jar": {
+  "path": "mods/[末地乐事] ends_delight-2.6.1+forge.1.20.1.jar",
+  "title": "End's Delight",
+  "gh": "FoggyHillside/End-s-Delight",
+  "source": "https://github.com/FoggyHillside/End-s-Delight",
+  "downloads": 9106919,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[永恒枪械工坊：零] tacz-1.20.1-1.1.8-hotfix.jar": {
+  "path": "mods/[永恒枪械工坊：零] tacz-1.20.1-1.1.8-hotfix.jar",
+  "title": "[TaCZ] Timeless and Classics Zero",
+  "gh": "MCModderAnchor/TACZ",
+  "source": "https://github.com/MCModderAnchor/TACZ",
+  "downloads": 30074925,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[沉浸原油] ImmersivePetroleum-1.20.1-4.3.1-36b.jar": {
+  "path": "mods/[沉浸原油] ImmersivePetroleum-1.20.1-4.3.1-36b.jar",
+  "title": "Immersive Petroleum",
+  "gh": "TwistedGate/ImmersivePetroleum",
+  "source": "https://github.com/TwistedGate/ImmersivePetroleum",
+  "downloads": 70100,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[沉浸工程] ImmersiveEngineering-1.20.1-10.2.0-183.jar": {
+  "path": "mods/[沉浸工程] ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+  "title": "Immersive Engineering",
+  "gh": "BluSunrize/ImmersiveEngineering",
+  "source": "https://github.com/BluSunrize/ImmersiveEngineering",
+  "downloads": 3472261,
+  "license": "LicenseRef-Custom",
+  "via": "modrinth-api"
+ },
+ "[沉浸式飞机] immersive_aircraft-1.4.1+1.20.1-forge.jar": {
+  "path": "mods/[沉浸式飞机] immersive_aircraft-1.4.1+1.20.1-forge.jar",
+  "title": "Immersive Aircraft",
+  "gh": "Luke100000/ImmersiveAircraft",
+  "source": "https://github.com/Luke100000/ImmersiveAircraft",
+  "downloads": 14572164,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[深暗之地]the_afterdark-1.20.1-forge-1.0.3.1.jar": {
+  "path": "mods/[深暗之地]the_afterdark-1.20.1-forge-1.0.3.1.jar",
+  "title": "The Afterdark",
+  "gh": "DenisMasterHerobrine/TheAfterdark",
+  "source": "https://github.com/DenisMasterHerobrine/TheAfterdark",
+  "downloads": 237373,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[滑翔伞] Paraglider-forge-20.1.3.jar": {
+  "path": "mods/[滑翔伞] Paraglider-forge-20.1.3.jar",
+  "title": "Paragliders",
+  "gh": "Tictim/Paraglider",
+  "source": "https://github.com/Tictim/Paraglider",
+  "downloads": 2711875,
+  "license": "GPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[犀牛] rhino-forge-2001.2.3-build.10.jar": {
+  "path": "mods/[犀牛] rhino-forge-2001.2.3-build.10.jar",
+  "title": "Rhino",
+  "gh": "KubeJS-Mods/Rhino",
+  "source": "https://github.com/KubeJS-Mods/Rhino",
+  "downloads": 21592707,
+  "license": "MPL-2.0",
+  "via": "modrinth-api"
+ },
+ "[玉 🔍] Jade-1.20.1-Forge-11.13.3.jar": {
+  "path": "mods/[玉 🔍] Jade-1.20.1-Forge-11.13.3.jar",
+  "title": "Jade 🔍",
+  "gh": "Snownee/Jade",
+  "source": "https://github.com/Snownee/Jade",
+  "downloads": 66976488,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "[玉米乐事] corn_delight-1.2.11-1.20.1.jar": {
+  "path": "mods/[玉米乐事] corn_delight-1.2.11-1.20.1.jar",
+  "title": "Corn Delight",
+  "gh": "0999312/Corn-Delight",
+  "source": "https://github.com/0999312/Corn-Delight",
+  "downloads": 1322017,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[现代化修复] modernfix-forge-5.27.77+mc1.20.1.jar": {
+  "path": "mods/[现代化修复] modernfix-forge-5.27.77+mc1.20.1.jar",
+  "title": "ModernFix",
+  "gh": "embeddedt/ModernFix",
+  "source": "https://github.com/embeddedt/ModernFix",
+  "downloads": 76865964,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[禁用聊天举报] NoChatReports-FORGE-1.20.1-v2.2.2.jar": {
+  "path": "mods/[禁用聊天举报] NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+  "title": "No Chat Reports",
+  "gh": "Aizistral-Studios/No-Chat-Reports",
+  "source": "https://github.com/Aizistral-Studios/No-Chat-Reports",
+  "downloads": 56871072,
+  "license": "WTFPL",
+  "via": "modrinth-api"
+ },
+ "[网络音乐机] netmusic-1.5.1-forge+mc1.20.1.jar": {
+  "path": "mods/[网络音乐机] netmusic-1.5.1-forge+mc1.20.1.jar",
+  "title": "Net Music",
+  "gh": "TartaricAcid/NetMusic",
+  "source": "https://github.com/TartaricAcid/NetMusic",
+  "downloads": 4508452,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "[自动汉化更新] I18nUpdateMod-3.7.0-all.jar": {
+  "path": "mods/[自动汉化更新] I18nUpdateMod-3.7.0-all.jar",
+  "title": "I18nUpdateMod",
+  "gh": "xfl03/I18nUpdateMod3",
+  "source": "https://github.com/xfl03/I18nUpdateMod3",
+  "downloads": 16841335,
+  "license": "AGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[自定义LAN局域网联机服务器] EasyLAN-forge-1.20.1-v1.6a.jar": {
+  "path": "mods/[自定义LAN局域网联机服务器] EasyLAN-forge-1.20.1-v1.6a.jar",
+  "title": "EasyLAN",
+  "gh": "XiaoXianHW/EasyLAN",
+  "source": "https://github.com/XiaoXianHW/EasyLAN",
+  "downloads": 670070,
+  "license": "GPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[苹果皮] appleskin-forge-mc1.20.1-2.5.1.jar": {
+  "path": "mods/[苹果皮] appleskin-forge-mc1.20.1-2.5.1.jar",
+  "title": "AppleSkin",
+  "gh": "squeek502/AppleSkin",
+  "source": "https://github.com/squeek502/AppleSkin",
+  "downloads": 88365218,
+  "license": "Unlicense",
+  "via": "modrinth-api"
+ },
+ "[试验假人] dummmmmmy-1.20-2.0.12-forge.jar": {
+  "path": "mods/[试验假人] dummmmmmy-1.20-2.0.12-forge.jar",
+  "title": "MmmMmmMmmMmm",
+  "gh": "MehVahdJukaar/DuMmmMmmy",
+  "source": null,
+  "downloads": 12115585,
+  "license": "CC0-1.0",
+  "via": "jar-meta"
+ },
+ "[跑酷！] ParCool-1.20.1-3.4.3.3.jar": {
+  "path": "mods/[跑酷！] ParCool-1.20.1-3.4.3.3.jar",
+  "title": "ParCool!",
+  "gh": "alRex-U/ParCool",
+  "source": "https://github.com/alRex-U/ParCool",
+  "downloads": 2913216,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[车万女仆] touhoulittlemaid-1.5.3-forge+mc1.20.1.jar": {
+  "path": "mods/[车万女仆] touhoulittlemaid-1.5.3-forge+mc1.20.1.jar",
+  "title": "Touhou Little Maid",
+  "gh": "TartaricAcid/TouhouLittleMaid",
+  "source": "https://github.com/TartaricAcid/TouhouLittleMaid",
+  "downloads": 10892363,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "[输入法冲突修复] IMBlocker-5.5.4-forge+1.17-1.20.4.jar": {
+  "path": "mods/[输入法冲突修复] IMBlocker-5.5.4-forge+1.17-1.20.4.jar",
+  "title": "IMBlocker",
+  "gh": "reserveword/IMBlocker",
+  "source": "https://github.com/reserveword/IMBlocker",
+  "downloads": 13359206,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[通用拼音搜索] jecharacters-1.20.1-forge-4.6.9.jar": {
+  "path": "mods/[通用拼音搜索] jecharacters-1.20.1-forge-4.6.9.jar",
+  "title": "JustEnoughCharacters",
+  "gh": "Towdium/JustEnoughCharacters",
+  "source": "https://github.com/Towdium/JustEnoughCharacters",
+  "downloads": 14257140,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[通用机械] Mekanism-1.20.1-10.4.16.80.jar": {
+  "path": "mods/[通用机械] Mekanism-1.20.1-10.4.16.80.jar",
+  "title": "Mekanism",
+  "gh": "mekanism/Mekanism",
+  "source": "https://github.com/mekanism/Mekanism",
+  "downloads": 3609437,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[通用机械发电机] MekanismGenerators-1.20.1-10.4.16.80.jar": {
+  "path": "mods/[通用机械发电机] MekanismGenerators-1.20.1-10.4.16.80.jar",
+  "title": "Mekanism Generators",
+  "gh": "mekanism/Mekanism",
+  "source": "https://github.com/mekanism/Mekanism",
+  "downloads": 2448345,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[铁氧体磁芯] ferritecore-6.0.1-forge.jar": {
+  "path": "mods/[铁氧体磁芯] ferritecore-6.0.1-forge.jar",
+  "title": "FerriteCore",
+  "gh": "malte0811/FerriteCore",
+  "source": "https://github.com/malte0811/FerriteCore",
+  "downloads": 149414054,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[附魔描述] EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar": {
+  "path": "mods/[附魔描述] EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+  "title": "Enchantment Descriptions",
+  "gh": "Darkhax-Minecraft/Enchantment-Descriptions",
+  "source": "https://github.com/Darkhax-Minecraft/Enchantment-Descriptions",
+  "downloads": 36695759,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[飞车奇匠] automobility-0.4.2+1.20.1-forge.jar": {
+  "path": "mods/[飞车奇匠] automobility-0.4.2+1.20.1-forge.jar",
+  "title": "Automobility",
+  "gh": "FoundationGames/Automobility",
+  "source": "https://github.com/FoundationGames/Automobility",
+  "downloads": 5261787,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[食物效果显示Forge版] foodeffecttooltips+forge-1.20.1-1.6.0.jar": {
+  "path": "mods/[食物效果显示Forge版] foodeffecttooltips+forge-1.20.1-1.6.0.jar",
+  "title": "Food Effect Tooltips (Forge)",
+  "gh": "Suel-ki/FoodEffectTooltips-Forge",
+  "source": "https://github.com/Suel-ki/FoodEffectTooltips-Forge",
+  "downloads": 1319917,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[饮酒作乐] BrewinAndChewin-1.20.1-3.2.1.jar": {
+  "path": "mods/[饮酒作乐] BrewinAndChewin-1.20.1-3.2.1.jar",
+  "title": "Brewin' And Chewin'",
+  "gh": "Monad-Modding/BrewinAndChewin",
+  "source": "https://github.com/ChefsDelight/BrewinAndChewin/",
+  "downloads": 3602178,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "manual",
+  "gh_bad": "ChefsDelight/BrewinAndChewin"
+ },
+ "AgeingSpawners-1.20.1-2.0.0.jar": {
+  "path": "mods/AgeingSpawners-1.20.1-2.0.0.jar",
+  "title": "AgeingSpawners-1.20.1-2.0.0.jar",
+  "gh": "Mrbysco/AgeingSpawners",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "alexsdelight-1.5.jar": {
+  "path": "mods/alexsdelight-1.5.jar",
+  "title": "alexsdelight-1.5.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "alexsdelight-1.5.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 161
+ },
+ "caveore-1.20.1-4.0.jar": {
+  "path": "mods/caveore-1.20.1-4.0.jar",
+  "title": "caveore-1.20.1-4.0.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "caveore-1.20.1-4.0.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 247
+ },
+ "CraftTweaker-forge-1.20.1-14.0.60.jar": {
+  "path": "mods/CraftTweaker-forge-1.20.1-14.0.60.jar",
+  "title": "CraftTweaker-forge-1.20.1-14.0.60.jar",
+  "gh": "CraftTweaker/CraftTweaker",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "cupboard-1.20.1-4.1.jar": {
+  "path": "mods/cupboard-1.20.1-4.1.jar",
+  "title": "cupboard-1.20.1-4.1.jar",
+  "gh": "someaddons/cupboard",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "Engineers Delight 1.20.1 B.1.4.jar": {
+  "path": "mods/Engineers Delight 1.20.1 B.1.4.jar",
+  "title": "Engineers Delight 1.20.1 B.1.4.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "Engineers Delight 1.20.1 B.1.4.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 799
+ },
+ "EpheroLib-1.20.1-FORGE-1.2.0.jar": {
+  "path": "mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+  "title": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+  "gh": "ExcessiveAmountsOfZombies/EpheroLib",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual-verified"
+ },
+ "fastboot-1.20.x-1.2.jar": {
+  "path": "mods/fastboot-1.20.x-1.2.jar",
+  "title": "fastboot-1.20.x-1.2.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "fastboot-1.20.x-1.2.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 55
+ },
+ "fdcookbook-1.20.1-forge-1.6.1-rel.jar": {
+  "path": "mods/fdcookbook-1.20.1-forge-1.6.1-rel.jar",
+  "title": "fdcookbook-1.20.1-forge-1.6.1-rel.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "fdcookbook-1.20.1-forge-1.6.1-rel.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 1386
+ },
+ "framework-forge-1.20.1-0.8.0.jar": {
+  "path": "mods/framework-forge-1.20.1-0.8.0.jar",
+  "title": "framework-forge-1.20.1-0.8.0.jar",
+  "gh": "MrCrayfish/Framework",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "ftb-essentials-forge-2001.2.4.jar": {
+  "path": "mods/ftb-essentials-forge-2001.2.4.jar",
+  "title": "ftb-essentials-forge-2001.2.4.jar",
+  "gh": "FTBTeam/FTB-Essentials",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "ftb-library-forge-2001.2.13.jar": {
+  "path": "mods/ftb-library-forge-2001.2.13.jar",
+  "title": "ftb-library-forge-2001.2.13.jar",
+  "gh": "FTBTeam/FTB-Library",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "ftb-ranks-forge-2001.1.7.jar": {
+  "path": "mods/ftb-ranks-forge-2001.1.7.jar",
+  "title": "ftb-ranks-forge-2001.1.7.jar",
+  "gh": "FTBTeam/FTB-Ranks",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "ftb-xmod-compat-forge-2.1.3.jar": {
+  "path": "mods/ftb-xmod-compat-forge-2.1.3.jar",
+  "title": "ftb-xmod-compat-forge-2.1.3.jar",
+  "gh": "FTBTeam/FTB-XMod-Compat",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "geckolib-forge-1.20.1-4.8.4.jar": {
+  "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+  "title": "geckolib-forge-1.20.1-4.8.4.jar",
+  "gh": "bernie-g/geckolib",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "ItemRarity-1.20.1-forge-1.2.0.jar": {
+  "path": "mods/ItemRarity-1.20.1-forge-1.2.0.jar",
+  "title": "ItemRarity-1.20.1-forge-1.2.0.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "ItemRarity-1.20.1-forge-1.2.0.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 2260
+ },
+ "lookinmyeyes-1.20.1-1.4.6.jar": {
+  "path": "mods/lookinmyeyes-1.20.1-1.4.6.jar",
+  "title": "lookinmyeyes-1.20.1-1.4.6.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "lookinmyeyes-1.20.1-1.4.6.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 210
+ },
+ "lunarnether-1.0.3-all.jar": {
+  "path": "mods/lunarnether-1.0.3-all.jar",
+  "title": "lunarnether-1.0.3-all.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "lunarnether-1.0.3-all.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 2306
+ },
+ "mekalus-mc1.20.1-1.8.0.1.jar": {
+  "path": "mods/mekalus-mc1.20.1-1.8.0.1.jar",
+  "title": "mekalus-mc1.20.1-1.8.0.1.jar",
+  "gh": "Asek3/Oculus",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "Quest Kill Task-0.2.0+1.20.1-forge.jar": {
+  "path": "mods/Quest Kill Task-0.2.0+1.20.1-forge.jar",
+  "title": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 492
+ },
+ "Searchables-forge-1.20.1-1.0.3.jar": {
+  "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+  "title": "Searchables-forge-1.20.1-1.0.3.jar",
+  "gh": "jaredlll08/searchables",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "Shoppy-1.20.1-FORGE-1.1.1-all.jar": {
+  "path": "mods/Shoppy-1.20.1-FORGE-1.1.1-all.jar",
+  "title": "Shoppy-1.20.1-FORGE-1.1.1-all.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "Shoppy-1.20.1-FORGE-1.1.1-all.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 3181
+ },
+ "sisser-1.10.jar": {
+  "path": "mods/sisser-1.10.jar",
+  "title": "sisser-1.10.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "sisser-1.10.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 88
+ },
+ "TerraBlender-forge-1.20.1-3.0.1.10.jar": {
+  "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+  "title": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+  "gh": "Glitchfiend/TerraBlender",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "TreeChop-1.20.1-forge-0.19.0-fixed.jar": {
+  "path": "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+  "title": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+  "gh": "hammertater/treechop",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[Csgo 箱子] csgobox-1.0.jar": {
+  "path": "mods/[Csgo 箱子] csgobox-1.0.jar",
+  "title": "[Csgo 箱子] csgobox-1.0.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[Csgo 箱子] csgobox-1.0.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 3330
+ },
+ "[FTB 团队] ftb-teams-forge-2001.3.2.jar": {
+  "path": "mods/[FTB 团队] ftb-teams-forge-2001.3.2.jar",
+  "title": "[FTB 团队] ftb-teams-forge-2001.3.2.jar",
+  "gh": "FTBTeam/FTB-Teams",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "[FTB任务] ftb-quests-forge-2001.4.22.jar": {
+  "path": "mods/[FTB任务] ftb-quests-forge-2001.4.22.jar",
+  "title": "[FTB任务] ftb-quests-forge-2001.4.22.jar",
+  "gh": "FTBTeam/FTB-Mods-Issues",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[MrCrayfish 的家具：重制] refurbished_furniture-forge-1.20.1-1.0.20.jar": {
+  "path": "mods/[MrCrayfish 的家具：重制] refurbished_furniture-forge-1.20.1-1.0.20.jar",
+  "title": "[MrCrayfish 的家具：重制] refurbished_furniture-forge-1.20.1-1.0.20.jar",
+  "gh": "MrCrayfish/MrCrayfishFurnitureMod-Refurbished",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[不同寻常的末地] unusualend-2.3.1d.jar": {
+  "path": "mods/[不同寻常的末地] unusualend-2.3.1d.jar",
+  "title": "[不同寻常的末地] unusualend-2.3.1d.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[不同寻常的末地] unusualend-2.3.1d.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 51871
+ },
+ "[任务拓展] questsadditions-1.4.7.jar": {
+  "path": "mods/[任务拓展] questsadditions-1.4.7.jar",
+  "title": "[任务拓展] questsadditions-1.4.7.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[任务拓展] questsadditions-1.4.7.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 3472
+ },
+ "[加速渲染] acceleratedrendering-1.0.14-1.20.1-alpha.jar": {
+  "path": "mods/[加速渲染] acceleratedrendering-1.0.14-1.20.1-alpha.jar",
+  "title": "[加速渲染] acceleratedrendering-1.0.14-1.20.1-alpha.jar",
+  "gh": "Argon4W/AcceleratedRendering",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar": {
+  "path": "mods/[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar",
+  "title": "[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 12149
+ },
+ "[工程师的装饰]engineersdecor-1.3.31.jar": {
+  "path": "mods/[工程师的装饰]engineersdecor-1.3.31.jar",
+  "title": "[工程师的装饰]engineersdecor-1.3.31.jar",
+  "gh": "stfwi/engineers-decor",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[护甲上限突破] overloadedarmorbar-1.20.1-1.jar": {
+  "path": "mods/[护甲上限突破] overloadedarmorbar-1.20.1-1.jar",
+  "title": "[护甲上限突破] overloadedarmorbar-1.20.1-1.jar",
+  "gh": "Tfarcenim/OverloadedArmorBar",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[掠夺者的枪] Pillagers Gun-1.20.1-forge-3.2.1.jar": {
+  "path": "mods/[掠夺者的枪] Pillagers Gun-1.20.1-forge-3.2.1.jar",
+  "title": "[掠夺者的枪] Pillagers Gun-1.20.1-forge-3.2.1.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[掠夺者的枪] Pillagers Gun-1.20.1-forge-3.2.1.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 4153
+ },
+ "[时装盔甲重置版] cosmeticarmorreworked-1.20.1-v1a.jar": {
+  "path": "mods/[时装盔甲重置版] cosmeticarmorreworked-1.20.1-v1a.jar",
+  "title": "[时装盔甲重置版] cosmeticarmorreworked-1.20.1-v1a.jar",
+  "gh": "zlainsama/CosmeticArmorReworked",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual-verified"
+ },
+ "[末日生存工具包] Zombie Survival Kit-1.20.1-forge-2.1.8.jar": {
+  "path": "mods/[末日生存工具包] Zombie Survival Kit-1.20.1-forge-2.1.8.jar",
+  "title": "[末日生存工具包] Zombie Survival Kit-1.20.1-forge-2.1.8.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 48
+ },
+ "[物品过滤器] item-filters-forge-2001.1.0-build.59.jar": {
+  "path": "mods/[物品过滤器] item-filters-forge-2001.1.0-build.59.jar",
+  "title": "[物品过滤器] item-filters-forge-2001.1.0-build.59.jar",
+  "gh": "LatvianModder/Item-Filters",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[翻箱倒柜]Rummage-1.20.1-forge-1.1.1.jar": {
+  "path": "mods/[翻箱倒柜]Rummage-1.20.1-forge-1.1.1.jar",
+  "title": "[翻箱倒柜]Rummage-1.20.1-forge-1.1.1.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[翻箱倒柜]Rummage-1.20.1-forge-1.1.1.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 3491
+ },
+ "[脚步声Forge版] PresenceFootsteps-1.20.1-1.9.1-beta.1.jar": {
+  "path": "mods/[脚步声Forge版] PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+  "title": "[脚步声Forge版] PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+  "gh": "PaintNinja/Presence-Footsteps-Forge",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[自定义初始装备] CustomStartingGear-1.20-2.0.3.jar": {
+  "path": "mods/[自定义初始装备] CustomStartingGear-1.20-2.0.3.jar",
+  "title": "[自定义初始装备] CustomStartingGear-1.20-2.0.3.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[自定义初始装备] CustomStartingGear-1.20-2.0.3.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 603
+ },
+ "[通量网络] FluxNetworks-1.20.1-7.2.1.15.jar": {
+  "path": "mods/[通量网络] FluxNetworks-1.20.1-7.2.1.15.jar",
+  "title": "[通量网络] FluxNetworks-1.20.1-7.2.1.15.jar",
+  "gh": "SonarSonic/Flux-Networks",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[配置界面] configured-forge-1.20.1-2.2.3.jar": {
+  "path": "mods/[配置界面] configured-forge-1.20.1-2.2.3.jar",
+  "title": "[配置界面] configured-forge-1.20.1-2.2.3.jar",
+  "gh": "MrCrayfish/Configured",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[键位冲突显示] Controlling-forge-1.20.1-12.0.2.jar": {
+  "path": "mods/[键位冲突显示] Controlling-forge-1.20.1-12.0.2.jar",
+  "title": "[键位冲突显示] Controlling-forge-1.20.1-12.0.2.jar",
+  "gh": "jaredlll08/Controlling",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[鸡尾酒乐事] Cocktails-Delight-1.20.1-Forge-1.3.9.jar": {
+  "path": "mods/[鸡尾酒乐事] Cocktails-Delight-1.20.1-Forge-1.3.9.jar",
+  "title": "[鸡尾酒乐事] Cocktails-Delight-1.20.1-Forge-1.3.9.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[鸡尾酒乐事] Cocktails-Delight-1.20.1-Forge-1.3.9.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 1580
+ }
+}

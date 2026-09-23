@@ -1,0 +1,13 @@
+name = "ToadSync NeoForge 26.1.2"
+filename = "ToadSync-NeoForge-26.1.2-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/ToadSync-NeoForge-26.1.2/0.2.4/ToadSync-NeoForge-26.1.2-0.2.4.jar"
+hash-format = "sha256"
+hash = "f26e522f910a14b25cb70957b732965b5712ab2841746903f9a35108008df937"
+
+[option]
+optional = false
+description = "Mod dependency of ToadSync NeoForge 26.1.2\nIncluded inside official TeaCon mod list"
+

@@ -1,0 +1,13 @@
+name = "泰拉巨石"
+filename = "terraria_boulders-1.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-terraria-boulders/terraria-boulders-23.jar"
+hash-format = "sha256"
+hash = "99a9fb4bafc55f2a0ee5f730b0322e0467c4725c38b82c8ebe397f45b4930f15"
+
+[option]
+optional = false
+description = "泰拉巨石 by Magic_team.jvav\nBuild #23\n将汇流来世的巨石独立成单独mod，并加入一些更有趣的内容"
+

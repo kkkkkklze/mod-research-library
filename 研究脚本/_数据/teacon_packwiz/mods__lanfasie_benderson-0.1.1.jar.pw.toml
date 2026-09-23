@@ -1,0 +1,13 @@
+name = "兰法斯：本德森之章"
+filename = "lanfasie_benderson-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-lanfasie-benderson/lanfasie-benderson-45.jar"
+hash-format = "sha256"
+hash = "cff4e62e37a1acd4686528ce148e16ec23b665b6304989859c858fcf8f3e688b"
+
+[option]
+optional = false
+description = "兰法斯：本德森之章 by 银小明绝赞爆肝中\nBuild #45\n“不祥的气息正从深渊中泄漏，被黑之恶念裹挟着的身影，在狩猎着什么吗？在等待着什么吗？” \n全新强敌 “深潜空域的团魂” 登场！不同于原版BOSS，它拥有着不同机制，为你带来不一样的体验！欢迎挑战！\nmcmod: https://www.mcmod.cn/class/29516.html"
+

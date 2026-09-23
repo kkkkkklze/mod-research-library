@@ -1,0 +1,13 @@
+name = "墨迹工艺"
+filename = "inkraft-neoforge-2.0.0+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-inkraft/inkraft-95.jar"
+hash-format = "sha256"
+hash = "aa2f66fd6b027a11d3e2c3219caae9e339026b7fb0190c255cbae00c28328586"
+
+[option]
+optional = false
+description = "墨迹工艺 by 墨迹工艺制作委员会\nBuild #95\n使用Ink脚本语言为Minecraft编写交互式对话。\nhttps://www.curseforge.com/minecraft/mc-mods/inkraft"
+

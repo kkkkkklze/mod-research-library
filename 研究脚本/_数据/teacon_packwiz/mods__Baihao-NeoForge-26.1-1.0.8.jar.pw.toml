@@ -1,0 +1,13 @@
+name = "Baihao NeoForge 26.1"
+filename = "Baihao-NeoForge-26.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/Baihao-NeoForge-26.1/1.0.8/Baihao-NeoForge-26.1-1.0.8.jar"
+hash-format = "sha256"
+hash = "910817f0fd5e91780f2fbb49540b29dfa53a656cc996a0944129af77b6a1ae1a"
+
+[option]
+optional = false
+description = "Mod dependency of Baihao NeoForge 26.1\nIncluded inside official TeaCon mod list"
+

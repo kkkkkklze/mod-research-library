@@ -1,0 +1,13 @@
+name = "enchanted vertical slabs"
+filename = "enchanted-vertical-slabs-EUlKZFNN.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/enchanted-vertical-slabs/EUlKZFNN/enchanted-vertical-slabs-EUlKZFNN.jar"
+hash-format = "sha256"
+hash = "36d232c1adb3799b821730759969a8a55fe173cf202931c4e051a1a8b28fc9e9"
+
+[option]
+optional = false
+description = "Mod dependency of enchanted vertical slabs\nIncluded inside official TeaCon mod list"
+

@@ -1,0 +1,13 @@
+name = "铁砧工艺：猪+"
+filename = "anvilcraft_pigsplus-neoforge-2.0.4+pr.23.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-anvilcraft-pigsplus/anvilcraft-pigsplus-23.jar"
+hash-format = "sha256"
+hash = "5148008bd5f9a4c52db3904ceade3f85ab77a909f56e62d7cc50ec5403160f82"
+
+[option]
+optional = false
+description = "铁砧工艺：猪+ by 三只大猪\nBuild #23\n模组《铁砧工艺：猪+》是《铁砧工艺》的附属，针对游玩时感到不便的地方进行的改进，提供了各种自动化便捷方块和道具。"
+

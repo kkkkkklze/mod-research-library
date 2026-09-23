@@ -1,0 +1,13 @@
+name = "Neo ECO AE Extension"
+filename = "neoecoae-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-neoecoae/neoecoae-9.jar"
+hash-format = "sha256"
+hash = "9d2cfcd057617ab62c984ebae4c3d1653663f9e12b4c338b6a2d8f0861ef0be3"
+
+[option]
+optional = false
+description = "Neo ECO AE Extension by Make AE2 Great Again\nBuild #9\nNeo Eco AE Extension 为 应用能源2 引入了三种大型核心组件，将合成、存储与计算拆分为三个独立的多方块结构。 每种结构均包含三个等级，每一等级都相比前一级带来显著的性能提升。"
+

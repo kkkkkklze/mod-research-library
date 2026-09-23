@@ -1,0 +1,13 @@
+name = "ferrite core"
+filename = "ferrite-core-9.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/ferrite-core/9.0.0-neoforge/ferrite-core-9.0.0-neoforge.jar"
+hash-format = "sha256"
+hash = "a3292dadb1caf7ad220d3a4b68abff2ad58592ddd372160f9cf66c57d159b539"
+
+[option]
+optional = false
+description = "Mod dependency of ferrite core\nIncluded inside official TeaCon mod list"
+

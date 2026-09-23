@@ -1,0 +1,13 @@
+name = "Xibao NeoForge 26.1"
+filename = "Xibao-NeoForge-26.1-5.0.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/Xibao-NeoForge-26.1/5.0.2/Xibao-NeoForge-26.1-5.0.2.jar"
+hash-format = "sha256"
+hash = "fe3201e0ca5f82a789ea7fcbd148402de36e823030bb3c1263cdb217972c87b6"
+
+[option]
+optional = false
+description = "Mod dependency of Xibao NeoForge 26.1\nIncluded inside official TeaCon mod list"
+

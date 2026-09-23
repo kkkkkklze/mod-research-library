@@ -1,0 +1,13 @@
+name = "Crock Pot"
+filename = "CrockPot-26.1.2-0.1.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-crockpot/crockpot-98.jar"
+hash-format = "sha256"
+hash = "3e89de27079922f157977b4c04094f9a95f72e1d4f78420d0c12fc1a01ee44bb"
+
+[option]
+optional = false
+description = "Crock Pot by SSVMM\nBuild #98\n将饥荒（Don't Starve）中的烹饪锅带进 Minecraft 中。"
+

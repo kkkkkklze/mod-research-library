@@ -1,0 +1,13 @@
+name = "群青"
+filename = "ultramarine-0.8-snapshot.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-ultramarine/ultramarine-13.jar"
+hash-format = "sha256"
+hash = "b3c19a3e3d8729d6f3ea977d4dba4212abe589325aabc9e2b9429c72f754cdaf"
+
+[option]
+optional = false
+description = "群青 by 踢炕龙泡泡专卖\nBuild #13\nAn ancient Chinese style building blocks and decorations mod."
+

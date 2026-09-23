@@ -1,0 +1,13 @@
+name = "随笔评论 WorldComment"
+filename = "WorldComment-neoforge-0.7.0-beta.1+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-worldcomment/worldcomment-118.jar"
+hash-format = "sha256"
+hash = "d48dd9daaca1cd78dee57879c14b3b8cefde9f88d06dac85673183747581c6bd"
+
+[option]
+optional = false
+description = "随笔评论 WorldComment by Zbx1425\nBuild #118\n在服务器世界中发送留言，并配上截图和当时的心情。增强多人世界的社交互动属性。\nhttps://modrinth.com/mod/world-comment"
+

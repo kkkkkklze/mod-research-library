@@ -1,0 +1,13 @@
+name = "纸带八音盒"
+filename = "cc_mb-neoforge-26.1.2-0.5.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-cc-mb/cc-mb-57.jar"
+hash-format = "sha256"
+hash = "8acd46372523adc86d6055eab3bd84a1449638422e9b55197450a7879fa8aeb0"
+
+[option]
+optional = false
+description = "纸带八音盒 by CC2001\nBuild #57\n🎶\n介绍：https://github.com/C20C01/MusicBox/blob/main/README/README_zh.md"
+

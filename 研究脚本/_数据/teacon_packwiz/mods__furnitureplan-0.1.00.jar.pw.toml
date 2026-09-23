@@ -1,0 +1,13 @@
+name = "家具计划"
+filename = "furnitureplan-0.1.00.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-furnitureplan/furnitureplan-42.jar"
+hash-format = "sha256"
+hash = "148839d9559a3fd9551a4a9ade5f6d30a9181ddc087222f031051ff629c3ee0c"
+
+[option]
+optional = false
+description = "家具计划 by Ti adventurers' party\nBuild #42\n开发这个模组的想法源于我们的内网服务器。我们都是高中生，暑假开服玩，在长时间的生存后，一位同学希望新增一些家具，在MakerTechno学习Java已一年的情况下，计划得以通过并实施。 模组属于装饰类，包含椅子、桌子、餐具和橱柜等既能作为装饰品又有实用功能的方块。 通过这个模组，你可以在MC里宴请好友共用晚餐，可以搭建更美观的建筑，也可以用超高击退力的铁锅进行一次“友谊的游戏”！新年到来，还可以挂上喜庆的灯笼！和朋友一起快乐生存吧！ 模组模型、功能完全自制，无需额外前置，我们也因此花费了大量时间学习和编写。新人水平有限，希望通过本次展览结识广大模组爱好者，也希望大家多多指教。 ----MakerTechno, A modder, a circuit enthusiasts, a student.\n介绍页: https://www.mcmod.cn/class/16524.html"
+

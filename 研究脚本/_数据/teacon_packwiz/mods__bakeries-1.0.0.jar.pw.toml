@@ -1,0 +1,13 @@
+name = "Bakeries"
+filename = "bakeries-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-bakeries/bakeries-43.jar"
+hash-format = "sha256"
+hash = "d32daa8175aa5bb51970d36f15cb180fb6a8759ef857724b79639b9696989fe4"
+
+[option]
+optional = false
+description = "Bakeries by Renyigesai\nBuild #43\n添加了和烘焙相关的内容。"
+

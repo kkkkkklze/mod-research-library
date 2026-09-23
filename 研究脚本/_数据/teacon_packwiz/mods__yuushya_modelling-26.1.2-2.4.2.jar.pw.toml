@@ -1,0 +1,13 @@
+name = "方块建模"
+filename = "yuushya_modelling-26.1.2-2.4.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-yuushya-modelling/yuushya-modelling-36.jar"
+hash-format = "sha256"
+hash = "e9eb68d3e97fa2d94eb8b64b522b1639b9d9b53f167d66376b12f3be170fdaa3"
+
+[option]
+optional = false
+description = "方块建模 by 方块建模制作组\nBuild #36\n方块建模模组允许你将任意普通方块转化为模组特殊的轻量实体格式”实体方块“，并提供了许多工具控制此特殊实体方块的位移、旋转等属性。是一个建筑辅助模组。"
+

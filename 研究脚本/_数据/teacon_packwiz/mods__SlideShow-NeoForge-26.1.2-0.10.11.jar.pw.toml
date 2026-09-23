@@ -1,0 +1,13 @@
+name = "SlideShow NeoForge 26.1.2"
+filename = "SlideShow-NeoForge-26.1.2-0.10.11.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/SlideShow-NeoForge-26.1.2/0.10.11/SlideShow-NeoForge-26.1.2-0.10.11.jar"
+hash-format = "sha256"
+hash = "540833dc940a3e388731c004200ddb7dfb78276e62940bc66f7a9008846271f4"
+
+[option]
+optional = false
+description = "Mod dependency of SlideShow NeoForge 26.1.2\nIncluded inside official TeaCon mod list"
+

@@ -1,0 +1,13 @@
+name = "Sip Moment"
+filename = "sip_moment-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-sip-moment/sip-moment-14.jar"
+hash-format = "sha256"
+hash = "e00fb85edee10114278834135ce31d402acc0659c2a0d74b709a5ee168d6eb27"
+
+[option]
+optional = false
+description = "Sip Moment by 小酌一刻开发组\nBuild #14\n模组添加一些饮品，这一杯，这一刻，让心相连。"
+

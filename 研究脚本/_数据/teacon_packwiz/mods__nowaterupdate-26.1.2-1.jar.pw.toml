@@ -1,0 +1,13 @@
+name = "nowaterupdate"
+filename = "nowaterupdate-26.1.2-1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/cn/uss-shenzhou/nowaterupdate/26.1.2-1/nowaterupdate-26.1.2-1.jar"
+hash-format = "sha256"
+hash = "3d77f3fb2d771900a9c9e44d148f3eb427e082fc81c9fe31ca597058dbdeef83"
+
+[option]
+optional = false
+description = "Mod dependency of nowaterupdate\nIncluded inside official TeaCon mod list"
+

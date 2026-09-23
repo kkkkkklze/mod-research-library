@@ -1,0 +1,13 @@
+name = "拾贰木砧"
+filename = "woodenanvil-26.1-5e28a9c.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-woodenanvil/woodenanvil-6.jar"
+hash-format = "sha256"
+hash = "9247b4c3cda7fde5bfa41fd833766a115026dd5cb9938ceb6ec472ffb5809665"
+
+[option]
+optional = false
+description = "拾贰木砧 by 拾贰光尘\nBuild #6\n《拾贰木砧》可以让你在没有足够的铁或受够了传统铁砧的材质的情况下使用铁砧的所有功能，也可以充当一种建筑材料代替原版的栅栏与围墙。"
+

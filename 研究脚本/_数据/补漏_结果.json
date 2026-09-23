@@ -1,0 +1,5247 @@
+[
+ {
+  "pack": "璇穹之歌",
+  "name": "createprism-1.2.2.jar",
+  "title": "Create: Prismatic Shine",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "createprism-1.2.2.jar",
+   "size": 1287223,
+   "modids": [
+    "createprism"
+   ],
+   "names": [
+    "Create: Prismatic Shine"
+   ],
+   "urls": [],
+   "version": "1.2.2"
+  },
+  "card": "璇穹之歌__createprism-1.2.2.md",
+  "status": "ok",
+  "files": 26,
+  "loc": 1256
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "create_compressed-2.2.0-neoforge-1.21.1.jar",
+  "title": "Create Compressed",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "create_compressed-2.2.0-neoforge-1.21.1.jar",
+   "size": 158961,
+   "modids": [
+    "create_compressed"
+   ],
+   "names": [
+    "Create Compressed"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/create-compressed"
+   ],
+   "version": "2.2.0"
+  },
+  "card": "璇穹之歌__create_compressed-2.2.0-neoforge-1.21.1.md",
+  "status": "ok",
+  "files": 36,
+  "loc": 1429
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+  "title": "Create: Easy Structures",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+   "size": 469490,
+   "modids": [
+    "create_easy_structures"
+   ],
+   "names": [
+    "Create: Easy Structures"
+   ],
+   "urls": [
+    "https://discord.gg/m-productions-1114679331923435620"
+   ],
+   "version": "0.2"
+  },
+  "card": "璇穹之歌__create_easy_structures-0.2a-neoforge-1.21.1.md",
+  "status": "ok",
+  "files": 7,
+  "loc": 435
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+  "title": "Hopo Better Ruined Portals",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+   "size": 460577,
+   "modids": [
+    "hoporp"
+   ],
+   "names": [
+    "HopoBetterRuinedPortals"
+   ],
+   "urls": [
+    "https://discord.gg/CZQthZJjPc"
+   ],
+   "version": "1.4.4"
+  },
+  "card": "璇穹之歌__HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.md",
+  "status": "ok",
+  "files": 0,
+  "loc": 0
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "lukis-crazy-chambers-1.0.3.jar",
+  "title": "Luki's Crazy Chambers",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "lukis-crazy-chambers-1.0.3.jar",
+   "size": 2185425,
+   "modids": [
+    "mr_lukis_crazychambers"
+   ],
+   "names": [
+    "Luki's Crazy Chambers"
+   ],
+   "urls": [
+    "https://modrinth.com/datapack/lukis-crazy-chambers"
+   ],
+   "version": ""
+  },
+  "card": "璇穹之歌__lukis-crazy-chambers-1.0.3.md",
+  "status": "ok",
+  "files": 0,
+  "loc": 0
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "reddensstonelantern-1.0.4-neoforge-1.21.1.jar",
+  "title": "Redden's Stone Lanterns",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "reddensstonelantern-1.0.4-neoforge-1.21.1.jar",
+   "size": 617092,
+   "modids": [
+    "reddensstonelantern"
+   ],
+   "names": [
+    "Redden's Stone Lanterns"
+   ],
+   "urls": [],
+   "version": "1.0.4"
+  },
+  "card": "璇穹之歌__reddensstonelantern-1.0.4-neoforge-1.21.1.md",
+  "status": "ok",
+  "files": 93,
+  "loc": 8838
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "wwoo-neoforge-2.6.7.jar",
+  "title": "William Wythers' Overhauled Overworld",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "wwoo-neoforge-2.6.7.jar",
+   "size": 5764879,
+   "modids": [
+    "wwoo"
+   ],
+   "names": [
+    "William Wythers' Overhauled Overworld"
+   ],
+   "urls": [
+    "https://modrinth.com/mod/wwoo"
+   ],
+   "version": "2.6.7"
+  },
+  "card": "璇穹之歌__wwoo-neoforge-2.6.7.md",
+  "status": "ok",
+  "files": 4,
+  "loc": 98
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+  "title": "Xaero's Minimap",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+   "size": 2185409,
+   "modids": [
+    "xaerominimap"
+   ],
+   "names": [
+    "Xaero's Minimap"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/issues"
+   ],
+   "version": "26.4.2"
+  },
+  "card": "璇穹之歌__xaerominimap-neoforge-1.21.1-26.4.2.md",
+  "status": "ok",
+  "files": 559,
+  "loc": 49026
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+  "title": "Xaero's World Map",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+   "size": 1422531,
+   "modids": [
+    "xaeroworldmap"
+   ],
+   "names": [
+    "Xaero's World Map"
+   ],
+   "urls": [],
+   "version": "1.45.0"
+  },
+  "card": "璇穹之歌__xaeroworldmap-neoforge-1.21.1-1.45.0.md",
+  "status": "ok",
+  "files": 299,
+  "loc": 34696
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[Macaw 的窗户] mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+  "title": "Macaw's Windows",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[Macaw 的窗户] mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+   "size": 1261268,
+   "modids": [
+    "mcwwindows"
+   ],
+   "names": [
+    "Macaw's Windows"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/macaws-windows"
+   ],
+   "version": "2.4.2"
+  },
+  "card": "璇穹之歌__[Macaw 的窗户] mcw-mcwwindows-2.4.2-mc1.21.1neoforge.md",
+  "status": "ok",
+  "files": 24,
+  "loc": 2961
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[全局数据包] globalpacks-neoforge-1.21.1-21.0.6.jar",
+  "title": "Global Packs",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[全局数据包] globalpacks-neoforge-1.21.1-21.0.6.jar",
+   "size": 27239,
+   "modids": [
+    "globalpacks"
+   ],
+   "names": [
+    "Global Packs"
+   ],
+   "urls": [],
+   "version": "21.0.6"
+  },
+  "card": "璇穹之歌__[全局数据包] globalpacks-neoforge-1.21.1-21.0.6.md",
+  "status": "ok",
+  "files": 11,
+  "loc": 728
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.jar",
+  "title": "When Dungeons Arise",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.jar",
+   "size": 11842679,
+   "modids": [
+    "dungeons_arise"
+   ],
+   "names": [
+    "When Dungeons Arise"
+   ],
+   "urls": [],
+   "version": "2.1.68"
+  },
+  "card": "璇穹之歌__[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.md",
+  "status": "ok",
+  "files": 4,
+  "loc": 423
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[地牢浮现之时] DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+  "title": "When Dungeons Arise: Seven Seas",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[地牢浮现之时] DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+   "size": 244981,
+   "modids": [
+    "dungeons_arise_seven_seas"
+   ],
+   "names": [
+    "When Dungeons Arise: Seven Seas"
+   ],
+   "urls": [],
+   "version": "1.0.4"
+  },
+  "card": "璇穹之歌__[地牢浮现之时] DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.md",
+  "status": "ok",
+  "files": 1,
+  "loc": 16
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[天空村庄] SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+  "title": "Sky Villages",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[天空村庄] SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+   "size": 246630,
+   "modids": [
+    "skyvillages"
+   ],
+   "names": [
+    "Sky Villages"
+   ],
+   "urls": [],
+   "version": "1.0.6"
+  },
+  "card": "璇穹之歌__[天空村庄] SkyVillages-1.0.6-1.21.x-neoforge-release.md",
+  "status": "ok",
+  "files": 3,
+  "loc": 41
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[机械动力：原子核动] createnuclear-1.3.2-beta.3-neoforge.jar",
+  "title": "Create Nuclear",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[机械动力：原子核动] createnuclear-1.3.2-beta.3-neoforge.jar",
+   "size": 1842160,
+   "modids": [
+    "createnuclear"
+   ],
+   "names": [
+    "Create Nuclear"
+   ],
+   "urls": [
+    "https://github.com/Giovanniricotta2002/CreateNuclearForge/issues"
+   ],
+   "version": "1.3.2-beta.3"
+  },
+  "card": "璇穹之歌__[机械动力：原子核动] createnuclear-1.3.2-beta.3-neoforge.md",
+  "status": "ok",
+  "files": 151,
+  "loc": 11825,
+  "new_gh": "Giovanniricotta2002/CreateNuclearForge"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[森罗厨房：国味] kaleidoscope_chinesefood-1.1.10-neoforge+1.21.1.jar",
+  "title": "KaleidoscopeChineseFood",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[森罗厨房：国味] kaleidoscope_chinesefood-1.1.10-neoforge+1.21.1.jar",
+   "size": 8641796,
+   "modids": [
+    "kaleidoscope_chinesefood"
+   ],
+   "names": [
+    "Kaleidoscope ChineseFood"
+   ],
+   "urls": [],
+   "version": "1.1.10-neoforge+1.21.1"
+  },
+  "card": "璇穹之歌__[森罗厨房：国味] kaleidoscope_chinesefood-1.1.10-neoforge+1.21.1.md",
+  "status": "ok",
+  "files": 93,
+  "loc": 7501
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[森罗物语：下界] kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar",
+  "title": "Kaleidoscope Nether",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[森罗物语：下界] kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar",
+   "size": 1030521,
+   "modids": [
+    "kaleidoscope_nether"
+   ],
+   "names": [
+    "Kaleidoscope Nether"
+   ],
+   "urls": [],
+   "version": "1.1.4-neoforge+mc1.21.1"
+  },
+  "card": "璇穹之歌__[森罗物语：下界] kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.md",
+  "status": "ok",
+  "files": 89,
+  "loc": 4452
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[森罗物语：暮色] kaleidoscope_twilight-1.1.3-neoforge+mc1.21.1.jar",
+  "title": "Kaleidoscope Twilight",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[森罗物语：暮色] kaleidoscope_twilight-1.1.3-neoforge+mc1.21.1.jar",
+   "size": 812416,
+   "modids": [
+    "kaleidoscope_twilight"
+   ],
+   "names": [
+    "Kaleidoscope Twilight"
+   ],
+   "urls": [],
+   "version": "1.1.3-neoforge+mc1.21.1"
+  },
+  "card": "璇穹之歌__[森罗物语：暮色] kaleidoscope_twilight-1.1.3-neoforge+mc1.21.1.md",
+  "status": "ok",
+  "files": 142,
+  "loc": 8895
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[森罗物语：末地] kaleidoscope_end-1.0.14-neoforge+mc1.21.1.jar",
+  "title": "Kaleidoscope End",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[森罗物语：末地] kaleidoscope_end-1.0.14-neoforge+mc1.21.1.jar",
+   "size": 462295,
+   "modids": [
+    "kaleidoscope_end"
+   ],
+   "names": [
+    "Kaleidoscope End"
+   ],
+   "urls": [],
+   "version": "1.0.14-neoforge+mc1.21.1"
+  },
+  "card": "璇穹之歌__[森罗物语：末地] kaleidoscope_end-1.0.14-neoforge+mc1.21.1.md",
+  "status": "ok",
+  "files": 77,
+  "loc": 4050
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[森罗酒馆：世界名酒] kaleidoscope_world_liquor-1.1.8-neoforge+1.21.1.jar",
+  "title": "Kaleidoscope World Liquor",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[森罗酒馆：世界名酒] kaleidoscope_world_liquor-1.1.8-neoforge+1.21.1.jar",
+   "size": 6774526,
+   "modids": [
+    "kaleidoscope_world_liquor"
+   ],
+   "names": [
+    "Kaleidoscope world liquor"
+   ],
+   "urls": [],
+   "version": "1.1.8-neoforge+1.21.1"
+  },
+  "card": "璇穹之歌__[森罗酒馆：世界名酒] kaleidoscope_world_liquor-1.1.8-neoforge+1.21.1.md",
+  "status": "ok",
+  "files": 107,
+  "loc": 7998
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[热水澡] hotbath-1.21.1-4.1.0.jar",
+  "title": "Hot Bath",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[热水澡] hotbath-1.21.1-4.1.0.jar",
+   "size": 1348689,
+   "modids": [
+    "hotbath"
+   ],
+   "names": [
+    "Hot Bath"
+   ],
+   "urls": [],
+   "version": "1.21.1-4.1.0"
+  },
+  "card": "璇穹之歌__[热水澡] hotbath-1.21.1-4.1.0.md",
+  "status": "ok",
+  "files": 188,
+  "loc": 16135
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[神话与传说] mythsandlegends-0.0.8.6.jar",
+  "title": "Myths & Legends",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[神话与传说] mythsandlegends-0.0.8.6.jar",
+   "size": 4715514,
+   "modids": [
+    "mythsandlegends"
+   ],
+   "names": [
+    "Myths & Legends"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/myths-n-legends"
+   ],
+   "version": "0.0.8.6"
+  },
+  "card": "璇穹之歌__[神话与传说] mythsandlegends-0.0.8.6.md",
+  "status": "ok",
+  "files": 226,
+  "loc": 17750
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[自动翻译] autotranslator.jar",
+  "title": "autotranslator",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[自动翻译] autotranslator.jar",
+   "size": 13546862,
+   "modids": [
+    "autotranslator"
+   ],
+   "names": [
+    "autotranslator"
+   ],
+   "urls": [],
+   "version": "1.0.0"
+  },
+  "card": "璇穹之歌__[自动翻译] autotranslator.md",
+  "status": "ok",
+  "files": 62,
+  "loc": 13015
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+  "title": "Bosses'Rise",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+   "size": 23943105,
+   "modids": [
+    "block_factorys_bosses"
+   ],
+   "names": [
+    "Bosses'Rise"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/bossesrise"
+   ],
+   "version": "2.1.2"
+  },
+  "card": "璇穹之歌__[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.md",
+  "status": "ok",
+  "files": 539,
+  "loc": 52417
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "一直吃AlwaysEat-neoforge-1.0.0.jar",
+  "title": "Always Eat",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "一直吃AlwaysEat-neoforge-1.0.0.jar",
+   "size": 5036,
+   "modids": [
+    "always_eat"
+   ],
+   "names": [
+    "Always Eat"
+   ],
+   "urls": [],
+   "version": "1.0.0"
+  },
+  "card": "璇穹之歌__一直吃AlwaysEat-neoforge-1.0.0.md",
+  "status": "ok",
+  "files": 4,
+  "loc": 68
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "伊瓦尔的bossIvar's Bosses-1.0.0.jar",
+  "title": "Ivar's Bosses",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "伊瓦尔的bossIvar's Bosses-1.0.0.jar",
+   "size": 838059,
+   "modids": [
+    "ferocious_creature"
+   ],
+   "names": [
+    "Ivar's Bosses"
+   ],
+   "urls": [
+    "https://boosty.to/memor_entis"
+   ],
+   "version": "1.0.0"
+  },
+  "card": "璇穹之歌__伊瓦尔的bossIvar's Bosses-1.0.0.md",
+  "status": "ok",
+  "files": 29,
+  "loc": 7258
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "便携引擎液体燃料portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+  "title": "Create Aeronautics: Portable Engine Liquid Fuel",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "便携引擎液体燃料portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+   "size": 133486,
+   "modids": [
+    "portable_engine_liquid_fuel"
+   ],
+   "names": [
+    "Create Aeronautics: Portable Engine Liquid Fuel"
+   ],
+   "urls": [],
+   "version": "2.0.0"
+  },
+  "card": "璇穹之歌__便携引擎液体燃料portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.md",
+  "status": "ok",
+  "files": 8,
+  "loc": 486
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "修复攻击卡顿fix_attack_lag-1.2.0-1.21.1-Neoforge.jar",
+  "title": "Fix Attack Lag",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "修复攻击卡顿fix_attack_lag-1.2.0-1.21.1-Neoforge.jar",
+   "size": 4677,
+   "modids": [
+    "fix_attack_lag"
+   ],
+   "names": [
+    "FixAttackLag"
+   ],
+   "urls": [],
+   "version": "1.2.0-1.21.1-Neoforge"
+  },
+  "card": "璇穹之歌__修复攻击卡顿fix_attack_lag-1.2.0-1.21.1-Neoforge.md",
+  "status": "ok",
+  "files": 2,
+  "loc": 32
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "地牢乐事前置neoforge-runiclib-1.21.1-5.0.7.jar",
+  "title": "RunicLib",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "地牢乐事前置neoforge-runiclib-1.21.1-5.0.7.jar",
+   "size": 175793,
+   "modids": [
+    "runiclib"
+   ],
+   "names": [
+    "RunicLib"
+   ],
+   "urls": [],
+   "version": "5.0.7"
+  },
+  "card": "璇穹之歌__地牢乐事前置neoforge-runiclib-1.21.1-5.0.7.md",
+  "status": "ok",
+  "files": 68,
+  "loc": 2854
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "塔楼t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",
+  "title": "Towns and Towers",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "塔楼t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",
+   "size": 3597353,
+   "modids": [
+    "t_and_t"
+   ],
+   "names": [
+    "Towns and Towers"
+   ],
+   "urls": [
+    "https://modrinth.com/mod/towns-and-towers"
+   ],
+   "version": "1.13.9"
+  },
+  "card": "璇穹之歌__塔楼t_and_t-neoforge-fabric-1.13.9+1.21.1.md",
+  "status": "ok",
+  "files": 3,
+  "loc": 46
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "履带tracks-neoforge-1.21.1-1.0.1.jar",
+  "title": "Create: Tracks",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "履带tracks-neoforge-1.21.1-1.0.1.jar",
+   "size": 166455,
+   "modids": [
+    "tracks"
+   ],
+   "names": [
+    "Create Tracks"
+   ],
+   "urls": [],
+   "version": "1.0.1"
+  },
+  "card": "璇穹之歌__履带tracks-neoforge-1.21.1-1.0.1.md",
+  "status": "ok",
+  "files": 29,
+  "loc": 3510
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "投掷绳索连接器aero_addition-1.0.2 .jar",
+  "title": "Aeronautics:Addition",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "投掷绳索连接器aero_addition-1.0.2 .jar",
+   "size": 31395,
+   "modids": [
+    "aero_addition"
+   ],
+   "names": [
+    "Aeronautics Addition"
+   ],
+   "urls": [],
+   "version": "1.0.2"
+  },
+  "card": "璇穹之歌__投掷绳索连接器aero_addition-1.0.2 .md",
+  "status": "ok",
+  "files": 0,
+  "loc": 0
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "控制学synaxis-1.5.0.jar",
+  "title": "Synaxis",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "控制学synaxis-1.5.0.jar",
+   "size": 4446035,
+   "modids": [
+    "synaxis"
+   ],
+   "names": [
+    "Synaxis"
+   ],
+   "urls": [],
+   "version": "1.5.0"
+  },
+  "card": "璇穹之歌__控制学synaxis-1.5.0.md",
+  "status": "ok",
+  "files": 1078,
+  "loc": 127279
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "更多发动机create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
+  "title": "Create Simulated Additions",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "更多发动机create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
+   "size": 696072,
+   "modids": [
+    "create_simulated_additions"
+   ],
+   "names": [
+    "Create: Simulated Additions"
+   ],
+   "urls": [],
+   "version": "0.2.3"
+  },
+  "card": "璇穹之歌__更多发动机create_simulated_additions-0.2.3-neoforge-1.21.1.md",
+  "status": "ok",
+  "files": 52,
+  "loc": 6056
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "更多方块配重sablephysicscompat-1.3.0.jar",
+  "title": "Sable: Physics Compat",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "更多方块配重sablephysicscompat-1.3.0.jar",
+   "size": 25334,
+   "modids": [
+    "sablephysicscompat"
+   ],
+   "names": [
+    "Sable: Physics Compat"
+   ],
+   "urls": [],
+   "version": "1.3.0"
+  },
+  "card": "璇穹之歌__更多方块配重sablephysicscompat-1.3.0.md",
+  "status": "ok",
+  "files": 0,
+  "loc": 0
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "更多龙前置bjornlib-neoforge-1.0.88-1.21.1.jar",
+  "title": "BjornLib",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "更多龙前置bjornlib-neoforge-1.0.88-1.21.1.jar",
+   "size": 320231,
+   "modids": [
+    "bjornlib"
+   ],
+   "names": [
+    "BjornLib"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/bjornlib"
+   ],
+   "version": "1.0.88"
+  },
+  "card": "璇穹之歌__更多龙前置bjornlib-neoforge-1.0.88-1.21.1.md",
+  "status": "ok",
+  "files": 94,
+  "loc": 6206
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "死亡动画cinematic_respawn-1.21.1-neoforge-1.3.0.jar",
+  "title": "Cinematic Respawn",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "死亡动画cinematic_respawn-1.21.1-neoforge-1.3.0.jar",
+   "size": 25505,
+   "modids": [
+    "cinematic_respawn"
+   ],
+   "names": [
+    "Cinematic Respawn"
+   ],
+   "urls": [],
+   "version": "1.3.0"
+  },
+  "card": "璇穹之歌__死亡动画cinematic_respawn-1.21.1-neoforge-1.3.0.md",
+  "status": "ok",
+  "files": 11,
+  "loc": 1087
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "烟火凡人心flavor_immersed_daily-2026.8.16.jar",
+  "title": "Flavor Immersed Daily",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "烟火凡人心flavor_immersed_daily-2026.8.16.jar",
+   "size": 4079088,
+   "modids": [
+    "flavor_immersed_daily"
+   ],
+   "names": [
+    "Flavor Immersed Daily"
+   ],
+   "urls": [],
+   "version": "2026.8.16"
+  },
+  "card": "璇穹之歌__烟火凡人心flavor_immersed_daily-2026.8.16.md",
+  "status": "ok",
+  "files": 169,
+  "loc": 15982
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.jar",
+  "title": "Yeetus Experimentus",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.jar",
+   "size": 570057,
+   "modids": [
+    "yeetusexperimentus"
+   ],
+   "names": [
+    "Yeetus Experimentus"
+   ],
+   "urls": [],
+   "version": "87.0.0"
+  },
+  "card": "璇穹之歌__禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.md",
+  "status": "ok",
+  "files": 6,
+  "loc": 107
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "简易帐篷simplytents-4.6-1.21.1.neo.jar",
+  "title": "Simply Tents",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "简易帐篷simplytents-4.6-1.21.1.neo.jar",
+   "size": 986497,
+   "modids": [
+    "simplytents"
+   ],
+   "names": [
+    "SimplyTents"
+   ],
+   "urls": [],
+   "version": "2.0.3"
+  },
+  "card": "璇穹之歌__简易帐篷simplytents-4.6-1.21.1.neo.md",
+  "status": "ok",
+  "files": 102,
+  "loc": 6821
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "航空发动机AeroEngine-1.3.0.jar",
+  "title": "AeroEngine",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "航空发动机AeroEngine-1.3.0.jar",
+   "size": 1589690,
+   "modids": [
+    "aeroengineering"
+   ],
+   "names": [
+    "AeroEngine"
+   ],
+   "urls": [],
+   "version": "1.0.2"
+  },
+  "card": "璇穹之歌__航空发动机AeroEngine-1.3.0.md",
+  "status": "ok",
+  "files": 164,
+  "loc": 24931
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "航空新组件hotstuff-1.1.7.jar",
+  "title": "Hot's Aerostuff",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "航空新组件hotstuff-1.1.7.jar",
+   "size": 230310,
+   "modids": [
+    "hotstuff"
+   ],
+   "names": [
+    "Hot's Aerostuff"
+   ],
+   "urls": [],
+   "version": "1.1.7"
+  },
+  "card": "璇穹之歌__航空新组件hotstuff-1.1.7.md",
+  "status": "ok",
+  "files": 48,
+  "loc": 5769
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "航空气门杆lever-drugster-1.8.8.jar",
+  "title": "Lever drugster",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "航空气门杆lever-drugster-1.8.8.jar",
+   "size": 477209,
+   "modids": [
+    "analogleverdrag"
+   ],
+   "names": [
+    "lever drugster"
+   ],
+   "urls": [],
+   "version": "1.8.8"
+  },
+  "card": "璇穹之歌__航空气门杆lever-drugster-1.8.8.md",
+  "status": "ok",
+  "files": 38,
+  "loc": 10136
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "过山车simulatedcoasters-0.1.5.jar",
+  "title": "Create: Coasters Simulated",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "过山车simulatedcoasters-0.1.5.jar",
+   "size": 1892119,
+   "modids": [
+    "simulatedcoasters"
+   ],
+   "names": [
+    "Create: Coasters Simulated"
+   ],
+   "urls": [],
+   "version": "0.1.5"
+  },
+  "card": "璇穹之歌__过山车simulatedcoasters-0.1.5.md",
+  "status": "ok",
+  "files": 335,
+  "loc": 43419
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "陀螺仪aeroworks-1.5.0.jar",
+  "title": "Create: Aeroworks",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "陀螺仪aeroworks-1.5.0.jar",
+   "size": 790152,
+   "modids": [
+    "aeroworks"
+   ],
+   "names": [
+    "Create: Aeroworks"
+   ],
+   "urls": [],
+   "version": "1.5.0"
+  },
+  "card": "璇穹之歌__陀螺仪aeroworks-1.5.0.md",
+  "status": "ok",
+  "files": 157,
+  "loc": 18229
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "globalpacks-forge-1.20.1-19.3.7.jar",
+  "title": "Global Packs",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[全局数据包] globalpacks-neoforge-1.21.1-21.0.6.jar",
+   "size": 27239,
+   "modids": [
+    "globalpacks"
+   ],
+   "names": [
+    "Global Packs"
+   ],
+   "urls": [],
+   "version": "21.0.6"
+  },
+  "card": "璇穹之歌__[全局数据包] globalpacks-neoforge-1.21.1-21.0.6.md",
+  "status": "ok",
+  "files": 11,
+  "loc": 728
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "libraryferret-forge-1.20.1-4.0.0.jar",
+  "title": "Library Ferret",
+  "old_gh": "",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "libraryferret-forge-1.20.1-4.0.0.jar",
+   "size": 244410,
+   "modids": [
+    "libraryferret"
+   ],
+   "names": [
+    "Library ferret"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge"
+   ],
+   "version": "4.0.0"
+  },
+  "card": "[FIDR]暗涌：深岩恐惧__libraryferret-forge-1.20.1-4.0.0.md",
+  "status": "ok",
+  "files": 22,
+  "loc": 2269
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "lostcities-modern-tweaks-v1.0.10.jar",
+  "title": "Lost Cities Modern Tweaks",
+  "old_gh": "",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "lostcities-modern-tweaks-v1.0.10.jar",
+   "size": 311698,
+   "modids": [
+    "lcmt"
+   ],
+   "names": [
+    "Lost Cities Modern Tweaks"
+   ],
+   "urls": [],
+   "version": "1.0.10"
+  },
+  "card": "[FIDR]暗涌：深岩恐惧__lostcities-modern-tweaks-v1.0.10.md",
+  "status": "ok",
+  "files": 0,
+  "loc": 0
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar",
+  "title": "Yeetus Experimentus",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.jar",
+   "size": 570057,
+   "modids": [
+    "yeetusexperimentus"
+   ],
+   "names": [
+    "Yeetus Experimentus"
+   ],
+   "urls": [],
+   "version": "87.0.0"
+  },
+  "card": "璇穹之歌__禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.md",
+  "status": "ok",
+  "files": 6,
+  "loc": 107
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[Xaero的世界地图] xaeroworldmap-forge-1.20.1-1.45.0.jar",
+  "title": "Xaero's World Map",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+   "size": 1422531,
+   "modids": [
+    "xaeroworldmap"
+   ],
+   "names": [
+    "Xaero's World Map"
+   ],
+   "urls": [],
+   "version": "1.45.0"
+  },
+  "card": "璇穹之歌__xaeroworldmap-neoforge-1.21.1-1.45.0.md",
+  "status": "ok",
+  "files": 299,
+  "loc": 34696
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[Xaero的小地图] xaerominimap-forge-1.20.1-26.4.2.jar",
+  "title": "Xaero's Minimap",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+   "size": 2185409,
+   "modids": [
+    "xaerominimap"
+   ],
+   "names": [
+    "Xaero's Minimap"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/issues"
+   ],
+   "version": "26.4.2"
+  },
+  "card": "璇穹之歌__xaerominimap-neoforge-1.21.1-26.4.2.md",
+  "status": "ok",
+  "files": 559,
+  "loc": 49026
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[传奇领主]block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+  "title": "Bosses'Rise",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+   "size": 23943105,
+   "modids": [
+    "block_factorys_bosses"
+   ],
+   "names": [
+    "Bosses'Rise"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/bossesrise"
+   ],
+   "version": "2.1.2"
+  },
+  "card": "璇穹之歌__[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.md",
+  "status": "ok",
+  "files": 539,
+  "loc": 52417
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[农夫暇事] farmersrespite-1.20.1-2.1.2.jar",
+  "title": "Farmer's Respite",
+  "old_gh": "",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[农夫暇事] farmersrespite-1.20.1-2.1.2.jar",
+   "size": 537307,
+   "modids": [
+    "farmersrespite"
+   ],
+   "names": [
+    "Farmer's Respite"
+   ],
+   "urls": [],
+   "version": "1.20.1-2.1"
+  },
+  "card": "[FIDR]暗涌：深岩恐惧__[农夫暇事] farmersrespite-1.20.1-2.1.2.md",
+  "status": "ok",
+  "files": 81,
+  "loc": 6663
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Corail Tombstone",
+  "title": "Corail Tombstone",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "tombstone-neoforge-1.21.1-9.5.5.jar",
+   "size": 2520446,
+   "modids": [
+    "tombstone"
+   ],
+   "names": [
+    "Corail Tombstone"
+   ],
+   "urls": [
+    "https://github.com/Corail31/tombstone_lite/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/"
+   ],
+   "version": "9.5.5"
+  },
+  "card": "All the Mods 10 - ATM10__tombstone-neoforge-1.21.1-9.5.5.md",
+  "status": "ok",
+  "files": 419,
+  "loc": 39465,
+  "new_gh": "Corail31/tombstone_lite"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "ZeroCore 2",
+  "title": "ZeroCore 2",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ZeroCore2-1.21.1-2.4.21.jar",
+   "size": 1551013,
+   "modids": [
+    "zerocore"
+   ],
+   "names": [
+    "Zero CORE 2"
+   ],
+   "urls": [
+    "https://github.com/ZeroNoRyouki/ZeroCore2/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/zerocore"
+   ],
+   "version": "1.21.1-2.4.21"
+  },
+  "card": "All the Mods 10 - ATM10__ZeroCore2-1.21.1-2.4.21.md",
+  "status": "ok",
+  "files": 621,
+  "loc": 45748,
+  "new_gh": "ZeroNoRyouki/ZeroCore2"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Bad Wither No Cookie - Reloaded",
+  "title": "Bad Wither No Cookie - Reloaded",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "bwncr-neoforge-1.21.1-3.20.4.jar",
+   "size": 28573,
+   "modids": [
+    "bwncr"
+   ],
+   "names": [
+    "Bad Wither No Cookie Reloaded"
+   ],
+   "urls": [
+    "https://gitlab.com/kreezxil/BadWitherNoCookie/-/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__bwncr-neoforge-1.21.1-3.20.4.md",
+  "status": "ok",
+  "files": 8,
+  "loc": 274
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Simply Light",
+  "title": "Simply Light",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "simplylight-1.5.3+1.21.1-b4.jar",
+   "size": 1103352,
+   "modids": [
+    "simplylight"
+   ],
+   "names": [
+    "Simply Light"
+   ],
+   "urls": [
+    "https://github.com/Flanks255/simplylight/issues"
+   ],
+   "version": "1.5.3"
+  },
+  "card": "All the Mods 10 - ATM10__simplylight-1.5.3+1.21.1-b4.md",
+  "status": "ok",
+  "files": 30,
+  "loc": 2691,
+  "new_gh": "Flanks255/simplylight"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Multi-Piston",
+  "title": "Multi-Piston",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "multipiston-1.2.58-1.21.1.jar",
+   "size": 34139,
+   "modids": [
+    "multipiston"
+   ],
+   "names": [
+    "Multi-Piston"
+   ],
+   "urls": [
+    "https://github.com/ldtteam/Piston-Unlimited/issues/new/choose"
+   ],
+   "version": "1.2.58-1.21.1"
+  },
+  "card": "All the Mods 10 - ATM10__multipiston-1.2.58-1.21.1.md",
+  "status": "ok",
+  "files": 8,
+  "loc": 704,
+  "new_gh": "ldtteam/Piston-Unlimited"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Mahou Tsukai",
+  "title": "Mahou Tsukai",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "mahoutsukai-1.21.1-v1.36.27.jar",
+   "size": 5045082,
+   "modids": [
+    "mahoutsukai"
+   ],
+   "names": [
+    "Mahou Tsukai"
+   ],
+   "urls": [],
+   "version": "1.21.1-v1.36.27"
+  },
+  "card": "All the Mods 10 - ATM10__mahoutsukai-1.21.1-v1.36.27.md",
+  "status": "ok",
+  "files": 701,
+  "loc": 68424
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Potions Master",
+  "title": "Potions Master",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "potionsmaster-21.1.113-1.0.1.jar",
+   "size": 216980,
+   "modids": [
+    "potionsmaster"
+   ],
+   "names": [
+    "PotionsMaster"
+   ],
+   "urls": [],
+   "version": "1.0.1"
+  },
+  "card": "All the Mods 10 - ATM10__potionsmaster-21.1.113-1.0.1.md",
+  "status": "ok",
+  "files": 65,
+  "loc": 3071
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "More Dragon Eggs",
+  "title": "More Dragon Eggs",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "moredragoneggs-5.0.jar",
+   "size": 6389,
+   "modids": [
+    "moredragoneggs"
+   ],
+   "names": [
+    "More Dragon Eggs"
+   ],
+   "urls": [],
+   "version": "5.0"
+  },
+  "card": "All the Mods 10 - ATM10__moredragoneggs-5.0.md",
+  "status": "ok",
+  "files": 3,
+  "loc": 120
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Macaw's Furniture",
+  "title": "Macaw's Furniture",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+   "size": 2080436,
+   "modids": [
+    "mcwfurnitures"
+   ],
+   "names": [
+    "Macaw's Furniture"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture"
+   ],
+   "version": "3.4.1"
+  },
+  "card": "All the Mods 10 - ATM10__mcw-furniture-3.4.1-mc1.21.1neoforge.md",
+  "status": "ok",
+  "files": 41,
+  "loc": 5018
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Macaw's Windows",
+  "title": "Macaw's Windows",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[Macaw 的窗户] mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+   "size": 1261268,
+   "modids": [
+    "mcwwindows"
+   ],
+   "names": [
+    "Macaw's Windows"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/macaws-windows"
+   ],
+   "version": "2.4.2"
+  },
+  "card": "璇穹之歌__[Macaw 的窗户] mcw-mcwwindows-2.4.2-mc1.21.1neoforge.md",
+  "status": "ok",
+  "files": 24,
+  "loc": 2961
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "All The Tweaks",
+  "title": "All The Tweaks",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "allthetweaks-1.21.1-2.9.4.jar",
+   "size": 4919090,
+   "modids": [
+    "allthetweaks"
+   ],
+   "names": [
+    "AllTheTweaks"
+   ],
+   "urls": [],
+   "version": "2.9.4"
+  },
+  "card": "All the Mods 10 - ATM10__allthetweaks-1.21.1-2.9.4.md",
+  "status": "ok",
+  "files": 78,
+  "loc": 7005
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Pocket Storage",
+  "title": "Pocket Storage",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "pocketstorage-1.2.5+1.21.1-b3.jar",
+   "size": 264788,
+   "modids": [
+    "pocketstorage"
+   ],
+   "names": [
+    "Pocket Storage"
+   ],
+   "urls": [
+    "https://github.com/Flanks255/simplylight/issues"
+   ],
+   "version": "1.2.5"
+  },
+  "card": "All the Mods 10 - ATM10__pocketstorage-1.2.5+1.21.1-b3.md",
+  "status": "ok",
+  "files": 27,
+  "loc": 2080,
+  "new_gh": "Flanks255/simplylight"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Crash Utilities",
+  "title": "Crash Utilities",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "crashutilities-9.0.4.jar",
+   "size": 225310,
+   "modids": [
+    "crashutilities"
+   ],
+   "names": [
+    "Crash Utilities"
+   ],
+   "urls": [
+    "https://github.com/Darkere/CrashUtilities/issues"
+   ],
+   "version": "9.0.4"
+  },
+  "card": "All the Mods 10 - ATM10__crashutilities-9.0.4.md",
+  "status": "ok",
+  "files": 70,
+  "loc": 6027,
+  "new_gh": "Darkere/CrashUtilities"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Charging Gadgets",
+  "title": "Charging Gadgets",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "charginggadgets-1.14.1.jar",
+   "size": 67206,
+   "modids": [
+    "charginggadgets"
+   ],
+   "names": [
+    "Charging Gadgets"
+   ],
+   "urls": [
+    "https://github.com/Direwolf20-MC/ChargingGadgets",
+    "https://github.com/Direwolf20-MC/ChargingGadgets/issues"
+   ],
+   "version": "1.14.1"
+  },
+  "card": "All the Mods 10 - ATM10__charginggadgets-1.14.1.md",
+  "status": "ok",
+  "files": 15,
+  "loc": 1032,
+  "new_gh": "Direwolf20-MC/ChargingGadgets"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Valhelsia Core",
+  "title": "Valhelsia Core",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+   "size": 181277,
+   "modids": [
+    "valhelsia_core"
+   ],
+   "names": [
+    "Valhelsia Core"
+   ],
+   "urls": [],
+   "version": "1.1.5"
+  },
+  "card": "All the Mods 10 - ATM10__valhelsia_core-neoforge-1.21.1-1.1.5.md",
+  "status": "ok",
+  "files": 101,
+  "loc": 4470
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "FerriteCore ((Neo)Forge)",
+  "title": "FerriteCore ((Neo)Forge)",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "ferritecore-7.0.3-neoforge.jar",
+   "size": 121559,
+   "modids": [
+    "ferritecore"
+   ],
+   "names": [
+    "Ferrite Core"
+   ],
+   "urls": [],
+   "version": "7.0.3"
+  },
+  "card": "璇穹之歌__ferritecore-7.0.3-neoforge.md",
+  "status": "ok",
+  "files": 62,
+  "loc": 3211
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Mama's Merrymaking - A Minecraft Christmas and Winter Holiday Mod",
+  "title": "Mama's Merrymaking - A Minecraft Christmas and Winter Holiday Mod",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "merrymaking-1.21.1-16.jar",
+   "size": 21960723,
+   "modids": [
+    "merrymaking"
+   ],
+   "names": [
+    "Mama's MerryMaking"
+   ],
+   "urls": [],
+   "version": "1.21.1-16"
+  },
+  "card": "All the Mods 10 - ATM10__merrymaking-1.21.1-16.md",
+  "status": "ok",
+  "files": 112,
+  "loc": 13302
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Cat Jammies",
+  "title": "Cat Jammies",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "catjammies-1.21-1.7.1.jar",
+   "size": 8784,
+   "modids": [
+    "catjammies"
+   ],
+   "names": [
+    "CatJammies"
+   ],
+   "urls": [],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__catjammies-1.21-1.7.1.md",
+  "status": "ok",
+  "files": 3,
+  "loc": 154
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Redstone Pen",
+  "title": "Redstone Pen",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "redstonepen-1.21-neoforge-1.11.42.jar",
+   "size": 513816,
+   "modids": [
+    "redstonepen"
+   ],
+   "names": [
+    "Redstone Pen"
+   ],
+   "urls": [
+    "https://github.com/stfwi/redstonepen",
+    "https://github.com/stfwi/redstonepen/issues/"
+   ],
+   "version": "1.11.42"
+  },
+  "card": "All the Mods 10 - ATM10__redstonepen-1.21-neoforge-1.11.42.md",
+  "status": "ok",
+  "files": 29,
+  "loc": 10252,
+  "new_gh": "stfwi/redstonepen"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Macaw's Lights and Lamps",
+  "title": "Macaw's Lights and Lamps",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+   "size": 525744,
+   "modids": [
+    "mcwlights"
+   ],
+   "names": [
+    "Macaw's Lights and Lamps"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps"
+   ],
+   "version": "1.1.5"
+  },
+  "card": "All the Mods 10 - ATM10__mcw-lights-1.1.5-mc1.21.1neoforge.md",
+  "status": "ok",
+  "files": 28,
+  "loc": 2375
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "AllTheCompressed",
+  "title": "AllTheCompressed",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "allthecompressed-1.21.1-4.4.0.jar",
+   "size": 5901446,
+   "modids": [
+    "allthecompressed"
+   ],
+   "names": [
+    "AllTheCompressed"
+   ],
+   "urls": [],
+   "version": "4.4.0"
+  },
+  "card": "All the Mods 10 - ATM10__allthecompressed-1.21.1-4.4.0.md",
+  "status": "ok",
+  "files": 24,
+  "loc": 1508
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "BlockUI",
+  "title": "BlockUI",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "blockui-1.0.211-1.21.1-snapshot.jar",
+   "size": 468147,
+   "modids": [
+    "blockui"
+   ],
+   "names": [
+    "UI Library Mod"
+   ],
+   "urls": [
+    "https://github.com/ldtteam/BlockUI/issues/new/choose"
+   ],
+   "version": "1.0.211-1.21.1-snapshot"
+  },
+  "card": "All the Mods 10 - ATM10__blockui-1.0.211-1.21.1-snapshot.md",
+  "status": "ok",
+  "files": 105,
+  "loc": 11800,
+  "new_gh": "ldtteam/BlockUI"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Memory Settings",
+  "title": "Memory Settings",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "memorysettings-1.21-6.0.jar",
+   "size": 22329,
+   "modids": [
+    "memorysettings"
+   ],
+   "names": [
+    "memorysettings mod"
+   ],
+   "urls": [],
+   "version": "6.0"
+  },
+  "card": "All the Mods 10 - ATM10__memorysettings-1.21-6.0.md",
+  "status": "ok",
+  "files": 7,
+  "loc": 527
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Domum Ornamentum",
+  "title": "Domum Ornamentum",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "domum-ornamentum-1.0.234-snapshot-main.jar",
+   "size": 1151596,
+   "modids": [
+    "domum_ornamentum"
+   ],
+   "names": [
+    "Domum Ornamentum"
+   ],
+   "urls": [
+    "https://github.com/ldtteam/Domum-Ornamentum/issues/new/choose"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__domum-ornamentum-1.0.234-snapshot-main.md",
+  "status": "ok",
+  "files": 231,
+  "loc": 15499,
+  "new_gh": "ldtteam/Domum-Ornamentum"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Omega Config",
+  "title": "Omega Config",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "omegaconfig-neoforge-1.5.1.jar",
+   "size": 20604,
+   "modids": [
+    "omegaconfig"
+   ],
+   "names": [
+    "Omega Config Architectury"
+   ],
+   "urls": [],
+   "version": "1.5.1"
+  },
+  "card": "All the Mods 10 - ATM10__omegaconfig-neoforge-1.5.1.md",
+  "status": "ok",
+  "files": 9,
+  "loc": 442
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Ars Elemental",
+  "title": "Ars Elemental",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ars_elemental-1.21.1-0.7.10.1.jar",
+   "size": 2260550,
+   "modids": [
+    "ars_elemental"
+   ],
+   "names": [
+    "Ars Elemental"
+   ],
+   "urls": [
+    "https://github.com/Alexthw46/Ars-Elemental/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__ars_elemental-1.21.1-0.7.10.1.md",
+  "status": "ok",
+  "files": 267,
+  "loc": 24273,
+  "new_gh": "Alexthw46/Ars-Elemental"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Towns and Towers",
+  "title": "Towns and Towers",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "塔楼t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",
+   "size": 3597353,
+   "modids": [
+    "t_and_t"
+   ],
+   "names": [
+    "Towns and Towers"
+   ],
+   "urls": [
+    "https://modrinth.com/mod/towns-and-towers"
+   ],
+   "version": "1.13.9"
+  },
+  "card": "璇穹之歌__塔楼t_and_t-neoforge-fabric-1.13.9+1.21.1.md",
+  "status": "ok",
+  "files": 3,
+  "loc": 46
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Yeetus Experimentus",
+  "title": "Yeetus Experimentus",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.jar",
+   "size": 570057,
+   "modids": [
+    "yeetusexperimentus"
+   ],
+   "names": [
+    "Yeetus Experimentus"
+   ],
+   "urls": [],
+   "version": "87.0.0"
+  },
+  "card": "璇穹之歌__禁止创建加载两遍材质yeetusexperimentus-neoforge-87.0.0.md",
+  "status": "ok",
+  "files": 6,
+  "loc": 107
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Gravitational Modulating Additional Unit",
+  "title": "Gravitational Modulating Additional Unit",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+   "size": 40188,
+   "modids": [
+    "gmut"
+   ],
+   "names": [
+    "Gravitational Modulating Additional Unit"
+   ],
+   "urls": [
+    "https://github.com/gisellevonbingen/Minecraft-GravitationalModulatingAdditionalUnit/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/gravitational-modulating-additional-unit"
+   ],
+   "version": "6.4"
+  },
+  "card": "All the Mods 10 - ATM10__GravitationalModulatingAdditionalUnit-1.21.1-6.4.md",
+  "status": "ok",
+  "files": 20,
+  "loc": 809,
+  "new_gh": "gisellevonbingen/Minecraft-GravitationalModulatingAdditionalUnit"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Explorify – Dungeons & Structures",
+  "title": "Explorify – Dungeons & Structures",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "Explorify v1.6.5.mod.jar",
+   "size": 767884,
+   "modids": [
+    "explorify"
+   ],
+   "names": [
+    "Explorify"
+   ],
+   "urls": [
+    "https://modrinth.com/datapack/explorify"
+   ],
+   "version": "1.6.5"
+  },
+  "card": "All the Mods 10 - ATM10__Explorify v1.6.5.mod.md",
+  "status": "ok",
+  "files": 0,
+  "loc": 0
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "StarbuncleMania",
+  "title": "StarbuncleMania",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "starbunclemania-1.21.1-1.5.7.jar",
+   "size": 725771,
+   "modids": [
+    "starbunclemania"
+   ],
+   "names": [
+    "Starbunclemania"
+   ],
+   "urls": [
+    "https://github.com/Alexthw46/StarbuncleMania/issues"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__starbunclemania-1.21.1-1.5.7.md",
+  "status": "ok",
+  "files": 115,
+  "loc": 9072,
+  "new_gh": "Alexthw46/StarbuncleMania"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Stylecolonies",
+  "title": "Stylecolonies",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "stylecolonies-1.15.58-1.21.1.jar",
+   "size": 31237505,
+   "modids": [
+    "stylecolonies"
+   ],
+   "names": [
+    "Stylecolonies"
+   ],
+   "urls": [
+    "https://github.com/ldtteam/stylecolonies/issues/new/choose",
+    "https://minecolonies.com"
+   ],
+   "version": "1.15.58-1.21.1"
+  },
+  "card": "All the Mods 10 - ATM10__stylecolonies-1.15.58-1.21.1.md",
+  "status": "ok",
+  "files": 1,
+  "loc": 12,
+  "new_gh": "ldtteam/stylecolonies"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "FTB XMod Compat",
+  "title": "FTB XMod Compat",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "ftb-xmod-compat-neoforge-21.1.11.jar",
+   "size": 153045,
+   "modids": [
+    "ftbxmodcompat"
+   ],
+   "names": [
+    "FTB XMod Compat"
+   ],
+   "urls": [],
+   "version": "21.1.11"
+  },
+  "card": "璇穹之歌__ftb-xmod-compat-neoforge-21.1.11.md",
+  "status": "ok",
+  "files": 85,
+  "loc": 3846
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Just Enough Archaeology",
+  "title": "Just Enough Archaeology",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "jearchaeology-1.21.1-1.2.0.jar",
+   "size": 53509,
+   "modids": [
+    "jearchaeology"
+   ],
+   "names": [
+    "Just Enough Archaeology"
+   ],
+   "urls": [],
+   "version": "1.21.1-1.2.0"
+  },
+  "card": "All the Mods 10 - ATM10__jearchaeology-1.21.1-1.2.0.md",
+  "status": "ok",
+  "files": 17,
+  "loc": 1099
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "MrCrayfish's Furniture Mod: Refurbished",
+  "title": "MrCrayfish's Furniture Mod: Refurbished",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[MrCrayfish 的家具：重制] refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+   "size": 7133477,
+   "modids": [
+    "refurbished_furniture"
+   ],
+   "names": [
+    "MrCrayfish's Furniture Mod: Refurbished"
+   ],
+   "urls": [
+    "https://mrcrayfish.com/mods/furniture_refurbished"
+   ],
+   "version": "1.0.22"
+  },
+  "card": "璇穹之歌__[MrCrayfish 的家具：重制] refurbished_furniture-neoforge-1.21.1-1.0.22.md",
+  "status": "ok",
+  "files": 438,
+  "loc": 41781
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Amendments",
+  "title": "Amendments",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "amendments-1.21-2.1.9-neoforge.jar",
+   "size": 1160337,
+   "modids": [
+    "amendments"
+   ],
+   "names": [
+    "Amendments"
+   ],
+   "urls": [
+    "https://github.com/MehVahdJukaar/amendments/issues"
+   ],
+   "version": "1.21-2.1.9"
+  },
+  "card": "All the Mods 10 - ATM10__amendments-1.21-2.1.9-neoforge.md",
+  "status": "ok",
+  "files": 218,
+  "loc": 18606,
+  "new_gh": "MehVahdJukaar/amendments"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "TownTalk",
+  "title": "TownTalk",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "towntalk-1.2.0.jar",
+   "size": 52301863,
+   "modids": [
+    "towntalk"
+   ],
+   "names": [
+    "Towntalk"
+   ],
+   "urls": [],
+   "version": "1.2.0"
+  },
+  "card": "All the Mods 10 - ATM10__towntalk-1.2.0.md",
+  "status": "ok",
+  "files": 2,
+  "loc": 153
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "All the Wizard Gear",
+  "title": "All the Wizard Gear",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "allthewizardgear-1.21.1-1.2.0.jar",
+   "size": 125549,
+   "modids": [
+    "allthewizardgear"
+   ],
+   "names": [
+    "All the Wizard Gear"
+   ],
+   "urls": [],
+   "version": "1.21.1-1.2.0"
+  },
+  "card": "All the Mods 10 - ATM10__allthewizardgear-1.21.1-1.2.0.md",
+  "status": "ok",
+  "files": 17,
+  "loc": 929
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Macaw's Holidays",
+  "title": "Macaw's Holidays",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+   "size": 1012915,
+   "modids": [
+    "mcwholidays"
+   ],
+   "names": [
+    "Macaw's Holidays"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/macaws-holidays"
+   ],
+   "version": "1.1.2"
+  },
+  "card": "All the Mods 10 - ATM10__mcw-holidays-1.1.2-mc1.21.1neoforge.md",
+  "status": "ok",
+  "files": 58,
+  "loc": 4461
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "FTB Filter System",
+  "title": "FTB Filter System",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ftb-filter-system-neoforge-21.1.4.jar",
+   "size": 211671,
+   "modids": [
+    "ftbfiltersystem"
+   ],
+   "names": [
+    "FTB Filter System"
+   ],
+   "urls": [
+    "https://go.ftb.team/support-mod-issues",
+    "https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system"
+   ],
+   "version": "21.1.4"
+  },
+  "card": "All the Mods 10 - ATM10__ftb-filter-system-neoforge-21.1.4.md",
+  "status": "ok",
+  "files": 74,
+  "loc": 4939
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Byzantine Styles Pack for Minecolonies",
+  "title": "Byzantine Styles Pack for Minecolonies",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "Byzantine-1.21.1-51.jar",
+   "size": 16077350,
+   "modids": [
+    "byzantine"
+   ],
+   "names": [
+    "Byzantine"
+   ],
+   "urls": [
+    "https://discord.gg/neeD6Gk9cp"
+   ],
+   "version": "51"
+  },
+  "card": "All the Mods 10 - ATM10__Byzantine-1.21.1-51.md",
+  "status": "ok",
+  "files": 0,
+  "loc": 0
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Simple Weather",
+  "title": "Simple Weather",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "simple_weather-1.0.13-hotfix.jar",
+   "size": 82792,
+   "modids": [
+    "simple_weather"
+   ],
+   "names": [
+    "Simple Weather"
+   ],
+   "urls": [
+    "https://github.com/Soaryn/XyCraftTracker/issues"
+   ],
+   "version": "1.0.13-hotfix"
+  },
+  "card": "All the Mods 10 - ATM10__simple_weather-1.0.13-hotfix.md",
+  "status": "ok",
+  "files": 8,
+  "loc": 651,
+  "new_gh": "Soaryn/XyCraftTracker"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Immersive Energistics",
+  "title": "Immersive Energistics",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "Immersive-Energistics-1.1.0-beta.jar",
+   "size": 40560,
+   "modids": [
+    "immeng"
+   ],
+   "names": [
+    "Immersive Energistics"
+   ],
+   "urls": [
+    "https://github.com/AppliedEnergistics/Immersive-Energistics",
+    "https://github.com/AppliedEnergistics/Immersive-Energistics/issues"
+   ],
+   "version": "1.1.0-beta"
+  },
+  "card": "All the Mods 10 - ATM10__Immersive-Energistics-1.1.0-beta.md",
+  "status": "ok",
+  "files": 10,
+  "loc": 688,
+  "new_gh": "AppliedEnergistics/Immersive-Energistics"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Hardened Armadillos",
+  "title": "Hardened Armadillos",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "hardenedarmadillos-1.21.1-0.2.0.jar",
+   "size": 10389,
+   "modids": [
+    "hardenedarmadillos"
+   ],
+   "names": [
+    "Hardened Armadillos"
+   ],
+   "urls": [
+    "https://github.com/JDKDigital/hardenedarmadillos/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/jumpy-boats"
+   ],
+   "version": "1.21.1-0.2.0"
+  },
+  "card": "All the Mods 10 - ATM10__hardenedarmadillos-1.21.1-0.2.0.md",
+  "status": "ok",
+  "files": 4,
+  "loc": 163,
+  "new_gh": "JDKDigital/hardenedarmadillos"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Rechiseled: Chipped",
+  "title": "Rechiseled: Chipped",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "rechiseled_chipped-2.0-1.21.1.jar",
+   "size": 177517,
+   "modids": [
+    "rechiseled_chipped"
+   ],
+   "names": [
+    "Rechiseled: Chipped"
+   ],
+   "urls": [],
+   "version": "1.3"
+  },
+  "card": "All the Mods 10 - ATM10__rechiseled_chipped-2.0-1.21.1.md",
+  "status": "ok",
+  "files": 5,
+  "loc": 147
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Uranus",
+  "title": "Uranus",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "冰火前置uranus-2.4.1-bugfix-1.21.1-neoforge.jar",
+   "size": 847836,
+   "modids": [
+    "uranus"
+   ],
+   "names": [
+    "Uranus"
+   ],
+   "urls": [
+    "https://github.com/IAFEnvoy/Uranus/issues"
+   ],
+   "version": "2.4.1-bugfix"
+  },
+  "card": "璇穹之歌__冰火前置uranus-2.4.1-bugfix-1.21.1-neoforge.md",
+  "status": "ok",
+  "files": 143,
+  "loc": 9133,
+  "new_gh": "IAFEnvoy/Uranus"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "IceAndFire Community Edition",
+  "title": "IceAndFire Community Edition",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[冰火传说社区版] iceandfire-2.1.jar",
+   "size": 20767164,
+   "modids": [
+    "iceandfire"
+   ],
+   "names": [
+    "Ice And Fire Community Edition"
+   ],
+   "urls": [
+    "https://github.com/IAFEnvoy/IceAndFire-CE/issues"
+   ],
+   "version": "2.1"
+  },
+  "card": "璇穹之歌__[冰火传说社区版] iceandfire-2.1.md",
+  "status": "ok",
+  "files": 588,
+  "loc": 63051,
+  "new_gh": "IAFEnvoy/IceAndFire-CE"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Sussy Sniffers",
+  "title": "Sussy Sniffers",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "sussysniffers-1.21.1-0.1.3.jar",
+   "size": 95574,
+   "modids": [
+    "sussysniffers"
+   ],
+   "names": [
+    "Sussy Sniffers"
+   ],
+   "urls": [],
+   "version": "1.21.1-0.1.3"
+  },
+  "card": "All the Mods 10 - ATM10__sussysniffers-1.21.1-0.1.3.md",
+  "status": "ok",
+  "files": 9,
+  "loc": 583
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "AllTheLeaks (Memory Leak Fix)",
+  "title": "AllTheLeaks (Memory Leak Fix)",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "内存泄漏alltheleaks-1.1.12+1.21.1-neoforge.jar",
+   "size": 562895,
+   "modids": [
+    "alltheleaks"
+   ],
+   "names": [
+    "All The Leaks"
+   ],
+   "urls": [],
+   "version": "1.1.12+1.21.1-neoforge"
+  },
+  "card": "璇穹之歌__内存泄漏alltheleaks-1.1.12+1.21.1-neoforge.md",
+  "status": "ok",
+  "files": 298,
+  "loc": 11321
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Illager Warship",
+  "title": "Illager Warship",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "illagerwarship-1.0.1-neoforge-1.21.1.jar",
+   "size": 71280,
+   "modids": [
+    "illagerwarship"
+   ],
+   "names": [
+    "Illager-Warship"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/illager-warship"
+   ],
+   "version": "1.0.1"
+  },
+  "card": "All the Mods 10 - ATM10__illagerwarship-1.0.1-neoforge-1.21.1.md",
+  "status": "ok",
+  "files": 1,
+  "loc": 76
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Ars Technica",
+  "title": "Ars Technica",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ars_technica-1.21.1-2.7.6.jar",
+   "size": 3691171,
+   "modids": [
+    "ars_technica"
+   ],
+   "names": [
+    "Ars Technica"
+   ],
+   "urls": [
+    "http://my.issue.tracker/"
+   ],
+   "version": "2.7.6"
+  },
+  "card": "All the Mods 10 - ATM10__ars_technica-1.21.1-2.7.6.md",
+  "status": "ok",
+  "files": 167,
+  "loc": 13039
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "All The Arcanist Gear",
+  "title": "All The Arcanist Gear",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "allthearcanistgear-1.21.1-21.3.2.jar",
+   "size": 375904,
+   "modids": [
+    "allthearcanistgear"
+   ],
+   "names": [
+    "All The Arcanist Gear"
+   ],
+   "urls": [
+    "https://github.com/Jarva/All-The-Arcanist-Gear/issues"
+   ],
+   "version": "1.21.1-21.3.2"
+  },
+  "card": "All the Mods 10 - ATM10__allthearcanistgear-1.21.1-21.3.2.md",
+  "status": "ok",
+  "files": 40,
+  "loc": 2118,
+  "new_gh": "Jarva/All-The-Arcanist-Gear"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Auroras",
+  "title": "Auroras",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "Auroras-1.21-1.6.2.jar",
+   "size": 2116122,
+   "modids": [
+    "auroras"
+   ],
+   "names": [
+    "Auroras"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/auroras"
+   ],
+   "version": "1.6.2"
+  },
+  "card": "All the Mods 10 - ATM10__Auroras-1.21-1.6.2.md",
+  "status": "ok",
+  "files": 14,
+  "loc": 3761
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Cobblegen Galore",
+  "title": "Cobblegen Galore",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "cobblegengalore-1.21.1-0.2.9.jar",
+   "size": 88880,
+   "modids": [
+    "cobblegengalore"
+   ],
+   "names": [
+    "Cobblegen Galore"
+   ],
+   "urls": [],
+   "version": "1.21.1-0.2.9"
+  },
+  "card": "All the Mods 10 - ATM10__cobblegengalore-1.21.1-0.2.9.md",
+  "status": "ok",
+  "files": 10,
+  "loc": 855
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Rainbows!",
+  "title": "Rainbows!",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "Rainbows-1.21-1.5.jar",
+   "size": 2307740,
+   "modids": [
+    "rainbows"
+   ],
+   "names": [
+    "Rainbows"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/rainboows"
+   ],
+   "version": "1.5"
+  },
+  "card": "All the Mods 10 - ATM10__Rainbows-1.21-1.5.md",
+  "status": "ok",
+  "files": 10,
+  "loc": 2834
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Mama's Herbs and Harvest",
+  "title": "Mama's Herbs and Harvest",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "herbsandharvest-1.21.1-19.jar",
+   "size": 17802049,
+   "modids": [
+    "herbsandharvest"
+   ],
+   "names": [
+    "Mama's Herbs and Harvest"
+   ],
+   "urls": [],
+   "version": "1.21.1-19"
+  },
+  "card": "All the Mods 10 - ATM10__herbsandharvest-1.21.1-19.md",
+  "status": "ok",
+  "files": 145,
+  "loc": 15169
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Soulplied Energistics",
+  "title": "Soulplied Energistics",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "soulplied_energistics-1.0.3.jar",
+   "size": 25946,
+   "modids": [
+    "soulplied_energistics"
+   ],
+   "names": [
+    "Soulplied Energistics"
+   ],
+   "urls": [],
+   "version": "1.0.3"
+  },
+  "card": "All the Mods 10 - ATM10__soulplied_energistics-1.0.3.md",
+  "status": "ok",
+  "files": 10,
+  "loc": 555
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Deimos Lib",
+  "title": "Deimos Lib",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "deimos-1.21.1-neoforge-2.7.jar",
+   "size": 49576,
+   "modids": [
+    "deimos"
+   ],
+   "names": [
+    "Deimos"
+   ],
+   "urls": [
+    "https://modrinth.com/mod/deimos"
+   ],
+   "version": "2.7"
+  },
+  "card": "All the Mods 10 - ATM10__deimos-1.21.1-neoforge-2.7.md",
+  "status": "ok",
+  "files": 9,
+  "loc": 1278
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "KeyBind Bundles",
+  "title": "KeyBind Bundles",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "keybindbundles-1.4.0.jar",
+   "size": 89565,
+   "modids": [
+    "keybindbundles"
+   ],
+   "names": [
+    "KeyBind Bundles"
+   ],
+   "urls": [],
+   "version": "1.4.0"
+  },
+  "card": "All the Mods 10 - ATM10__keybindbundles-1.4.0.md",
+  "status": "ok",
+  "files": 28,
+  "loc": 2225
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Productive Metalworks",
+  "title": "Productive Metalworks",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "productivemetalworks-1.21.1-1.15.1.jar",
+   "size": 3033210,
+   "modids": [
+    "productivemetalworks"
+   ],
+   "names": [
+    "Productive Metalworks"
+   ],
+   "urls": [
+    "https://github.com/JDKDigital/productivemetalworks/issues"
+   ],
+   "version": "1.21.1-1.15.1"
+  },
+  "card": "All the Mods 10 - ATM10__productivemetalworks-1.21.1-1.15.1.md",
+  "status": "ok",
+  "files": 85,
+  "loc": 7962,
+  "new_gh": "JDKDigital/productivemetalworks"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Camol",
+  "title": "Camol",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "camol-1.21.1-0.3.1.jar",
+   "size": 62188,
+   "modids": [
+    "camol"
+   ],
+   "names": [
+    "Camol"
+   ],
+   "urls": [],
+   "version": "1.21.1-0.3.1"
+  },
+  "card": "All the Mods 10 - ATM10__camol-1.21.1-0.3.1.md",
+  "status": "ok",
+  "files": 21,
+  "loc": 1072
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Chroma Carvings",
+  "title": "Chroma Carvings",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "chromacarvings-1.21.1-0.2.0.jar",
+   "size": 268974,
+   "modids": [
+    "chromacarvings"
+   ],
+   "names": [
+    "Chroma Carvings"
+   ],
+   "urls": [],
+   "version": "1.21.1-0.2.0"
+  },
+  "card": "All the Mods 10 - ATM10__chromacarvings-1.21.1-0.2.0.md",
+  "status": "ok",
+  "files": 18,
+  "loc": 964
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Utility Vest",
+  "title": "Utility Vest",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "utilityvest-1.3.0.jar",
+   "size": 223322,
+   "modids": [
+    "utilityvest"
+   ],
+   "names": [
+    "Utility vest"
+   ],
+   "urls": [
+    "https://github.com/Satherov/Utility-Vest"
+   ],
+   "version": "1.3.0"
+  },
+  "card": "All the Mods 10 - ATM10__utilityvest-1.3.0.md",
+  "status": "ok",
+  "files": 34,
+  "loc": 2723,
+  "new_gh": "Satherov/Utility-Vest"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "KubeJS Tweaks",
+  "title": "KubeJS Tweaks",
+  "old_gh": "",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "kubejstweaks-1.0.6.jar",
+   "size": 421764,
+   "modids": [
+    "kubejstweaks"
+   ],
+   "names": [
+    "KubeJS Tweaks"
+   ],
+   "urls": [],
+   "version": "1.0.6"
+  },
+  "card": "璇穹之歌__kubejstweaks-1.0.6.md",
+  "status": "ok",
+  "files": 99,
+  "loc": 5688
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Dyson Cube Project",
+  "title": "Dyson Cube Project",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "dysoncubeproject-1.0.5.jar",
+   "size": 538975,
+   "modids": [
+    "dysoncubeproject"
+   ],
+   "names": [
+    "Dyson Cube Project"
+   ],
+   "urls": [],
+   "version": "1.0.5"
+  },
+  "card": "All the Mods 10 - ATM10__dysoncubeproject-1.0.5.md",
+  "status": "ok",
+  "files": 36,
+  "loc": 3183
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Modular Bees",
+  "title": "Modular Bees",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ModularBees-1.21.1-3.4-neoforge.jar",
+   "size": 575830,
+   "modids": [
+    "modularbees"
+   ],
+   "names": [
+    "ModularBees"
+   ],
+   "urls": [],
+   "version": "1.21.1-3.4-neoforge"
+  },
+  "card": "All the Mods 10 - ATM10__ModularBees-1.21.1-3.4-neoforge.md",
+  "status": "ok",
+  "files": 178,
+  "loc": 13468
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Iron's Lib",
+  "title": "Iron's Lib",
+  "old_gh": "",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "irons_lib-1.21.1-2.1.0.jar",
+   "size": 406284,
+   "modids": [
+    "irons_lib"
+   ],
+   "names": [
+    "Iron's Lib"
+   ],
+   "urls": [],
+   "version": "1.21.1-2.1.0"
+  },
+  "card": "All the Mods 10 - ATM10__irons_lib-1.21.1-2.1.0.md",
+  "status": "ok",
+  "files": 77,
+  "loc": 6254
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "McJty/MFFS",
+  "title": "McJty/MFFS",
+  "old_gh": "McJty/MFFS",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "mffs-5.4.44.jar",
+   "size": 3328937,
+   "modids": [
+    "mffs"
+   ],
+   "names": [
+    "Modular Force Field System"
+   ],
+   "urls": [
+    "https://github.com/BuiltBrokenModding/MFFS_Classic",
+    "https://github.com/BuiltBrokenModding/MFFS_Classic/issues"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__mffs-5.4.44.md",
+  "status": "ok",
+  "files": 194,
+  "loc": 12617,
+  "new_gh": "BuiltBrokenModding/MFFS_Classic"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "gigabit101/EnderStorage",
+  "title": "gigabit101/EnderStorage",
+  "old_gh": "gigabit101/EnderStorage",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "EnderStorage-1.21.1-2.13.0.191.jar",
+   "size": 264089,
+   "modids": [
+    "enderstorage"
+   ],
+   "names": [
+    "EnderStorage"
+   ],
+   "urls": [
+    "https://github.com/TheCBProject/EnderStorage",
+    "https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8"
+   ],
+   "version": "2.13.0.191"
+  },
+  "card": "All the Mods 10 - ATM10__EnderStorage-1.21.1-2.13.0.191.md",
+  "status": "ok",
+  "files": 60,
+  "loc": 3946,
+  "new_gh": "TheCBProject/EnderStorage"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "ZeroNoRyouki/ExtremeReactors",
+  "title": "ZeroNoRyouki/ExtremeReactors",
+  "old_gh": "ZeroNoRyouki/ExtremeReactors",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ExtremeReactors2-1.21.1-2.4.28.jar",
+   "size": 2554779,
+   "modids": [
+    "bigreactors"
+   ],
+   "names": [
+    "Extreme Reactors"
+   ],
+   "urls": [
+    "https://github.com/ZeroNoRyouki/ExtremeReactors2"
+   ],
+   "version": "1.21.1-2.4.28"
+  },
+  "card": "All the Mods 10 - ATM10__ExtremeReactors2-1.21.1-2.4.28.md",
+  "status": "ok",
+  "files": 414,
+  "loc": 28447,
+  "new_gh": "ZeroNoRyouki/ExtremeReactors2"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Buuz135/titanium",
+  "title": "Buuz135/titanium",
+  "old_gh": "Buuz135/titanium",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "titanium-1.21-4.0.50.jar",
+   "size": 607012,
+   "modids": [
+    "titanium"
+   ],
+   "names": [
+    "Titanium"
+   ],
+   "urls": [],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__titanium-1.21-4.0.50.md",
+  "status": "ok",
+  "files": 254,
+  "loc": 15349
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "McJty/RFToolsBase",
+  "title": "McJty/RFToolsBase",
+  "old_gh": "McJty/RFToolsBase",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "rftoolsbase-1.21-6.0.11.jar",
+   "size": 463973,
+   "modids": [
+    "rftoolsbase"
+   ],
+   "names": [
+    "RFToolsBase"
+   ],
+   "urls": [
+    "http://github.com/McJtyMods/RFToolsBase/",
+    "http://github.com/McJtyMods/RFToolsBase/issues"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__rftoolsbase-1.21-6.0.11.md",
+  "status": "ok",
+  "files": 143,
+  "loc": 7789,
+  "new_gh": "McJtyMods/RFToolsBase"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "McJty/RFToolsBuilder",
+  "title": "McJty/RFToolsBuilder",
+  "old_gh": "McJty/RFToolsBuilder",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "rftoolsbuilder-1.21-7.0.6.jar",
+   "size": 1054873,
+   "modids": [
+    "rftoolsbuilder"
+   ],
+   "names": [
+    "RFToolsBuilder"
+   ],
+   "urls": [
+    "http://github.com/McJtyMods/RFToolsBuilder/",
+    "http://github.com/McJtyMods/RFToolsBuilder/issues"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__rftoolsbuilder-1.21-7.0.6.md",
+  "status": "ok",
+  "files": 143,
+  "loc": 20723,
+  "new_gh": "McJtyMods/RFToolsBuilder"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Technici4n/Modern-Industrialization",
+  "title": "Technici4n/Modern-Industrialization",
+  "old_gh": "Technici4n/Modern-Industrialization",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "Modern-Industrialization-2.5.6.jar",
+   "size": 7129076,
+   "modids": [
+    "modern_industrialization"
+   ],
+   "names": [
+    "Modern Industrialization"
+   ],
+   "urls": [
+    "https://github.com/AztechMC/Modern-Industrialization",
+    "https://github.com/AztechMC/Modern-Industrialization/issues"
+   ],
+   "version": "2.5.6"
+  },
+  "card": "All the Mods 10 - ATM10__Modern-Industrialization-2.5.6.md",
+  "status": "ok",
+  "files": 787,
+  "loc": 54866,
+  "new_gh": "AztechMC/Modern-Industrialization"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Ultramega/CableTiers",
+  "title": "Ultramega/CableTiers",
+  "old_gh": "Ultramega/CableTiers",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "cabletiers-neoforge-1.21.1-0.6.14.jar",
+   "size": 1513344,
+   "modids": [
+    "cabletiers"
+   ],
+   "names": [
+    "Cable Tiers"
+   ],
+   "urls": [
+    "https://github.com/starforcraft/Cable-Tiers/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/cable-tiers"
+   ],
+   "version": "1.21.1-0.6.14"
+  },
+  "card": "All the Mods 10 - ATM10__cabletiers-neoforge-1.21.1-0.6.14.md",
+  "status": "ok",
+  "files": 198,
+  "loc": 13621,
+  "new_gh": "starforcraft/Cable-Tiers"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Buuz135/Functional-Storage",
+  "title": "Buuz135/Functional-Storage",
+  "old_gh": "Buuz135/Functional-Storage",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "functionalstorage-1.21.1-1.5.8.jar",
+   "size": 810628,
+   "modids": [
+    "functionalstorage"
+   ],
+   "names": [
+    "Functional Storage"
+   ],
+   "urls": [],
+   "version": "${file.jarVersion}"
+  },
+  "card": "All the Mods 10 - ATM10__functionalstorage-1.21.1-1.5.8.md",
+  "status": "ok",
+  "files": 127,
+  "loc": 13963
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Propulsion-Team/create-propulsion-simulated",
+  "title": "Propulsion-Team/create-propulsion-simulated",
+  "old_gh": "Propulsion-Team/create-propulsion-simulated",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[机械动力：推进工程] createpropulsion-1.1.5.jar",
+   "size": 1707765,
+   "modids": [
+    "createpropulsion"
+   ],
+   "names": [
+    "Create Propulsion: Simulated"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/create-propulsion-simulated"
+   ],
+   "version": "1.1.5"
+  },
+  "card": "璇穹之歌__[机械动力：推进工程] createpropulsion-1.1.5.md",
+  "status": "ok",
+  "files": 251,
+  "loc": 28193
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "LOVE-U987/Adaptive-Nemesis",
+  "title": "LOVE-U987/Adaptive-Nemesis",
+  "old_gh": "LOVE-U987/Adaptive-Nemesis",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "自适应宿敌adaptive_nemesis-1.0.16.jar",
+   "size": 589356,
+   "modids": [
+    "adaptive_nemesis"
+   ],
+   "names": [
+    "Adaptive Nemesis"
+   ],
+   "urls": [],
+   "version": "1.0.16"
+  },
+  "card": "璇穹之歌__自适应宿敌adaptive_nemesis-1.0.16.md",
+  "status": "ok",
+  "files": 91,
+  "loc": 12447
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "userenxv/aeronautics-utility-objects",
+  "title": "userenxv/aeronautics-utility-objects",
+  "old_gh": "userenxv/aeronautics-utility-objects",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "液压杆万向节create_aeronautics_transmission_linkage-0.2.7.jar",
+   "size": 733957,
+   "modids": [
+    "aeronautics_utility_objects"
+   ],
+   "names": [
+    "Create Aeronautics: Transmission & Linkage"
+   ],
+   "urls": [],
+   "version": "0.2.7"
+  },
+  "card": "璇穹之歌__液压杆万向节create_aeronautics_transmission_linkage-0.2.7.md",
+  "status": "ok",
+  "files": 99,
+  "loc": 12987
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+  "title": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+   "size": 95250,
+   "modids": [
+    "chefsdelight"
+   ],
+   "names": [
+    "Chefs Delight"
+   ],
+   "urls": [
+    "https://www.redstonegames.com.br/"
+   ],
+   "version": "1.0.5"
+  },
+  "matched_by": "chefsdelight",
+  "card": "璇穹之歌__chefsdelight-1.0.5-neoforge-1.21.1.md",
+  "files": 5,
+  "loc": 276,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "deso配重sable-weighted_createdeco-1.0.2.jar",
+  "title": "deso配重sable-weighted_createdeco-1.0.2.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "createdeco-2.1.3.jar",
+   "size": 3328498,
+   "modids": [
+    "createdeco"
+   ],
+   "names": [
+    "Create Deco"
+   ],
+   "urls": [
+    "https://github.com/talrey/CreateDeco/"
+   ],
+   "version": "2.1.3"
+  },
+  "matched_by": "createdeco",
+  "card": "璇穹之歌__createdeco-2.1.3.md",
+  "files": 48,
+  "loc": 4633,
+  "status": "ok",
+  "new_gh": "talrey/CreateDeco"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "DnT-ancient-city-overhaul-v2 [NeoForge].jar",
+  "title": "DnT-ancient-city-overhaul-v2 [NeoForge].jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "DnT-ancient-city-overhaul-v2 [NeoForge].jar",
+   "size": 945778,
+   "modids": [],
+   "names": [],
+   "urls": [],
+   "version": ""
+  },
+  "matched_by": "overhaul",
+  "card": "璇穹之歌__DnT-ancient-city-overhaul-v2 [NeoForge].md",
+  "files": 0,
+  "loc": 0,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "zfastnoise-1.0.13+1.21.1+neoforge.jar",
+  "title": "zfastnoise-1.0.13+1.21.1+neoforge.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "zfastnoise-1.0.13+1.21.1+neoforge.jar",
+   "size": 39526,
+   "modids": [
+    "zfastnoise"
+   ],
+   "names": [
+    "Fast Noise Mod"
+   ],
+   "urls": [
+    "https://codeberg.org/ZenXArch/FastNoise/issues",
+    "https://modrinth.com/mod/zfastnoise"
+   ],
+   "version": "1.0.13+1.21.1+neoforge"
+  },
+  "matched_by": "zfastnoise",
+  "card": "璇穹之歌__zfastnoise-1.0.13+1.21.1+neoforge.md",
+  "files": 12,
+  "loc": 874,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "伪装板配重aerocopycats-1.1.1.jar",
+  "title": "伪装板配重aerocopycats-1.1.1.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "伪装板配重aerocopycats-1.1.1.jar",
+   "size": 14702,
+   "modids": [
+    "aerocopycats"
+   ],
+   "names": [
+    "aero_copycats"
+   ],
+   "urls": [],
+   "version": "1.1.0"
+  },
+  "matched_by": "aerocopycats",
+  "card": "璇穹之歌__伪装板配重aerocopycats-1.1.1.md",
+  "files": 2,
+  "loc": 72,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "创作零碎物品前置azimuth-1.4.7.jar",
+  "title": "创作零碎物品前置azimuth-1.4.7.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "创作零碎物品前置azimuth-1.4.7.jar",
+   "size": 142951,
+   "modids": [
+    "azimuth"
+   ],
+   "names": [
+    "Azimuth"
+   ],
+   "urls": [],
+   "version": "1.4.7"
+  },
+  "matched_by": "azimuth",
+  "card": "璇穹之歌__创作零碎物品前置azimuth-1.4.7.md",
+  "files": 67,
+  "loc": 4109,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "创作零碎物品前置struts-1.3.0.jar",
+  "title": "创作零碎物品前置struts-1.3.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "创作零碎物品前置struts-1.3.0.jar",
+   "size": 215558,
+   "modids": [
+    "struts"
+   ],
+   "names": [
+    "Strut Your Stuff"
+   ],
+   "urls": [],
+   "version": "1.3.0"
+  },
+  "matched_by": "struts",
+  "card": "璇穹之歌__创作零碎物品前置struts-1.3.0.md",
+  "files": 59,
+  "loc": 6050,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "机动神化apokinetics-1.0.5.jar",
+  "title": "机动神化apokinetics-1.0.5.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "机动神化apokinetics-1.0.5.jar",
+   "size": 1301047,
+   "modids": [
+    "apokinetics"
+   ],
+   "names": [
+    "Apokinetics"
+   ],
+   "urls": [],
+   "version": "1.0.5"
+  },
+  "matched_by": "apokinetics",
+  "card": "璇穹之歌__机动神化apokinetics-1.0.5.md",
+  "files": 172,
+  "loc": 24810,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "机动资源精炼Resourceful Refinement v0.2.2.jar",
+  "title": "机动资源精炼Resourceful Refinement v0.2.2.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+   "size": 341009,
+   "modids": [
+    "resourcefulconfig"
+   ],
+   "names": [
+    "Resourcefulconfig"
+   ],
+   "urls": [
+    "https://github.com/Team-Resourceful/Resourceful-Config/issues"
+   ],
+   "version": "3.0.11"
+  },
+  "matched_by": "resourceful",
+  "card": "璇穹之歌__resourcefulconfig-neoforge-1.21-3.0.11.md",
+  "files": 139,
+  "loc": 9345,
+  "status": "ok",
+  "new_gh": "Team-Resourceful/Resourceful-Config"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "零碎履带bits_n_tracks-1.0.3.1-release.jar",
+  "title": "零碎履带bits_n_tracks-1.0.3.1-release.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "履带tracks-neoforge-1.21.1-1.0.1.jar",
+   "size": 166455,
+   "modids": [
+    "tracks"
+   ],
+   "names": [
+    "Create Tracks"
+   ],
+   "urls": [],
+   "version": "1.0.1"
+  },
+  "matched_by": "tracks",
+  "card": "璇穹之歌__履带tracks-neoforge-1.21.1-1.0.1.md",
+  "files": 29,
+  "loc": 3510,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "biggerbetterendcities-1.21.1-1.0.0.jar",
+  "title": "biggerbetterendcities-1.21.1-1.0.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "biggerbetterendcities-1.21.1-1.0.0.jar",
+   "size": 22857,
+   "modids": [
+    "biggerbetterendcities"
+   ],
+   "names": [
+    "BiggerBetterEndCities"
+   ],
+   "urls": [],
+   "version": "1.21.1-1.0.0"
+  },
+  "matched_by": "biggerbetterendcities",
+  "card": "璇穹之歌__biggerbetterendcities-1.21.1-1.0.0.md",
+  "files": 4,
+  "loc": 503,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "fasttag-1.21.1-26.1-neoforge.jar",
+  "title": "fasttag-1.21.1-26.1-neoforge.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "fasttag-1.21.1-26.1-neoforge.jar",
+   "size": 8970,
+   "modids": [
+    "fasttag"
+   ],
+   "names": [
+    "Fast Tag"
+   ],
+   "urls": [],
+   "version": "1.21.1-26.1-neoforge"
+  },
+  "matched_by": "fasttag",
+  "card": "璇穹之歌__fasttag-1.21.1-26.1-neoforge.md",
+  "files": 4,
+  "loc": 232,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "ftb任务增强quest_enhance-1.21.1-neoforge-3.8.jar",
+  "title": "ftb任务增强quest_enhance-1.21.1-neoforge-3.8.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[FTB 任务] ftb-quests-neoforge-2101.1.34.jar",
+   "size": 1609252,
+   "modids": [
+    "ftbquests"
+   ],
+   "names": [
+    "FTB Quests"
+   ],
+   "urls": [
+    "https://github.com/FTBTeam/FTB-Mods-Issues/issues"
+   ],
+   "version": "2101.1.34"
+  },
+  "matched_by": "ftbquest",
+  "card": "璇穹之歌__[FTB 任务] ftb-quests-neoforge-2101.1.34.md",
+  "files": 339,
+  "loc": 35253,
+  "status": "ok",
+  "new_gh": "FTBTeam/FTB-Mods-Issues"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "kubejstweaks-1.0.6.jar",
+  "title": "kubejstweaks-1.0.6.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "kubejstweaks-1.0.6.jar",
+   "size": 421764,
+   "modids": [
+    "kubejstweaks"
+   ],
+   "names": [
+    "KubeJS Tweaks"
+   ],
+   "urls": [],
+   "version": "1.0.6"
+  },
+  "matched_by": "kubejstweaks",
+  "card": "璇穹之歌__kubejstweaks-1.0.6.md",
+  "files": 99,
+  "loc": 5688,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "kubejs_curios_neoforge_1.21.1-1.0.4.jar",
+  "title": "kubejs_curios_neoforge_1.21.1-1.0.4.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "kubejs-neoforge-2101.7.2-build.368.jar",
+   "size": 2281720,
+   "modids": [
+    "kubejs"
+   ],
+   "names": [
+    "KubeJS"
+   ],
+   "urls": [
+    "https://kubejs.com",
+    "https://kubejs.com/support?source=kubejs&mc=2101&loader=neoforge"
+   ],
+   "version": "2101.7.2-build.368"
+  },
+  "matched_by": "kubejs",
+  "card": "璇穹之歌__kubejs-neoforge-2101.7.2-build.368.md",
+  "files": 873,
+  "loc": 65783,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "powerful_dummy-21-0.0.9-hotfix.jar",
+  "title": "powerful_dummy-21-0.0.9-hotfix.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "powerful_dummy-21-0.0.9-hotfix.jar",
+   "size": 136609,
+   "modids": [
+    "powerful_dummy"
+   ],
+   "names": [
+    "Powerful Dummy"
+   ],
+   "urls": [],
+   "version": "21-0.0.9-hotfix"
+  },
+  "matched_by": "powerful",
+  "card": "璇穹之歌__powerful_dummy-21-0.0.9-hotfix.md",
+  "files": 51,
+  "loc": 3578,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[Wan的远古异兽] wan_ancient_beasts-neoforge_1.21.1_1.4.3.jar",
+  "title": "[Wan的远古异兽] wan_ancient_beasts-neoforge_1.21.1_1.4.3.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "DnT-ancient-city-overhaul-v2 [NeoForge].jar",
+   "size": 945778,
+   "modids": [],
+   "names": [],
+   "urls": [],
+   "version": ""
+  },
+  "matched_by": "ancient",
+  "card": "璇穹之歌__DnT-ancient-city-overhaul-v2 [NeoForge].md",
+  "files": 0,
+  "loc": 0,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar",
+  "title": "[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar",
+   "size": 4455,
+   "modids": [
+    "oworld2create"
+   ],
+   "names": [
+    "0World2Create"
+   ],
+   "urls": [],
+   "version": "1.0.0"
+  },
+  "matched_by": "0world2create",
+  "card": "璇穹之歌__[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.md",
+  "files": 1,
+  "loc": 20,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[北极星市场方块] polaristrading-1.21.1neoforge-1.0beta.jar",
+  "title": "[北极星市场方块] polaristrading-1.21.1neoforge-1.0beta.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[北极星市场方块] polaristrading-1.21.1neoforge-1.0beta.jar",
+   "size": 162287,
+   "modids": [
+    "polaristrading"
+   ],
+   "names": [
+    "Example Mod"
+   ],
+   "urls": [],
+   "version": "1.18.0"
+  },
+  "matched_by": "polaristrading",
+  "card": "璇穹之歌__[北极星市场方块] polaristrading-1.21.1neoforge-1.0beta.md",
+  "files": 13,
+  "loc": 1763,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[工业平台] Industrial Platform-1.21.1-1.8.0.jar",
+  "title": "[工业平台] Industrial Platform-1.21.1-1.8.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[工业平台] Industrial Platform-1.21.1-1.8.0.jar",
+   "size": 104213,
+   "modids": [
+    "industrial_platform"
+   ],
+   "names": [
+    "Industrial Platform"
+   ],
+   "urls": [],
+   "version": "1.8.0"
+  },
+  "matched_by": "industrial",
+  "card": "璇穹之歌__[工业平台] Industrial Platform-1.21.1-1.8.0.md",
+  "files": 36,
+  "loc": 1620,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[暮色创世] tfremastered-1.0.0.jar",
+  "title": "[暮色创世] tfremastered-1.0.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[暮色创世] tfremastered-1.0.0.jar",
+   "size": 9323,
+   "modids": [
+    "tfremastered"
+   ],
+   "names": [
+    "TF Remastered"
+   ],
+   "urls": [],
+   "version": "1.0.0"
+  },
+  "matched_by": "tfremastered",
+  "card": "璇穹之歌__[暮色创世] tfremastered-1.0.0.md",
+  "files": 4,
+  "loc": 186,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[暮色风味乐事] twilightdelight-3.2.2.jar",
+  "title": "[暮色风味乐事] twilightdelight-3.2.2.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[暮色风味乐事] twilightdelight-3.2.2.jar",
+   "size": 1340378,
+   "modids": [
+    "twilightdelight"
+   ],
+   "names": [
+    "Twilight Flavors & Delight"
+   ],
+   "urls": [],
+   "version": "3.2.2"
+  },
+  "matched_by": "twilightdelight",
+  "card": "璇穹之歌__[暮色风味乐事] twilightdelight-3.2.2.md",
+  "files": 85,
+  "loc": 4002,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[机械动力火炮：增强型弹药] CBCmoreshells-1.2.3.jar",
+  "title": "[机械动力火炮：增强型弹药] CBCmoreshells-1.2.3.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[机械动力火炮：增强型弹药] CBCmoreshells-1.2.3.jar",
+   "size": 2081659,
+   "modids": [
+    "cbc_enhanced_shells"
+   ],
+   "names": [
+    "CBC Enhanced Shells"
+   ],
+   "urls": [],
+   "version": "1.2.3"
+  },
+  "matched_by": "cbcmoreshells",
+  "card": "璇穹之歌__[机械动力火炮：增强型弹药] CBCmoreshells-1.2.3.md",
+  "files": 72,
+  "loc": 8247,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[机械动力：臂力臂力炒菜] create_cuisine-1.0.0-mc1.21.1-neoforge.jar",
+  "title": "[机械动力：臂力臂力炒菜] create_cuisine-1.0.0-mc1.21.1-neoforge.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "create-1.21.1-6.0.10.jar",
+   "size": 19123767,
+   "modids": [
+    "create"
+   ],
+   "names": [
+    "Create"
+   ],
+   "urls": [
+    "https://github.com/Creators-of-Create/Create/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/create"
+   ],
+   "version": "6.0.10"
+  },
+  "matched_by": "create",
+  "card": "璇穹之歌__create-1.21.1-6.0.10.md",
+  "files": 2017,
+  "loc": 241829,
+  "status": "ok",
+  "new_gh": "Creators-of-Create/Create"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "[灾变：维度] cataclysm_dimension-neoforge1.21.1-1.7.0.jar",
+  "title": "[灾变：维度] cataclysm_dimension-neoforge1.21.1-1.7.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "L_Ender's Cataclysm 1.21.1-3.32.jar",
+   "size": 73362730,
+   "modids": [
+    "cataclysm"
+   ],
+   "names": [
+    "L_Ender's Cataclysm 1.21.1"
+   ],
+   "urls": [],
+   "version": "3.32"
+  },
+  "matched_by": "cataclysm",
+  "card": "璇穹之歌__L_Ender's Cataclysm 1.21.1-3.32.md",
+  "files": 839,
+  "loc": 116174,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "可调帆copycat_aeronautics_sails-0.1.18.jar",
+  "title": "可调帆copycat_aeronautics_sails-0.1.18.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[机械动力航空学：工具枪] create_aeronautics_toolgun-0.3.6.jar",
+   "size": 1353291,
+   "modids": [
+    "create_aeronautics_toolgun"
+   ],
+   "names": [
+    "Create Aeronautics: Toolgun"
+   ],
+   "urls": [],
+   "version": "0.3.6"
+  },
+  "matched_by": "aeronautics",
+  "card": "璇穹之歌__[机械动力航空学：工具枪] create_aeronautics_toolgun-0.3.6.md",
+  "files": 316,
+  "loc": 34949,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "地图看到物理装置sable_xaero_bridge-0.1.11.jar",
+  "title": "地图看到物理装置sable_xaero_bridge-0.1.11.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "航空前置sable-neoforge-1.21.1-2.0.3.jar",
+   "size": 12889000,
+   "modids": [
+    "sable"
+   ],
+   "names": [
+    "Sable"
+   ],
+   "urls": [
+    "https://github.com/ryanhcode/sable/issues"
+   ],
+   "version": "2.0.3"
+  },
+  "matched_by": "sable",
+  "card": "璇穹之歌__航空前置sable-neoforge-1.21.1-2.0.3.md",
+  "files": 720,
+  "loc": 47422,
+  "status": "ok",
+  "new_gh": "ryanhcode/sable"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "局部天气断联漏洞修补weather2patch-1.1.1.jar",
+  "title": "局部天气断联漏洞修补weather2patch-1.1.1.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "局部天气断联漏洞修补weather2patch-1.1.1.jar",
+   "size": 3426,
+   "modids": [
+    "weather2patch"
+   ],
+   "names": [
+    "Weather2 Patch"
+   ],
+   "urls": [],
+   "version": "1.1.1"
+  },
+  "matched_by": "weather2patch",
+  "card": "璇穹之歌__局部天气断联漏洞修补weather2patch-1.1.1.md",
+  "files": 1,
+  "loc": 61,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "帕斯特san值pasterdreamsanity-0.9.0.jar",
+  "title": "帕斯特san值pasterdreamsanity-0.9.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "帕斯特san值pasterdreamsanity-0.9.0.jar",
+   "size": 22347,
+   "modids": [
+    "pasterdreamsanity"
+   ],
+   "names": [
+    "PasterDreamSanity"
+   ],
+   "urls": [],
+   "version": "0.9.0"
+  },
+  "matched_by": "sanpasterdreamsanity",
+  "card": "璇穹之歌__帕斯特san值pasterdreamsanity-0.9.0.md",
+  "files": 6,
+  "loc": 514,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "帕斯特法术pasterdreamspells-0.9.0.jar",
+  "title": "帕斯特法术pasterdreamspells-0.9.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "帕斯特法术pasterdreamspells-0.9.0.jar",
+   "size": 366415,
+   "modids": [
+    "pasterdreamspells"
+   ],
+   "names": [
+    "PasterDreamSpells"
+   ],
+   "urls": [],
+   "version": "0.9.0"
+  },
+  "matched_by": "pasterdreamspells",
+  "card": "璇穹之歌__帕斯特法术pasterdreamspells-0.9.0.md",
+  "files": 24,
+  "loc": 1299,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "帕斯特融梦能量pasterdreammeltdream-0.9.6.jar",
+  "title": "帕斯特融梦能量pasterdreammeltdream-0.9.6.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "帕斯特融梦能量pasterdreammeltdream-0.9.6.jar",
+   "size": 14522,
+   "modids": [
+    "pasterdreammeltdream"
+   ],
+   "names": [
+    "PasterDreamMeltDream"
+   ],
+   "urls": [],
+   "version": "0.9.6"
+  },
+  "matched_by": "pasterdreammeltdream",
+  "card": "璇穹之歌__帕斯特融梦能量pasterdreammeltdream-0.9.6.md",
+  "files": 6,
+  "loc": 310,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "拜拜加载byepregen-1.21.1-1.1.2.1.jar",
+  "title": "拜拜加载byepregen-1.21.1-1.1.2.1.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "拜拜加载byepregen-1.21.1-1.1.2.1.jar",
+   "size": 889377,
+   "modids": [
+    "byepregen"
+   ],
+   "names": [
+    "ByePregen"
+   ],
+   "urls": [],
+   "version": "1.1.2.1"
+  },
+  "matched_by": "byepregen",
+  "card": "璇穹之歌__拜拜加载byepregen-1.21.1-1.1.2.1.md",
+  "files": 338,
+  "loc": 29122,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "服务器监控serverwarashi-1.21.1-2.1.0.1.jar",
+  "title": "服务器监控serverwarashi-1.21.1-2.1.0.1.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "服务器监控serverwarashi-1.21.1-2.1.0.1.jar",
+   "size": 895902,
+   "modids": [
+    "serverwarashi"
+   ],
+   "names": [
+    "ServerWarashi"
+   ],
+   "urls": [],
+   "version": "2.1.0.1"
+  },
+  "matched_by": "serverwarashi",
+  "card": "璇穹之歌__服务器监控serverwarashi-1.21.1-2.1.0.1.md",
+  "files": 205,
+  "loc": 18589,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "潮汐乐事tidesdelight-1.21.1-1.2.0-neoforge.jar",
+  "title": "潮汐乐事tidesdelight-1.21.1-1.2.0-neoforge.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "潮汐乐事tidesdelight-1.21.1-1.2.0-neoforge.jar",
+   "size": 60895,
+   "modids": [
+    "tidesdelight"
+   ],
+   "names": [
+    "Tide's Delight"
+   ],
+   "urls": [],
+   "version": "1.2.0"
+  },
+  "matched_by": "tidesdelight",
+  "card": "璇穹之歌__潮汐乐事tidesdelight-1.21.1-1.2.0-neoforge.md",
+  "files": 11,
+  "loc": 381,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "烧烤乐事barbequesdelight-1.3.0.jar",
+  "title": "烧烤乐事barbequesdelight-1.3.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "烧烤乐事barbequesdelight-1.3.0.jar",
+   "size": 847092,
+   "modids": [
+    "barbequesdelight"
+   ],
+   "names": [
+    "Barbeque's Delight"
+   ],
+   "urls": [],
+   "version": "1.3.0"
+  },
+  "matched_by": "barbequesdelight",
+  "card": "璇穹之歌__烧烤乐事barbequesdelight-1.3.0.md",
+  "files": 60,
+  "loc": 2924,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "线缆控制drivebywire-0.3.0.jar",
+  "title": "线缆控制drivebywire-0.3.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "线缆控制drivebywire-0.3.0.jar",
+   "size": 273144,
+   "modids": [
+    "drivebywire"
+   ],
+   "names": [
+    "Drive By Wire"
+   ],
+   "urls": [],
+   "version": "0.3.0"
+  },
+  "matched_by": "drivebywire",
+  "card": "璇穹之歌__线缆控制drivebywire-0.3.0.md",
+  "files": 53,
+  "loc": 3472,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "老吴学create-meowchanics-1.1.6-neoforge-1.21.1.jar",
+  "title": "老吴学create-meowchanics-1.1.6-neoforge-1.21.1.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "create-1.21.1-6.0.10.jar",
+   "size": 19123767,
+   "modids": [
+    "create"
+   ],
+   "names": [
+    "Create"
+   ],
+   "urls": [
+    "https://github.com/Creators-of-Create/Create/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/create"
+   ],
+   "version": "6.0.10"
+  },
+  "matched_by": "create",
+  "card": "璇穹之歌__create-1.21.1-6.0.10.md",
+  "files": 1333,
+  "loc": 173752,
+  "status": "ok",
+  "new_gh": "Creators-of-Create/Create"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "防止踩坏农田notrample-1.21.1-1.0.1.jar",
+  "title": "防止踩坏农田notrample-1.21.1-1.0.1.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "防止踩坏农田notrample-1.21.1-1.0.1.jar",
+   "size": 6243,
+   "modids": [
+    "notrample"
+   ],
+   "names": [
+    "No Trample"
+   ],
+   "urls": [],
+   "version": "1.21.1-1.0.1"
+  },
+  "matched_by": "notrample",
+  "card": "璇穹之歌__防止踩坏农田notrample-1.21.1-1.0.1.md",
+  "files": 3,
+  "loc": 72,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "附魔轮廓enchanted_outlines-0.1.8.jar",
+  "title": "附魔轮廓enchanted_outlines-0.1.8.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "附魔轮廓enchanted_outlines-0.1.8.jar",
+   "size": 104632,
+   "modids": [
+    "enchanted_outlines"
+   ],
+   "names": [
+    "Enchanted Outlines"
+   ],
+   "urls": [],
+   "version": "0.1.8"
+  },
+  "matched_by": "enchanted",
+  "card": "璇穹之歌__附魔轮廓enchanted_outlines-0.1.8.md",
+  "files": 16,
+  "loc": 3889,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "modern_glass_doors-1.1.0-1.20.1.jar",
+  "title": "modern_glass_doors-1.1.0-1.20.1.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[现代化修复] modernfix-forge-5.27.77+mc1.20.1.jar",
+   "size": 1001858,
+   "modids": [
+    "modernfix"
+   ],
+   "names": [
+    "ModernFix"
+   ],
+   "urls": [
+    "https://github.com/embeddedt/ModernFix/issues",
+    "https://modrinth.com/mod/modernfix"
+   ],
+   "version": "5.27.77+mc1.20.1"
+  },
+  "matched_by": "modern",
+  "card": "[FIDR]暗涌：深岩恐惧__[现代化修复] modernfix-forge-5.27.77+mc1.20.1.md",
+  "files": 333,
+  "loc": 19454,
+  "status": "ok",
+  "new_gh": "embeddedt/ModernFix"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "alexsdelight-1.5.jar",
+  "title": "alexsdelight-1.5.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "alexsdelight-1.5.jar",
+   "size": 55398,
+   "modids": [
+    "alexsdelight"
+   ],
+   "names": [
+    "Alex's Delight"
+   ],
+   "urls": [],
+   "version": "1.5"
+  },
+  "matched_by": "alexsdelight",
+  "card": "[FIDR]暗涌：深岩恐惧__alexsdelight-1.5.md",
+  "files": 3,
+  "loc": 161,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "caveore-1.20.1-4.0.jar",
+  "title": "caveore-1.20.1-4.0.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "caveore-1.20.1-4.0.jar",
+   "size": 16008,
+   "modids": [
+    "caveore"
+   ],
+   "names": [
+    "CaveOre Mod"
+   ],
+   "urls": [
+    "http://my.issue.tracker/"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "matched_by": "caveore",
+  "card": "[FIDR]暗涌：深岩恐惧__caveore-1.20.1-4.0.md",
+  "files": 5,
+  "loc": 247,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "Engineers Delight 1.20.1 B.1.4.jar",
+  "title": "Engineers Delight 1.20.1 B.1.4.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "Engineers Delight 1.20.1 B.1.4.jar",
+   "size": 142507,
+   "modids": [
+    "tmted"
+   ],
+   "names": [
+    "Engineers Delight"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/engineers-delight"
+   ],
+   "version": "1.0.4"
+  },
+  "matched_by": "engineers",
+  "card": "[FIDR]暗涌：深岩恐惧__Engineers Delight 1.20.1 B.1.4.md",
+  "files": 22,
+  "loc": 799,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "fastboot-1.20.x-1.2.jar",
+  "title": "fastboot-1.20.x-1.2.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "fastboot-1.20.x-1.2.jar",
+   "size": 24477,
+   "modids": [
+    "fastboot"
+   ],
+   "names": [
+    "FastBoot"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/fastboot"
+   ],
+   "version": "1.2"
+  },
+  "matched_by": "fastboot",
+  "card": "[FIDR]暗涌：深岩恐惧__fastboot-1.20.x-1.2.md",
+  "files": 3,
+  "loc": 55,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "fdcookbook-1.20.1-forge-1.6.1-rel.jar",
+  "title": "fdcookbook-1.20.1-forge-1.6.1-rel.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "fdcookbook-1.20.1-forge-1.6.1-rel.jar",
+   "size": 2926213,
+   "modids": [
+    "fdcookbook"
+   ],
+   "names": [
+    "Farmer's Delight CookBook Reforge"
+   ],
+   "urls": [],
+   "version": "1.6.1-rel"
+  },
+  "matched_by": "fdcookbook",
+  "card": "[FIDR]暗涌：深岩恐惧__fdcookbook-1.20.1-forge-1.6.1-rel.md",
+  "files": 27,
+  "loc": 1386,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "ItemRarity-1.20.1-forge-1.2.0.jar",
+  "title": "ItemRarity-1.20.1-forge-1.2.0.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "ItemRarity-1.20.1-forge-1.2.0.jar",
+   "size": 354358,
+   "modids": [
+    "item_rarity"
+   ],
+   "names": [
+    "万象棱镜 | Item Rarity"
+   ],
+   "urls": [],
+   "version": "1.2.0"
+  },
+  "matched_by": "itemrarity",
+  "card": "[FIDR]暗涌：深岩恐惧__ItemRarity-1.20.1-forge-1.2.0.md",
+  "files": 38,
+  "loc": 2260,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "lookinmyeyes-1.20.1-1.4.6.jar",
+  "title": "lookinmyeyes-1.20.1-1.4.6.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "lookinmyeyes-1.20.1-1.4.6.jar",
+   "size": 8839,
+   "modids": [
+    "lookinmyeyes"
+   ],
+   "names": [
+    "LookInMyEyes"
+   ],
+   "urls": [],
+   "version": "1.20.1-1.4.6"
+  },
+  "matched_by": "lookinmyeyes",
+  "card": "[FIDR]暗涌：深岩恐惧__lookinmyeyes-1.20.1-1.4.6.md",
+  "files": 1,
+  "loc": 210,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "lunarnether-1.0.3-all.jar",
+  "title": "lunarnether-1.0.3-all.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "lunarnether-1.0.3-all.jar",
+   "size": 612541,
+   "modids": [
+    "lunarnether"
+   ],
+   "names": [
+    "Lunar Nether"
+   ],
+   "urls": [],
+   "version": "1.0.3"
+  },
+  "matched_by": "lunarnether",
+  "card": "[FIDR]暗涌：深岩恐惧__lunarnether-1.0.3-all.md",
+  "files": 46,
+  "loc": 2306,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "Shoppy-1.20.1-FORGE-1.1.1-all.jar",
+  "title": "Shoppy-1.20.1-FORGE-1.1.1-all.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "Shoppy-1.20.1-FORGE-1.1.1-all.jar",
+   "size": 159856,
+   "modids": [
+    "shoppy"
+   ],
+   "names": [
+    "Shoppy"
+   ],
+   "urls": [
+    "https://discord.gg/GZjtAn3F6W"
+   ],
+   "version": "1.0.5"
+  },
+  "matched_by": "shoppy",
+  "card": "[FIDR]暗涌：深岩恐惧__Shoppy-1.20.1-FORGE-1.1.1-all.md",
+  "files": 35,
+  "loc": 3181,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "sisser-1.10.jar",
+  "title": "sisser-1.10.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "sisser-1.10.jar",
+   "size": 173533,
+   "modids": [
+    "sisser"
+   ],
+   "names": [
+    "Sisser"
+   ],
+   "urls": [],
+   "version": "1.10"
+  },
+  "matched_by": "sisser",
+  "card": "[FIDR]暗涌：深岩恐惧__sisser-1.10.md",
+  "files": 3,
+  "loc": 88,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[Csgo 箱子] csgobox-1.0.jar",
+  "title": "[Csgo 箱子] csgobox-1.0.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[Csgo 箱子] csgobox-1.0.jar",
+   "size": 659074,
+   "modids": [
+    "csgobox"
+   ],
+   "names": [
+    "CsgoBox"
+   ],
+   "urls": [],
+   "version": "1.0-SNAPSHOT"
+  },
+  "matched_by": "csgobox",
+  "card": "[FIDR]暗涌：深岩恐惧__[Csgo 箱子] csgobox-1.0.md",
+  "files": 34,
+  "loc": 3330,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[不同寻常的末地] unusualend-2.3.1d.jar",
+  "title": "[不同寻常的末地] unusualend-2.3.1d.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[不同寻常的末地] unusualend-2.3.1d.jar",
+   "size": 20043102,
+   "modids": [
+    "unusualend"
+   ],
+   "names": [
+    "Unusual End"
+   ],
+   "urls": [
+    "https://www.curseforge.com/members/sweetygamer/projects"
+   ],
+   "version": "2.3.1.2"
+  },
+  "matched_by": "unusualend",
+  "card": "[FIDR]暗涌：深岩恐惧__[不同寻常的末地] unusualend-2.3.1d.md",
+  "files": 728,
+  "loc": 51871,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[任务拓展] questsadditions-1.4.7.jar",
+  "title": "[任务拓展] questsadditions-1.4.7.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[任务拓展] questsadditions-1.4.7.jar",
+   "size": 112015,
+   "modids": [
+    "questsadditions"
+   ],
+   "names": [
+    "Quests Additions"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/quests-additions"
+   ],
+   "version": "${file.jarVersion}"
+  },
+  "matched_by": "questsadditions",
+  "card": "[FIDR]暗涌：深岩恐惧__[任务拓展] questsadditions-1.4.7.md",
+  "files": 39,
+  "loc": 3472,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar",
+  "title": "[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar",
+   "size": 1210290,
+   "modids": [
+    "sona"
+   ],
+   "names": [
+    "Sona Survival 101"
+   ],
+   "urls": [],
+   "version": "1.5.1"
+  },
+  "matched_by": "sona",
+  "card": "[FIDR]暗涌：深岩恐惧__[唢呐生存指南] Sona-1.20.1-forge-1.5.1.md",
+  "files": 151,
+  "loc": 12149,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[掠夺者的枪] Pillagers Gun-1.20.1-forge-3.2.1.jar",
+  "title": "[掠夺者的枪] Pillagers Gun-1.20.1-forge-3.2.1.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[掠夺者的枪] Pillagers Gun-1.20.1-forge-3.2.1.jar",
+   "size": 721187,
+   "modids": [
+    "pillagers_gun"
+   ],
+   "names": [
+    "Pillager's Gun"
+   ],
+   "urls": [],
+   "version": "3.2.1"
+  },
+  "matched_by": "pillagers",
+  "card": "[FIDR]暗涌：深岩恐惧__[掠夺者的枪] Pillagers Gun-1.20.1-forge-3.2.1.md",
+  "files": 60,
+  "loc": 4153,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[末日生存工具包] Zombie Survival Kit-1.20.1-forge-2.1.8.jar",
+  "title": "[末日生存工具包] Zombie Survival Kit-1.20.1-forge-2.1.8.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[唢呐生存指南] Sona-1.20.1-forge-1.5.1.jar",
+   "size": 1210290,
+   "modids": [
+    "sona"
+   ],
+   "names": [
+    "Sona Survival 101"
+   ],
+   "urls": [],
+   "version": "1.5.1"
+  },
+  "matched_by": "survival",
+  "card": "[FIDR]暗涌：深岩恐惧__[唢呐生存指南] Sona-1.20.1-forge-1.5.1.md",
+  "files": 2,
+  "loc": 48,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[翻箱倒柜]Rummage-1.20.1-forge-1.1.1.jar",
+  "title": "[翻箱倒柜]Rummage-1.20.1-forge-1.1.1.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[翻箱倒柜]Rummage-1.20.1-forge-1.1.1.jar",
+   "size": 964207,
+   "modids": [
+    "rummage"
+   ],
+   "names": [
+    "翻箱倒柜 | Rummage"
+   ],
+   "urls": [],
+   "version": "1.1.1"
+  },
+  "matched_by": "rummage",
+  "card": "[FIDR]暗涌：深岩恐惧__[翻箱倒柜]Rummage-1.20.1-forge-1.1.1.md",
+  "files": 52,
+  "loc": 3491,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[自定义初始装备] CustomStartingGear-1.20-2.0.3.jar",
+  "title": "[自定义初始装备] CustomStartingGear-1.20-2.0.3.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[自定义初始装备] CustomStartingGear-1.20-2.0.3.jar",
+   "size": 22616,
+   "modids": [
+    "customstartinggear"
+   ],
+   "names": [
+    "Custom Starter Gear"
+   ],
+   "urls": [],
+   "version": "2.0.3"
+  },
+  "matched_by": "customstartinggear",
+  "card": "[FIDR]暗涌：深岩恐惧__[自定义初始装备] CustomStartingGear-1.20-2.0.3.md",
+  "files": 6,
+  "loc": 603,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "[鸡尾酒乐事] Cocktails-Delight-1.20.1-Forge-1.3.9.jar",
+  "title": "[鸡尾酒乐事] Cocktails-Delight-1.20.1-Forge-1.3.9.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[鸡尾酒乐事] Cocktails-Delight-1.20.1-Forge-1.3.9.jar",
+   "size": 216377,
+   "modids": [
+    "brewincompatdelight"
+   ],
+   "names": [
+    "Cocktails Delight"
+   ],
+   "urls": [],
+   "version": "1.3.8"
+  },
+  "matched_by": "cocktails",
+  "card": "[FIDR]暗涌：深岩恐惧__[鸡尾酒乐事] Cocktails-Delight-1.20.1-Forge-1.3.9.md",
+  "files": 28,
+  "loc": 1580,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "CodeChicken Lib 1.8.+",
+  "title": "CodeChicken Lib 1.8.+",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "CodeChickenLib-1.21.1-4.6.1.529.jar",
+   "size": 1538382,
+   "modids": [
+    "codechickenlib"
+   ],
+   "names": [
+    "CodeChicken Lib"
+   ],
+   "urls": [
+    "https://github.com/TheCBProject/CodeChickenLib",
+    "https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8"
+   ],
+   "version": "4.6.1.529"
+  },
+  "matched_by": "codechicken",
+  "card": "All the Mods 10 - ATM10__CodeChickenLib-1.21.1-4.6.1.529.md",
+  "files": 355,
+  "loc": 36036,
+  "status": "ok",
+  "new_gh": "TheCBProject/CodeChickenLib"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Pam's HarvestCraft 2 - Crops",
+  "title": "Pam's HarvestCraft 2 - Crops",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar",
+   "size": 1536646,
+   "modids": [
+    "pamhc2crops"
+   ],
+   "names": [
+    "Pam's HarvestCraft - Crops"
+   ],
+   "urls": [],
+   "version": "1.0.9"
+  },
+  "matched_by": "harvestcraft",
+  "card": "All the Mods 10 - ATM10__pamhc2crops-NEOFORGE-1.21.1-1.0.9.md",
+  "files": 24,
+  "loc": 1753,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Extreme sound muffler - (Neo)Forge",
+  "title": "Extreme sound muffler - (Neo)Forge",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ExtremeReactors2-1.21.1-2.4.28.jar",
+   "size": 2554779,
+   "modids": [
+    "bigreactors"
+   ],
+   "names": [
+    "Extreme Reactors"
+   ],
+   "urls": [
+    "https://github.com/ZeroNoRyouki/ExtremeReactors2"
+   ],
+   "version": "1.21.1-2.4.28"
+  },
+  "matched_by": "extreme",
+  "card": "All the Mods 10 - ATM10__ExtremeReactors2-1.21.1-2.4.28.md",
+  "files": 414,
+  "loc": 28447,
+  "status": "ok",
+  "new_gh": "ZeroNoRyouki/ExtremeReactors2"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Pam's HarvestCraft 2 - Trees",
+  "title": "Pam's HarvestCraft 2 - Trees",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar",
+   "size": 1536646,
+   "modids": [
+    "pamhc2crops"
+   ],
+   "names": [
+    "Pam's HarvestCraft - Crops"
+   ],
+   "urls": [],
+   "version": "1.0.9"
+  },
+  "matched_by": "harvestcraft",
+  "card": "All the Mods 10 - ATM10__pamhc2crops-NEOFORGE-1.21.1-1.0.9.md",
+  "files": 24,
+  "loc": 1753,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Pam's HarvestCraft 2 - Food Core",
+  "title": "Pam's HarvestCraft 2 - Food Core",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar",
+   "size": 1536646,
+   "modids": [
+    "pamhc2crops"
+   ],
+   "names": [
+    "Pam's HarvestCraft - Crops"
+   ],
+   "urls": [],
+   "version": "1.0.9"
+  },
+  "matched_by": "harvestcraft",
+  "card": "All the Mods 10 - ATM10__pamhc2crops-NEOFORGE-1.21.1-1.0.9.md",
+  "files": 8,
+  "loc": 476,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Pam's HarvestCraft 2 - Food Extended",
+  "title": "Pam's HarvestCraft 2 - Food Extended",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar",
+   "size": 1536646,
+   "modids": [
+    "pamhc2crops"
+   ],
+   "names": [
+    "Pam's HarvestCraft - Crops"
+   ],
+   "urls": [],
+   "version": "1.0.9"
+  },
+  "matched_by": "harvestcraft",
+  "card": "All the Mods 10 - ATM10__pamhc2crops-NEOFORGE-1.21.1-1.0.9.md",
+  "files": 8,
+  "loc": 476,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "FTB Library (NeoForge)",
+  "title": "FTB Library (NeoForge)",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "Cucumber-1.21.1-8.0.16.jar",
+   "size": 275588,
+   "modids": [
+    "cucumber"
+   ],
+   "names": [
+    "Cucumber Library"
+   ],
+   "urls": [
+    "https://blakesmods.com/cucumber",
+    "https://github.com/BlakeBr0/Cucumber/issues"
+   ],
+   "version": "8.0.16"
+  },
+  "matched_by": "library",
+  "card": "All the Mods 10 - ATM10__Cucumber-1.21.1-8.0.16.md",
+  "files": 115,
+  "loc": 6001,
+  "status": "ok",
+  "new_gh": "BlakeBr0/Cucumber"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "FTB Essentials (Forge & Fabric)",
+  "title": "FTB Essentials (Forge & Fabric)",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ftb-essentials-neoforge-2101.1.10.jar",
+   "size": 217288,
+   "modids": [
+    "ftbessentials"
+   ],
+   "names": [
+    "FTB Essentials"
+   ],
+   "urls": [
+    "https://go.ftb.team/support-mod-issues"
+   ],
+   "version": "2101.1.10"
+  },
+  "matched_by": "essentials",
+  "card": "All the Mods 10 - ATM10__ftb-essentials-neoforge-2101.1.10.md",
+  "files": 68,
+  "loc": 4733,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "When Dungeons Arise - Forge!",
+  "title": "When Dungeons Arise - Forge!",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "DungeonsArise-1.21.1-2.1.68-release.jar",
+   "size": 11842679,
+   "modids": [
+    "dungeons_arise"
+   ],
+   "names": [
+    "When Dungeons Arise"
+   ],
+   "urls": [],
+   "version": "2.1.68"
+  },
+  "matched_by": "dungeons",
+  "card": "All the Mods 10 - ATM10__DungeonsArise-1.21.1-2.1.68-release.md",
+  "files": 4,
+  "loc": 423,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "AE2 Network Analyser",
+  "title": "AE2 Network Analyser",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+   "size": 1686091,
+   "modids": [
+    "ae2netanalyser"
+   ],
+   "names": [
+    "AE2NetworkAnalyzer"
+   ],
+   "urls": [
+    "https://github.com/GlodBlock/ExtendedAE",
+    "https://github.com/GlodBlock/ExtendedAE/issues"
+   ],
+   "version": "1.21-2.1.5-neoforge"
+  },
+  "matched_by": "analyser",
+  "card": "All the Mods 10 - ATM10__AE2NetworkAnalyzer-1.21-2.1.5-neoforge.md",
+  "files": 47,
+  "loc": 3147,
+  "status": "ok",
+  "new_gh": "GlodBlock/ExtendedAE"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Quests Lang Splitter",
+  "title": "Quests Lang Splitter",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "ftbquestslangsplitter-1.0.7.jar",
+   "size": 201642,
+   "modids": [
+    "ftbquestslangsplitter"
+   ],
+   "names": [
+    "FTB Quests Lang Splitter"
+   ],
+   "urls": [],
+   "version": "1.0.7"
+  },
+  "matched_by": "splitter",
+  "card": "All the Mods 10 - ATM10__ftbquestslangsplitter-1.0.7.md",
+  "files": 9,
+  "loc": 690,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Nether Trials & Chambers",
+  "title": "Nether Trials & Chambers",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "HellishTrials-neoforge-1.0.5.jar",
+   "size": 581988,
+   "modids": [
+    "hellish_trials"
+   ],
+   "names": [
+    "Hellish Trials"
+   ],
+   "urls": [],
+   "version": "1.0.5"
+  },
+  "matched_by": "trials",
+  "card": "All the Mods 10 - ATM10__HellishTrials-neoforge-1.0.5.md",
+  "files": 3,
+  "loc": 41,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "StructureOverlapless",
+  "title": "StructureOverlapless",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "overlapless-1.21.1-1.2.0.jar",
+   "size": 16585,
+   "modids": [
+    "overlapless"
+   ],
+   "names": [
+    "Overlapless"
+   ],
+   "urls": [],
+   "version": "1.21.1-1.2.0"
+  },
+  "matched_by": "structureoverlapless",
+  "card": "All the Mods 10 - ATM10__overlapless-1.21.1-1.2.0.md",
+  "files": 7,
+  "loc": 448,
+  "status": "ok"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "a/[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+  "title": "a/[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+   "size": 1422531,
+   "modids": [
+    "xaeroworldmap"
+   ],
+   "names": [
+    "Xaero's World Map"
+   ],
+   "urls": [],
+   "version": "1.45.0"
+  },
+  "matched_by": "xaeroworldmap",
+  "cross_pack": true,
+  "card": "璇穹之歌__xaeroworldmap-neoforge-1.21.1-1.45.0.md",
+  "files": 299,
+  "loc": 34696,
+  "status": "ok"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "a/[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.10.jar",
+  "title": "a/[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.10.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+   "size": 2185409,
+   "modids": [
+    "xaerominimap"
+   ],
+   "names": [
+    "Xaero's Minimap"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/issues"
+   ],
+   "version": "26.4.2"
+  },
+  "matched_by": "xaerominimap",
+  "cross_pack": true,
+  "card": "璇穹之歌__xaerominimap-neoforge-1.21.1-26.4.2.md",
+  "files": 559,
+  "loc": 49026,
+  "status": "ok"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "a/[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+  "title": "a/[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.20.jar",
+   "size": 1457354,
+   "modids": [
+    "inventoryprofilesnext"
+   ],
+   "names": [
+    "Inventory Profiles Next"
+   ],
+   "urls": [
+    "https://github.com/blackd/Inventory-Profiles/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next"
+   ],
+   "version": "1.10.20"
+  },
+  "matched_by": "inventoryprofilesnext",
+  "cross_pack": true,
+  "card": "[FIDR]暗涌：深岩恐惧__[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.20.md",
+  "files": 986,
+  "loc": 69215,
+  "status": "ok",
+  "new_gh": "blackd/Inventory-Profiles"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "a/[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.jar",
+  "title": "a/[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.jar",
+   "size": 11842679,
+   "modids": [
+    "dungeons_arise"
+   ],
+   "names": [
+    "When Dungeons Arise"
+   ],
+   "urls": [],
+   "version": "2.1.68"
+  },
+  "matched_by": "dungeonsarise",
+  "cross_pack": true,
+  "card": "璇穹之歌__[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.md",
+  "files": 4,
+  "loc": 423,
+  "status": "ok"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+  "title": "[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+   "size": 1422531,
+   "modids": [
+    "xaeroworldmap"
+   ],
+   "names": [
+    "Xaero's World Map"
+   ],
+   "urls": [],
+   "version": "1.45.0"
+  },
+  "matched_by": "xaeroworldmap",
+  "cross_pack": true,
+  "card": "璇穹之歌__xaeroworldmap-neoforge-1.21.1-1.45.0.md",
+  "files": 299,
+  "loc": 34696,
+  "status": "ok"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.13.jar",
+  "title": "[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.13.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+   "size": 2185409,
+   "modids": [
+    "xaerominimap"
+   ],
+   "names": [
+    "Xaero's Minimap"
+   ],
+   "urls": [
+    "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/issues"
+   ],
+   "version": "26.4.2"
+  },
+  "matched_by": "xaerominimap",
+  "cross_pack": true,
+  "card": "璇穹之歌__xaerominimap-neoforge-1.21.1-26.4.2.md",
+  "files": 559,
+  "loc": 49026,
+  "status": "ok"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+  "title": "[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.20.jar",
+   "size": 1457354,
+   "modids": [
+    "inventoryprofilesnext"
+   ],
+   "names": [
+    "Inventory Profiles Next"
+   ],
+   "urls": [
+    "https://github.com/blackd/Inventory-Profiles/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next"
+   ],
+   "version": "1.10.20"
+  },
+  "matched_by": "inventoryprofilesnext",
+  "cross_pack": true,
+  "card": "[FIDR]暗涌：深岩恐惧__[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.20.md",
+  "files": 986,
+  "loc": 69215,
+  "status": "ok",
+  "new_gh": "blackd/Inventory-Profiles"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "[机械动力：实用物件] create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+  "title": "[机械动力：实用物件] create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "create-1.21.1-6.0.10.jar",
+   "size": 19123767,
+   "modids": [
+    "create"
+   ],
+   "names": [
+    "Create"
+   ],
+   "urls": [
+    "https://github.com/Creators-of-Create/Create/issues",
+    "https://www.curseforge.com/minecraft/mc-mods/create"
+   ],
+   "version": "6.0.10"
+  },
+  "matched_by": "create",
+  "cross_pack": true,
+  "card": "璇穹之歌__create-1.21.1-6.0.10.md",
+  "files": 2017,
+  "loc": 241829,
+  "status": "ok",
+  "new_gh": "Creators-of-Create/Create"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.4.jar",
+  "title": "gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.4.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[永恒枪械工坊：零] tacz-1.20.1-1.1.8-hotfix.jar",
+   "size": 57465167,
+   "modids": [
+    "tacz"
+   ],
+   "names": [
+    "Timeless & Classics Guns: Zero"
+   ],
+   "urls": [],
+   "version": "${file.jarVersion}"
+  },
+  "matched_by": "tacz1",
+  "cross_pack": true,
+  "card": "[FIDR]暗涌：深岩恐惧__[永恒枪械工坊：零] tacz-1.20.1-1.1.8-hotfix.md",
+  "files": 652,
+  "loc": 53824,
+  "status": "ok"
+ },
+ {
+  "pack": "星轨重铸",
+  "name": "tacz_c-1.0.2+neoforge.1.21.1.jar",
+  "title": "tacz_c-1.0.2+neoforge.1.21.1.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "[永恒枪械工坊：零] tacz-1.20.1-1.1.8-hotfix.jar",
+   "size": 57465167,
+   "modids": [
+    "tacz"
+   ],
+   "names": [
+    "Timeless & Classics Guns: Zero"
+   ],
+   "urls": [],
+   "version": "${file.jarVersion}"
+  },
+  "matched_by": "tacz",
+  "cross_pack": true,
+  "card": "[FIDR]暗涌：深岩恐惧__[永恒枪械工坊：零] tacz-1.20.1-1.1.8-hotfix.md",
+  "files": 652,
+  "loc": 53824,
+  "status": "ok"
+ },
+ {
+  "pack": "璇穹之歌",
+  "name": "atlas_api-1.21.1-1.2.0.jar",
+  "title": "atlas_api-1.21.1-1.2.0.jar",
+  "local": {
+   "pack": "璇穹之歌",
+   "jar": "atlas_api-1.21.1-1.2.0.jar",
+   "size": 28419,
+   "modids": [
+    "atlas_api"
+   ],
+   "names": [
+    "Atlas API"
+   ],
+   "urls": [],
+   "version": "1.21.1-1.2.0"
+  },
+  "matched_by": "atlas",
+  "cross_pack": false,
+  "card": "璇穹之歌__atlas_api-1.21.1-1.2.0.md",
+  "files": 10,
+  "loc": 591,
+  "status": "ok"
+ },
+ {
+  "pack": "[FIDR]暗涌：深岩恐惧",
+  "name": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
+  "title": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
+  "local": {
+   "pack": "[FIDR]暗涌：深岩恐惧",
+   "jar": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
+   "size": 201963,
+   "modids": [
+    "questkilltask"
+   ],
+   "names": [
+    "Quest Kill Task"
+   ],
+   "urls": [],
+   "version": "0.2.0+1.20.1-forge"
+  },
+  "matched_by": "quest",
+  "cross_pack": false,
+  "card": "[FIDR]暗涌：深岩恐惧__Quest Kill Task-0.2.0+1.20.1-forge.md",
+  "files": 10,
+  "loc": 492,
+  "status": "ok"
+ },
+ {
+  "pack": "All the Mods 10 - ATM10",
+  "name": "Clean Swing Through Grass",
+  "title": "Clean Swing Through Grass",
+  "local": {
+   "pack": "All the Mods 10 - ATM10",
+   "jar": "cleanswing-1.9.jar",
+   "size": 8449,
+   "modids": [
+    "cleanswing"
+   ],
+   "names": [
+    "Clean Swing"
+   ],
+   "urls": [],
+   "version": "1.9"
+  },
+  "matched_by": "clean",
+  "cross_pack": false,
+  "card": "All the Mods 10 - ATM10__cleanswing-1.9.md",
+  "files": 1,
+  "loc": 55,
+  "status": "ok"
+ }
+]

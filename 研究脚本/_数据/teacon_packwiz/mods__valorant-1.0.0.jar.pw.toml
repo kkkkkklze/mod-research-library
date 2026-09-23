@@ -1,0 +1,13 @@
+name = "Valorant"
+filename = "valorant-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-valorant/valorant-9.jar"
+hash-format = "sha256"
+hash = "0cc3b4caede49a654f6f76cecab54228a3e2c63e1e1707f71658268f55f349b9"
+
+[option]
+optional = false
+description = "Valorant by 一起来瓦\nBuild #9\n复刻了一些瓦罗兰特角色技能\nhttps://www.curseforge.com/minecraft/mc-mods/vlorant"
+

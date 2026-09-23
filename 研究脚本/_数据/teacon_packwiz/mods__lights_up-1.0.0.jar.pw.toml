@@ -1,0 +1,13 @@
+name = "Lights up(舞台灯光)"
+filename = "lights_up-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-lights-up/lights-up-6.jar"
+hash-format = "sha256"
+hash = "2e9538f08de5a1c4097d29c4df4f0553c659c84316ed7fc5d9702d1dadbe18ef"
+
+[option]
+optional = false
+description = "Lights up(舞台灯光) by Ti adventurers' party\nBuild #6\n一个画大饼模组，计划添加一堆舞台灯光及其操作到游戏内。Ti团队似乎并没有多少时间来完成这个模组...如果它如期出现，只能说明MakerTechno在两周内无论什么时候都在肝。如果坠机了可以到家具计划的展馆举办哀悼会（大雾）"
+

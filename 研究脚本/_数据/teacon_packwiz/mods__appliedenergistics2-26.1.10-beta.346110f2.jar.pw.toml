@@ -1,0 +1,13 @@
+name = "ae2"
+filename = "appliedenergistics2-26.1.10-beta.346110f2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/appliedenergistics2-26.1.10-beta.346110f2.346110f2.jar"
+hash-format = "sha256"
+hash = "8412a2208e56989b90e783e0a594c91a955ab8785d7d020fa4d8f342346110f2"
+
+[option]
+optional = false
+description = "Mod dependency of ae2\nManaged by Biluochun"
+

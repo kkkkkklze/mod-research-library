@@ -1,0 +1,13 @@
+name = "Caupona"
+filename = "Caupona-26.1.2-6.1.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/jiachen/ci/extra/Caupona-26.1.2-6.1.4.5ea00e84.jar"
+hash-format = "sha256"
+hash = "5447b7f9bdef5cde2c695fdcae140b23d595c64792ce4c5eed072f115ea00e84"
+
+[option]
+optional = false
+description = "Mod dependency of Caupona\nManaged by Biluochun"
+

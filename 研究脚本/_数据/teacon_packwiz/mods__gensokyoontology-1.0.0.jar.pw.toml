@@ -1,0 +1,13 @@
+name = "幻想存有论"
+filename = "gensokyoontology-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-gensokyoontology/gensokyoontology-32.jar"
+hash-format = "sha256"
+hash = "8406c53a21fd6b21462d930fe20001f05a8e7052057b33dfe07eec83005e0801"
+
+[option]
+optional = false
+description = "幻想存有论 by 拟型悖论 - Pseudoparadox\nBuild #32\n本模组是一个旨在还原幻想乡人物角色、场景地形、战斗探索与建筑结构的冒险类模组，为Minecraft添加了一个幻想乡维度及其附带的多个生物群系，并且为部分生物群系添加了幻想乡特有的建筑结构供玩家探索冒险。玩家需要在主世界处理异变，收集材料，制作道具前往幻想乡，找出发动异变的元凶。"
+

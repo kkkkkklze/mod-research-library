@@ -1,0 +1,13 @@
+name = "会饮"
+filename = "repo-26.1.2-3.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-convivium/convivium-197.jar"
+hash-format = "sha256"
+hash = "5fd2fb23f055471e03b2086a47330cf6729f7690a382afc5077953aff9e21b9e"
+
+[option]
+optional = false
+description = "会饮 by IEEM 9v8 Trivium Society\nBuild #197\n“会饮”，是古希腊社会普遍流行的一种习俗，即人们在宴会上通过歌颂诸神和饮酒举行庆祝。而中国自古就有以酒会友，宴请亲朋的习俗，甚至发展出了独具一格的宴席和酒桌文化。本模组提供了宴席开展、饮品调理等系统，可以满足各种聚会的建筑和实用需求。"
+

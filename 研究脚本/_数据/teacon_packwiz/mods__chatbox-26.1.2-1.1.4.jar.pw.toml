@@ -1,0 +1,13 @@
+name = "chatbox"
+filename = "chatbox-26.1.2-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-chatbox/chatbox-10.jar"
+hash-format = "sha256"
+hash = "88d5db2a3c81b68ea68540c617117dcade10c1826153e42dba409d567cdadeb4"
+
+[option]
+optional = false
+description = "chatbox by Ciallo～(∠・ω< )\nBuild #10\n在MC里玩旮旯给木也是一种独特的体验吧"
+

@@ -1,0 +1,13 @@
+name = "更好的打雪仗3：重铸版"
+filename = "bsf3lite-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-bsf3lite/bsf3lite-41.jar"
+hash-format = "sha256"
+hash = "62f337ecb79c8f4c25233e9eab1bd6908c8ec1b80239bac5f5355b11b09b3547"
+
+[option]
+optional = false
+description = "更好的打雪仗3：重铸版 by 打雪仗工具批发商\nBuild #41\n什么叫做你在雪球里塞石头？什么叫做你在雪球里塞黑洞？什么，没有黑洞了？好吧，也许我们之前在研发的路上一去不复返了，现在是时候回到过去纯粹的往雪球里塞石头的那些日子了。"
+

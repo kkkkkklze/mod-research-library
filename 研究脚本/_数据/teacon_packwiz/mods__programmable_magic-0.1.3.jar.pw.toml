@@ -1,0 +1,13 @@
+name = "Arcanism"
+filename = "programmable_magic-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-programmable-magic/programmable-magic-40.jar"
+hash-format = "sha256"
+hash = "3c3697dcd3fbaf807aa5040c97af5dad5751e84189b98207f934a012ae829f11"
+
+[option]
+optional = false
+description = "Arcanism by Arcanism / 魔导主义 开发组\nBuild #40\nArcanism 是一个融合了科技要素和编程要素的魔法mod. 这个mod以魔力的生产与消耗作为核心玩法构建了一套魔力体系. (programmable magic是我们的旧名字, 是同一个mod哦)"
+

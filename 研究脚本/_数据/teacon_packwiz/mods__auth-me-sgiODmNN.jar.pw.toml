@@ -1,0 +1,13 @@
+name = "auth me"
+filename = "auth-me-sgiODmNN.jar"
+side = "client"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/auth-me/sgiODmNN/auth-me-sgiODmNN.jar"
+hash-format = "sha256"
+hash = "618e8e217299ba3592ac18e03dd16a8e0cb31777a5b7a58d7bacaf36021cf22e"
+
+[option]
+optional = false
+description = "Mod dependency of auth me\nIncluded inside official TeaCon mod list"
+

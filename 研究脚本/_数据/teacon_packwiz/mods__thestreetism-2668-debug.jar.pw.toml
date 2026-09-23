@@ -1,0 +1,13 @@
+name = "街头主义 The Streetism"
+filename = "thestreetism-2668-debug.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-thestreetism/thestreetism-12.jar"
+hash-format = "sha256"
+hash = "0f3a2013cf8b3fe1e154b97e0c41042c1d2c716e6102a85f518da2bded400f3b"
+
+[option]
+optional = false
+description = "街头主义 The Streetism by 常乐驾校\nBuild #12\n街头风格模组大杂烩。"
+

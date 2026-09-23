@@ -1,0 +1,13 @@
+name = "万物皆可绳"
+filename = "super_lead-0.4.9-beta.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-super-lead/super-lead-56.jar"
+hash-format = "sha256"
+hash = "5c7f27fd53ae131fd9b01056f9499197e8b6566d2e0a1915c60637b8e49cd449"
+
+[option]
+optional = false
+description = "万物皆可绳 by 众猫抬猫猫猫高\nBuild #56\n你有没有想过，拴绳除了拴猪，还能干点别的？\n\n这个模组优化了原版拴绳——红石传导、能量输送、物品运输、流体流通，全都靠一根绳子搞定。\n\n操作简单，视觉直观，还带着那条原版的小垂线。\n\n毕竟，连接本来就不需要那么复杂。"
+

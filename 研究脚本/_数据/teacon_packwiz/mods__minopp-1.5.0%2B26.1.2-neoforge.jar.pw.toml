@@ -1,0 +1,13 @@
+name = "Mino++"
+filename = "minopp-1.5.0+26.1.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-minopp/minopp-105.jar"
+hash-format = "sha256"
+hash = "87ecf665c3b8abaa7f292e01392d6def0b6ceb677426d7220a2091458fe0bdef"
+
+[option]
+optional = false
+description = "Mino++ by Zbx1425 & MalayP\nBuild #105\n在 Minecraft 里实现一个特定的著名桌游。https://modrinth.com/mod/minopp"
+

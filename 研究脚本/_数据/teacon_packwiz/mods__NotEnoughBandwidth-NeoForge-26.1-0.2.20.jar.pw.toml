@@ -1,0 +1,13 @@
+name = "NotEnoughBandwidth NeoForge 26.1"
+filename = "NotEnoughBandwidth-NeoForge-26.1-0.2.20.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/NotEnoughBandwidth-NeoForge-26.1/0.2.20/NotEnoughBandwidth-NeoForge-26.1-0.2.20.jar"
+hash-format = "sha256"
+hash = "c373b2eb9f98700fed293095701731c65a384596fd1bd9da568cbf0b16fdca3c"
+
+[option]
+optional = false
+description = "Mod dependency of NotEnoughBandwidth NeoForge 26.1\nIncluded inside official TeaCon mod list"
+

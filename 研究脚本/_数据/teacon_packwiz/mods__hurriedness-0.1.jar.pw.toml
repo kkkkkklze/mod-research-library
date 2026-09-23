@@ -1,0 +1,13 @@
+name = "急"
+filename = "hurriedness-0.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-hurriedness/hurriedness-13.jar"
+hash-format = "sha256"
+hash = "16c934c0d79eb894ffd1c7f9acd93d8a48fd70ce0eb5da722a2dfaf29c2918d8"
+
+[option]
+optional = false
+description = "急 by MaxPixel Studios Development\nBuild #13\n你已急哭。你已急爆。\n对着万物急，何尝不是在建立连接呢（"
+

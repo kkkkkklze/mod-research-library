@@ -1,0 +1,2948 @@
+{
+ "60089": {
+  "title": "Mouse Tweaks",
+  "slug": null,
+  "gh": "YaLTeR/MouseTweaks",
+  "via": "known"
+ },
+ "60028": {
+  "title": "Aquaculture 2",
+  "slug": null,
+  "gh": "TeamMetallurgy/Aquaculture",
+  "via": "known"
+ },
+ "64578": {
+  "title": "Ender IO",
+  "slug": null,
+  "gh": "Team-EnderIO/EnderIO",
+  "via": "known"
+ },
+ "220311": {
+  "title": "Silent's Gems",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "32274": {
+  "title": "JourneyMap",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "64760": {
+  "title": "Security Craft",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "74610": {
+  "title": "EvilCraft",
+  "slug": null,
+  "gh": "CyclopsMC/EvilCraft",
+  "via": "known"
+ },
+ "223565": {
+  "title": "Draconic Evolution",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "224218": {
+  "title": "Compact Machines",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "225738": {
+  "title": "MmmMmmMmmMmm (Target Dummy)",
+  "slug": null,
+  "gh": "MehVahdJukaar/DuMmmMmmy",
+  "via": "known"
+ },
+ "227639": {
+  "title": "The Twilight Forest",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "231382": {
+  "title": "Brandon's Core",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "228404": {
+  "title": "Actually Additions",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "223794": {
+  "title": "Applied Energistics 2",
+  "slug": null,
+  "gh": "AppliedEnergistics/Applied-Energistics-2",
+  "via": "known"
+ },
+ "231951": {
+  "title": "Immersive Engineering",
+  "slug": null,
+  "gh": "BluSunrize/ImmersiveEngineering",
+  "via": "known"
+ },
+ "233019": {
+  "title": "AI Improvements: Performance Tuning",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "228525": {
+  "title": "Bookshelf",
+  "slug": null,
+  "gh": "Darkhax-Minecraft/Bookshelf",
+  "via": "known"
+ },
+ "231484": {
+  "title": "Cooking for Blockheads",
+  "slug": null,
+  "gh": "TwelveIterations/CookingForBlockheads",
+  "via": "known"
+ },
+ "233105": {
+  "title": "McJtyLib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "233071": {
+  "title": "Crafting Tweaks",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "235577": {
+  "title": "TrashSlot",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "237307": {
+  "title": "Cosmetic Armor Reworked",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "237664": {
+  "title": "Iron Furnaces",
+  "slug": null,
+  "gh": "Qelifern/IronFurnaces",
+  "via": "known"
+ },
+ "232758": {
+  "title": "Cyclops Core",
+  "slug": null,
+  "gh": "CyclopsMC/CyclopsCore",
+  "via": "known"
+ },
+ "236307": {
+  "title": "Integrated Dynamics",
+  "slug": null,
+  "gh": "CyclopsMC/IntegratedDynamics",
+  "via": "known"
+ },
+ "238546": {
+  "title": "Modular Force Field Systems (MFFS)",
+  "slug": null,
+  "gh": "McJty/MFFS",
+  "via": "known"
+ },
+ "238086": {
+  "title": "KubeJS",
+  "slug": null,
+  "gh": "KubeJS-Mods/KubeJS",
+  "via": "known"
+ },
+ "241160": {
+  "title": "NetherPortalFix",
+  "slug": null,
+  "gh": "TwelveIterations/NetherPortalFix",
+  "via": "known"
+ },
+ "241319": {
+  "title": "Reliquary Reincarnations",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "242818": {
+  "title": "CodeChicken Lib 1.8.+",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "242998": {
+  "title": "Silent Lib (silentlib)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "245174": {
+  "title": "Ender Storage 1.8.+",
+  "slug": null,
+  "gh": "gigabit101/EnderStorage",
+  "via": "known"
+ },
+ "243076": {
+  "title": "Refined Storage",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "243707": {
+  "title": "Corail Tombstone",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "245755": {
+  "title": "Waystones",
+  "slug": null,
+  "gh": "TwelveIterations/Waystones",
+  "via": "known"
+ },
+ "246640": {
+  "title": "Mystical Agriculture",
+  "slug": null,
+  "gh": "BlakeBr0/MysticalAgriculture",
+  "via": "known"
+ },
+ "245506": {
+  "title": "MineColonies",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "238222": {
+  "title": "Just Enough Items (JEI)",
+  "slug": null,
+  "gh": "mezz/JustEnoughItems",
+  "via": "known"
+ },
+ "247007": {
+  "title": "Common Capabilities",
+  "slug": null,
+  "gh": "CyclopsMC/CommonCapabilities",
+  "via": "known"
+ },
+ "247496": {
+  "title": "Ranged Pumps",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "247921": {
+  "title": "ZeroCore 2",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "248020": {
+  "title": "Flux Networks",
+  "slug": null,
+  "gh": "McJty/XNet",
+  "via": "known"
+ },
+ "248787": {
+  "title": "AppleSkin",
+  "slug": null,
+  "gh": "squeek502/AppleSkin",
+  "via": "known"
+ },
+ "250294": {
+  "title": "Modular Routers",
+  "slug": null,
+  "gh": "desht/ModularRouters",
+  "via": "known"
+ },
+ "250277": {
+  "title": "Extreme Reactors",
+  "slug": null,
+  "gh": "ZeroNoRyouki/ExtremeReactors",
+  "via": "known"
+ },
+ "250398": {
+  "title": "Controlling",
+  "slug": null,
+  "gh": "jaredlll08/Controlling",
+  "via": "known"
+ },
+ "250577": {
+  "title": "Akashic Tome",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "250832": {
+  "title": "OpenBlocks Elevator",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "252848": {
+  "title": "Nature's Compass",
+  "slug": null,
+  "gh": "MattCzyr/NaturesCompass",
+  "via": "known"
+ },
+ "251389": {
+  "title": "Integrated Tunnels",
+  "slug": null,
+  "gh": "CyclopsMC/IntegratedTunnels",
+  "via": "known"
+ },
+ "250419": {
+  "title": "Enchantment Descriptions",
+  "slug": null,
+  "gh": "Darkhax-Minecraft/Enchantment-Descriptions",
+  "via": "known"
+ },
+ "254241": {
+  "title": "Mob Grinding Utils",
+  "slug": null,
+  "gh": "vadis365/Mob-Grinding-Utils",
+  "via": "known"
+ },
+ "255308": {
+  "title": "The Aether",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "254268": {
+  "title": "Torchmaster",
+  "slug": null,
+  "gh": "Xalcon/TorchMaster",
+  "via": "known"
+ },
+ "256247": {
+  "title": "Mystical Agradditions",
+  "slug": null,
+  "gh": "BlakeBr0/MysticalAgradditions",
+  "via": "known"
+ },
+ "255902": {
+  "title": "Wither Skeleton Tweaks",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "257356": {
+  "title": "In Control!",
+  "slug": null,
+  "gh": "McJtyMods/InControl",
+  "via": "known"
+ },
+ "260912": {
+  "title": "XNet",
+  "slug": null,
+  "gh": "McJty/XNet",
+  "via": "known"
+ },
+ "260262": {
+  "title": "Tool Belt",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "256717": {
+  "title": "Clumps",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "261251": {
+  "title": "Bad Wither No Cookie - Reloaded",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "267602": {
+  "title": "ConnectedTexturesMod",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "261924": {
+  "title": "Farming for Blockheads",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "266515": {
+  "title": "Industrial Foregoing",
+  "slug": null,
+  "gh": "Buuz135/Industrial-Foregoing",
+  "via": "known"
+ },
+ "268560": {
+  "title": "Mekanism",
+  "slug": null,
+  "gh": "mekanism/Mekanism",
+  "via": "known"
+ },
+ "268566": {
+  "title": "Mekanism Generators",
+  "slug": null,
+  "gh": "mekanism/Mekanism",
+  "via": "known"
+ },
+ "271740": {
+  "title": "Toast Control",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "268567": {
+  "title": "Mekanism Tools",
+  "slug": null,
+  "gh": "mekanism/Mekanism",
+  "via": "known"
+ },
+ "272335": {
+  "title": "Cucumber Library",
+  "slug": null,
+  "gh": "BlakeBr0/Cucumber",
+  "via": "known"
+ },
+ "276951": {
+  "title": "Comforts",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "277616": {
+  "title": "Spice of Life: Carrot Edition",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "280441": {
+  "title": "Mystical Customization",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "280510": {
+  "title": "AttributeFix",
+  "slug": null,
+  "gh": "Darkhax-Minecraft/AttributeFix",
+  "via": "known"
+ },
+ "272515": {
+  "title": "Better Advancements",
+  "slug": null,
+  "gh": "way2muchnoise/BetterAdvancements",
+  "via": "known"
+ },
+ "281849": {
+  "title": "PneumaticCraft: Repressurized",
+  "slug": null,
+  "gh": "TeamPneumatic/pnc-repressurized",
+  "via": "known"
+ },
+ "282805": {
+  "title": "Restrictions",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "282947": {
+  "title": "Baubley Heart Canisters",
+  "slug": null,
+  "gh": "Traverse-Joe/Baubley-Heart-Canisters",
+  "via": "known"
+ },
+ "283644": {
+  "title": "Placebo",
+  "slug": null,
+  "gh": "Shadows-of-Fire/Placebo",
+  "via": "known"
+ },
+ "282001": {
+  "title": "CC: Tweaked",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "284497": {
+  "title": "Iron Jetpacks",
+  "slug": null,
+  "gh": "BlakeBr0/IronJetpacks",
+  "via": "known"
+ },
+ "287357": {
+  "title": "Integrated Crafting",
+  "slug": null,
+  "gh": "CyclopsMC/IntegratedCrafting",
+  "via": "known"
+ },
+ "282837": {
+  "title": "Additional Enchanted Miner",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "288885": {
+  "title": "FastWorkbench",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "287342": {
+  "title": "Titanium",
+  "slug": null,
+  "gh": "Buuz135/titanium",
+  "via": "known"
+ },
+ "289412": {
+  "title": "FTB Quests (NeoForge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "295780": {
+  "title": "Roots Classic",
+  "slug": null,
+  "gh": "MysticMods/Roots",
+  "via": "known"
+ },
+ "296996": {
+  "title": "Rebind Narrator",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "295910": {
+  "title": "Integrated Terminals",
+  "slug": null,
+  "gh": "CyclopsMC/IntegratedTerminals",
+  "via": "known"
+ },
+ "298187": {
+  "title": "Building Gadgets",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "290209": {
+  "title": "RFTools Power",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "297039": {
+  "title": "Silent Gear",
+  "slug": null,
+  "gh": "SilentChaos512/Silent-Gear",
+  "via": "known"
+ },
+ "299540": {
+  "title": "FastFurnace",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "300331": {
+  "title": "Simply Light",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "303278": {
+  "title": "Multi-Piston",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "306770": {
+  "title": "Patchouli",
+  "slug": null,
+  "gh": "VazkiiMods/Patchouli",
+  "via": "known"
+ },
+ "298744": {
+  "title": "Structurize",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "306626": {
+  "title": "Nature's Aura",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "301034": {
+  "title": "Entangled",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "309858": {
+  "title": "Forbidden and Arcanus",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "309927": {
+  "title": "Curios API",
+  "slug": null,
+  "gh": "TheIllusiveC4/Curios",
+  "via": "known"
+ },
+ "308989": {
+  "title": "Caelus API",
+  "slug": null,
+  "gh": "TheIllusiveC4/Caelus",
+  "via": "known"
+ },
+ "306935": {
+  "title": "Super Factory Manager ( SFM )",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "312353": {
+  "title": "Artifacts",
+  "slug": null,
+  "gh": "ochotonida/artifacts",
+  "via": "known"
+ },
+ "314002": {
+  "title": "Overloaded Armor Bar",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "314906": {
+  "title": "FTB Chunks (NeoForge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "314905": {
+  "title": "FTB Ranks (NeoForge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "313970": {
+  "title": "Apotheosis",
+  "slug": null,
+  "gh": "Shadows-of-Fire/Apotheosis",
+  "via": "known"
+ },
+ "320926": {
+  "title": "Scalable Cat's Force",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "324973": {
+  "title": "Dungeon Crawl",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "324717": {
+  "title": "Jade 🔍",
+  "slug": null,
+  "gh": "Snownee/Jade",
+  "via": "known"
+ },
+ "322506": {
+  "title": "BSL Shaders",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "326041": {
+  "title": "RFTools Base",
+  "slug": null,
+  "gh": "McJty/RFToolsBase",
+  "via": "known"
+ },
+ "326652": {
+  "title": "Cupboard",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "328085": {
+  "title": "Create",
+  "slug": null,
+  "gh": "Creators-of-Create/Create",
+  "via": "known"
+ },
+ "342466": {
+  "title": "RFTools Utility",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "347706": {
+  "title": "RFTools Builder",
+  "slug": null,
+  "gh": "McJty/RFToolsBuilder",
+  "via": "known"
+ },
+ "348521": {
+  "title": "Cloth Config API (Fabric/Forge/NeoForge)",
+  "slug": null,
+  "gh": "shedaniel/ClothConfig",
+  "via": "known"
+ },
+ "350006": {
+  "title": "RFTools Storage",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "351491": {
+  "title": "Extra Disks",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "351264": {
+  "title": "Kotlin for Forge",
+  "slug": null,
+  "gh": "thedarkcolour/KotlinForForge",
+  "via": "known"
+ },
+ "351748": {
+  "title": "Mining Gadgets",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "342543": {
+  "title": "Mahou Tsukai",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "351725": {
+  "title": "Macaw's Bridges",
+  "slug": null,
+  "gh": "sketchmacaw/Bridges",
+  "via": "known"
+ },
+ "352039": {
+  "title": "Macaw's Roofs",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "353882": {
+  "title": "DimStorage",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "356801": {
+  "title": "Potions Master",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "354339": {
+  "title": "Open Loader",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "358700": {
+  "title": "More Dragon Eggs",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "353928": {
+  "title": "Botany Pots",
+  "slug": null,
+  "gh": "Darkhax-Minecraft/BotanyPots",
+  "via": "known"
+ },
+ "359540": {
+  "title": "Macaw's Furniture",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "361385": {
+  "title": "Pam's HarvestCraft 2 - Crops",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "361276": {
+  "title": "Lootr (Forge & NeoForge)",
+  "slug": null,
+  "gh": "noobanidus/lootr",
+  "via": "known"
+ },
+ "361579": {
+  "title": "spark",
+  "slug": null,
+  "gh": "lucko/spark",
+  "via": "known"
+ },
+ "363363": {
+  "title": "Extreme sound muffler - (Neo)Forge",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "363569": {
+  "title": "Macaw's Windows",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "362479": {
+  "title": "The Bumblezone (NeoForge/Forge)",
+  "slug": null,
+  "gh": "TelepathicGrunt/Bumblezone",
+  "via": "known"
+ },
+ "361026": {
+  "title": "Occultism",
+  "slug": null,
+  "gh": "klikli-dev/occultism",
+  "via": "known"
+ },
+ "364120": {
+  "title": "All The Tweaks",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "365460": {
+  "title": "Pam's HarvestCraft 2 - Trees",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "367734": {
+  "title": "Pocket Storage",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "364466": {
+  "title": "Allthemodium",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "371813": {
+  "title": "Crash Utilities",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "372534": {
+  "title": "Pam's HarvestCraft 2 - Food Core",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "368293": {
+  "title": "Repurposed Structures (Neoforge/Forge)",
+  "slug": null,
+  "gh": "TelepathicGrunt/RepurposedStructures",
+  "via": "known"
+ },
+ "377897": {
+  "title": "Productive Bees",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "378266": {
+  "title": "Mo' Structures (NeoForge/Fabric)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "367706": {
+  "title": "FancyMenu",
+  "slug": null,
+  "gh": "Keksuccino/FancyMenu",
+  "via": "known"
+ },
+ "379849": {
+  "title": "The Undergarden",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "378979": {
+  "title": "Borderless Window",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "378646": {
+  "title": "Macaw's Doors",
+  "slug": null,
+  "gh": "sketchmacaw/MacawsDoors",
+  "via": "known"
+ },
+ "386134": {
+  "title": "FTB Ultimine (NeoForge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "384991": {
+  "title": "Additional Lights",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "387638": {
+  "title": "More Red",
+  "slug": null,
+  "gh": "Commoble/MoreRed",
+  "via": "known"
+ },
+ "383129": {
+  "title": "Connected Glass",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "385587": {
+  "title": "Complementary Shaders - Unbound",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "388800": {
+  "title": "Polymorph",
+  "slug": null,
+  "gh": "illusivesoulworks/polymorph",
+  "via": "known"
+ },
+ "391382": {
+  "title": "More Overlays Updated",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "388172": {
+  "title": "GeckoLib",
+  "slug": null,
+  "gh": "bernie-g/geckolib",
+  "via": "known"
+ },
+ "394468": {
+  "title": "Sodium",
+  "slug": null,
+  "gh": "CaffeineMC/sodium",
+  "via": "known"
+ },
+ "394140": {
+  "title": "Simple Magnets",
+  "slug": null,
+  "gh": "SuperMartijn642/SimpleMagnets",
+  "via": "known"
+ },
+ "397252": {
+  "title": "LivingThings",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "394535": {
+  "title": "Trash Cans",
+  "slug": null,
+  "gh": "SuperMartijn642/TrashCans",
+  "via": "known"
+ },
+ "395620": {
+  "title": "Item Collectors",
+  "slug": null,
+  "gh": "SuperMartijn642/ItemCollectors",
+  "via": "known"
+ },
+ "399757": {
+  "title": "Charging Gadgets",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "398521": {
+  "title": "Farmer's Delight",
+  "slug": null,
+  "gh": "vectorwing/FarmersDelight",
+  "via": "known"
+ },
+ "400514": {
+  "title": "Easy Villagers",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "402231": {
+  "title": "Pam's HarvestCraft 2 - Food Extended",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "400933": {
+  "title": "Macaw's Trapdoors",
+  "slug": null,
+  "gh": "sketchmacaw/Trapdoors",
+  "via": "known"
+ },
+ "401955": {
+  "title": "Ars Nouveau",
+  "slug": null,
+  "gh": "baileyholl/Ars-Nouveau",
+  "via": "known"
+ },
+ "404465": {
+  "title": "FTB Library (NeoForge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "405388": {
+  "title": "Modern Industrialization",
+  "slug": null,
+  "gh": "Technici4n/Modern-Industrialization",
+  "via": "known"
+ },
+ "404468": {
+  "title": "FTB Teams (NeoForge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "410295": {
+  "title": "Konkrete",
+  "slug": null,
+  "gh": "Keksuccino/Konkrete",
+  "via": "known"
+ },
+ "405593": {
+  "title": "ATO - All the Ores",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "411045": {
+  "title": "Get It Together, Drops!",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "410811": {
+  "title": "FTB Essentials (Forge & Fabric)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "410168": {
+  "title": "ExtraStorage",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "416935": {
+  "title": "Valhelsia Core",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "411357": {
+  "title": "Botany Trees",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "417645": {
+  "title": "Just Enough Professions (JEP)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "416294": {
+  "title": "Rhino",
+  "slug": null,
+  "gh": "KubeJS-Mods/Rhino",
+  "via": "known"
+ },
+ "417802": {
+  "title": "Gateways to Eternity",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "426386": {
+  "title": "Shrink.",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "412082": {
+  "title": "Supplementaries",
+  "slug": null,
+  "gh": "MehVahdJukaar/Supplementaries",
+  "via": "known"
+ },
+ "419699": {
+  "title": "Architectury API",
+  "slug": null,
+  "gh": "architectury/architectury",
+  "via": "known"
+ },
+ "429235": {
+  "title": "FerriteCore ((Neo)Forge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "430867": {
+  "title": "Mama's Merrymaking - A Minecraft Christmas and Winter Holiday Mod",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "430906": {
+  "title": "Cat Jammies",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "430636": {
+  "title": "Theurgy",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "431430": {
+  "title": "FlickerFix",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "431725": {
+  "title": "Advanced Peripherals",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "438332": {
+  "title": "SuperMartijn642's Config Lib",
+  "slug": null,
+  "gh": "SuperMartijn642/SuperMartijn642sConfigLib",
+  "via": "known"
+ },
+ "439890": {
+  "title": "Create Crafts & Additions",
+  "slug": null,
+  "gh": "mrh0/createaddition",
+  "via": "known"
+ },
+ "422301": {
+  "title": "Sophisticated Backpacks",
+  "slug": null,
+  "gh": "P3pp3rF1y/SophisticatedBackpacks",
+  "via": "known"
+ },
+ "433760": {
+  "title": "Not Enough Animations",
+  "slug": null,
+  "gh": "tr7zw/NotEnoughAnimations",
+  "via": "known"
+ },
+ "431203": {
+  "title": "MakeUp - Ultra Fast | Shaders",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "441647": {
+  "title": "FramedBlocks",
+  "slug": null,
+  "gh": "XFactHD/FramedBlocks",
+  "via": "known"
+ },
+ "442508": {
+  "title": "When Dungeons Arise - Forge!",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "445274": {
+  "title": "Relics",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "443900": {
+  "title": "Pipez",
+  "slug": null,
+  "gh": "henkelmax/pipez",
+  "via": "known"
+ },
+ "451682": {
+  "title": "No Villager Death Messages",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "452645": {
+  "title": "Interdimensional Wireless Transmitter",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "452500": {
+  "title": "Sushi Go Crafting",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "447673": {
+  "title": "Sodium Extra",
+  "slug": null,
+  "gh": "FlashyReese/sodium-extra-fabric",
+  "via": "known"
+ },
+ "453925": {
+  "title": "Macaw's Fences and Walls",
+  "slug": null,
+  "gh": "sketchmacaw/Fences",
+  "via": "known"
+ },
+ "454382": {
+  "title": "Cable Tiers",
+  "slug": null,
+  "gh": "Ultramega/CableTiers",
+  "via": "known"
+ },
+ "455508": {
+  "title": "Iris Shaders",
+  "slug": null,
+  "gh": "IrisShaders/Iris",
+  "via": "known"
+ },
+ "456956": {
+  "title": "Chipped",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "459929": {
+  "title": "Applied Energistics 2 Wireless Terminals",
+  "slug": null,
+  "gh": "Mari023/AE2WirelessTerminalLibrary",
+  "via": "known"
+ },
+ "461710": {
+  "title": "Redstone Pen",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "470193": {
+  "title": "Connectivity",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "475117": {
+  "title": "FastSuite",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "491794": {
+  "title": "Explorer's Compass",
+  "slug": null,
+  "gh": "MattCzyr/ExplorersCompass",
+  "via": "known"
+ },
+ "478559": {
+  "title": "Measurements",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "509276": {
+  "title": "Dyenamics",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "502372": {
+  "title": "Macaw's Lights and Lamps",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "454372": {
+  "title": "SuperMartijn642's Core Lib",
+  "slug": null,
+  "gh": "SuperMartijn642/SuperMartijn642sCoreLib",
+  "via": "known"
+ },
+ "509575": {
+  "title": "Observable",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "510170": {
+  "title": "Jonn's Trophies",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "514045": {
+  "title": "AllTheCompressed",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "499980": {
+  "title": "Moonlight Lib",
+  "slug": null,
+  "gh": "MehVahdJukaar/Moonlight",
+  "via": "known"
+ },
+ "511770": {
+  "title": "Drippy Loading Screen",
+  "slug": null,
+  "gh": "Keksuccino/Drippy-Loading-Screen",
+  "via": "known"
+ },
+ "510656": {
+  "title": "Wireless Chargers",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "518211": {
+  "title": "Pylons",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "514923": {
+  "title": "Tempad",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "522992": {
+  "title": "BlockUI",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "520110": {
+  "title": "Iceberg [Neo/Forge]",
+  "slug": null,
+  "gh": "AHilyard/Iceberg",
+  "via": "known"
+ },
+ "525693": {
+  "title": "Occultism KubeJS",
+  "slug": null,
+  "gh": "klikli-dev/occultism",
+  "via": "known"
+ },
+ "526901": {
+  "title": "Memory Settings",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "527361": {
+  "title": "Domum Ornamentum",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "532169": {
+  "title": "Energy Meter",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "532610": {
+  "title": "oωo (owo-lib)",
+  "slug": null,
+  "gh": "glisco03/owo-lib",
+  "via": "known"
+ },
+ "533942": {
+  "title": "Bridging Mod",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "536160": {
+  "title": "Universal Grid",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "538214": {
+  "title": "Handcrafted",
+  "slug": null,
+  "gh": "terrarium-earth/Handcrafted",
+  "via": "known"
+ },
+ "542110": {
+  "title": "Jumpy Boats",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "531761": {
+  "title": "Balm",
+  "slug": null,
+  "gh": "TwelveIterations/Balm",
+  "via": "known"
+ },
+ "549225": {
+  "title": "Framework",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "551524": {
+  "title": "CreeperHost Presents Steve's Carts",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "551763": {
+  "title": "Chisel Reborn [Forge/Fabric/NeoForge]",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "551894": {
+  "title": "Better Compatibility Checker",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "551586": {
+  "title": "L_Ender 's Cataclysm",
+  "slug": null,
+  "gh": "lender544/new1.20.1",
+  "via": "known"
+ },
+ "552574": {
+  "title": "Hostile Neural Networks",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "552172": {
+  "title": "Shiny! Mobs",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "552758": {
+  "title": "Modern Dynamics",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "538392": {
+  "title": "Modonomicon",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "556861": {
+  "title": "Functional Storage",
+  "slug": null,
+  "gh": "Buuz135/Functional-Storage",
+  "via": "known"
+ },
+ "558000": {
+  "title": "Omega Config",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "559313": {
+  "title": "AEInfinityBooster",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "561470": {
+  "title": "Ars Elemental",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "561625": {
+  "title": "Creeper Overhaul",
+  "slug": null,
+  "gh": "bonsaistudi0s/Creeper-Overhaul",
+  "via": "known"
+ },
+ "561885": {
+  "title": "Just Zoom",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "570354": {
+  "title": "Nullscape",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "574123": {
+  "title": "Dark Mode Everywhere",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "570073": {
+  "title": "Resourceful Lib",
+  "slug": null,
+  "gh": "Team-Resourceful/ResourcefulLib",
+  "via": "known"
+ },
+ "574409": {
+  "title": "Enderman Overhaul",
+  "slug": null,
+  "gh": "bonsaistudi0s/Enderman-Overhaul",
+  "via": "known"
+ },
+ "575698": {
+  "title": "Ars Creo",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "558998": {
+  "title": "Rechiseled",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "574300": {
+  "title": "Applied Mekanistics",
+  "slug": null,
+  "gh": "AppliedEnergistics/Applied-Mekanistics",
+  "via": "known"
+ },
+ "577850": {
+  "title": "Crafting on a stick",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "579545": {
+  "title": "Everything is Copper",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "606989": {
+  "title": "Underground Villages",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "576589": {
+  "title": "PolyLib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "583228": {
+  "title": "Simple Backups",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "622112": {
+  "title": "MEGA Cells",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "622888": {
+  "title": "Ponder for KubeJS",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "626761": {
+  "title": "Towns and Towers",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "623908": {
+  "title": "ChoiceTheorem's Overhauled Village",
+  "slug": null,
+  "gh": "ChoiceTheorem/ChoiceTheorem-s-overhauled-village",
+  "via": "known"
+ },
+ "626839": {
+  "title": "LaserIO",
+  "slug": null,
+  "gh": "Direwolf20-MC/LaserIO",
+  "via": "known"
+ },
+ "619320": {
+  "title": "Sophisticated Storage",
+  "slug": null,
+  "gh": "P3pp3rF1y/SophisticatedStorage",
+  "via": "known"
+ },
+ "629153": {
+  "title": "Macaw's Paths and Pavings",
+  "slug": null,
+  "gh": "sketchmacaw/Paths-Pavings",
+  "via": "known"
+ },
+ "633483": {
+  "title": "Powah! (Rearchitected)",
+  "slug": null,
+  "gh": "owmii/Powah",
+  "via": "known"
+ },
+ "627557": {
+  "title": "Complementary Shaders - Reimagined",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "633823": {
+  "title": "Almost Unified",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "634227": {
+  "title": "Hey Berry! SHUT UP",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "635042": {
+  "title": "Ad Astra",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "634062": {
+  "title": "No Chat Reports",
+  "slug": null,
+  "gh": "Aizistral-Studios/No-Chat-Reports",
+  "via": "known"
+ },
+ "635427": {
+  "title": "Yeetus Experimentus",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "636540": {
+  "title": "Structory",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "618298": {
+  "title": "Sophisticated Core",
+  "slug": null,
+  "gh": "P3pp3rF1y/SophisticatedCore",
+  "via": "known"
+ },
+ "640001": {
+  "title": "Factory Blocks [Forge/Fabric/NeoForge]",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "638111": {
+  "title": "Prism [Neo/Forge]",
+  "slug": null,
+  "gh": "AHilyard/Prism",
+  "via": "known"
+ },
+ "653789": {
+  "title": "XyCraft: World",
+  "slug": null,
+  "gh": "XyCraft-Mods/XyCraft",
+  "via": "known"
+ },
+ "653786": {
+  "title": "XyCraft",
+  "slug": null,
+  "gh": "XyCraft-Mods/XyCraft",
+  "via": "known"
+ },
+ "653790": {
+  "title": "XyCraft: Override",
+  "slug": null,
+  "gh": "XyCraft-Mods/XyCraft",
+  "via": "known"
+ },
+ "653791": {
+  "title": "XyCraft: Machines",
+  "slug": null,
+  "gh": "XyCraft-Mods/XyCraft",
+  "via": "known"
+ },
+ "656136": {
+  "title": "Gravitational Modulating Additional Unit",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "638508": {
+  "title": "EdivadLib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "656346": {
+  "title": "Load My F***ing Tags",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "656551": {
+  "title": "Blue Flame Burning",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "656977": {
+  "title": "MVS - Moog's Voyager Structures",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "659011": {
+  "title": "Deeper and Darker",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "659090": {
+  "title": "Fuel Goes Here",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "658587": {
+  "title": "playerAnimator",
+  "slug": null,
+  "gh": "KosmX/fabricPlayerAnimation",
+  "via": "known"
+ },
+ "659110": {
+  "title": "Regions Unexplored",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "661293": {
+  "title": "SmartBrainLib (Forge/Fabric/Quilt)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "667299": {
+  "title": "YetAnotherConfigLib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "676136": {
+  "title": "Model Gap Fix",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "688367": {
+  "title": "ME Requester",
+  "slug": null,
+  "gh": "AlmostReliable/merequester",
+  "via": "known"
+ },
+ "688768": {
+  "title": "Create: Enchantment Industry",
+  "slug": null,
+  "gh": "DragonsPlusMinecraft/CreateEnchantmentIndustry",
+  "via": "known"
+ },
+ "691049": {
+  "title": "Generator Galore",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "694231": {
+  "title": "Xtones Reworked",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "693313": {
+  "title": "CorgiLib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "698309": {
+  "title": "Explorify – Dungeons & Structures",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "686911": {
+  "title": "ImmediatelyFast",
+  "slug": null,
+  "gh": "RaphiMC/ImmediatelyFast",
+  "via": "known"
+ },
+ "699872": {
+  "title": "Accelerated Decay",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "709617": {
+  "title": "Dyenamics and Friends",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "746215": {
+  "title": "StarbuncleMania",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "714958": {
+  "title": "Ad Astra: Giselle Addon",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "714059": {
+  "title": "Resourceful Config",
+  "slug": null,
+  "gh": "Team-Resourceful/Resourceful-Config",
+  "via": "known"
+ },
+ "783522": {
+  "title": "Structory: Towers",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "827507": {
+  "title": "Stylecolonies",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "776337": {
+  "title": "Laser Bridges & Doors [Fabric/Forge/NeoForge]",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "830962": {
+  "title": "Fireproof Boats",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "790626": {
+  "title": "ModernFix",
+  "slug": null,
+  "gh": "embeddedt/ModernFix",
+  "via": "known"
+ },
+ "841890": {
+  "title": "Athena",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "854213": {
+  "title": "Colorful Hearts",
+  "slug": null,
+  "gh": "Terrails/colorful-hearts",
+  "via": "known"
+ },
+ "855414": {
+  "title": "Iron's Spells 'n Spellbooks",
+  "slug": null,
+  "gh": "Iron431/irons-spells-n-spellbooks",
+  "via": "known"
+ },
+ "856996": {
+  "title": "Cristel Lib",
+  "slug": null,
+  "gh": "Cristelknight999/Cristel-Lib",
+  "via": "known"
+ },
+ "867286": {
+  "title": "More Red x CC:Tweaked Compat",
+  "slug": null,
+  "gh": "Commoble/MoreRed",
+  "via": "known"
+ },
+ "858542": {
+  "title": "Searchables",
+  "slug": null,
+  "gh": "Jaredlll08/Searchables",
+  "via": "known"
+ },
+ "867074": {
+  "title": "Productive Trees",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "888624": {
+  "title": "Rechiseled: Create",
+  "slug": null,
+  "gh": "Creators-of-Create/Create",
+  "via": "known"
+ },
+ "889915": {
+  "title": "FTB XMod Compat",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "890755": {
+  "title": "Just Enough Archaeology",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "889785": {
+  "title": "Integrated Scripting",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "892382": {
+  "title": "MES - Moog's End Structures",
+  "slug": null,
+  "gh": "FinnSetchell/MoogsEndStructures",
+  "via": "known"
+ },
+ "892005": {
+  "title": "ExtendedAE",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "895919": {
+  "title": "Time in a Bottle",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "897116": {
+  "title": "MrCrayfish's Furniture Mod: Refurbished",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "898746": {
+  "title": "Just Enough Mekanism Multiblocks",
+  "slug": null,
+  "gh": "mekanism/Mekanism",
+  "via": "known"
+ },
+ "896746": {
+  "title": "Amendments",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "854949": {
+  "title": "Fusion (Connected Textures)",
+  "slug": null,
+  "gh": "SuperMartijn642/Fusion",
+  "via": "known"
+ },
+ "898963": {
+  "title": "Apothic Attributes",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "900364": {
+  "title": "TownTalk",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "905040": {
+  "title": "Create: Bells & Whistles",
+  "slug": null,
+  "gh": "Creators-of-Create/Create",
+  "via": "known"
+ },
+ "901491": {
+  "title": "Railcraft Reborn",
+  "slug": null,
+  "gh": "Railcraft/Railcraft",
+  "via": "known"
+ },
+ "904394": {
+  "title": "Industrial Foregoing Souls",
+  "slug": null,
+  "gh": "Buuz135/Industrial-Foregoing",
+  "via": "known"
+ },
+ "905641": {
+  "title": "Ars Énergistique",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "907843": {
+  "title": "Ars Ocultas",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "899386": {
+  "title": "Just Enough Breeding (JEBr)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "915308": {
+  "title": "Clean Swing Through Grass",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "915115": {
+  "title": "Formations (Structure Library)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "909375": {
+  "title": "WITS (What Is This Structure?)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "915324": {
+  "title": "Formations Overworld",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "915531": {
+  "title": "Villages&Pillages",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "916747": {
+  "title": "ShatterLib | OctoLib",
+  "slug": null,
+  "gh": "Octo-Studios/octo-lib",
+  "via": "known"
+ },
+ "918840": {
+  "title": "Formations Nether",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "927874": {
+  "title": "Tree Tap",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "927064": {
+  "title": "All the Wizard Gear",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "929559": {
+  "title": "Utilitarian",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "933354": {
+  "title": "Dis-Enchanting Table",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "930232": {
+  "title": "Macaw's Holidays",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "936015": {
+  "title": "Lithostitched",
+  "slug": null,
+  "gh": "Apollounknowndev/lithostitched",
+  "via": "known"
+ },
+ "938643": {
+  "title": "Melody",
+  "slug": null,
+  "gh": "Keksuccino/Melody",
+  "via": "known"
+ },
+ "940057": {
+  "title": "TerraBlender (NeoForge)",
+  "slug": null,
+  "gh": "Glitchfiend/TerraBlender",
+  "via": "known"
+ },
+ "941096": {
+  "title": "Polymorphic Energistics",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "943925": {
+  "title": "FTB Filter System",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "957920": {
+  "title": "Glodium",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "945149": {
+  "title": "Glassential Renewed",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "961856": {
+  "title": "AE2 Network Analyser",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "962544": {
+  "title": "Oh The Trees You'll Grow",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "965012": {
+  "title": "Applied Flux",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "963206": {
+  "title": "Theurgy KubeJS",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "964817": {
+  "title": "Sawmill",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "967466": {
+  "title": "MNS - Moog's Nether Structures",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "968432": {
+  "title": "MonoLib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "974408": {
+  "title": "Ars Additions",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "968456": {
+  "title": "Cobweb",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "974855": {
+  "title": "Byzantine Styles Pack for Minecolonies",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "976858": {
+  "title": "Inventory Tweaks - ReFoxed",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "979761": {
+  "title": "Storage Delight (Forge & Neoforge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "915902": {
+  "title": "Euphoria Patches",
+  "slug": null,
+  "gh": "EuphoriaPatches/EuphoriaPatcher",
+  "via": "known"
+ },
+ "983390": {
+  "title": "Simple Weather",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "982512": {
+  "title": "AE2 Import Export Card",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "992377": {
+  "title": "Immersive Energistics",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "981139": {
+  "title": "Variants&Ventures",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1001266": {
+  "title": "Hardened Armadillos",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1001614": {
+  "title": "Lionfish API",
+  "slug": null,
+  "gh": "lender544/Lionfish-API",
+  "via": "known"
+ },
+ "1002348": {
+  "title": "Just Dire Things",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "986583": {
+  "title": "Apothic Spawners",
+  "slug": null,
+  "gh": "Shadows-of-Fire/Apothic-Spawners",
+  "via": "known"
+ },
+ "1005676": {
+  "title": "Create: Aquatic Ambitions",
+  "slug": null,
+  "gh": "Creators-of-Create/Create",
+  "via": "known"
+ },
+ "1007578": {
+  "title": "Rechiseled: Chipped",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1015096": {
+  "title": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-Better-Mineshafts",
+  "via": "known"
+ },
+ "1010827": {
+  "title": "Uranus",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1015100": {
+  "title": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-API",
+  "via": "known"
+ },
+ "1015105": {
+  "title": "YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-Better-Strongholds",
+  "via": "known"
+ },
+ "1015114": {
+  "title": "YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-Better-Desert-Temples",
+  "via": "known"
+ },
+ "1015112": {
+  "title": "YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-Better-Dungeons",
+  "via": "known"
+ },
+ "1015118": {
+  "title": "YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-Better-Fortresses",
+  "via": "known"
+ },
+ "1015123": {
+  "title": "YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-Better-Jungle-Temples",
+  "via": "known"
+ },
+ "1005914": {
+  "title": "Fzzy Config",
+  "slug": null,
+  "gh": "fzzyhmstrs/fconfig",
+  "via": "known"
+ },
+ "1015127": {
+  "title": "YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "yungnickyoung/YUNGs-Better-End-Island",
+  "via": "known"
+ },
+ "1015115": {
+  "title": "YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-Better-Ocean-Monuments",
+  "via": "known"
+ },
+ "1015144": {
+  "title": "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": "YUNG-GANG/YUNGs-Better-Witch-Huts",
+  "via": "known"
+ },
+ "1015146": {
+  "title": "YUNG's Extras (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1023517": {
+  "title": "Not Enough Glyphs",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1030830": {
+  "title": "Oritech",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1028211": {
+  "title": "Common Storage Lib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1040076": {
+  "title": "IceAndFire Community Edition",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1061812": {
+  "title": "Ars Controle",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1040210": {
+  "title": "MSS - Moog's Soaring Structures",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1063926": {
+  "title": "Apothic Enchanting",
+  "slug": null,
+  "gh": "Shadows-of-Fire/Apothic-Enchanting",
+  "via": "known"
+ },
+ "1023259": {
+  "title": "Prickle",
+  "slug": null,
+  "gh": "Darkhax-Minecraft/PrickleMC",
+  "via": "known"
+ },
+ "1067672": {
+  "title": "Tesseract API (NeoForge)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1068418": {
+  "title": "Extended Industrialization",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1070541": {
+  "title": "Repeatable Trial Vaults",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1074338": {
+  "title": "AE2 JEI Integration",
+  "slug": null,
+  "gh": "mezz/JustEnoughItems",
+  "via": "known"
+ },
+ "1070751": {
+  "title": "Oh The Biomes We've Gone",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1083346": {
+  "title": "Sussy Sniffers",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1080592": {
+  "title": "Eternal Starlight",
+  "slug": null,
+  "gh": "LeoMinecraftModding/eternal-starlight",
+  "via": "known"
+ },
+ "1084104": {
+  "title": "AdvancedAE",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1086241": {
+  "title": "AE2: Crafting Tree",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1086142": {
+  "title": "More Industrial Foregoing Addons (MIFA)",
+  "slug": null,
+  "gh": "Buuz135/Industrial-Foregoing",
+  "via": "known"
+ },
+ "1091339": {
+  "title": "AllTheLeaks (Memory Leak Fix)",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1089065": {
+  "title": "Industrialization Overdrive",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1091632": {
+  "title": "Illager Warship",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1072905": {
+  "title": "Jupiter",
+  "slug": null,
+  "gh": "IAFEnvoy/Jupiter",
+  "via": "known"
+ },
+ "1096161": {
+  "title": "Ars Technica",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1099143": {
+  "title": "KeybindsPurger",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1100379": {
+  "title": "Reliquified Artifacts",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1101111": {
+  "title": "Iron's Gems 'n Jewelry",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1103259": {
+  "title": "FTB JEI Extras",
+  "slug": null,
+  "gh": "mezz/JustEnoughItems",
+  "via": "known"
+ },
+ "1094032": {
+  "title": "All The Arcanist Gear",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1105290": {
+  "title": "Auroras",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1108467": {
+  "title": "Cobblegen Galore",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1111501": {
+  "title": "I'm Fast",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1119874": {
+  "title": "Mekanism Covers",
+  "slug": null,
+  "gh": "mekanism/Mekanism",
+  "via": "known"
+ },
+ "1121832": {
+  "title": "Rainbows!",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1119394": {
+  "title": "Macaw's Stairs",
+  "slug": null,
+  "gh": "sketchmacaw/Macaws-Stairs",
+  "via": "known"
+ },
+ "1122260": {
+  "title": "Bibliocraft Legacy",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1122764": {
+  "title": "Bibliowoods Legacy",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1130473": {
+  "title": "Mama's Herbs and Harvest",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1133580": {
+  "title": "Smithing Template Viewer for JEI/EMI",
+  "slug": null,
+  "gh": "mezz/JustEnoughItems",
+  "via": "known"
+ },
+ "1140741": {
+  "title": "NeoAuth",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1143614": {
+  "title": "Soulplied Energistics",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1145462": {
+  "title": "Atlas API",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1153666": {
+  "title": "Ars Elemancy",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1156098": {
+  "title": "Construction Sticks",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1148201": {
+  "title": "Mekanistic Routers",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1157074": {
+  "title": "Cloud Glass",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1156551": {
+  "title": "ExperienceLib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1165932": {
+  "title": "Luminax",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1165429": {
+  "title": "Ars Unification",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1158094": {
+  "title": "Deimos Lib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1166930": {
+  "title": "Sophisticated Storage in Motion",
+  "slug": null,
+  "gh": "P3pp3rF1y/SophisticatedStorage",
+  "via": "known"
+ },
+ "1173950": {
+  "title": "GuideME",
+  "slug": null,
+  "gh": "AppliedEnergistics/GuideME",
+  "via": "known"
+ },
+ "1172594": {
+  "title": "KeyBind Bundles",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1180560": {
+  "title": "Little Big Redstone",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1184406": {
+  "title": "Transfer Labels",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1184570": {
+  "title": "Productive Metalworks",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1187033": {
+  "title": "Crystalix",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1197614": {
+  "title": "Ars Polymorphia",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1208896": {
+  "title": "Cryonic Config",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1206582": {
+  "title": "Oracle Index",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1199188": {
+  "title": "Silent Gear Metalworks",
+  "slug": null,
+  "gh": "SilentChaos512/Silent-Gear",
+  "via": "known"
+ },
+ "1213351": {
+  "title": "Expanded AE",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1216624": {
+  "title": "Create: Dragons Plus",
+  "slug": null,
+  "gh": "DragonsPlusMinecraft/CreateDragonsPlus",
+  "via": "known"
+ },
+ "1214396": {
+  "title": "Camol",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1226755": {
+  "title": "Sophisticated Storage Create Integration",
+  "slug": null,
+  "gh": "Creators-of-Create/Create",
+  "via": "known"
+ },
+ "1226739": {
+  "title": "EnderDrives",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1230497": {
+  "title": "Refined Storage - JEI Integration",
+  "slug": null,
+  "gh": "mezz/JustEnoughItems",
+  "via": "known"
+ },
+ "1230590": {
+  "title": "Bibliobiomes Legacy",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1230483": {
+  "title": "Refined Storage - Quartz Arsenal",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1230504": {
+  "title": "Refined Storage - Mekanism Integration",
+  "slug": null,
+  "gh": "mekanism/Mekanism",
+  "via": "known"
+ },
+ "1230729": {
+  "title": "Refined Storage - Curios Integration",
+  "slug": null,
+  "gh": "TheIllusiveC4/Curios",
+  "via": "known"
+ },
+ "1254143": {
+  "title": "Colorwheel",
+  "slug": null,
+  "gh": "djefrey/Colorwheel",
+  "via": "known"
+ },
+ "1238567": {
+  "title": "Sophisticated Backpacks Create Integration",
+  "slug": null,
+  "gh": "Creators-of-Create/Create",
+  "via": "known"
+ },
+ "1281336": {
+  "title": "Create: Hypertubes",
+  "slug": null,
+  "gh": "PedroRok/CreateHypertubes",
+  "via": "known"
+ },
+ "1283857": {
+  "title": "Chroma Carvings",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1284144": {
+  "title": "Utility Vest",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1306367": {
+  "title": "KubeJS Tweaks",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1275257": {
+  "title": "Mekanism:More Machine",
+  "slug": null,
+  "gh": "mekanism/Mekanism",
+  "via": "known"
+ },
+ "1285475": {
+  "title": "Colorwheel Patcher",
+  "slug": null,
+  "gh": "djefrey/Colorwheel-Patcher",
+  "via": "known"
+ },
+ "1326856": {
+  "title": "Quests Lang Splitter",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1327983": {
+  "title": "Refined Types",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1329409": {
+  "title": "Botany Pots - Mystical Agriculture Compat",
+  "slug": null,
+  "gh": "BlakeBr0/MysticalAgriculture",
+  "via": "known"
+ },
+ "1345066": {
+  "title": "Dyson Cube Project",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1350380": {
+  "title": "Modular Bees",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1337167": {
+  "title": "Moog's Structure Lib (moogs_structures)",
+  "slug": null,
+  "gh": "FinnSetchell/MoogsStructureLib",
+  "via": "known"
+ },
+ "1398054": {
+  "title": "Step Crafter",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1414295": {
+  "title": "Nether Trials & Chambers",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1422678": {
+  "title": "Auroral",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1154099": {
+  "title": "Crash Assistant",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1404763": {
+  "title": "Neo Vitae",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1451998": {
+  "title": "StructureOverlapless",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1448257": {
+  "title": "Logistics Network",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1492763": {
+  "title": "Iron's Lib",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1637623": {
+  "title": "Better Advanced Tooltips",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1528432": {
+  "title": "Invasive Optimizations",
+  "slug": null,
+  "gh": null,
+  "via": null
+ },
+ "1583035": {
+  "title": "Iris & Oculus Search",
+  "slug": null,
+  "gh": null,
+  "via": null
+ }
+}

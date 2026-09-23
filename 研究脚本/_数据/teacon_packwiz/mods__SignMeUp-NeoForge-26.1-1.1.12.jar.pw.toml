@@ -1,0 +1,13 @@
+name = "SignMeUp NeoForge 26.1"
+filename = "SignMeUp-NeoForge-26.1-1.1.12.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/SignMeUp-NeoForge-26.1/1.1.12/SignMeUp-NeoForge-26.1-1.1.12.jar"
+hash-format = "sha256"
+hash = "1ce9d36ec954e3839647e8b9d449daad87e686574a65bfe49026eeb88c4130b8"
+
+[option]
+optional = false
+description = "Mod dependency of SignMeUp NeoForge 26.1\nIncluded inside official TeaCon mod list"
+

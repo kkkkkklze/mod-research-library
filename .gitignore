@@ -1,0 +1,18 @@
+# 参考源码不入库：591 个上游仓库的克隆留在本机，由 sources 仓库单独管理
+源码库/
+
+# 备份与临时产物
+*.bak-*
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# 工具缓存
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+
+# 只改本机 AI 记忆文件的一次性记账脚本，不属于研究语料
+研究脚本/_sync_memory_counts.py

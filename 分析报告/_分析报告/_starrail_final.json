@@ -1,0 +1,3223 @@
+{
+ "a/[3D 皮肤层] skinlayers3d-neoforge-1.11.1-mc1.21.1.jar": {
+  "path": "mods/a/[3D 皮肤层] skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+  "title": "3D Skin Layers",
+  "gh": "tr7zw/3d-skin-layers",
+  "source": "https://github.com/tr7zw/3d-skin-layers",
+  "downloads": 75466340,
+  "license": "LicenseRef-tr7zw-Protective-License",
+  "via": "modrinth-api"
+ },
+ "a/[Macaw的栅栏与墙] mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar": {
+  "path": "mods/a/[Macaw的栅栏与墙] mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+  "title": "Macaw's Fences and Walls",
+  "gh": "sketchmacaw/Fences",
+  "source": "https://github.com/sketchmacaw/Fences",
+  "downloads": 10612404,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[Macaw的桥梁] mcw-bridges-3.1.2-mc1.21.1neoforge.jar": {
+  "path": "mods/a/[Macaw的桥梁] mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+  "title": "Macaw's Bridges",
+  "gh": "sketchmacaw/Bridges",
+  "source": "https://github.com/sketchmacaw/Bridges",
+  "downloads": 9029741,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "a/[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.11.jar": {
+  "path": "mods/a/[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+  "title": "Xaero's World Map",
+  "gh": null,
+  "source": null,
+  "downloads": 95299513,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 34696
+ },
+ "a/[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.10.jar": {
+  "path": "mods/a/[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.10.jar",
+  "title": "Xaero's Minimap",
+  "gh": null,
+  "source": null,
+  "downloads": 108838953,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 49026
+ },
+ "a/[YUNG 的下界要塞优化] YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar": {
+  "path": "mods/a/[YUNG 的下界要塞优化] YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+  "title": "YUNG's Better Nether Fortresses",
+  "gh": "YUNG-GANG/YUNGs-Better-Fortresses",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Better-Fortresses",
+  "downloads": 22258509,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[YUNG 的地牢优化] YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar": {
+  "path": "mods/a/[YUNG 的地牢优化] YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+  "title": "YUNG's Better Dungeons",
+  "gh": "YUNG-GANG/YUNGs-Better-Dungeons",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Better-Dungeons",
+  "downloads": 21380831,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[YUNG 的桥] YungsBridges-1.21.1-NeoForge-5.1.1.jar": {
+  "path": "mods/a/[YUNG 的桥] YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+  "title": "YUNG's Bridges",
+  "gh": "YUNG-GANG/YUNGs-Bridges",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Bridges",
+  "downloads": 15378397,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[YUNG 的沼泽小屋优化] YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar": {
+  "path": "mods/a/[YUNG 的沼泽小屋优化] YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+  "title": "YUNG's Better Witch Huts",
+  "gh": "YUNG-GANG/YUNGs-Better-Witch-Huts",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts",
+  "downloads": 17256951,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[YUNG 的海底神殿优化] YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar": {
+  "path": "mods/a/[YUNG 的海底神殿优化] YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+  "title": "YUNG's Better Ocean Monuments",
+  "gh": "YUNG-GANG/YUNGs-Better-Ocean-Monuments",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments",
+  "downloads": 21396080,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[YUNG 的矿井优化] YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar": {
+  "path": "mods/a/[YUNG 的矿井优化] YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+  "title": "YUNG's Better Mineshafts",
+  "gh": "YUNG-GANG/YUNGs-Better-Mineshafts",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Better-Mineshafts",
+  "downloads": 19790275,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[YUNG 的要塞优化] YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar": {
+  "path": "mods/a/[YUNG 的要塞优化] YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+  "title": "YUNG's Better Strongholds",
+  "gh": "YUNG-GANG/YUNGs-Better-Strongholds",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Better-Strongholds",
+  "downloads": 17817418,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[YUNG的丛林神庙优化] YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar": {
+  "path": "mods/a/[YUNG的丛林神庙优化] YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+  "title": "YUNG's Better Jungle Temples",
+  "gh": "YUNG-GANG/YUNGs-Better-Jungle-Temples",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Better-Jungle-Temples",
+  "downloads": 19733272,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[YUNG的沙漠神殿优化] YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar": {
+  "path": "mods/a/[YUNG的沙漠神殿优化] YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+  "title": "YUNG's Better Desert Temples",
+  "gh": "YUNG-GANG/YUNGs-Better-Desert-Temples",
+  "source": "https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples",
+  "downloads": 16215959,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar": {
+  "path": "mods/a/[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+  "title": "Inventory Profiles Next",
+  "gh": "blackd/Inventory-Profiles",
+  "source": "https://codeberg.org/Inventory-Profiles-Next-Mod/IPNentory-Profiles",
+  "downloads": 38920541,
+  "license": "AGPL-3.0-or-later",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.20.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 69215,
+  "gh_from": "本地 jar 元数据"
+ },
+ "a/[万用皮肤补丁] CustomSkinLoader_Universal-14.28.jar": {
+  "path": "mods/a/[万用皮肤补丁] CustomSkinLoader_Universal-14.28.jar",
+  "title": "CustomSkinLoader",
+  "gh": "xfl03/MCCustomSkinLoader",
+  "source": "https://github.com/xfl03/MCCustomSkinLoader",
+  "downloads": 23061260,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[下界传送门修正] netherportalfix-neoforge-1.21.1-21.1.1.jar": {
+  "path": "mods/a/[下界传送门修正] netherportalfix-neoforge-1.21.1-21.1.1.jar",
+  "title": "NetherPortalFix",
+  "gh": "TwelveIterations/NetherPortalFix",
+  "source": "https://github.com/TwelveIterations/NetherPortalFix",
+  "downloads": 23532906,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "a/[传说提示框] LegendaryTooltips-1.21.1-neoforge-1.5.5.jar": {
+  "path": "mods/a/[传说提示框] LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+  "title": "Legendary Tooltips",
+  "gh": "AHilyard/LegendaryTooltips",
+  "source": "https://github.com/AHilyard/LegendaryTooltips/",
+  "downloads": 10225434,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "a/[传送石碑／指路石] waystones-neoforge-1.21.1-21.1.30.jar": {
+  "path": "mods/a/[传送石碑／指路石] waystones-neoforge-1.21.1-21.1.30.jar",
+  "title": "Waystones",
+  "gh": "TwelveIterations/Waystones",
+  "source": "https://github.com/TwelveIterations/Waystones",
+  "downloads": 24870393,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "a/[农夫乐事] FarmersDelight-1.21.1-1.3.1.jar": {
+  "path": "mods/a/[农夫乐事] FarmersDelight-1.21.1-1.3.1.jar",
+  "title": "Farmer's Delight",
+  "gh": "vectorwing/FarmersDelight",
+  "source": "https://github.com/vectorwing/FarmersDelight",
+  "downloads": 23447577,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[冰山] Iceberg-1.21.1-neoforge-1.3.2.jar": {
+  "path": "mods/a/[冰山] Iceberg-1.21.1-neoforge-1.3.2.jar",
+  "title": "Iceberg",
+  "gh": "AHilyard/Iceberg",
+  "source": "https://github.com/AHilyard/Iceberg/",
+  "downloads": 35115870,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "a/[动态 FPS] dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar": {
+  "path": "mods/a/[动态 FPS] dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+  "title": "Dynamic FPS",
+  "gh": "juliand665/Dynamic-FPS",
+  "source": "https://github.com/juliand665/Dynamic-FPS",
+  "downloads": 64729616,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[可视化工作台] VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar": {
+  "path": "mods/a/[可视化工作台] VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
+  "title": "Visual Workbench",
+  "gh": "Fuzss/visualworkbench",
+  "source": "https://github.com/Fuzss/visualworkbench",
+  "downloads": 25213329,
+  "license": "MPL-2.0",
+  "via": "modrinth-api"
+ },
+ "a/[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.jar": {
+  "path": "mods/a/[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.jar",
+  "title": "When Dungeons Arise",
+  "gh": null,
+  "source": null,
+  "downloads": 10693523,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[地牢浮现之时] DungeonsArise-1.21.1-2.1.68-release.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 423
+ },
+ "a/[增强视觉效果／拓展视觉效果] EnhancedVisuals_NEOFORGE_v1.8.27_mc1.21.1.jar": {
+  "path": "mods/a/[增强视觉效果／拓展视觉效果] EnhancedVisuals_NEOFORGE_v1.8.27_mc1.21.1.jar",
+  "title": "EnhancedVisuals",
+  "gh": "CreativeMD/EnhancedVisuals",
+  "source": "https://github.com/CreativeMD/EnhancedVisuals",
+  "downloads": 18585844,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "a/[多态合成] polymorph-neoforge-1.1.0+1.21.1.jar": {
+  "path": "mods/a/[多态合成] polymorph-neoforge-1.1.0+1.21.1.jar",
+  "title": "Polymorph",
+  "gh": "illusivesoulworks/polymorph",
+  "source": "https://github.com/illusivesoulworks/polymorph",
+  "downloads": 24439356,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "a/[奇异饰品] artifacts-neoforge-13.2.1.jar": {
+  "path": "mods/a/[奇异饰品] artifacts-neoforge-13.2.1.jar",
+  "title": "Artifacts",
+  "gh": "ochotonida/artifacts",
+  "source": "https://github.com/ochotonida/artifacts",
+  "downloads": 13087683,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[存档置顶] cherishedworlds-neoforge-10.1.1+1.21.1.jar": {
+  "path": "mods/a/[存档置顶] cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+  "title": "Cherished Worlds",
+  "gh": "illusivesoulworks/cherishedworlds",
+  "source": "https://github.com/illusivesoulworks/cherishedworlds/",
+  "downloads": 31263225,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "a/[实体模型特性] entity_model_features_1.21-neoforge-3.2.2.jar": {
+  "path": "mods/a/[实体模型特性] entity_model_features_1.21-neoforge-3.2.2.jar",
+  "title": "[EMF] Entity Model Features",
+  "gh": "Traben-0/Entity_Model_Features",
+  "source": "https://github.com/Traben-0/Entity_Model_Features",
+  "downloads": 94564380,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[实体渲染机制优化] entityculling-neoforge-1.10.1-mc1.21.1.jar": {
+  "path": "mods/a/[实体渲染机制优化] entityculling-neoforge-1.10.1-mc1.21.1.jar",
+  "title": "Entity Culling",
+  "gh": "tr7zw/EntityCulling",
+  "source": "https://github.com/tr7zw/EntityCulling",
+  "downloads": 164860754,
+  "license": "LicenseRef-tr7zw-Protective-License",
+  "via": "modrinth-api"
+ },
+ "a/[实体纹理特性] entity_texture_features_1.21-neoforge-7.1.jar": {
+  "path": "mods/a/[实体纹理特性] entity_texture_features_1.21-neoforge-7.1.jar",
+  "title": "[ETF] Entity Texture Features",
+  "gh": "Traben-0/Entity_Texture_Features",
+  "source": "https://github.com/Traben-0/Entity_Texture_Features",
+  "downloads": 99674523,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[属性修复] attributefix-neoforge-1.21.1-21.1.3.jar": {
+  "path": "mods/a/[属性修复] attributefix-neoforge-1.21.1-21.1.3.jar",
+  "title": "AttributeFix",
+  "gh": "Darkhax-Minecraft/AttributeFix",
+  "source": "https://github.com/Darkhax-Minecraft/AttributeFix",
+  "downloads": 21384060,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "a/[帕秋莉手册] Patchouli-1.21.1-93-NEOFORGE.jar": {
+  "path": "mods/a/[帕秋莉手册] Patchouli-1.21.1-93-NEOFORGE.jar",
+  "title": "Patchouli",
+  "gh": "VazkiiMods/Patchouli",
+  "source": "https://github.com/VazkiiMods/Patchouli/",
+  "downloads": 34331194,
+  "license": "CC-BY-NC-SA-3.0",
+  "via": "modrinth-api"
+ },
+ "a/[应用能源2] appliedenergistics2-19.2.17.jar": {
+  "path": "mods/a/[应用能源2] appliedenergistics2-19.2.17.jar",
+  "title": "Applied Energistics 2",
+  "gh": "AppliedEnergistics/Applied-Energistics-2",
+  "source": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+  "downloads": 5850461,
+  "license": "LicenseRef-Multiple",
+  "via": "modrinth-api"
+ },
+ "a/[开放式电梯] elevatorid-neoforge-1.21.1-1.11.4.jar": {
+  "path": "mods/a/[开放式电梯] elevatorid-neoforge-1.21.1-1.11.4.jar",
+  "title": "ElevatorMod",
+  "gh": "VsnGamer/ElevatorMod",
+  "source": "https://github.com/VsnGamer/ElevatorMod",
+  "downloads": 2153531,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[探险者指南针] ExplorersCompass-1.21.1-3.4.0-neoforge.jar": {
+  "path": "mods/a/[探险者指南针] ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+  "title": "Explorer's Compass",
+  "gh": "MattCzyr/ExplorersCompass",
+  "source": "https://github.com/MattCzyr/ExplorersCompass",
+  "downloads": 11331909,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "a/[搬运] carryon-neoforge-1.21.1-2.2.4.4.jar": {
+  "path": "mods/a/[搬运] carryon-neoforge-1.21.1-2.2.4.4.jar",
+  "title": "Carry On",
+  "gh": "Tschipp/CarryOn",
+  "source": "https://github.com/Tschipp/CarryOn",
+  "downloads": 25254327,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[更多动画] notenoughanimations-neoforge-1.12.2-mc1.21.1.jar": {
+  "path": "mods/a/[更多动画] notenoughanimations-neoforge-1.12.2-mc1.21.1.jar",
+  "title": "Not Enough Animations",
+  "gh": "tr7zw/NotEnoughAnimations",
+  "source": "https://github.com/tr7zw/NotEnoughAnimations",
+  "downloads": 85302116,
+  "license": "LicenseRef-tr7zw-Protective-License",
+  "via": "modrinth-api"
+ },
+ "a/[更好的F3] BetterF3-11.0.3-NeoForge-1.21.1.jar": {
+  "path": "mods/a/[更好的F3] BetterF3-11.0.3-NeoForge-1.21.1.jar",
+  "title": "BetterF3",
+  "gh": "TreyRuffy/BetterF3",
+  "source": "https://github.com/TreyRuffy/BetterF3",
+  "downloads": 33541899,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[更好的植物盆栽] botanypotstiers-neoforge-1.21.1-7.0.11.jar": {
+  "path": "mods/a/[更好的植物盆栽] botanypotstiers-neoforge-1.21.1-7.0.11.jar",
+  "title": "Botany Pots Tiers",
+  "gh": "starforcraft/Botany-Pots-Tiers",
+  "source": "https://github.com/starforcraft/Botany-Pots-Tiers",
+  "downloads": 435820,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "a/[更好的进度] BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
+  "path": "mods/a/[更好的进度] BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+  "title": "Better Advancements",
+  "gh": "way2muchnoise/BetterAdvancements",
+  "source": "https://github.com/way2muchnoise/BetterAdvancements",
+  "downloads": 25314374,
+  "license": "LicenseRef-Dont-Be-a-Jerk",
+  "via": "modrinth-api"
+ },
+ "a/[植物盆栽] botanypots-neoforge-1.21.1-21.1.41.jar": {
+  "path": "mods/a/[植物盆栽] botanypots-neoforge-1.21.1-21.1.41.jar",
+  "title": "Botany Pots",
+  "gh": "Darkhax-Minecraft/BotanyPots",
+  "source": "https://github.com/Darkhax-Minecraft/BotanyPots",
+  "downloads": 2039626,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "a/[植物盆栽矿石种植] BotanyPotsOrePlanting-NeoForge-14.35.1+1.21.1.jar": {
+  "path": "mods/a/[植物盆栽矿石种植] BotanyPotsOrePlanting-NeoForge-14.35.1+1.21.1.jar",
+  "title": "[BPOP]Botany Pots Ore Planting",
+  "gh": "mango-buff/BotanyPotsOrePlanting",
+  "source": "https://github.com/mango-buff/BotanyPotsOrePlanting",
+  "downloads": 96465,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[水产业2／水产品2] Aquaculture-1.21.1-2.7.21.jar": {
+  "path": "mods/a/[水产业2／水产品2] Aquaculture-1.21.1-2.7.21.jar",
+  "title": "Aquaculture 2",
+  "gh": "TeamMetallurgy/Aquaculture",
+  "source": "https://github.com/TeamMetallurgy/Aquaculture",
+  "downloads": 1005117,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "a/[沉浸工程] ImmersiveEngineering-1.21.1-12.4.2-194.jar": {
+  "path": "mods/a/[沉浸工程] ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+  "title": "Immersive Engineering",
+  "gh": "BluSunrize/ImmersiveEngineering",
+  "source": "https://github.com/BluSunrize/ImmersiveEngineering",
+  "downloads": 3472261,
+  "license": "LicenseRef-Custom",
+  "via": "modrinth-api"
+ },
+ "a/[物品高亮] Highlighter-1.21-neoforge-1.1.11.jar": {
+  "path": "mods/a/[物品高亮] Highlighter-1.21-neoforge-1.1.11.jar",
+  "title": "Item Highlighter",
+  "gh": "AHilyard/Highlighter",
+  "source": "https://github.com/AHilyard/Highlighter/",
+  "downloads": 16642517,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "a/[物理声效重制版] sound-physics-remastered-neoforge-1.21.1-1.5.1.jar": {
+  "path": "mods/a/[物理声效重制版] sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+  "title": "Sound Physics Remastered",
+  "gh": "henkelmax/sound-physics-remastered",
+  "source": "https://github.com/henkelmax/sound-physics-remastered",
+  "downloads": 52083682,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[玉 🔍] Jade-1.21.1-NeoForge-15.10.5.jar": {
+  "path": "mods/a/[玉 🔍] Jade-1.21.1-NeoForge-15.10.5.jar",
+  "title": "Jade 🔍",
+  "gh": "Snownee/Jade",
+  "source": "https://github.com/Snownee/Jade",
+  "downloads": 66976488,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "a/[现代化 UI] ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar": {
+  "path": "mods/a/[现代化 UI] ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+  "title": "Modern UI",
+  "gh": "BloCamLimb/ModernUI-MC",
+  "source": "https://github.com/BloCamLimb/ModernUI-MC",
+  "downloads": 21528532,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "a/[现代化修复] modernfix-neoforge-5.27.4+mc1.21.1.jar": {
+  "path": "mods/a/[现代化修复] modernfix-neoforge-5.27.4+mc1.21.1.jar",
+  "title": "ModernFix",
+  "gh": "embeddedt/ModernFix",
+  "source": "https://github.com/embeddedt/ModernFix",
+  "downloads": 76865964,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[简单的语音聊天] voicechat-neoforge-1.21.1-2.6.16.jar": {
+  "path": "mods/a/[简单的语音聊天] voicechat-neoforge-1.21.1-2.6.16.jar",
+  "title": "Simple Voice Chat",
+  "gh": "henkelmax/simple-voice-chat",
+  "source": "https://github.com/henkelmax/simple-voice-chat",
+  "downloads": 67944877,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "a/[精巧手艺] handcrafted-neoforge-1.21.1-4.0.3.jar": {
+  "path": "mods/a/[精巧手艺] handcrafted-neoforge-1.21.1-4.0.3.jar",
+  "title": "Handcrafted",
+  "gh": "terrarium-earth/Handcrafted",
+  "source": "https://github.com/terrarium-earth/Handcrafted",
+  "downloads": 25613606,
+  "license": "LicenseRef-Terrarium-Licence",
+  "via": "modrinth-api"
+ },
+ "a/[聊天动画] chatanimation-neoforge-1.21.1-1.1.3.jar": {
+  "path": "mods/a/[聊天动画] chatanimation-neoforge-1.21.1-1.1.3.jar",
+  "title": "Chat Animation [Smooth Chat]",
+  "gh": "Ezzenix/ChatAnimation",
+  "source": "https://github.com/Ezzenix/ChatAnimation",
+  "downloads": 21676778,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[聊天头像] chat_heads-0.15.1-neoforge-1.21.jar": {
+  "path": "mods/a/[聊天头像] chat_heads-0.15.1-neoforge-1.21.jar",
+  "title": "Chat Heads",
+  "gh": "dzwdz/chat_heads",
+  "source": "https://github.com/dzwdz/chat_heads",
+  "downloads": 48079605,
+  "license": "MPL-2.0",
+  "via": "modrinth-api"
+ },
+ "a/[自动汉化更新] I18nUpdateMod-3.7.0-all.jar": {
+  "path": "mods/a/[自动汉化更新] I18nUpdateMod-3.7.0-all.jar",
+  "title": "I18nUpdateMod",
+  "gh": "xfl03/I18nUpdateMod3",
+  "source": "https://github.com/xfl03/I18nUpdateMod3",
+  "downloads": 16841335,
+  "license": "AGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[自定义游戏加载界面] drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar": {
+  "path": "mods/a/[自定义游戏加载界面] drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
+  "title": "Drippy Loading Screen",
+  "gh": "Keksuccino/Drippy-Loading-Screen",
+  "source": "https://github.com/Keksuccino/Drippy-Loading-Screen",
+  "downloads": 21652478,
+  "license": "LicenseRef-DSMSLv3",
+  "via": "modrinth-api"
+ },
+ "a/[自然罗盘／生物群系指南针] NaturesCompass-1.21.1-3.4.0-neoforge.jar": {
+  "path": "mods/a/[自然罗盘／生物群系指南针] NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+  "title": "Nature's Compass",
+  "gh": "MattCzyr/NaturesCompass",
+  "source": "https://github.com/MattCzyr/NaturesCompass",
+  "downloads": 25283783,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "a/[自然音效] AmbientSounds_NEOFORGE_v6.3.7_mc1.21.1.jar": {
+  "path": "mods/a/[自然音效] AmbientSounds_NEOFORGE_v6.3.7_mc1.21.1.jar",
+  "title": "AmbientSounds",
+  "gh": "CreativeMD/AmbientSounds",
+  "source": "https://github.com/CreativeMD/AmbientSounds",
+  "downloads": 38017227,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[苹果皮] appleskin-neoforge-mc1.21-3.0.9.jar": {
+  "path": "mods/a/[苹果皮] appleskin-neoforge-mc1.21-3.0.9.jar",
+  "title": "AppleSkin",
+  "gh": "squeek502/AppleSkin",
+  "source": "https://github.com/squeek502/AppleSkin",
+  "downloads": 88365218,
+  "license": "Unlicense",
+  "via": "modrinth-api"
+ },
+ "a/[超多生物群系] BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar": {
+  "path": "mods/a/[超多生物群系] BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+  "title": "Biomes O' Plenty",
+  "gh": "Glitchfiend/BiomesOPlenty",
+  "source": "https://github.com/Glitchfiend/BiomesOPlenty",
+  "downloads": 35200411,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "a/[通用机械] Mekanism-1.21.1-10.7.19.85.jar": {
+  "path": "mods/a/[通用机械] Mekanism-1.21.1-10.7.19.85.jar",
+  "title": "Mekanism",
+  "gh": "mekanism/Mekanism",
+  "source": "https://github.com/mekanism/Mekanism",
+  "downloads": 3609437,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[铁氧体磁芯] ferritecore-7.0.3-neoforge.jar": {
+  "path": "mods/a/[铁氧体磁芯] ferritecore-7.0.3-neoforge.jar",
+  "title": "FerriteCore",
+  "gh": "malte0811/FerriteCore",
+  "source": "https://github.com/malte0811/FerriteCore",
+  "downloads": 149414054,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "a/[锂] lithium-neoforge-0.15.3+mc1.21.1.jar": {
+  "path": "mods/a/[锂] lithium-neoforge-0.15.3+mc1.21.1.jar",
+  "title": "Lithium",
+  "gh": "caffeinemc/lithium-fabric",
+  "source": "https://github.com/caffeinemc/lithium-fabric",
+  "downloads": 126459236,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[锦致装饰] supplementaries-1.21-3.5.34-neoforge.jar": {
+  "path": "mods/a/[锦致装饰] supplementaries-1.21-3.5.34-neoforge.jar",
+  "title": "Supplementaries",
+  "gh": "MehVahdJukaar/Supplementaries",
+  "source": "https://github.com/MehVahdJukaar/Supplementaries",
+  "downloads": 26900944,
+  "license": "LicenseRef-Supplementaries-Team-License",
+  "via": "modrinth-api"
+ },
+ "a/[附魔描述] enchdesc-neoforge-1.21.1-21.1.9.jar": {
+  "path": "mods/a/[附魔描述] enchdesc-neoforge-1.21.1-21.1.9.jar",
+  "title": "Enchantment Descriptions",
+  "gh": "Darkhax-Minecraft/Enchantment-Descriptions",
+  "source": "https://github.com/Darkhax-Minecraft/Enchantment-Descriptions",
+  "downloads": 36695759,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "a/[预生成区块] Chunky-NeoForge-1.4.23.jar": {
+  "path": "mods/a/[预生成区块] Chunky-NeoForge-1.4.23.jar",
+  "title": "Chunky",
+  "gh": "pop4959/Chunky",
+  "source": "https://github.com/pop4959/Chunky",
+  "downloads": 17730960,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "a/[鼠标手势] MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
+  "path": "mods/a/[鼠标手势] MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+  "title": "Mouse Tweaks",
+  "gh": "YaLTeR/MouseTweaks",
+  "source": "https://github.com/YaLTeR/MouseTweaks",
+  "downloads": 57500048,
+  "license": "BSD-3-Clause",
+  "via": "modrinth-api"
+ },
+ "accessories-neoforge-1.1.0-beta.53+1.21.1.jar": {
+  "path": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+  "title": "Accessories",
+  "gh": "wisp-forest/accessories",
+  "source": "https://github.com/wisp-forest/accessories/",
+  "downloads": 13294740,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "aetherial-islands-2.0.2.jar": {
+  "path": "mods/aetherial-islands-2.0.2.jar",
+  "title": "Aetherial Islands",
+  "gh": "klinbee/Aetherial-Islands",
+  "source": "https://github.com/klinbee/Aetherial-Islands",
+  "downloads": 115691,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "architectury-13.0.11-neoforge.jar": {
+  "path": "mods/architectury-13.0.11-neoforge.jar",
+  "title": "Architectury API",
+  "gh": "architectury/architectury",
+  "source": "https://github.com/architectury/architectury",
+  "downloads": 98546473,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "async-locator-refined-neoforge-1.21.1-1.6.0.jar": {
+  "path": "mods/async-locator-refined-neoforge-1.21.1-1.6.0.jar",
+  "title": "Async Locator Refined",
+  "gh": "Alvaro842DEV/AsyncLocator-Refined",
+  "source": "https://github.com/Alvaro842DEV/AsyncLocator-Refined",
+  "downloads": 37500,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "asynclogger-2.2.2+1.21.1-neoforge.jar": {
+  "path": "mods/asynclogger-2.2.2+1.21.1-neoforge.jar",
+  "title": "Async Logger",
+  "gh": "decce6/AsyncLogger",
+  "source": "https://github.com/decce6/AsyncLogger",
+  "downloads": 1427265,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "baguettelib-1.21.1-NeoForge-2.0.3.jar": {
+  "path": "mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+  "title": "BaguetteLib",
+  "gh": null,
+  "source": null,
+  "downloads": 2580831,
+  "license": "MIT",
+  "via": null,
+  "local_decompiled": true,
+  "loc": 2012,
+  "local_jar": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+  "local_pack": "星轨重铸"
+ },
+ "balm-neoforge-1.21.1-21.0.64.jar": {
+  "path": "mods/balm-neoforge-1.21.1-21.0.64.jar",
+  "title": "Balm",
+  "gh": "TwelveIterations/Balm",
+  "source": "https://github.com/TwelveIterations/Balm",
+  "downloads": 58295792,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "bookshelf-neoforge-1.21.1-21.1.81.jar": {
+  "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+  "title": "Bookshelf",
+  "gh": "Darkhax-Minecraft/Bookshelf",
+  "source": "https://github.com/Darkhax-Minecraft/Bookshelf",
+  "downloads": 45148100,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "caelus-neoforge-7.0.1+1.21.1.jar": {
+  "path": "mods/caelus-neoforge-7.0.1+1.21.1.jar",
+  "title": "Caelus API",
+  "gh": "TheIllusiveC4/Caelus",
+  "source": "https://github.com/TheIllusiveC4/Caelus",
+  "downloads": 7667380,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "cloth-config-15.0.140-neoforge.jar": {
+  "path": "mods/cloth-config-15.0.140-neoforge.jar",
+  "title": "Cloth Config API",
+  "gh": "shedaniel/ClothConfig",
+  "source": "https://github.com/shedaniel/ClothConfig/",
+  "downloads": 166142525,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "CodeChickenLib-1.21.1-4.6.1.529.jar": {
+  "path": "mods/CodeChickenLib-1.21.1-4.6.1.529.jar",
+  "title": "CodeChicken Lib",
+  "gh": "TheCBProject/CodeChickenLib",
+  "source": "https://github.com/TheCBProject/CodeChickenLib",
+  "downloads": 3242695,
+  "license": "LGPL-2.1-or-later",
+  "via": "modrinth-api"
+ },
+ "collective-1.21.1-8.39.jar": {
+  "path": "mods/collective-1.21.1-8.39.jar",
+  "title": "Collective",
+  "gh": "Serilum/Collective",
+  "source": "https://github.com/Serilum/Collective",
+  "downloads": 63827596,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "continuity-3.0.0+1.21.neoforge.jar": {
+  "path": "mods/continuity-3.0.0+1.21.neoforge.jar",
+  "title": "Continuity",
+  "gh": "PepperCode1/Continuity",
+  "source": "https://github.com/PepperCode1/Continuity",
+  "downloads": 72229371,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "create-aeronautics-bundled-1.21.1-1.3.1.jar": {
+  "path": "mods/create-aeronautics-bundled-1.21.1-1.3.1.jar",
+  "title": "Create Aeronautics",
+  "gh": "Creators-of-Aeronautics/Simulated-Project",
+  "source": "https://github.com/Creators-of-Aeronautics/Simulated-Project",
+  "downloads": 7880888,
+  "license": "LicenseRef-Simulated-Project-License",
+  "via": "modrinth-api"
+ },
+ "createdeco-2.1.3.jar": {
+  "path": "mods/createdeco-2.1.3.jar",
+  "title": "Create Deco",
+  "gh": "talrey/CreateDeco",
+  "source": "https://github.com/talrey/CreateDeco",
+  "downloads": 7322738,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "createredstonelinkgui-1.21.1-1.9.2.jar": {
+  "path": "mods/createredstonelinkgui-1.21.1-1.9.2.jar",
+  "title": "Create: Redstone Link GUI",
+  "gh": "ggrgg13/Create--Redstone-Link-GUI",
+  "source": "https://github.com/ggrgg13/Create--Redstone-Link-GUI",
+  "downloads": 33718,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar": {
+  "path": "mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+  "title": "CreativeCore",
+  "gh": "CreativeMD/CreativeCore",
+  "source": "https://github.com/CreativeMD/CreativeCore",
+  "downloads": 50470385,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "cristellib-neoforge-1.21.1-3.1.5.jar": {
+  "path": "mods/cristellib-neoforge-1.21.1-3.1.5.jar",
+  "title": "Cristel Lib",
+  "gh": "Cristelknight999/Cristel-Lib",
+  "source": "https://github.com/Cristelknight999/Cristel-Lib",
+  "downloads": 17579752,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "Cucumber-1.21.1-8.0.16.jar": {
+  "path": "mods/Cucumber-1.21.1-8.0.16.jar",
+  "title": "Cucumber Library",
+  "gh": "BlakeBr0/Cucumber",
+  "source": "https://github.com/BlakeBr0/Cucumber",
+  "downloads": 1633732,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "curios-neoforge-9.0.15+1.21.1.jar": {
+  "path": "mods/curios-neoforge-9.0.15+1.21.1.jar",
+  "title": "Curios API Continuation",
+  "gh": "SSKirillSS/Curios",
+  "source": "https://github.com/SSKirillSS/Curios",
+  "downloads": 321057,
+  "license": "GPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "curios-neoforge-9.5.1+1.21.1.jar": {
+  "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+  "title": "Curios API",
+  "gh": "TheIllusiveC4/Curios",
+  "source": "https://github.com/TheIllusiveC4/Curios",
+  "downloads": 30669826,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "deimos-1.21.1-neoforge-2.7.jar": {
+  "path": "mods/deimos-1.21.1-neoforge-2.7.jar",
+  "title": "Deimos",
+  "gh": "Mars-The-Planet/Deimos",
+  "source": "https://github.com/Mars-The-Planet/Deimos",
+  "downloads": 1683202,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "diabolical-islands-1.0.0.jar": {
+  "path": "mods/diabolical-islands-1.0.0.jar",
+  "title": "Diabolical Islands",
+  "gh": "klinbee/Diabolical-Islands",
+  "source": "https://github.com/klinbee/Diabolical-Islands",
+  "downloads": 11433,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar": {
+  "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+  "title": "Euphoria Patches",
+  "gh": "EuphoriaPatches/EuphoriaPatcher",
+  "source": "https://github.com/EuphoriaPatches/EuphoriaPatcher",
+  "downloads": 26879080,
+  "license": "MPL-2.0",
+  "via": "modrinth-api"
+ },
+ "fancymenu_neoforge_3.9.9_MC_1.21.1.jar": {
+  "path": "mods/fancymenu_neoforge_3.9.9_MC_1.21.1.jar",
+  "title": "FancyMenu",
+  "gh": "Keksuccino/FancyMenu",
+  "source": "https://github.com/Keksuccino/FancyMenu",
+  "downloads": 64517875,
+  "license": "LicenseRef-DSMSLv3.1",
+  "via": "modrinth-api"
+ },
+ "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar": {
+  "path": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+  "title": "Forgified Fabric API",
+  "gh": "Sinytra/ForgifiedFabricAPI",
+  "source": "https://github.com/Sinytra/ForgifiedFabricAPI",
+  "downloads": 27940335,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "fzzy_config-0.7.6+1.21+neoforge.jar": {
+  "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+  "title": "Fzzy Config",
+  "gh": "fzzyhmstrs/fconfig",
+  "source": "https://github.com/fzzyhmstrs/fconfig",
+  "downloads": 38375554,
+  "license": "LicenseRef-TDL-M",
+  "via": "modrinth-api"
+ },
+ "geckolib-neoforge-1.21.1-4.8.4.jar": {
+  "path": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+  "title": "Geckolib",
+  "gh": "bernie-g/geckolib",
+  "source": "https://github.com/bernie-g/geckolib",
+  "downloads": 68663922,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "GlitchCore-neoforge-1.21.1-2.1.0.0.jar": {
+  "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+  "title": "GlitchCore",
+  "gh": "Glitchfiend/GlitchCore",
+  "source": "https://github.com/Glitchfiend/GlitchCore",
+  "downloads": 21897884,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "gnetum-3.3.6.jar": {
+  "path": "mods/gnetum-3.3.6.jar",
+  "title": "Gnetum",
+  "gh": "decce6/Gnetum",
+  "source": "https://github.com/decce6/Gnetum",
+  "downloads": 3727975,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "GPUTape-1.20.6-1.21x-1.0.3.jar": {
+  "path": "mods/GPUTape-1.20.6-1.21x-1.0.3.jar",
+  "title": "GPUBooster",
+  "gh": "ITsMrToad/GpuTape",
+  "source": "https://github.com/ITsMrToad/GpuTape",
+  "downloads": 6077127,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "guideme-21.1.16.jar": {
+  "path": "mods/guideme-21.1.16.jar",
+  "title": "GuideME",
+  "gh": "AppliedEnergistics/GuideME",
+  "source": "https://github.com/AppliedEnergistics/GuideME/",
+  "downloads": 2958890,
+  "license": "LicenseRef-Multiple-OSS-Licenses",
+  "via": "modrinth-api"
+ },
+ "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar": {
+  "path": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+  "title": "Immersive UI",
+  "gh": "Octo-Studios/immersive-ui",
+  "source": "https://github.com/Octo-Studios/immersive-ui",
+  "downloads": 6231327,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar": {
+  "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+  "title": "Iris Shaders",
+  "gh": "IrisShaders/Iris",
+  "source": "https://github.com/IrisShaders/Iris",
+  "downloads": 174203494,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "irisveil-0.3.0.jar": {
+  "path": "mods/irisveil-0.3.0.jar",
+  "title": "Iris Veil Compat",
+  "gh": "leon-o/iris-veil-compat",
+  "source": "https://github.com/leon-o/iris-veil-compat",
+  "downloads": 92206,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "Ixeris-4.6.2+1.21.1-neoforge.jar": {
+  "path": "mods/Ixeris-4.6.2+1.21.1-neoforge.jar",
+  "title": "Ixeris",
+  "gh": "decce6/Ixeris",
+  "source": "https://github.com/decce6/Ixeris",
+  "downloads": 10184435,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "jauml-neoforge-1.21.1-2.1.0.jar": {
+  "path": "mods/jauml-neoforge-1.21.1-2.1.0.jar",
+  "title": "Jauml",
+  "gh": "MeherBenSalem/Jauml",
+  "source": "https://github.com/MeherBenSalem/Jauml",
+  "downloads": 160039,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar": {
+  "path": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+  "title": "Just Enough Resources (JER)",
+  "gh": "way2muchnoise/JustEnoughResources",
+  "source": "https://github.com/way2muchnoise/JustEnoughResources",
+  "downloads": 6641545,
+  "license": "LicenseRef-Dont-Be-a-Jerk",
+  "via": "modrinth-api"
+ },
+ "kilagraph-neoforge-1.21.1-21.1.0.8.jar": {
+  "path": "mods/kilagraph-neoforge-1.21.1-21.1.0.8.jar",
+  "title": "KilaGraph",
+  "gh": "Low-Drag-MC/KilaGraph",
+  "source": "https://github.com/Low-Drag-MC/KilaGraph",
+  "downloads": 13952,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "konkrete_neoforge_1.9.9_MC_1.21.jar": {
+  "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+  "title": "Konkrete",
+  "gh": "Keksuccino/Konkrete",
+  "source": "https://github.com/Keksuccino/Konkrete",
+  "downloads": 60266958,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "KotlinLangForge-2.12.1-k2.4.0-3.0+neoforge.jar": {
+  "path": "mods/KotlinLangForge-2.12.1-k2.4.0-3.0+neoforge.jar",
+  "title": "KotlinLangForge",
+  "gh": "btwonion/KotlinLangForge",
+  "source": "https://github.com/btwonion/KotlinLangForge",
+  "downloads": 1045255,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "kubejs-neoforge-2101.7.2-build.368.jar": {
+  "path": "mods/kubejs-neoforge-2101.7.2-build.368.jar",
+  "title": "KubeJS",
+  "gh": "KubeJS-Mods/KubeJS",
+  "source": "https://github.com/KubeJS-Mods/KubeJS",
+  "downloads": 20802984,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "l2library-3.0.8.jar": {
+  "path": "mods/l2library-3.0.8.jar",
+  "title": "L2 Library",
+  "gh": "Minecraft-LightLand/L2Library",
+  "source": "https://github.com/Minecraft-LightLand/L2Library",
+  "downloads": 3426315,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "ldlib2-neoforge-1.21.1-2.2.32-all.jar": {
+  "path": "mods/ldlib2-neoforge-1.21.1-2.2.32-all.jar",
+  "title": "LDLib",
+  "gh": "Low-Drag-MC/LDLib-Architectury",
+  "source": "https://github.com/Low-Drag-MC/LDLib-Architectury",
+  "downloads": 2216485,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "libIPN-neoforge-1.21.1-6.6.3.jar": {
+  "path": "mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+  "title": "libIPN",
+  "gh": "blackd/libIPN",
+  "source": "https://github.com/blackd/libIPN",
+  "downloads": 33544214,
+  "license": "AGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "lightmanscurrency-1.21-2.3.0.5.jar": {
+  "path": "mods/lightmanscurrency-1.21-2.3.0.5.jar",
+  "title": "Lightman's Currency",
+  "gh": "Lightman314/LightmansCurrency",
+  "source": "https://github.com/Lightman314/LightmansCurrency",
+  "downloads": 3296944,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "lionfishapi-3.0.jar": {
+  "path": "mods/lionfishapi-3.0.jar",
+  "title": "Lionfish-API",
+  "gh": "lender544/Lionfish-API",
+  "source": "https://github.com/lender544/Lionfish-API",
+  "downloads": 4028378,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "lithostitched-1.7.7-neoforge-21.1.jar": {
+  "path": "mods/lithostitched-1.7.7-neoforge-21.1.jar",
+  "title": "Lithostitched",
+  "gh": "Apollounknowndev/lithostitched",
+  "source": "https://github.com/Apollounknowndev/lithostitched/",
+  "downloads": 22406731,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "lootr-neoforge-1.21.1-1.11.37.119.jar": {
+  "path": "mods/lootr-neoforge-1.21.1-1.11.37.119.jar",
+  "title": "Lootr",
+  "gh": "noobanidus/lootr",
+  "source": "https://github.com/noobanidus/lootr",
+  "downloads": 22001897,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "malilib-fabric-1.21-0.21.10.jar": {
+  "path": "mods/malilib-fabric-1.21-0.21.10.jar",
+  "title": "MaLiLib",
+  "gh": "maruohon/malilib",
+  "source": "https://github.com/maruohon/malilib/",
+  "downloads": 34626545,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "melody_neoforge_1.0.10_MC_1.21.jar": {
+  "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+  "title": "Melody",
+  "gh": "Keksuccino/Melody",
+  "source": "https://github.com/Keksuccino/Melody",
+  "downloads": 48711932,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "merequester-neoforge-1.21.1-1.4.2.jar": {
+  "path": "mods/merequester-neoforge-1.21.1-1.4.2.jar",
+  "title": "ME Requester",
+  "gh": "AlmostReliable/merequester",
+  "source": "https://github.com/AlmostReliable/merequester",
+  "downloads": 1641811,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "midnightlib-neoforge-1.9.3+1.21.1.jar": {
+  "path": "mods/midnightlib-neoforge-1.9.3+1.21.1.jar",
+  "title": "MidnightLib",
+  "gh": "TeamMidnightDust/MidnightLib",
+  "source": "https://github.com/TeamMidnightDust/MidnightLib",
+  "downloads": 27430613,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar": {
+  "path": "mods/modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar",
+  "title": "Modern World Creation",
+  "gh": "Keksuccino/ModernWorldCreation",
+  "source": "https://github.com/Keksuccino/ModernWorldCreation",
+  "downloads": 945090,
+  "license": "LicenseRef-DSMSLv2",
+  "via": "modrinth-api"
+ },
+ "moonlight-neoforge-1.21.1-3.3.0.jar": {
+  "path": "mods/moonlight-neoforge-1.21.1-3.3.0.jar",
+  "title": "Moonlight Lib",
+  "gh": "MehVahdJukaar/Moonlight",
+  "source": "https://github.com/MehVahdJukaar/Moonlight/tree/multi-loader",
+  "downloads": 39793064,
+  "license": "LicenseRef-LGPL-with-additional-dependency-clause",
+  "via": "modrinth-api"
+ },
+ "MossyLib-1.5.0+1.21.1+neoforge.jar": {
+  "path": "mods/MossyLib-1.5.0+1.21.1+neoforge.jar",
+  "title": "MossyLib",
+  "gh": "LopyMine/MossyLib",
+  "source": "https://github.com/LopyMine/MossyLib",
+  "downloads": 2385486,
+  "license": "CC-BY-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "MutantMonsters-v21.1.1-1.21.1-NeoForge.jar": {
+  "path": "mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+  "title": "Mutant Monsters",
+  "gh": "Fuzss/mutantmonsters",
+  "source": "https://github.com/Fuzss/mutantmonsters",
+  "downloads": 4729432,
+  "license": "AGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "Nirvana Lib-neoforge-1.21.1-2.2.0.jar": {
+  "path": "mods/Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
+  "title": "Nirvana Library",
+  "gh": "TUsama/NirvanaLib",
+  "source": "https://github.com/TUsama/NirvanaLib",
+  "downloads": 197740,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "OctoLib-NEOFORGE-0.6.2+1.21.jar": {
+  "path": "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+  "title": "ShatterLib | OctoLib",
+  "gh": "Octo-Studios/octo-lib",
+  "source": "https://github.com/Octo-Studios/octo-lib",
+  "downloads": 15880745,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar": {
+  "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+  "title": "oωo (owo-lib)",
+  "gh": "glisco03/owo-lib",
+  "source": "https://github.com/glisco03/owo-lib",
+  "downloads": 47123906,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "Paxi-1.21.1-NeoForge-5.1.3.jar": {
+  "path": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
+  "title": "Paxi",
+  "gh": "YUNG-GANG/Paxi",
+  "source": "https://github.com/YUNG-GANG/Paxi",
+  "downloads": 10419446,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "Placebo-1.21.1-9.9.2.jar": {
+  "path": "mods/Placebo-1.21.1-9.9.2.jar",
+  "title": "Placebo",
+  "gh": "Shadows-of-Fire/Placebo",
+  "source": "https://github.com/Shadows-of-Fire/Placebo",
+  "downloads": 1056163,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "Platform-neoforge-1.21.1-1.3.3.jar": {
+  "path": "mods/Platform-neoforge-1.21.1-1.3.3.jar",
+  "title": "Platform",
+  "gh": "ItsBlackGear/Platform",
+  "source": "https://github.com/ItsBlackGear/Platform",
+  "downloads": 8524835,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "preloading-tricks-3.7.3.jar": {
+  "path": "mods/preloading-tricks-3.7.3.jar",
+  "title": "Preloading Tricks",
+  "gh": "SettingDust/preloading-tricks",
+  "source": "https://github.com/SettingDust/preloading-tricks",
+  "downloads": 377475,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "prickle-neoforge-1.21.1-21.1.11.jar": {
+  "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+  "title": "Prickle",
+  "gh": "Darkhax-Minecraft/PrickleMC",
+  "source": "https://github.com/Darkhax-Minecraft/PrickleMC",
+  "downloads": 12534630,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "Prism-1.21.1-neoforge-1.0.11.jar": {
+  "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+  "title": "Prism",
+  "gh": "AHilyard/Prism",
+  "source": "https://github.com/AHilyard/Prism/",
+  "downloads": 17460567,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "ProbeJS-8.0.2.jar": {
+  "path": "mods/ProbeJS-8.0.2.jar",
+  "title": "ProbeJS",
+  "gh": "Prunoideae/ProbeJS",
+  "source": "https://github.com/Prunoideae/ProbeJS",
+  "downloads": 712521,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar": {
+  "path": "mods/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+  "title": "Puzzles Lib",
+  "gh": "Fuzss/puzzleslib",
+  "source": "https://github.com/Fuzss/puzzleslib",
+  "downloads": 60635651,
+  "license": "MPL-2.0",
+  "via": "modrinth-api"
+ },
+ "quick-pack-neoforge-1.3.2+1.21.8.jar": {
+  "path": "mods/quick-pack-neoforge-1.3.2+1.21.8.jar",
+  "title": "quick pack",
+  "gh": "DrexHD/quick-pack",
+  "source": "https://github.com/DrexHD/quick-pack",
+  "downloads": 1546992,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar": {
+  "path": "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+  "title": "Steam 'n' Rails Neoforge",
+  "gh": "PoppyBlossom/Railway-1.21.1",
+  "source": "https://github.com/PoppyBlossom/Railway-1.21.1",
+  "downloads": 2177116,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "resourcefulconfig-neoforge-1.21-3.0.11.jar": {
+  "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+  "title": "Resourceful Config",
+  "gh": "Team-Resourceful/Resourceful-Config",
+  "source": "https://github.com/Team-Resourceful/Resourceful-Config",
+  "downloads": 24115278,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "resourcefullib-neoforge-1.21-3.0.12.jar": {
+  "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+  "title": "Resourceful Lib",
+  "gh": "Team-Resourceful/ResourcefulLib",
+  "source": "https://github.com/Team-Resourceful/ResourcefulLib",
+  "downloads": 34456376,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar": {
+  "path": "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+  "title": "Ritchie's Projectile Library",
+  "gh": "Wagers-of-Industrial-Warfare/RitchiesProjectileLib",
+  "source": "https://github.com/Wagers-of-Industrial-Warfare/RitchiesProjectileLib",
+  "downloads": 3226551,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "sable-neoforge-1.21.1-2.0.4.jar": {
+  "path": "mods/sable-neoforge-1.21.1-2.0.4.jar",
+  "title": "Sable",
+  "gh": "ryanhcode/sable",
+  "source": "https://github.com/ryanhcode/sable",
+  "downloads": 5393489,
+  "license": "LicenseRef-PolyForm-Shield-License-1.0.0",
+  "via": "modrinth-api"
+ },
+ "sable-photomancy-1.0.1.jar": {
+  "path": "mods/sable-photomancy-1.0.1.jar",
+  "title": "Sable Photomancy",
+  "gh": "Rew1nd-dev/sable-schematic-api",
+  "source": "https://github.com/Rew1nd-dev/sable-schematic-api",
+  "downloads": 398244,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "Searchables-neoforge-1.21.1-1.0.2.jar": {
+  "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+  "title": "Searchables",
+  "gh": "jaredlll08/searchables",
+  "source": "https://github.com/jaredlll08/searchables",
+  "downloads": 38237143,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "soulbound-neoforge-1.0.1+1.21.1.jar": {
+  "path": "mods/soulbound-neoforge-1.0.1+1.21.1.jar",
+  "title": "Soulbound Enchantment",
+  "gh": "iMoonDay/Soulbound",
+  "source": null,
+  "downloads": 251550,
+  "license": "MIT",
+  "via": "jar-meta"
+ },
+ "sparsestructures-neoforge-1.21.1-3.0.jar": {
+  "path": "mods/sparsestructures-neoforge-1.21.1-3.0.jar",
+  "title": "Sparse Structures",
+  "gh": "MaxenceDC/sparsestructures",
+  "source": "https://github.com/MaxenceDC/sparsestructures",
+  "downloads": 7805818,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar": {
+  "path": "mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+  "title": "SuperMartijn642's Core Lib",
+  "gh": "SuperMartijn642/SuperMartijn642sCoreLib",
+  "source": "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib",
+  "downloads": 17313340,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar": {
+  "path": "mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar",
+  "title": "[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port",
+  "gh": "MUKSC/TACZ-1.21.1",
+  "source": "https://github.com/MUKSC/TACZ-1.21.1",
+  "downloads": 930366,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "tacz-pack-upgrader-2.1.1.jar": {
+  "path": "mods/tacz-pack-upgrader-2.1.1.jar",
+  "title": "TaCZ Pack Upgrader",
+  "gh": "MUKSC/TaCZPackUpgrader",
+  "source": "https://github.com/MUKSC/TaCZPackUpgrader",
+  "downloads": 165666,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "TerraBlender-neoforge-1.21.1-4.1.0.8.jar": {
+  "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+  "title": "TerraBlender",
+  "gh": "Glitchfiend/TerraBlender",
+  "source": "https://github.com/Glitchfiend/TerraBlender/",
+  "downloads": 38846546,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "toolbar-sounds-1.1.jar": {
+  "path": "mods/toolbar-sounds-1.1.jar",
+  "title": "Toolbar Sounds",
+  "gh": "villainous-j/toolbar-sounds",
+  "source": "https://github.com/villainous-j/toolbar-sounds",
+  "downloads": 673103,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "trimmed-neo-1.21-3.0.0.jar": {
+  "path": "mods/trimmed-neo-1.21-3.0.0.jar",
+  "title": "Trimmed",
+  "gh": "dhyces/trimmed",
+  "source": "https://github.com/dhyces/trimmed",
+  "downloads": 252487,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "Voxy World Gen V2-neoforge-1.21.1-2.4.2.jar": {
+  "path": "mods/Voxy World Gen V2-neoforge-1.21.1-2.4.2.jar",
+  "title": "Voxy WorldGen",
+  "gh": "iSeeEthan/voxy_worldgen_v2",
+  "source": "https://github.com/iSeeEthan/voxy_worldgen_v2",
+  "downloads": 837579,
+  "license": "LicenseRef-iSeeEthan-Custom-License",
+  "via": "modrinth-api"
+ },
+ "waystonessable-1.0.7.jar": {
+  "path": "mods/waystonessable-1.0.7.jar",
+  "title": "Waystones: Sable (Create Aeronautics Addon)",
+  "gh": "SShakusora/WaystonesSable",
+  "source": "https://github.com/SShakusora/WaystonesSable",
+  "downloads": 181575,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar": {
+  "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+  "title": "YetAnotherConfigLib (YACL)",
+  "gh": "isXander/YetAnotherConfigLib",
+  "source": "https://github.com/isXander/YetAnotherConfigLib",
+  "downloads": 121100142,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "YungsApi-1.21.1-NeoForge-5.1.6.jar": {
+  "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+  "title": "YUNG's API",
+  "gh": "YUNG-GANG/YUNGs-API",
+  "source": "https://github.com/YUNG-GANG/YUNGs-API",
+  "downloads": 33970872,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[AE2无线终端] ae2wtlib-19.5.0.jar": {
+  "path": "mods/[AE2无线终端] ae2wtlib-19.5.0.jar",
+  "title": "Applied Energistics 2 Wireless Terminals",
+  "gh": "Mari023/AE2WirelessTerminalLibrary",
+  "source": "https://github.com/Mari023/AE2WirelessTerminalLibrary",
+  "downloads": 2941859,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[Asteor的状态栏和血量显示] asteorbar-neoforge-1.21.1-1.5.3.jar": {
+  "path": "mods/[Asteor的状态栏和血量显示] asteorbar-neoforge-1.21.1-1.5.3.jar",
+  "title": "AsteorBar",
+  "gh": "afoxxvi/AsteorBarMod",
+  "source": "https://github.com/afoxxvi/AsteorBarMod",
+  "downloads": 972610,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[JEI物品管理器] jei-1.21.1-neoforge-19.43.0.393.jar": {
+  "path": "mods/[JEI物品管理器] jei-1.21.1-neoforge-19.43.0.393.jar",
+  "title": "Just Enough Items (JEI)",
+  "gh": "mezz/JustEnoughItems",
+  "source": "https://github.com/mezz/JustEnoughItems",
+  "downloads": 75972741,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[Macaw 的小径和路面] mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar": {
+  "path": "mods/[Macaw 的小径和路面] mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+  "title": "Macaw's Paths and Pavings",
+  "gh": "sketchmacaw/Paths-Pavings",
+  "source": "https://github.com/sketchmacaw/Paths-Pavings",
+  "downloads": 5246800,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[Minecraft Chromium 嵌入式框架] mcef-neoforge-2.1.6-1.21.1.jar": {
+  "path": "mods/[Minecraft Chromium 嵌入式框架] mcef-neoforge-2.1.6-1.21.1.jar",
+  "title": "MCEF (Minecraft Chromium Embedded Framework)",
+  "gh": "CinemaMod/mcef",
+  "source": "https://github.com/CinemaMod/mcef",
+  "downloads": 725967,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[Qa 村拓展 & 废物革新] qa_extends-1.21.1211-neoforge-1.21.1.jar": {
+  "path": "mods/[Qa 村拓展 & 废物革新] qa_extends-1.21.1211-neoforge-1.21.1.jar",
+  "title": "Qa Villager Extends & Waste innovations",
+  "gh": null,
+  "source": null,
+  "downloads": 2273,
+  "license": "CC-BY-NC-4.0",
+  "via": null,
+  "local_decompiled": true,
+  "loc": 10967,
+  "local_jar": "[Qa 村拓展 & 废物革新] qa_extends-1.21.1211-neoforge-1.21.1.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.16.jar": {
+  "path": "mods/[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+  "title": "Xaero's World Map",
+  "gh": null,
+  "source": null,
+  "downloads": 95299513,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 34696
+ },
+ "[Xaero的地图增强] XaeroPlus-2.31.5+neoforge-1.21.1-WM1.40.16-MM25.3.13.jar": {
+  "path": "mods/[Xaero的地图增强] XaeroPlus-2.31.5+neoforge-1.21.1-WM1.40.16-MM25.3.13.jar",
+  "title": "XaeroPlus",
+  "gh": "rfresh2/XaeroPlus",
+  "source": "https://github.com/rfresh2/XaeroPlus/",
+  "downloads": 11463900,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.13.jar": {
+  "path": "mods/[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.13.jar",
+  "title": "Xaero's Minimap",
+  "gh": null,
+  "source": null,
+  "downloads": 108838953,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 49026
+ },
+ "[YDM的武器大师] weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar": {
+  "path": "mods/[YDM的武器大师] weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
+  "title": "YDM's Weapon Master",
+  "gh": null,
+  "source": null,
+  "downloads": 6535839,
+  "license": "CC0-1.0",
+  "via": null,
+  "local_decompiled": true,
+  "loc": 8681,
+  "local_jar": "[YDM的武器大师] weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[YUNG 的末地岛屿优化] YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar": {
+  "path": "mods/[YUNG 的末地岛屿优化] YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+  "title": "YUNG's Better End Island",
+  "gh": "yungnickyoung/YUNGs-Better-End-Island",
+  "source": "https://github.com/yungnickyoung/YUNGs-Better-End-Island",
+  "downloads": 19251154,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[YUNG 的菜单调整] YungsMenuTweaks-1.21.1-NeoForge-2.1.2.jar": {
+  "path": "mods/[YUNG 的菜单调整] YungsMenuTweaks-1.21.1-NeoForge-2.1.2.jar",
+  "title": "YUNG's Menu Tweaks",
+  "gh": "yungnickyoung/YUNGs-Menu-Tweaks",
+  "source": "https://github.com/yungnickyoung/YUNGs-Menu-Tweaks",
+  "downloads": 6048421,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar": {
+  "path": "mods/[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+  "title": "Inventory Profiles Next",
+  "gh": "blackd/Inventory-Profiles",
+  "source": "https://codeberg.org/Inventory-Profiles-Next-Mod/IPNentory-Profiles",
+  "downloads": 38920541,
+  "license": "AGPL-3.0-or-later",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.20.jar",
+  "local_pack": "[FIDR]暗涌：深岩恐惧",
+  "loc": 69215,
+  "gh_from": "本地 jar 元数据"
+ },
+ "[不死图腾插槽／不死图腾槽位] charmofundying-neoforge-9.1.0+1.21.1.jar": {
+  "path": "mods/[不死图腾插槽／不死图腾槽位] charmofundying-neoforge-9.1.0+1.21.1.jar",
+  "title": "Charm of Undying",
+  "gh": "illusivesoulworks/charmofundying",
+  "source": "https://github.com/illusivesoulworks/charmofundying",
+  "downloads": 8733886,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[丰富的生态] ecologics-1.21.1-2.3.6.jar": {
+  "path": "mods/[丰富的生态] ecologics-1.21.1-2.3.6.jar",
+  "title": "Ecologics",
+  "gh": "samedifferent/Ecologics",
+  "source": "https://github.com/samedifferent/Ecologics",
+  "downloads": 5421393,
+  "license": "LicenseRef-Multiple",
+  "via": "modrinth-api"
+ },
+ "[丰富的饰品：重铸] bountifulbaubles-1.2.5.jar": {
+  "path": "mods/[丰富的饰品：重铸] bountifulbaubles-1.2.5.jar",
+  "title": "BountifulBaubles:Reforked",
+  "gh": null,
+  "source": null,
+  "downloads": 200725,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "loc": 10807,
+  "local_jar": "[丰富的饰品：重铸] bountifulbaubles-1.2.5.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[仁慈的虚空] forgivingvoid-neoforge-1.21.1-21.1.7.jar": {
+  "path": "mods/[仁慈的虚空] forgivingvoid-neoforge-1.21.1-21.1.7.jar",
+  "title": "Forgiving Void",
+  "gh": "TwelveIterations/ForgivingVoid",
+  "source": "https://github.com/TwelveIterations/ForgivingVoid",
+  "downloads": 5376631,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[传奇怪物] legendary_monsters-2.2.1 MC 1.21.1.jar": {
+  "path": "mods/[传奇怪物] legendary_monsters-2.2.1 MC 1.21.1.jar",
+  "title": "Legendary Monsters",
+  "gh": "Miauczel/Legendary-Monsters-1.21.1-NeoForge",
+  "source": "https://github.com/Miauczel/Legendary-Monsters-1.21.1-NeoForge",
+  "downloads": 7541095,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[传说提示框] LegendaryTooltips-1.21.1-neoforge-1.5.5.jar": {
+  "path": "mods/[传说提示框] LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+  "title": "Legendary Tooltips",
+  "gh": "AHilyard/LegendaryTooltips",
+  "source": "https://github.com/AHilyard/LegendaryTooltips/",
+  "downloads": 10225434,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "[传送石碑／指路石] waystones-neoforge-1.21.1-21.1.40.jar": {
+  "path": "mods/[传送石碑／指路石] waystones-neoforge-1.21.1-21.1.40.jar",
+  "title": "Waystones",
+  "gh": "TwelveIterations/Waystones",
+  "source": "https://github.com/TwelveIterations/Waystones",
+  "downloads": 24870393,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[信雅互联] connector-2.0.0-beta.14+1.21.1-full.jar": {
+  "path": "mods/[信雅互联] connector-2.0.0-beta.14+1.21.1-full.jar",
+  "title": "Sinytra Connector",
+  "gh": "Sinytra/Connector",
+  "source": "https://github.com/Sinytra/Connector",
+  "downloads": 24774103,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[傀儡革新] golemoverhaul-neoforge-1.21.1-1.1.0.jar": {
+  "path": "mods/[傀儡革新] golemoverhaul-neoforge-1.21.1-1.1.0.jar",
+  "title": "Golem Overhaul",
+  "gh": "bonsaistudi0s/Golem-Overhaul",
+  "source": "https://github.com/bonsaistudi0s/Golem-Overhaul",
+  "downloads": 445917,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[光子] photon-neoforge-1.21.1-2.1.5.jar": {
+  "path": "mods/[光子] photon-neoforge-1.21.1-2.1.5.jar",
+  "title": "Photon Editor",
+  "gh": "Low-Drag-MC/Photon",
+  "source": "https://github.com/Low-Drag-MC/Photon",
+  "downloads": 1144431,
+  "license": "LicenseRef-Custom-License",
+  "via": "modrinth-api"
+ },
+ "[冰山] Iceberg-1.21.1-neoforge-1.3.2.jar": {
+  "path": "mods/[冰山] Iceberg-1.21.1-neoforge-1.3.2.jar",
+  "title": "Iceberg",
+  "gh": "AHilyard/Iceberg",
+  "source": "https://github.com/AHilyard/Iceberg/",
+  "downloads": 35115870,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "[初始套件] starterkit-1.21.1-8.1.jar": {
+  "path": "mods/[初始套件] starterkit-1.21.1-8.1.jar",
+  "title": "Starter Kit",
+  "gh": "Serilum/Starter-Kit",
+  "source": "https://github.com/Serilum/Starter-Kit",
+  "downloads": 10252033,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[初始建筑] starterstructure-1.21.1-4.2.jar": {
+  "path": "mods/[初始建筑] starterstructure-1.21.1-4.2.jar",
+  "title": "Starter Structure",
+  "gh": "Serilum/Starter-Structure",
+  "source": "https://github.com/Serilum/Starter-Structure",
+  "downloads": 171594,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[动态的树 ／ 有活力的树] dynamictrees-neoforge-1.21.1-1.7.0.jar": {
+  "path": "mods/[动态的树 ／ 有活力的树] dynamictrees-neoforge-1.21.1-1.7.0.jar",
+  "title": "Dynamic Trees",
+  "gh": "DynamicTreesTeam/DynamicTrees",
+  "source": "https://github.com/DynamicTreesTeam/DynamicTrees",
+  "downloads": 12924125,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[动态的树：拓展] DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar": {
+  "path": "mods/[动态的树：拓展] DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar",
+  "title": "Dynamic Trees Plus",
+  "gh": "DynamicTreesTeam/DynamicTreesPlus",
+  "source": "https://github.com/DynamicTreesTeam/DynamicTreesPlus",
+  "downloads": 8638644,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[可拖动列表／可拖动资源包] draggable_lists-mc1.20.6-1.0.8-build.44.jar": {
+  "path": "mods/[可拖动列表／可拖动资源包] draggable_lists-mc1.20.6-1.0.8-build.44.jar",
+  "title": "Draggable Lists",
+  "gh": "MrMelon54/draggable_lists",
+  "source": "https://github.com/MrMelon54/draggable_lists",
+  "downloads": 4741695,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[可视性：重铸] visuality-forge-2.1.0.jar": {
+  "path": "mods/[可视性：重铸] visuality-forge-2.1.0.jar",
+  "title": "Visuality: Reforged",
+  "gh": "DragonsPlusMinecraft/VisualityReforged",
+  "source": "https://github.com/DragonsPlusMinecraft/VisualityReforged",
+  "downloads": 5503014,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[启动时间] startuptime-1.0.0.jar": {
+  "path": "mods/[启动时间] startuptime-1.0.0.jar",
+  "title": "Startup Time",
+  "gh": "ZhuRuoLing/startup-time",
+  "source": "https://github.com/ZhuRuoLing/startup-time",
+  "downloads": 1474304,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[地牢浮现之时] DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar": {
+  "path": "mods/[地牢浮现之时] DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+  "title": "When Dungeons Arise: Seven Seas",
+  "gh": null,
+  "source": null,
+  "downloads": 3784716,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[地牢浮现之时] DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 16
+ },
+ "[增强攻击提示器] enhanced_attack_indicator-1.1.1+1.21-forge.jar": {
+  "path": "mods/[增强攻击提示器] enhanced_attack_indicator-1.1.1+1.21-forge.jar",
+  "title": "Enhanced Attack Indicator",
+  "gh": "Minenash/Enhanced-Attack-Indicator",
+  "source": "https://github.com/Minenash/Enhanced-Attack-Indicator",
+  "downloads": 7993414,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[多态合成] polymorph-neoforge-1.1.0+1.21.1.jar": {
+  "path": "mods/[多态合成] polymorph-neoforge-1.1.0+1.21.1.jar",
+  "title": "Polymorph",
+  "gh": "illusivesoulworks/polymorph",
+  "source": "https://github.com/illusivesoulworks/polymorph",
+  "downloads": 24439356,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[天空村庄] SkyVillages-1.0.6-1.21.x-neoforge-release.jar": {
+  "path": "mods/[天空村庄] SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+  "title": "Sky Villages",
+  "gh": null,
+  "source": null,
+  "downloads": 315194,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "[天空村庄] SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 41
+ },
+ "[奇异饰品] artifacts-neoforge-13.2.1.jar": {
+  "path": "mods/[奇异饰品] artifacts-neoforge-13.2.1.jar",
+  "title": "Artifacts",
+  "gh": "ochotonida/artifacts",
+  "source": "https://github.com/ochotonida/artifacts",
+  "downloads": 13087683,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[实体模型特性] entity_model_features-3.2.4-1.21-neoforge.jar": {
+  "path": "mods/[实体模型特性] entity_model_features-3.2.4-1.21-neoforge.jar",
+  "title": "[EMF] Entity Model Features",
+  "gh": "Traben-0/Entity_Model_Features",
+  "source": "https://github.com/Traben-0/Entity_Model_Features",
+  "downloads": 94564380,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[实体渲染机制优化] entityculling-neoforge-1.10.5-mc1.21.1.jar": {
+  "path": "mods/[实体渲染机制优化] entityculling-neoforge-1.10.5-mc1.21.1.jar",
+  "title": "Entity Culling",
+  "gh": "tr7zw/EntityCulling",
+  "source": "https://github.com/tr7zw/EntityCulling",
+  "downloads": 164860754,
+  "license": "LicenseRef-tr7zw-Protective-License",
+  "via": "modrinth-api"
+ },
+ "[实体纹理特性] entity_texture_features_1.21-neoforge-7.1.jar": {
+  "path": "mods/[实体纹理特性] entity_texture_features_1.21-neoforge-7.1.jar",
+  "title": "[ETF] Entity Texture Features",
+  "gh": "Traben-0/Entity_Texture_Features",
+  "source": "https://github.com/Traben-0/Entity_Texture_Features",
+  "downloads": 99674523,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[属性修复] attributefix-neoforge-1.21.1-21.1.3.jar": {
+  "path": "mods/[属性修复] attributefix-neoforge-1.21.1-21.1.3.jar",
+  "title": "AttributeFix",
+  "gh": "Darkhax-Minecraft/AttributeFix",
+  "source": "https://github.com/Darkhax-Minecraft/AttributeFix",
+  "downloads": 21384060,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[帕秋莉手册] Patchouli-1.21.1-93-NEOFORGE.jar": {
+  "path": "mods/[帕秋莉手册] Patchouli-1.21.1-93-NEOFORGE.jar",
+  "title": "Patchouli",
+  "gh": "VazkiiMods/Patchouli",
+  "source": "https://github.com/VazkiiMods/Patchouli/",
+  "downloads": 34331194,
+  "license": "CC-BY-NC-SA-3.0",
+  "via": "modrinth-api"
+ },
+ "[席地而坐] sit-1.21.1-1.4.jar": {
+  "path": "mods/[席地而坐] sit-1.21.1-1.4.jar",
+  "title": "Sit",
+  "gh": "bl4ckscor3/Sit",
+  "source": "https://github.com/bl4ckscor3/Sit",
+  "downloads": 6490609,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[平滑转移] smoothswapping-0.9.3.2-1.21.1-neoforge.jar": {
+  "path": "mods/[平滑转移] smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+  "title": "Smooth Swapping",
+  "gh": "Schauweg/Smooth-Swapping",
+  "source": "https://github.com/Schauweg/Smooth-Swapping",
+  "downloads": 7456536,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[应用能源2] appliedenergistics2-19.2.17.jar": {
+  "path": "mods/[应用能源2] appliedenergistics2-19.2.17.jar",
+  "title": "Applied Energistics 2",
+  "gh": "AppliedEnergistics/Applied-Energistics-2",
+  "source": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+  "downloads": 5850461,
+  "license": "LicenseRef-Multiple",
+  "via": "modrinth-api"
+ },
+ "[应用能源：通用机械附属] Applied-Mekanistics-1.6.3.jar": {
+  "path": "mods/[应用能源：通用机械附属] Applied-Mekanistics-1.6.3.jar",
+  "title": "Applied Mekanistics",
+  "gh": "AppliedEnergistics/Applied-Mekanistics",
+  "source": "https://github.com/AppliedEnergistics/Applied-Mekanistics",
+  "downloads": 778062,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[建筑手杖-耕云钓月版] constructionwand-kots-1.21.1-2.16.9.jar": {
+  "path": "mods/[建筑手杖-耕云钓月版] constructionwand-kots-1.21.1-2.16.9.jar",
+  "title": "Construction Wand - KOTS",
+  "gh": "GLDYM/ConstructionWand-KOTS",
+  "source": "https://github.com/GLDYM/ConstructionWand-KOTS",
+  "downloads": 58257,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[战利品光束：Refork] Loot Beams Refork-neoforge-1.21.1-3.4.7.jar": {
+  "path": "mods/[战利品光束：Refork] Loot Beams Refork-neoforge-1.21.1-3.4.7.jar",
+  "title": "Loot Beams: Refork",
+  "gh": "TUsama/Loot-Beams-Refork",
+  "source": "https://github.com/TUsama/Loot-Beams-Refork",
+  "downloads": 372414,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[拾光定影] exposure-neoforge-1.21.1-1.9.18.jar": {
+  "path": "mods/[拾光定影] exposure-neoforge-1.21.1-1.9.18.jar",
+  "title": "Exposure",
+  "gh": "mortuusars/Exposure",
+  "source": "https://github.com/mortuusars/Exposure",
+  "downloads": 13876809,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[拾取提示] PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar": {
+  "path": "mods/[拾取提示] PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+  "title": "Pick Up Notifier",
+  "gh": "Fuzss/pickupnotifier",
+  "source": "https://github.com/Fuzss/pickupnotifier",
+  "downloads": 15219507,
+  "license": "MPL-2.0",
+  "via": "modrinth-api"
+ },
+ "[探险者指南针] ExplorersCompass-1.21.1-3.4.0-neoforge.jar": {
+  "path": "mods/[探险者指南针] ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+  "title": "Explorer's Compass",
+  "gh": "MattCzyr/ExplorersCompass",
+  "source": "https://github.com/MattCzyr/ExplorersCompass",
+  "downloads": 11331909,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "[旅人标题] TravelersTitles-1.21.1-NeoForge-5.1.3.jar": {
+  "path": "mods/[旅人标题] TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+  "title": "Traveler's Titles",
+  "gh": "YUNG-GANG/Travelers-Titles",
+  "source": "https://github.com/YUNG-GANG/Travelers-Titles",
+  "downloads": 9051953,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[更多动画] notenoughanimations-neoforge-1.12.3-mc1.21.1.jar": {
+  "path": "mods/[更多动画] notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+  "title": "Not Enough Animations",
+  "gh": "tr7zw/NotEnoughAnimations",
+  "source": "https://github.com/tr7zw/NotEnoughAnimations",
+  "downloads": 85302116,
+  "license": "LicenseRef-tr7zw-Protective-License",
+  "via": "modrinth-api"
+ },
+ "[更多灯笼] additionallanterns-1.1.2-neoforge-mc1.21.jar": {
+  "path": "mods/[更多灯笼] additionallanterns-1.1.2-neoforge-mc1.21.jar",
+  "title": "Additional Lanterns",
+  "gh": "SuperMartijn642/AdditionalLanterns",
+  "source": "https://github.com/SuperMartijn642/AdditionalLanterns",
+  "downloads": 541557,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[更多熔炉] ironfurnaces-neoforge-1.21.1-4.3.2.jar": {
+  "path": "mods/[更多熔炉] ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+  "title": "Iron Furnaces",
+  "gh": "Qelifern/IronFurnaces",
+  "source": "https://github.com/Qelifern/IronFurnaces",
+  "downloads": 9358180,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "[更多箱子] ironchest-1.21-neoforge-16.0.7.jar": {
+  "path": "mods/[更多箱子] ironchest-1.21-neoforge-16.0.7.jar",
+  "title": "Iron Chests",
+  "gh": "progwml6/ironchest",
+  "source": "https://github.com/progwml6/ironchest",
+  "downloads": 2556288,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[更多附魔信息] more-enchantment-info-0.4.2.jar": {
+  "path": "mods/[更多附魔信息] more-enchantment-info-0.4.2.jar",
+  "title": "More Enchantment Info",
+  "gh": "SettingDust/MoreEnchantmentInfo",
+  "source": "https://github.com/SettingDust/MoreEnchantmentInfo",
+  "downloads": 622663,
+  "license": "CC-BY-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "[更多音乐唱片] morediscs-1.21.1-neoforge-35.jar": {
+  "path": "mods/[更多音乐唱片] morediscs-1.21.1-neoforge-35.jar",
+  "title": "More Music Discs",
+  "gh": "Mars-The-Planet/More-Music-Discs",
+  "source": "https://github.com/Mars-The-Planet/More-Music-Discs",
+  "downloads": 1569418,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[更好的图腾] inventorytotem-1.21.1-3.4.jar": {
+  "path": "mods/[更好的图腾] inventorytotem-1.21.1-3.4.jar",
+  "title": "Inventory Totem",
+  "gh": "Serilum/Inventory-Totem",
+  "source": "https://github.com/Serilum/Inventory-Totem",
+  "downloads": 3071560,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[更好的模组列表] better_modlist-21.1.0.jar": {
+  "path": "mods/[更好的模组列表] better_modlist-21.1.0.jar",
+  "title": "Better ModList",
+  "gh": "1foxy2/neo_mod_menu",
+  "source": "https://github.com/1foxy2/neo_mod_menu",
+  "downloads": 3433103,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[更好的进度] BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
+  "path": "mods/[更好的进度] BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+  "title": "Better Advancements",
+  "gh": "way2muchnoise/BetterAdvancements",
+  "source": "https://github.com/way2muchnoise/BetterAdvancements",
+  "downloads": 25314374,
+  "license": "LicenseRef-Dont-Be-a-Jerk",
+  "via": "modrinth-api"
+ },
+ "[末影之景] enderscape-neoforge-1.0.9+mc1.21.1.jar": {
+  "path": "mods/[末影之景] enderscape-neoforge-1.0.9+mc1.21.1.jar",
+  "title": "Enderscape",
+  "gh": "Penumbra-MC/Enderscape",
+  "source": "https://github.com/Penumbra-MC/Enderscape",
+  "downloads": 862758,
+  "license": "LicenseRef-Enderscape-Mod-License",
+  "via": "modrinth-api"
+ },
+ "[末影人革新] endermanoverhaul-neoforge-1.21.1-2.0.3.jar": {
+  "path": "mods/[末影人革新] endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+  "title": "Enderman Overhaul",
+  "gh": "bonsaistudi0s/Enderman-Overhaul",
+  "source": "https://github.com/bonsaistudi0s/Enderman-Overhaul",
+  "downloads": 7881987,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[末影存储] EnderStorage-1.21.1-2.13.0.191.jar": {
+  "path": "mods/[末影存储] EnderStorage-1.21.1-2.13.0.191.jar",
+  "title": "Ender Storage",
+  "gh": "TheCBProject/EnderStorage",
+  "source": "https://github.com/TheCBProject/EnderStorage",
+  "downloads": 641347,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[机械动力] create-1.21.1-6.0.10.jar": {
+  "path": "mods/[机械动力] create-1.21.1-6.0.10.jar",
+  "title": "Create",
+  "gh": "Creators-of-Create/Create",
+  "source": "https://github.com/Creators-of-Create/Create",
+  "downloads": 25772215,
+  "license": "LicenseRef-Create-Mod-License",
+  "via": "modrinth-api"
+ },
+ "[机械动力火炮：先进技术] cbc_at_Neoforge_1.21.1_0.1.4c.jar": {
+  "path": "mods/[机械动力火炮：先进技术] cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+  "title": "Create Big Cannons: Advanced Technologies",
+  "gh": null,
+  "source": null,
+  "downloads": 667850,
+  "license": "MIT",
+  "via": null,
+  "local_decompiled": true,
+  "loc": 20697,
+  "local_jar": "[机械动力火炮：先进技术] cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[机械动力航空学：工具枪] create_aeronautics_toolgun-0.3.2.jar": {
+  "path": "mods/[机械动力航空学：工具枪] create_aeronautics_toolgun-0.3.2.jar",
+  "title": "Create Aeronautics: Toolgun",
+  "gh": "userenxv/create-aeronautics-toolgun",
+  "source": "https://github.com/userenxv/create-aeronautics-toolgun",
+  "downloads": 297343,
+  "license": "CC-BY-NC-4.0",
+  "via": "modrinth-api"
+ },
+ "[机械动力：中央厨房] create-central-kitchen-2.5.0.jar": {
+  "path": "mods/[机械动力：中央厨房] create-central-kitchen-2.5.0.jar",
+  "title": "Create: Central Kitchen",
+  "gh": "DragonsPlusMinecraft/CreateCentralKitchen",
+  "source": "https://github.com/DragonsPlusMinecraft/CreateCentralKitchen",
+  "downloads": 5139378,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[机械动力：伪装方块+] copycats-3.0.4+mc.1.21.1-neoforge.jar": {
+  "path": "mods/[机械动力：伪装方块+] copycats-3.0.4+mc.1.21.1-neoforge.jar",
+  "title": "Create: Copycats+",
+  "gh": "copycats-plus/copycats",
+  "source": "https://github.com/copycats-plus/copycats",
+  "downloads": 10007663,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[机械动力：内饰] interiors-1.21.1-neoforge-0.6.1.jar": {
+  "path": "mods/[机械动力：内饰] interiors-1.21.1-neoforge-0.6.1.jar",
+  "title": "Create: Interiors",
+  "gh": "sudolev/CreateInteriorsMod",
+  "source": "https://github.com/sudolev/CreateInteriorsMod/",
+  "downloads": 4466412,
+  "license": "GPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[机械动力：创想附加] createaddition-1.6.0.jar": {
+  "path": "mods/[机械动力：创想附加] createaddition-1.6.0.jar",
+  "title": "Create Crafts & Additions",
+  "gh": "mrh0/createaddition",
+  "source": "https://github.com/mrh0/createaddition",
+  "downloads": 10387983,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[机械动力：创意传动] create_connected-1.3.2-mc1.21.1.jar": {
+  "path": "mods/[机械动力：创意传动] create_connected-1.3.2-mc1.21.1.jar",
+  "title": "Create: Connected",
+  "gh": "hlysine/create_connected",
+  "source": "https://github.com/hlysine/create_connected",
+  "downloads": 6554397,
+  "license": "AGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[机械动力：实用物件] create_things_and_misc-4.1.1-neoforge-1.21.1.jar": {
+  "path": "mods/[机械动力：实用物件] create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+  "title": "Create: Misc and Things",
+  "gh": null,
+  "source": null,
+  "downloads": 1714136,
+  "license": "CC-BY-ND-4.0",
+  "via": null,
+  "local_decompiled": true,
+  "loc": 14075,
+  "local_jar": "[机械动力：实用物件] create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[机械动力：推进工程] createpropulsion-1.1.5.jar": {
+  "path": "mods/[机械动力：推进工程] createpropulsion-1.1.5.jar",
+  "title": "Create Propulsion: Simulated",
+  "gh": "Propulsion-Team/create-propulsion-simulated",
+  "source": "https://github.com/Propulsion-Team/create-propulsion-simulated",
+  "downloads": 783679,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[机械动力：无人机物流] create_mobile_packages-1.21.1-0.7.7.jar": {
+  "path": "mods/[机械动力：无人机物流] create_mobile_packages-1.21.1-0.7.7.jar",
+  "title": "Create: Mobile Packages",
+  "gh": "timplay33/Create-Mobile-Packages",
+  "source": "https://github.com/timplay33/Create-Mobile-Packages",
+  "downloads": 558134,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[机械动力：服装] createclothes-1.0-1.21.1.jar": {
+  "path": "mods/[机械动力：服装] createclothes-1.0-1.21.1.jar",
+  "title": "Create: Clothes",
+  "gh": "CeoOfGoogle1/CreateClothes",
+  "source": "https://github.com/CeoOfGoogle1/CreateClothes",
+  "downloads": 50412,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[机械动力：末影传输] createendertransmission-2.1.1-1.21.1.jar": {
+  "path": "mods/[机械动力：末影传输] createendertransmission-2.1.1-1.21.1.jar",
+  "title": "Create: Ender Transmission",
+  "gh": "Forsteri123/CreateEnderTransmission",
+  "source": "https://github.com/Forsteri123/CreateEnderTransmission/",
+  "downloads": 824239,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[机械动力：柴油动力] createdieselgenerators-1.21.1-1.3.15.jar": {
+  "path": "mods/[机械动力：柴油动力] createdieselgenerators-1.21.1-1.3.15.jar",
+  "title": "Create: Diesel Generators",
+  "gh": "george8188625/Create-Diesel-Generators",
+  "source": "https://github.com/george8188625/Create-Diesel-Generators",
+  "downloads": 5695778,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[机械动力：火炮] createbigcannons-5.11.7+mc.1.21.1.jar": {
+  "path": "mods/[机械动力：火炮] createbigcannons-5.11.7+mc.1.21.1.jar",
+  "title": "Create Big Cannons",
+  "gh": "Cannoneers-of-Create/CreateBigCannons",
+  "source": "https://github.com/Cannoneers-of-Create/CreateBigCannons",
+  "downloads": 7396939,
+  "license": "LicenseRef-Create-Big-Cannons-License",
+  "via": "modrinth-api"
+ },
+ "[机械动力：自动扶梯] escalated-1.3.1-mc.1.21.1.jar": {
+  "path": "mods/[机械动力：自动扶梯] escalated-1.3.1-mc.1.21.1.jar",
+  "title": "Create: Escalated",
+  "gh": "Create-In-Locomotion/Create-Escalated",
+  "source": "https://github.com/Create-In-Locomotion/Create-Escalated",
+  "downloads": 890016,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[机械动力：蓝图校验] createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar": {
+  "path": "mods/[机械动力：蓝图校验] createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar",
+  "title": "Create: SchematicChecker",
+  "gh": "duckgun13476/Create-SchematicChecker",
+  "source": "https://github.com/duckgun13476/Create-SchematicChecker",
+  "downloads": 332246,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[机械动力：超级管道] create_hypertube-0.6.0-NEOFORGE.jar": {
+  "path": "mods/[机械动力：超级管道] create_hypertube-0.6.0-NEOFORGE.jar",
+  "title": "Create: Hypertubes",
+  "gh": "PedroRok/CreateHypertubes",
+  "source": "https://github.com/PedroRok/CreateHypertubes",
+  "downloads": 1061082,
+  "license": "Apache-2.0",
+  "via": "modrinth-api"
+ },
+ "[机械动力：附魔工业] create-enchantment-industry-2.5.0.jar": {
+  "path": "mods/[机械动力：附魔工业] create-enchantment-industry-2.5.0.jar",
+  "title": "Create: Enchantment Industry",
+  "gh": "DragonsPlusMinecraft/CreateEnchantmentIndustry",
+  "source": "https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry",
+  "downloads": 5517913,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[机械动力：雷达] create_radar-0.4.9.4-1.21.1.jar": {
+  "path": "mods/[机械动力：雷达] create_radar-0.4.9.4-1.21.1.jar",
+  "title": "Create: Radars",
+  "gh": "Arsenalists-of-Create/Create-Radar",
+  "source": "https://github.com/Arsenalists-of-Create/Create-Radar",
+  "downloads": 1428741,
+  "license": "LicenseRef-Arsenalists-of-Create-Source-Available-License",
+  "via": "modrinth-api"
+ },
+ "[机械动力：龙+] CreateDragonsPlus-1.11.4.jar": {
+  "path": "mods/[机械动力：龙+] CreateDragonsPlus-1.11.4.jar",
+  "title": "Create: Dragons Plus",
+  "gh": "DragonsPlusMinecraft/CreateDragonsPlus",
+  "source": "https://github.com/DragonsPlusMinecraft/CreateDragonsPlus",
+  "downloads": 2894111,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[沉浸式奏乐] immersive_melodies-neoforge-0.6.4+1.21.1.jar": {
+  "path": "mods/[沉浸式奏乐] immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+  "title": "Immersive Melodies",
+  "gh": "Luke100000/ImmersiveMelodies",
+  "source": "https://github.com/Luke100000/ImmersiveMelodies",
+  "downloads": 8603129,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[沙滩派对] letsdo-beachparty-neoforge-2.1.4.jar": {
+  "path": "mods/[沙滩派对] letsdo-beachparty-neoforge-2.1.4.jar",
+  "title": "[Let's Do] Beachparty",
+  "gh": "Let-s-Do-Collection/Beachparty",
+  "source": "https://github.com/Let-s-Do-Collection/Beachparty",
+  "downloads": 8127651,
+  "license": "LicenseRef-custom",
+  "via": "modrinth-api"
+ },
+ "[泰拉饰品] terra_curio-1.1.1.jar": {
+  "path": "mods/[泰拉饰品] terra_curio-1.1.1.jar",
+  "title": "Terra Curio",
+  "gh": "MagicHarp/confluence",
+  "source": "https://github.com/MagicHarp/confluence",
+  "downloads": 1681557,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[清澈虚空] clearvoid-mc1.21.1-1.3.1.jar": {
+  "path": "mods/[清澈虚空] clearvoid-mc1.21.1-1.3.1.jar",
+  "title": "Clear Void",
+  "gh": "yezhiyi9670/clear-void",
+  "source": "https://github.com/yezhiyi9670/clear-void",
+  "downloads": 415842,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[灾变] L_Ender's Cataclysm 1.21.1-3.32.jar": {
+  "path": "mods/[灾变] L_Ender's Cataclysm 1.21.1-3.32.jar",
+  "title": "L_Ender's Cataclysm",
+  "gh": "lender544/new1.20.1",
+  "source": "https://github.com/lender544/new1.20.1/tree/master",
+  "downloads": 17810472,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "[灾变：维度] cataclysm_dimension-neoforge1.21.1-1.6.2.jar": {
+  "path": "mods/[灾变：维度] cataclysm_dimension-neoforge1.21.1-1.6.2.jar",
+  "title": "Cataclysm Dimension",
+  "gh": "GaylordFockerCN/Cataclysm-Dimension",
+  "source": "https://github.com/GaylordFockerCN/Cataclysm-Dimension",
+  "downloads": 262429,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[物品栏粒子] InventoryParticles-2.6.0+1.21.1+neoforge.jar": {
+  "path": "mods/[物品栏粒子] InventoryParticles-2.6.0+1.21.1+neoforge.jar",
+  "title": "Inventory Particles",
+  "gh": "LopyMine/Inventory-Particles",
+  "source": "https://github.com/LopyMine/Inventory-Particles",
+  "downloads": 2894774,
+  "license": "CC-BY-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "[物品物理掉落] ItemPhysic_NEOFORGE_v1.8.13_mc1.21.1.jar": {
+  "path": "mods/[物品物理掉落] ItemPhysic_NEOFORGE_v1.8.13_mc1.21.1.jar",
+  "title": "ItemPhysic",
+  "gh": "CreativeMD/ItemPhysic",
+  "source": "https://github.com/CreativeMD/ItemPhysic",
+  "downloads": 2877840,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[物品高亮] Highlighter-1.21-neoforge-1.1.11.jar": {
+  "path": "mods/[物品高亮] Highlighter-1.21-neoforge-1.1.11.jar",
+  "title": "Item Highlighter",
+  "gh": "AHilyard/Highlighter",
+  "source": "https://github.com/AHilyard/Highlighter/",
+  "downloads": 16642517,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "[物理声效重制版] sound-physics-remastered-neoforge-1.21.1-1.5.1.jar": {
+  "path": "mods/[物理声效重制版] sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+  "title": "Sound Physics Remastered",
+  "gh": "henkelmax/sound-physics-remastered",
+  "source": "https://github.com/henkelmax/sound-physics-remastered",
+  "downloads": 52083682,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[玉 🔍] Jade-1.21.1-NeoForge-15.10.5.jar": {
+  "path": "mods/[玉 🔍] Jade-1.21.1-NeoForge-15.10.5.jar",
+  "title": "Jade 🔍",
+  "gh": "Snownee/Jade",
+  "source": "https://github.com/Snownee/Jade",
+  "downloads": 66976488,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "[现代化 UI] ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar": {
+  "path": "mods/[现代化 UI] ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar",
+  "title": "Modern UI",
+  "gh": "BloCamLimb/ModernUI-MC",
+  "source": "https://github.com/BloCamLimb/ModernUI-MC",
+  "downloads": 21528532,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[界面背景模糊] blur-neoforge-6.3.1+1.21.1.jar": {
+  "path": "mods/[界面背景模糊] blur-neoforge-6.3.1+1.21.1.jar",
+  "title": "Blur+",
+  "gh": "Motschen/Blur",
+  "source": "https://github.com/Motschen/Blur",
+  "downloads": 10636583,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[神化] Apotheosis-1.21.1-8.7.0.jar": {
+  "path": "mods/[神化] Apotheosis-1.21.1-8.7.0.jar",
+  "title": "Apotheosis",
+  "gh": "Shadows-of-Fire/Apotheosis",
+  "source": "https://github.com/Shadows-of-Fire/Apotheosis",
+  "downloads": 238326,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[神化刷怪笼] ApothicSpawners-1.21.1-1.4.0.jar": {
+  "path": "mods/[神化刷怪笼] ApothicSpawners-1.21.1-1.4.0.jar",
+  "title": "Apothic-Spawners",
+  "gh": "Shadows-of-Fire/Apothic-Spawners",
+  "source": "https://github.com/Shadows-of-Fire/Apothic-Spawners",
+  "downloads": 61116,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[神化附魔] ApothicEnchanting-1.21.1-1.6.0.jar": {
+  "path": "mods/[神化附魔] ApothicEnchanting-1.21.1-1.6.0.jar",
+  "title": "Apothic-Enchanting",
+  "gh": "Shadows-of-Fire/Apothic-Enchanting",
+  "source": "https://github.com/Shadows-of-Fire/Apothic-Enchanting",
+  "downloads": 71622,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[神秘农业] MysticalAgriculture-1.21.1-8.0.27.jar": {
+  "path": "mods/[神秘农业] MysticalAgriculture-1.21.1-8.0.27.jar",
+  "title": "Mystical Agriculture",
+  "gh": "BlakeBr0/MysticalAgriculture",
+  "source": "https://github.com/BlakeBr0/MysticalAgriculture",
+  "downloads": 1195468,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[神秘农业扩展] MysticalAgradditions-1.21.1-8.0.14.jar": {
+  "path": "mods/[神秘农业扩展] MysticalAgradditions-1.21.1-8.0.14.jar",
+  "title": "Mystical Agradditions",
+  "gh": "BlakeBr0/MysticalAgradditions",
+  "source": "https://github.com/BlakeBr0/MysticalAgradditions",
+  "downloads": 656192,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[神秘遗物+] enigmaticlegacyplus-1.21.1-1.0.0.jar": {
+  "path": "mods/[神秘遗物+] enigmaticlegacyplus-1.21.1-1.0.0.jar",
+  "title": "Enigmatic Legacy+",
+  "gh": "Auviotre/Enigmatic-Legacy-Plus",
+  "source": "https://github.com/Auviotre/Enigmatic-Legacy-Plus",
+  "downloads": 49002,
+  "license": "LicenseRef-Enigmatic-Legacy-License",
+  "via": "modrinth-api"
+ },
+ "[简单帽子] simplehats-neoforge-1.21.1-0.4.0.jar": {
+  "path": "mods/[简单帽子] simplehats-neoforge-1.21.1-0.4.0.jar",
+  "title": "Simple Hats",
+  "gh": "fonnymunkey/SimpleHats",
+  "source": "https://github.com/fonnymunkey/SimpleHats",
+  "downloads": 5829007,
+  "license": "LicenseRef-Multiple",
+  "via": "modrinth-api"
+ },
+ "[简单的语音聊天] voicechat-neoforge-1.21.1-2.6.20.jar": {
+  "path": "mods/[简单的语音聊天] voicechat-neoforge-1.21.1-2.6.20.jar",
+  "title": "Simple Voice Chat",
+  "gh": "henkelmax/simple-voice-chat",
+  "source": "https://github.com/henkelmax/simple-voice-chat",
+  "downloads": 67944877,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[精巧手艺] handcrafted-neoforge-1.21.1-4.0.3.jar": {
+  "path": "mods/[精巧手艺] handcrafted-neoforge-1.21.1-4.0.3.jar",
+  "title": "Handcrafted",
+  "gh": "terrarium-earth/Handcrafted",
+  "source": "https://github.com/terrarium-earth/Handcrafted",
+  "downloads": 25613606,
+  "license": "LicenseRef-Terrarium-Licence",
+  "via": "modrinth-api"
+ },
+ "[维度地牢] dimdungeons-203-neoforge-1.21.0.jar": {
+  "path": "mods/[维度地牢] dimdungeons-203-neoforge-1.21.0.jar",
+  "title": "Dimensional Dungeons",
+  "gh": "AllenSeitz/DimDungeons",
+  "source": "https://github.com/AllenSeitz/DimDungeons/",
+  "downloads": 1147133,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[聊天动画] chatanimation-neoforge-1.3.1+mc1.21.jar": {
+  "path": "mods/[聊天动画] chatanimation-neoforge-1.3.1+mc1.21.jar",
+  "title": "Chat Animation [Smooth Chat]",
+  "gh": "Ezzenix/ChatAnimation",
+  "source": "https://github.com/Ezzenix/ChatAnimation",
+  "downloads": 21676778,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[聊天头像] chat_heads-0.15.1-neoforge-1.21.jar": {
+  "path": "mods/[聊天头像] chat_heads-0.15.1-neoforge-1.21.jar",
+  "title": "Chat Heads",
+  "gh": "dzwdz/chat_heads",
+  "source": "https://github.com/dzwdz/chat_heads",
+  "downloads": 48079605,
+  "license": "MPL-2.0",
+  "via": "modrinth-api"
+ },
+ "[腐烂生物] rottencreatures-neoforge-1.21.1-1.1.2.jar": {
+  "path": "mods/[腐烂生物] rottencreatures-neoforge-1.21.1-1.1.2.jar",
+  "title": "Rotten Creatures",
+  "gh": "teamfusion/rottencreatures",
+  "source": "https://github.com/teamfusion/rottencreatures",
+  "downloads": 3842478,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[腐肉换皮革] jrftl-1.21-neoforge-1.8.0.jar": {
+  "path": "mods/[腐肉换皮革] jrftl-1.21-neoforge-1.8.0.jar",
+  "title": "Just Another Rotten Flesh to Leather Mod",
+  "gh": null,
+  "source": "https://gitlab.com/456Xander/JRFTL/-/tree/master",
+  "downloads": 616342,
+  "license": "MIT",
+  "via": null,
+  "local_decompiled": true,
+  "loc": 180,
+  "local_jar": "[腐肉换皮革] jrftl-1.21-neoforge-1.8.0.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[自然主义] naturalist-1.0.2-neoforge-1.21.1.jar": {
+  "path": "mods/[自然主义] naturalist-1.0.2-neoforge-1.21.1.jar",
+  "title": "Naturalist",
+  "gh": "starfish-studios/Naturalist",
+  "source": null,
+  "downloads": 10929146,
+  "license": "LicenseRef-Custom",
+  "via": "jar-meta"
+ },
+ "[自然罗盘／生物群系指南针] NaturesCompass-1.21.1-3.4.0-neoforge.jar": {
+  "path": "mods/[自然罗盘／生物群系指南针] NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+  "title": "Nature's Compass",
+  "gh": "MattCzyr/NaturesCompass",
+  "source": "https://github.com/MattCzyr/NaturesCompass",
+  "downloads": 25283783,
+  "license": "CC-BY-NC-SA-4.0",
+  "via": "modrinth-api"
+ },
+ "[自然音效] AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar": {
+  "path": "mods/[自然音效] AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+  "title": "AmbientSounds",
+  "gh": "CreativeMD/AmbientSounds",
+  "source": "https://github.com/CreativeMD/AmbientSounds",
+  "downloads": 38017227,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[苦力怕改革 ／ 苦力怕革新] CreeperOverhaul-neoforge-1.21.1-4.0.6.jar": {
+  "path": "mods/[苦力怕改革 ／ 苦力怕革新] CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+  "title": "Creeper Overhaul",
+  "gh": "bonsaistudi0s/Creeper-Overhaul",
+  "source": "https://github.com/bonsaistudi0s/Creeper-Overhaul",
+  "downloads": 10346120,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": "modrinth-api"
+ },
+ "[莱特兰-古遗物] l2artifacts-3.0.7.jar": {
+  "path": "mods/[莱特兰-古遗物] l2artifacts-3.0.7.jar",
+  "title": "L2 Artifacts",
+  "gh": "Minecraft-LightLand/L2Artifacts",
+  "source": "https://github.com/Minecraft-LightLand/L2Artifacts",
+  "downloads": 739323,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[莱特兰-弓艺] l2archery-3.0.4.jar": {
+  "path": "mods/[莱特兰-弓艺] l2archery-3.0.4.jar",
+  "title": "L2 Archery",
+  "gh": "Minecraft-LightLand/L2Archery",
+  "source": "https://github.com/Minecraft-LightLand/L2Archery",
+  "downloads": 841297,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[莱特兰-恶意] l2hostility-3.0.18.jar": {
+  "path": "mods/[莱特兰-恶意] l2hostility-3.0.18.jar",
+  "title": "L2 Hostility",
+  "gh": "Minecraft-LightLand/L2Hostility",
+  "source": "https://github.com/Minecraft-LightLand/L2Hostility",
+  "downloads": 2631271,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[莱特兰-扩充] l2complements-3.1.3.jar": {
+  "path": "mods/[莱特兰-扩充] l2complements-3.1.3.jar",
+  "title": "L2 Complements",
+  "gh": "Minecraft-LightLand/L2Complements",
+  "source": "https://github.com/Minecraft-LightLand/L2Complements",
+  "downloads": 3063861,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[莱特兰-武器] l2weaponry-3.1.2.jar": {
+  "path": "mods/[莱特兰-武器] l2weaponry-3.1.2.jar",
+  "title": "L2 Weaponry",
+  "gh": "Minecraft-LightLand/L2Weaponry",
+  "source": "https://github.com/Minecraft-LightLand/L2Weaponry",
+  "downloads": 576029,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[落叶] fallingleaves-1.21.1-2.5.1.jar": {
+  "path": "mods/[落叶] fallingleaves-1.21.1-2.5.1.jar",
+  "title": "Falling Leaves (NeoForge/Forge)",
+  "gh": "Cheaterpaul/fallingleaves",
+  "source": "https://github.com/Cheaterpaul/fallingleaves",
+  "downloads": 5439161,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[表情工艺] emotecraft-for-MC1.21.1-2.4.12-neoforge.jar": {
+  "path": "mods/[表情工艺] emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+  "title": "Emotecraft",
+  "gh": "KosmX/emotes",
+  "source": "https://github.com/KosmX/emotes",
+  "downloads": 7347402,
+  "license": "GPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[越肩视角重制] ShoulderSurfing-NeoForge-1.21.1-5.0.10.jar": {
+  "path": "mods/[越肩视角重制] ShoulderSurfing-NeoForge-1.21.1-5.0.10.jar",
+  "title": "Shoulder Surfing Reloaded",
+  "gh": "Exopandora/ShoulderSurfing",
+  "source": "https://github.com/Exopandora/ShoulderSurfing",
+  "downloads": 11490068,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[输入法冲突修复] IMBlocker-5.5.4-neoforge+1.20.6-1.21.8.jar": {
+  "path": "mods/[输入法冲突修复] IMBlocker-5.5.4-neoforge+1.20.6-1.21.8.jar",
+  "title": "IMBlocker",
+  "gh": "reserveword/IMBlocker",
+  "source": "https://github.com/reserveword/IMBlocker",
+  "downloads": 13359206,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[进度牌匾] AdvancementPlaques-1.21.1-neoforge-1.6.8.jar": {
+  "path": "mods/[进度牌匾] AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+  "title": "Advancement Plaques",
+  "gh": "AHilyard/AdvancementPlaques",
+  "source": "https://github.com/AHilyard/AdvancementPlaques/",
+  "downloads": 16883362,
+  "license": "CC-BY-NC-ND-4.0",
+  "via": "modrinth-api"
+ },
+ "[进食动画] eating-animation-1.21+1.9.72.jar": {
+  "path": "mods/[进食动画] eating-animation-1.21+1.9.72.jar",
+  "title": "Eating Animation",
+  "gh": "Theoness1/EatingAnimation",
+  "source": "https://github.com/Theoness1/EatingAnimation",
+  "downloads": 14982349,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[通用拼音搜索] jecharacters-1.21.1-neoforge-4.5.27.jar": {
+  "path": "mods/[通用拼音搜索] jecharacters-1.21.1-neoforge-4.5.27.jar",
+  "title": "JustEnoughCharacters",
+  "gh": "Towdium/JustEnoughCharacters",
+  "source": "https://github.com/Towdium/JustEnoughCharacters",
+  "downloads": 14257140,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[通用机械] Mekanism-1.21.1-10.7.19.85.jar": {
+  "path": "mods/[通用机械] Mekanism-1.21.1-10.7.19.85.jar",
+  "title": "Mekanism",
+  "gh": "mekanism/Mekanism",
+  "source": "https://github.com/mekanism/Mekanism",
+  "downloads": 3609437,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[通用机械发电机] MekanismGenerators-1.21.1-10.7.19.85.jar": {
+  "path": "mods/[通用机械发电机] MekanismGenerators-1.21.1-10.7.19.85.jar",
+  "title": "Mekanism Generators",
+  "gh": "mekanism/Mekanism",
+  "source": "https://github.com/mekanism/Mekanism",
+  "downloads": 2448345,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[通用机械工具] MekanismTools-1.21.1-10.7.19.85.jar": {
+  "path": "mods/[通用机械工具] MekanismTools-1.21.1-10.7.19.85.jar",
+  "title": "Mekanism Tools",
+  "gh": "mekanism/Mekanism",
+  "source": "https://github.com/mekanism/Mekanism",
+  "downloads": 1656254,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[通用机械附加] MekanismAdditions-1.21.1-10.7.19.85.jar": {
+  "path": "mods/[通用机械附加] MekanismAdditions-1.21.1-10.7.19.85.jar",
+  "title": "Mekanism Additions",
+  "gh": "mekanism/Mekanism",
+  "source": "https://github.com/mekanism/Mekanism",
+  "downloads": 932766,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[通用附魔] UniversalEnchants-v21.1.6-1.21.1-NeoForge.jar": {
+  "path": "mods/[通用附魔] UniversalEnchants-v21.1.6-1.21.1-NeoForge.jar",
+  "title": "Universal Enchants",
+  "gh": "Fuzss/universalenchants",
+  "source": "https://github.com/Fuzss/universalenchants",
+  "downloads": 1784061,
+  "license": "MPL-2.0",
+  "via": "modrinth-api"
+ },
+ "[鈇] flerovium-neoforge-1.21.1-1.1.2-all.jar": {
+  "path": "mods/[鈇] flerovium-neoforge-1.21.1-1.1.2-all.jar",
+  "title": "Flerovium",
+  "gh": "MoePus/Flerovium",
+  "source": "https://github.com/MoePus/Flerovium",
+  "downloads": 4564627,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[钠 · 扩展] sodium-extra-neoforge-0.9.3+mc1.21.1.jar": {
+  "path": "mods/[钠 · 扩展] sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+  "title": "Sodium Extra",
+  "gh": "FlashyReese/sodium-extra-fabric",
+  "source": "https://github.com/FlashyReese/sodium-extra-fabric",
+  "downloads": 95121473,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[钠] sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar": {
+  "path": "mods/[钠] sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar",
+  "title": "Sodium",
+  "gh": "CaffeineMC/sodium",
+  "source": "https://github.com/CaffeineMC/sodium",
+  "downloads": 224094052,
+  "license": "LicenseRef-Polyform-Shield-1.0.0",
+  "via": "modrinth-api"
+ },
+ "[钠／Embeddium：动态光源] sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar": {
+  "path": "mods/[钠／Embeddium：动态光源] sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+  "title": "Sodium Dynamic Lights",
+  "gh": "txnimc/SodiumDynamicLights",
+  "source": "https://github.com/txnimc/SodiumDynamicLights",
+  "downloads": 18299586,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[铁氧体磁芯] ferritecore-7.0.3-neoforge.jar": {
+  "path": "mods/[铁氧体磁芯] ferritecore-7.0.3-neoforge.jar",
+  "title": "FerriteCore",
+  "gh": "malte0811/FerriteCore",
+  "source": "https://github.com/malte0811/FerriteCore",
+  "downloads": 149414054,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[锂] lithium-neoforge-0.15.4+mc1.21.1.jar": {
+  "path": "mods/[锂] lithium-neoforge-0.15.4+mc1.21.1.jar",
+  "title": "Lithium",
+  "gh": "caffeinemc/lithium-fabric",
+  "source": "https://github.com/caffeinemc/lithium-fabric",
+  "downloads": 126459236,
+  "license": "LGPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[锦致装饰] supplementaries-neoforge-1.21.1-3.8.5.jar": {
+  "path": "mods/[锦致装饰] supplementaries-neoforge-1.21.1-3.8.5.jar",
+  "title": "Supplementaries",
+  "gh": "MehVahdJukaar/Supplementaries",
+  "source": "https://github.com/MehVahdJukaar/Supplementaries",
+  "downloads": 26900944,
+  "license": "LicenseRef-Supplementaries-Team-License",
+  "via": "modrinth-api"
+ },
+ "[键位冲突显示] Controlling-neoforge-1.21.1-19.0.5.jar": {
+  "path": "mods/[键位冲突显示] Controlling-neoforge-1.21.1-19.0.5.jar",
+  "title": "Controlling",
+  "gh": "jaredlll08/Controlling",
+  "source": "https://github.com/jaredlll08/Controlling",
+  "downloads": 38096376,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[附魔描述] enchdesc-neoforge-1.21.1-21.1.9.jar": {
+  "path": "mods/[附魔描述] enchdesc-neoforge-1.21.1-21.1.9.jar",
+  "title": "Enchantment Descriptions",
+  "gh": "Darkhax-Minecraft/Enchantment-Descriptions",
+  "source": "https://github.com/Darkhax-Minecraft/Enchantment-Descriptions",
+  "downloads": 36695759,
+  "license": "LGPL-2.1-only",
+  "via": "modrinth-api"
+ },
+ "[鞘翅插槽 ／ 鞘翅槽位] elytraslot-neoforge-9.0.2+1.21.1.jar": {
+  "path": "mods/[鞘翅插槽 ／ 鞘翅槽位] elytraslot-neoforge-9.0.2+1.21.1.jar",
+  "title": "Elytra Slot",
+  "gh": "illusivesoulworks/elytraslot",
+  "source": "https://github.com/illusivesoulworks/elytraslot",
+  "downloads": 13540453,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[韵律回响] reactivemusic-neoforge-1.3.5+1.21.1.jar": {
+  "path": "mods/[韵律回响] reactivemusic-neoforge-1.3.5+1.21.1.jar",
+  "title": "Reactive Music",
+  "gh": "CircuitLord/AdventureRedefined",
+  "source": "https://github.com/CircuitLord/AdventureRedefined",
+  "downloads": 7157077,
+  "license": "GPL-3.0-only",
+  "via": "modrinth-api"
+ },
+ "[饰品与小玩意：重铸] trinketsandbaubles-1.2.3.jar": {
+  "path": "mods/[饰品与小玩意：重铸] trinketsandbaubles-1.2.3.jar",
+  "title": "Trinkets and Baubles Reforked",
+  "gh": "jinqinxixi/Trinkets-and-Baubles-Forge-1.20.1",
+  "source": "https://github.com/jinqinxixi/Trinkets-and-Baubles-Forge-1.20.1",
+  "downloads": 284389,
+  "license": "LGPL-3.0-or-later",
+  "via": "modrinth-api"
+ },
+ "[饰品重铸] baublesreforked-1.0.3.jar": {
+  "path": "mods/[饰品重铸] baublesreforked-1.0.3.jar",
+  "title": "BaublesReforked",
+  "gh": null,
+  "source": null,
+  "downloads": 112664,
+  "license": "LicenseRef-All-Rights-Reserved",
+  "via": null,
+  "local_decompiled": true,
+  "loc": 2346,
+  "local_jar": "[饰品重铸] baublesreforked-1.0.3.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[鼠标手势] MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
+  "path": "mods/[鼠标手势] MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+  "title": "Mouse Tweaks",
+  "gh": "YaLTeR/MouseTweaks",
+  "source": "https://github.com/YaLTeR/MouseTweaks",
+  "downloads": 57500048,
+  "license": "BSD-3-Clause",
+  "via": "modrinth-api"
+ },
+ "火炬大师torchmaster-neoforge-1.21.1-21.1.9.jar": {
+  "path": "mods/火炬大师torchmaster-neoforge-1.21.1-21.1.9.jar",
+  "title": "TorchMaster",
+  "gh": "Xalcon/TorchMaster",
+  "source": "https://github.com/Xalcon/TorchMaster",
+  "downloads": 3011903,
+  "license": "MIT",
+  "via": "modrinth-api"
+ },
+ "[钌] ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar": {
+  "path": "mods/[钌] ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+  "title": "[钌] ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "loc": 10962,
+  "local_jar": "[钌] ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+  "local_pack": "星轨重铸"
+ },
+ "ApothicAttributes-1.21.1-2.10.1.jar": {
+  "path": "mods/ApothicAttributes-1.21.1-2.10.1.jar",
+  "title": "ApothicAttributes-1.21.1-2.10.1.jar",
+  "gh": "Shadows-of-Fire/Apothic-Attributes",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "a/[静谧四季／季节] SereneSeasons-neoforge-1.21.1-10.1.0.3.jar": {
+  "path": "mods/a/[静谧四季／季节] SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+  "title": "a/[静谧四季／季节] SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+  "gh": "Glitchfiend/SereneSeasons",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "structureessentials-1.21.1-5.0.jar": {
+  "path": "mods/structureessentials-1.21.1-5.0.jar",
+  "title": "structureessentials-1.21.1-5.0.jar",
+  "gh": "someaddons/structureessentials",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual-verified"
+ },
+ "kubejs-create-neoforge-2101.3.1-build.18.jar": {
+  "path": "mods/kubejs-create-neoforge-2101.3.1-build.18.jar",
+  "title": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+  "gh": "KubeJS-Mods/KubeJS-Create",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar": {
+  "path": "mods/[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar",
+  "title": "[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar",
+  "gh": "FionaTheMortal/better-biome-blend",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "prev-pack",
+  "local_decompiled": true,
+  "local_jar": "[别创建新世界！] 0world2create-neoforge-1.21.1-1.0.0.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 20
+ },
+ "a/[配置界面] configured-neoforge-1.21.1-2.6.3.jar": {
+  "path": "mods/a/[配置界面] configured-neoforge-1.21.1-2.6.3.jar",
+  "title": "a/[配置界面] configured-neoforge-1.21.1-2.6.3.jar",
+  "gh": "MrCrayfish/Configured",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.4.jar": {
+  "path": "mods/gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.4.jar",
+  "title": "gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.4.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "loc": 15936,
+  "local_jar": "gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.4.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[连锁破坏] ftb-ultimine-neoforge-2101.1.14.jar": {
+  "path": "mods/[连锁破坏] ftb-ultimine-neoforge-2101.1.14.jar",
+  "title": "[连锁破坏] ftb-ultimine-neoforge-2101.1.14.jar",
+  "gh": "FTBTeam/FTB-Ultimine",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "[亮度覆盖] light-overlay-12.0.0-neoforge.jar": {
+  "path": "mods/[亮度覆盖] light-overlay-12.0.0-neoforge.jar",
+  "title": "[亮度覆盖] light-overlay-12.0.0-neoforge.jar",
+  "gh": "shedaniel/LightOverlay",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[精妙核心] sophisticatedcore-1.21.1-1.4.51.1992.jar": {
+  "path": "mods/[精妙核心] sophisticatedcore-1.21.1-1.4.51.1992.jar",
+  "title": "[精妙核心] sophisticatedcore-1.21.1-1.4.51.1992.jar",
+  "gh": "P3pp3rF1y/SophisticatedCore",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "a/[连锁破坏] ftb-ultimine-neoforge-2101.1.13.jar": {
+  "path": "mods/a/[连锁破坏] ftb-ultimine-neoforge-2101.1.13.jar",
+  "title": "a/[连锁破坏] ftb-ultimine-neoforge-2101.1.13.jar",
+  "gh": "FTBTeam/FTB-Ultimine",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "a/[修复GPU内存泄漏] gpumemleakfix-1.21-1.8.jar": {
+  "path": "mods/a/[修复GPU内存泄漏] gpumemleakfix-1.21-1.8.jar",
+  "title": "a/[修复GPU内存泄漏] gpumemleakfix-1.21-1.8.jar",
+  "gh": "someaddons/gpumemleakfix",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "[稀有精英怪] infernalmobs-1.21.1.3NF.jar": {
+  "path": "mods/[稀有精英怪] infernalmobs-1.21.1.3NF.jar",
+  "title": "[稀有精英怪] infernalmobs-1.21.1.3NF.jar",
+  "gh": "AtomicStryker/atomicstrykers-minecraft-mods",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "a/[垃圾槽] trashslot-neoforge-1.21.1-21.1.9.jar": {
+  "path": "mods/a/[垃圾槽] trashslot-neoforge-1.21.1-21.1.9.jar",
+  "title": "a/[垃圾槽] trashslot-neoforge-1.21.1-21.1.9.jar",
+  "gh": "TwelveIterations/TrashSlot",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "a/[傻瓜烹饪／懒人厨房] cookingforblockheads-neoforge-1.21.1-21.1.21.jar": {
+  "path": "mods/a/[傻瓜烹饪／懒人厨房] cookingforblockheads-neoforge-1.21.1-21.1.21.jar",
+  "title": "a/[傻瓜烹饪／懒人厨房] cookingforblockheads-neoforge-1.21.1-21.1.21.jar",
+  "gh": "TwelveIterations/CookingForBlockheads",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "kotlinforforge-5.11.0-all.jar": {
+  "path": "mods/kotlinforforge-5.11.0-all.jar",
+  "title": "kotlinforforge-5.11.0-all.jar",
+  "gh": "thedarkcolour/KotlinForForge",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "ftb-library-neoforge-2101.1.34.jar": {
+  "path": "mods/ftb-library-neoforge-2101.1.34.jar",
+  "title": "ftb-library-neoforge-2101.1.34.jar",
+  "gh": "FTBTeam/FTB-Library",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "a/[工作台性能优化] FastWorkbench-1.21.1-9.1.3.jar": {
+  "path": "mods/a/[工作台性能优化] FastWorkbench-1.21.1-9.1.3.jar",
+  "title": "a/[工作台性能优化] FastWorkbench-1.21.1-9.1.3.jar",
+  "gh": "Shadows-of-Fire/FastWorkbench",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "a/[精妙核心] sophisticatedcore-1.21.1-1.4.33.1808.jar": {
+  "path": "mods/a/[精妙核心] sophisticatedcore-1.21.1-1.4.33.1808.jar",
+  "title": "a/[精妙核心] sophisticatedcore-1.21.1-1.4.33.1808.jar",
+  "gh": "P3pp3rF1y/SophisticatedCore",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "kubejs_curios_neoforge_1.21.1-1.0.4.jar": {
+  "path": "mods/kubejs_curios_neoforge_1.21.1-1.0.4.jar",
+  "title": "kubejs_curios_neoforge_1.21.1-1.0.4.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "local_jar": "kubejs-neoforge-2101.7.2-build.368.jar",
+  "local_pack": "璇穹之歌",
+  "loc": 65783
+ },
+ "[禁用末影人搬运] depub.jar": {
+  "path": "mods/[禁用末影人搬运] depub.jar",
+  "title": "[禁用末影人搬运] depub.jar",
+  "gh": "Rain156/disable-enderman-picking-up-blocks",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "AeroIE-1.0.0-hotfix2.jar": {
+  "path": "mods/AeroIE-1.0.0-hotfix2.jar",
+  "title": "AeroIE-1.0.0-hotfix2.jar",
+  "gh": "KODU16/vsie",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "a/[合成辅助] craftingtweaks-neoforge-1.21.1-21.1.9.jar": {
+  "path": "mods/a/[合成辅助] craftingtweaks-neoforge-1.21.1-21.1.9.jar",
+  "title": "a/[合成辅助] craftingtweaks-neoforge-1.21.1-21.1.9.jar",
+  "gh": "TwelveIterations/CraftingTweaks",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[FTB 任务] ftb-quests-neoforge-2101.1.29.jar": {
+  "path": "mods/[FTB 任务] ftb-quests-neoforge-2101.1.29.jar",
+  "title": "[FTB 任务] ftb-quests-neoforge-2101.1.29.jar",
+  "gh": "FTBTeam/FTB-Mods-Issues",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "a/[暮色森林] twilightforest-1.21.1-4.8.3345-universal.jar": {
+  "path": "mods/a/[暮色森林] twilightforest-1.21.1-4.8.3345-universal.jar",
+  "title": "a/[暮色森林] twilightforest-1.21.1-4.8.3345-universal.jar",
+  "gh": "TeamTwilight/twilightforest",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar": {
+  "path": "mods/cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
+  "title": "cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "loc": 29624,
+  "local_jar": "cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
+  "local_pack": "星轨重铸"
+ },
+ "alltheleaks-1.1.9+1.21.1-neoforge.jar": {
+  "path": "mods/alltheleaks-1.1.9+1.21.1-neoforge.jar",
+  "title": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
+  "gh": "pietro-lopes/AllTheLeaks",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "a/[平滑区块保存] smoothchunk-1.21-4.1.jar": {
+  "path": "mods/a/[平滑区块保存] smoothchunk-1.21-4.1.jar",
+  "title": "a/[平滑区块保存] smoothchunk-1.21-4.1.jar",
+  "gh": "someaddons/smoothchunksave",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual-verified"
+ },
+ "a/[精妙存储] sophisticatedstorage-1.21.1-1.5.45.1697.jar": {
+  "path": "mods/a/[精妙存储] sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+  "title": "a/[精妙存储] sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+  "gh": "P3pp3rF1y/SophisticatedStorage",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "cupboard-1.21-3.7.jar": {
+  "path": "mods/cupboard-1.21-3.7.jar",
+  "title": "cupboard-1.21-3.7.jar",
+  "gh": "someaddons/cupboard",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "[自定义局域网联机] lanserverproperties-1.13.2-neoforge.jar": {
+  "path": "mods/[自定义局域网联机] lanserverproperties-1.13.2-neoforge.jar",
+  "title": "[自定义局域网联机] lanserverproperties-1.13.2-neoforge.jar",
+  "gh": "rikka0w0/LanServerProperties",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "common-networking-neoforge-1.0.21-1.21.1.jar": {
+  "path": "mods/common-networking-neoforge-1.0.21-1.21.1.jar",
+  "title": "common-networking-neoforge-1.0.21-1.21.1.jar",
+  "gh": "JTK222/common-networking",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "a/[FTB任务] ftb-quests-neoforge-2101.1.24.jar": {
+  "path": "mods/a/[FTB任务] ftb-quests-neoforge-2101.1.24.jar",
+  "title": "a/[FTB任务] ftb-quests-neoforge-2101.1.24.jar",
+  "gh": "FTBTeam/FTB-Mods-Issues",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "a/[精妙背包] sophisticatedbackpacks-1.21.1-3.25.42.1709.jar": {
+  "path": "mods/a/[精妙背包] sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+  "title": "a/[精妙背包] sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+  "gh": "P3pp3rF1y/SophisticatedBackpacks",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "tacz_c-1.0.2+neoforge.1.21.1.jar": {
+  "path": "mods/tacz_c-1.0.2+neoforge.1.21.1.jar",
+  "title": "tacz_c-1.0.2+neoforge.1.21.1.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "loc": 285,
+  "local_jar": "tacz_c-1.0.2+neoforge.1.21.1.jar",
+  "local_pack": "星轨重铸"
+ },
+ "[圣遗物] reliquary-1.21.1-2.0.78.1552.jar": {
+  "path": "mods/[圣遗物] reliquary-1.21.1-2.0.78.1552.jar",
+  "title": "[圣遗物] reliquary-1.21.1-2.0.78.1552.jar",
+  "gh": "P3pp3rF1y/Reliquary",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "a/[JEI工作方块] JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar": {
+  "path": "mods/a/[JEI工作方块] JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+  "title": "a/[JEI工作方块] JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+  "gh": "Mrbysco/JustEnoughProfessions",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "a/[熔炉性能优化] FastFurnace-1.21.1-9.0.1.jar": {
+  "path": "mods/a/[熔炉性能优化] FastFurnace-1.21.1-9.0.1.jar",
+  "title": "a/[熔炉性能优化] FastFurnace-1.21.1-9.0.1.jar",
+  "gh": "Shadows-of-Fire/FastFurnace",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "a/[FTB 团队] ftb-teams-neoforge-2101.1.10.jar": {
+  "path": "mods/a/[FTB 团队] ftb-teams-neoforge-2101.1.10.jar",
+  "title": "a/[FTB 团队] ftb-teams-neoforge-2101.1.10.jar",
+  "gh": "FTBTeam/FTB-Teams",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "a/[树叶快速腐烂] fastleafdecay-35.jar": {
+  "path": "mods/a/[树叶快速腐烂] fastleafdecay-35.jar",
+  "title": "a/[树叶快速腐烂] fastleafdecay-35.jar",
+  "gh": "Olafski/FastLeafDecay",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ },
+ "[精妙背包] sophisticatedbackpacks-1.21.1-3.25.55.1852.jar": {
+  "path": "mods/[精妙背包] sophisticatedbackpacks-1.21.1-3.25.55.1852.jar",
+  "title": "[精妙背包] sophisticatedbackpacks-1.21.1-3.25.55.1852.jar",
+  "gh": "P3pp3rF1y/SophisticatedBackpacks",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[犀牛] rhino-2101.2.7-build.81.jar": {
+  "path": "mods/[犀牛] rhino-2101.2.7-build.81.jar",
+  "title": "[犀牛] rhino-2101.2.7-build.81.jar",
+  "gh": "KubeJS-Mods/Rhino",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "jar-meta"
+ },
+ "[更凶猛的末影龙] dragonfight-1.21-4.7.jar": {
+  "path": "mods/[更凶猛的末影龙] dragonfight-1.21-4.7.jar",
+  "title": "[更凶猛的末影龙] dragonfight-1.21-4.7.jar",
+  "gh": null,
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": null,
+  "local_decompiled": true,
+  "loc": 1083,
+  "local_jar": "[更凶猛的末影龙] dragonfight-1.21-4.7.jar",
+  "local_pack": "星轨重铸"
+ },
+ "a/[FTB 区块] ftb-chunks-neoforge-2101.1.14.jar": {
+  "path": "mods/a/[FTB 区块] ftb-chunks-neoforge-2101.1.14.jar",
+  "title": "a/[FTB 区块] ftb-chunks-neoforge-2101.1.14.jar",
+  "gh": "FTBTeam/FTB-Chunks",
+  "source": null,
+  "downloads": null,
+  "license": null,
+  "via": "manual"
+ }
+}

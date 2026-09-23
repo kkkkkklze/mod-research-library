@@ -1,0 +1,13 @@
+name = "女仆的路径剧本"
+filename = "path_script-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-path-script/path-script-13.jar"
+hash-format = "sha256"
+hash = "5876ac04b4bdd2d9ae2b9bc24fbcd1dd73b3ee1646c73f811b54cae907bb47c4"
+
+[option]
+optional = false
+description = "女仆的路径剧本 by 拿着路径剧本的女仆\nBuild #13\n女仆非常可爱，如果能让女仆为玩家带路，就像广大RPG里的主角跟随着游戏角色的指引，在女仆的讲解和带领下，逐步展开对地图/模组/其他内容的理解，是不是也是一种很新的体验？\n本mod提供了一种可以通过路径点进行可控的女仆寻路控制，并可以在指定节点进行一些特殊操作的机制。"
+

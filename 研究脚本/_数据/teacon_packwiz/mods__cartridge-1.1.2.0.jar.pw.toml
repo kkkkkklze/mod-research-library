@@ -1,0 +1,13 @@
+name = "来自深渊：弹药包"
+filename = "cartridge-1.1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-cartridge/cartridge-32.jar"
+hash-format = "sha256"
+hash = "c417abdf9287015cd74dd29d69de9ded783875278e889fe81f676eb1a14637ac"
+
+[option]
+optional = false
+description = "来自深渊：弹药包 by Chlamydomonos\nBuild #32\n将《来自深渊》中臭名昭著（不）的弹药包（以及上升诅咒系统）加入Minecraft。"
+

@@ -1,0 +1,13 @@
+name = "最后的上勾拳 One Last Rising Uppercut"
+filename = "olru-0.0.1-alpha.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-olru/olru-20.jar"
+hash-format = "sha256"
+hash = "7517a7f3439e411a91fc67bc0ebb78e9d1217016d3eaeee56ba71acd98523a92"
+
+[option]
+optional = false
+description = "最后的上勾拳 One Last Rising Uppercut by 安娜\nBuild #20\n亲爱的，我们再也回不到那个夏天。"
+

@@ -1,0 +1,13 @@
+name = "超级管道速滑 SuperPipeSlide"
+filename = "superpipeslide-0.4.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-superpipeslide/superpipeslide-47.jar"
+hash-format = "sha256"
+hash = "11c9f7dd4a2ba173adbb1749f8aafbd9e939ae80d08cd5b28c1b050eda50706c"
+
+[option]
+optional = false
+description = "超级管道速滑 SuperPipeSlide by 我是龙性恋\nBuild #47\n我滑行。"
+

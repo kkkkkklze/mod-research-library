@@ -1,0 +1,13 @@
+name = "AAA Particles"
+filename = "aaa_particles-neoforge-26.1.2-2.2.4-alpha.1.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/extra/aaa_particles-neoforge-26.1.2-2.2.4-alpha.1.e57547f3.jar"
+hash-format = "sha256"
+hash = "f488b111bfeb58fe0eeaad653d48ca000485fbaee80389329c3afec4e57547f3"
+
+[option]
+optional = false
+description = "Mod dependency of AAA Particles\nManaged by Biluochun"
+

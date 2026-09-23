@@ -1,0 +1,13 @@
+name = "混沌炼金"
+filename = "transmutatoria-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-transmutatoria/transmutatoria-95.jar"
+hash-format = "sha256"
+hash = "4ade99bbf3f2bb17449f60e59594aa16b375fd74df8a4ab7b2a79507e5062ccf"
+
+[option]
+optional = false
+description = "混沌炼金 by 玫瑰十字会\nBuild #95\n真实不虚，永不说谎，必然带来真理；下如同上，上如同下，依此成全太一的奇迹；万物本是太一，借由分化从太一创造出来；太阳为父，月亮为母，从风孕育，从地养护；世间一切完美之源就在此处，其能力从地上获取；分土于火，萃精于糙，谨慎行之；从地升天，又从天而降，获得其上、其下的能力；如此可得世界的荣耀，远离黑暗蒙昧；此为万力之王，摧坚拔韧；世界即如此创造；依此可达奇迹；我被称为三重伟大的赫尔墨斯，因我拥有世界三重的智慧；这就是我所说的伟大工作。"
+

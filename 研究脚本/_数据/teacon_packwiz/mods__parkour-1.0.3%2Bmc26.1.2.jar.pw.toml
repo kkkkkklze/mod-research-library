@@ -1,0 +1,13 @@
+name = "简单跑酷"
+filename = "parkour-1.0.3+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-parkour/parkour-13.jar"
+hash-format = "sha256"
+hash = "ec43c1f66f5e83212823cb69c8af1f7a6bdd6dda63e0122d6a405001af8544d8"
+
+[option]
+optional = false
+description = "简单跑酷 by 8-Byte Indent\nBuild #13\n一个让你与墙、地、水等环境建立深入连接❤的模组，致力于为Minecraft创建更简单易上手的跑酷系统。"
+

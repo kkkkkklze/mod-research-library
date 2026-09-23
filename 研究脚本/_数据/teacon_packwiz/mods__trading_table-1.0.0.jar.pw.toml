@@ -1,0 +1,13 @@
+name = "拾穗的贸易台"
+filename = "trading_table-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-trading-table/trading-table-25.jar"
+hash-format = "sha256"
+hash = "2fc680f13aeba4c093b330634b2ab7e8634b629b5d8227c2f6e18fad3b51e3f8"
+
+[option]
+optional = false
+description = "拾穗的贸易台 by 神秘魔法书\nBuild #25\n模组增加了两个贸易台方块，现在，和其他玩家贸易往来吧！\n发布页：https://www.mczwlt.net/resource/lntjqap8"
+

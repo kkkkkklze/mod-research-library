@@ -1,0 +1,2366 @@
+{
+ "tr7zw/EntityCulling": [
+  "skip",
+  0
+ ],
+ "squeek502/AppleSkin": [
+  "skip",
+  0
+ ],
+ "malte0811/FerriteCore": [
+  "skip",
+  0
+ ],
+ "tr7zw/NotEnoughAnimations": [
+  "ok",
+  5.3
+ ],
+ "FlashyReese/sodium-extra-fabric": [
+  "ok",
+  6.4
+ ],
+ "shedaniel/ClothConfig": [
+  "ok",
+  7.1
+ ],
+ "Traben-0/Entity_Model_Features": [
+  "ok",
+  7.3
+ ],
+ "embeddedt/ModernFix": [
+  "ok",
+  8.2
+ ],
+ "Snownee/Jade": [
+  "skip",
+  0
+ ],
+ "caffeinemc/lithium-fabric": [
+  "ok",
+  8.4
+ ],
+ "CaffeineMC/sodium": [
+  "ok",
+  9.0
+ ],
+ "Traben-0/Entity_Texture_Features": [
+  "ok",
+  9.0
+ ],
+ "tr7zw/3d-skin-layers": [
+  "ok",
+  4.8
+ ],
+ "isXander/YetAnotherConfigLib": [
+  "ok",
+  10.4
+ ],
+ "IrisShaders/Iris": [
+  "ok",
+  10.7
+ ],
+ "mezz/JustEnoughItems": [
+  "ok",
+  10.9
+ ],
+ "PepperCode1/Continuity": [
+  "ok",
+  6.1
+ ],
+ "Keksuccino/FancyMenu": [
+  "ok",
+  5.2
+ ],
+ "Fuzss/puzzleslib": [
+  "ok",
+  4.8
+ ],
+ "architectury/architectury": [
+  "ok",
+  14.3
+ ],
+ "bernie-g/geckolib": [
+  "ok",
+  7.3
+ ],
+ "juliand665/Dynamic-FPS": [
+  "ok",
+  7.1
+ ],
+ "Serilum/Collective": [
+  "ok",
+  6.4
+ ],
+ "Keksuccino/Konkrete": [
+  "ok",
+  5.2
+ ],
+ "MehVahdJukaar/Moonlight": [
+  "skip",
+  0
+ ],
+ "henkelmax/simple-voice-chat": [
+  "ok",
+  8.9
+ ],
+ "Aizistral-Studios/No-Chat-Reports": [
+  "ok",
+  6.5
+ ],
+ "Keksuccino/Melody": [
+  "ok",
+  4.8
+ ],
+ "dzwdz/chat_heads": [
+  "ok",
+  5.2
+ ],
+ "thedarkcolour/KotlinForForge": [
+  "ok",
+  5.8
+ ],
+ "YaLTeR/MouseTweaks": [
+  "ok",
+  9.7
+ ],
+ "Darkhax-Minecraft/Bookshelf": [
+  "ok",
+  5.4
+ ],
+ "CreativeMD/CreativeCore": [
+  "ok",
+  7.3
+ ],
+ "henkelmax/sound-physics-remastered": [
+  "ok",
+  8.9
+ ],
+ "TwelveIterations/Balm": [
+  "ok",
+  11.2
+ ],
+ "blackd/Inventory-Profiles": [
+  "ok",
+  7.0
+ ],
+ "maruohon/malilib": [
+  "skip",
+  0
+ ],
+ "Glitchfiend/TerraBlender": [
+  "ok",
+  7.1
+ ],
+ "jaredlll08/Controlling": [
+  "ok",
+  4.7
+ ],
+ "CreativeMD/AmbientSounds": [
+  "ok",
+  5.1
+ ],
+ "YUNG-GANG/YUNGs-API": [
+  "skip",
+  0
+ ],
+ "fxmorin/memoryLeakFix": [
+  "ok",
+  5.2
+ ],
+ "Darkhax-Minecraft/Enchantment-Descriptions": [
+  "ok",
+  5.0
+ ],
+ "jaredlll08/searchables": [
+  "ok",
+  6.8
+ ],
+ "AHilyard/Iceberg": [
+  "ok",
+  6.5
+ ],
+ "MCModderAnchor/TACZ": [
+  "skip",
+  0
+ ],
+ "Glitchfiend/BiomesOPlenty": [
+  "ok",
+  7.0
+ ],
+ "FiniteReality/embeddium": [
+  "ok",
+  6.8
+ ],
+ "glisco03/owo-lib": [
+  "ok",
+  14.9
+ ],
+ "Team-Resourceful/ResourcefulLib": [
+  "ok",
+  7.6
+ ],
+ "illusivesoulworks/cherishedworlds": [
+  "ok",
+  5.4
+ ],
+ "TheIllusiveC4/Curios": [
+  "ok",
+  5.7
+ ],
+ "TreyRuffy/BetterF3": [
+  "ok",
+  6.1
+ ],
+ "blackd/libIPN": [
+  "ok",
+  7.2
+ ],
+ "fzzyhmstrs/fconfig": [
+  "ok",
+  15.8
+ ],
+ "TeamMidnightDust/MidnightLib": [
+  "ok",
+  4.9
+ ],
+ "way2muchnoise/BetterAdvancements": [
+  "ok",
+  5.4
+ ],
+ "MattCzyr/NaturesCompass": [
+  "ok",
+  5.4
+ ],
+ "EuphoriaPatches/EuphoriaPatcher": [
+  "ok",
+  7.4
+ ],
+ "VazkiiMods/Patchouli": [
+  "ok",
+  13.6
+ ],
+ "terrarium-earth/Handcrafted": [
+  "ok",
+  7.1
+ ],
+ "vectorwing/FarmersDelight": [
+  "skip",
+  0
+ ],
+ "Fuzss/visualworkbench": [
+  "ok",
+  4.9
+ ],
+ "Tschipp/CarryOn": [
+  "ok",
+  6.8
+ ],
+ "TwelveIterations/Waystones": [
+  "ok",
+  6.4
+ ],
+ "noobanidus/lootr": [
+  "skip",
+  0
+ ],
+ "illusivesoulworks/polymorph": [
+  "ok",
+  5.2
+ ],
+ "MehVahdJukaar/Supplementaries": [
+  "ok",
+  13.2
+ ],
+ "Team-Resourceful/Resourceful-Config": [
+  "ok",
+  6.1
+ ],
+ "TwelveIterations/NetherPortalFix": [
+  "ok",
+  5.9
+ ],
+ "Apollounknowndev/lithostitched": [
+  "ok",
+  6.3
+ ],
+ "Sinytra/Connector": [
+  "ok",
+  7.8
+ ],
+ "xfl03/MCCustomSkinLoader": [
+  "ok",
+  6.7
+ ],
+ "YUNG-GANG/YUNGs-Better-Fortresses": [
+  "ok",
+  6.3
+ ],
+ "Glitchfiend/GlitchCore": [
+  "ok",
+  5.8
+ ],
+ "Asek3/Oculus": [
+  "ok",
+  25.2
+ ],
+ "Ezzenix/ChatAnimation": [
+  "ok",
+  6.0
+ ],
+ "Keksuccino/Drippy-Loading-Screen": [
+  "ok",
+  6.5
+ ],
+ "YUNG-GANG/YUNGs-Better-Ocean-Monuments": [
+  "ok",
+  5.5
+ ],
+ "Darkhax-Minecraft/AttributeFix": [
+  "ok",
+  5.4
+ ],
+ "YUNG-GANG/YUNGs-Better-Dungeons": [
+  "ok",
+  6.1
+ ],
+ "KubeJS-Mods/Rhino": [
+  "ok",
+  7.5
+ ],
+ "YUNG-GANG/YUNGs-Better-Mineshafts": [
+  "ok",
+  6.0
+ ],
+ "Sinytra/ForgifiedFabricAPI": [
+  "ok",
+  24.7
+ ],
+ "YUNG-GANG/YUNGs-Better-Jungle-Temples": [
+  "ok",
+  5.6
+ ],
+ "Tiviacz1337/Travelers-Backpack": [
+  "ok",
+  8.5
+ ],
+ "SuperMartijn642/SuperMartijn642sCoreLib": [
+  "skip",
+  0
+ ],
+ "yungnickyoung/YUNGs-Better-End-Island": [
+  "ok",
+  5.4
+ ],
+ "CreativeMD/EnhancedVisuals": [
+  "ok",
+  5.2
+ ],
+ "YUNG-GANG/YUNGs-Better-Strongholds": [
+  "ok",
+  5.0
+ ],
+ "txnimc/SodiumDynamicLights": [
+  "ok",
+  7.4
+ ],
+ "Cristelknight999/Cristel-Lib": [
+  "ok",
+  5.7
+ ],
+ "pop4959/Chunky": [
+  "ok",
+  7.0
+ ],
+ "AHilyard/AdvancementPlaques": [
+  "ok",
+  5.1
+ ],
+ "AHilyard/Prism": [
+  "ok",
+  5.9
+ ],
+ "YUNG-GANG/YUNGs-Better-Witch-Huts": [
+  "ok",
+  5.8
+ ],
+ "AHilyard/Highlighter": [
+  "ok",
+  4.6
+ ],
+ "xfl03/I18nUpdateMod3": [
+  "ok",
+  5.8
+ ],
+ "YUNG-GANG/YUNGs-Better-Desert-Temples": [
+  "ok",
+  6.1
+ ],
+ "Octo-Studios/octo-lib": [
+  "ok",
+  5.2
+ ],
+ "KubeJS-Mods/KubeJS": [
+  "ok",
+  19.5
+ ],
+ "YUNG-GANG/YUNGs-Bridges": [
+  "ok",
+  5.3
+ ],
+ "Fuzss/pickupnotifier": [
+  "ok",
+  5.2
+ ],
+ "Theoness1/EatingAnimation": [
+  "ok",
+  6.2
+ ],
+ "Alex-the-666/Citadel": [
+  "ok",
+  8.1
+ ],
+ "Creators-of-Create/Create": [
+  "ok",
+  37.1
+ ],
+ "illusivesoulworks/elytraslot": [
+  "ok",
+  5.0
+ ],
+ "Towdium/JustEnoughCharacters": [
+  "ok",
+  5.2
+ ],
+ "YesSteveModel/YSM-Wiki-Issues": [
+  "ok",
+  6.5
+ ],
+ "lender544/new1.20.1": [
+  "ok",
+  19.6
+ ],
+ "reserveword/IMBlocker": [
+  "ok",
+  6.7
+ ],
+ "mortuusars/Exposure": [
+  "ok",
+  7.6
+ ],
+ "wisp-forest/accessories": [
+  "ok",
+  7.0
+ ],
+ "TartaricAcid/TouhouLittleMaid": [
+  "skip",
+  0
+ ],
+ "ochotonida/artifacts": [
+  "ok",
+  7.8
+ ],
+ "MehVahdJukaar/DuMmmMmmy": [
+  "ok",
+  5.1
+ ],
+ "Darkhax-Minecraft/PrickleMC": [
+  "ok",
+  5.6
+ ],
+ "Luke100000/ImmersiveAircraft": [
+  "ok",
+  14.5
+ ],
+ "MattCzyr/ExplorersCompass": [
+  "ok",
+  5.5
+ ],
+ "mrh0/createaddition": [
+  "skip",
+  0
+ ],
+ "Exopandora/ShoulderSurfing": [
+  "ok",
+  7.6
+ ],
+ "rfresh2/XaeroPlus": [
+  "ok",
+  7.8
+ ],
+ "starfish-studios/Naturalist": [
+  "ok",
+  6.8
+ ],
+ "Motschen/Blur": [
+  "ok",
+  4.9
+ ],
+ "DynamicTreesTeam/DynamicTrees": [
+  "ok",
+  11.7
+ ],
+ "sketchmacaw/Fences": [
+  "ok",
+  5.1
+ ],
+ "YUNG-GANG/Paxi": [
+  "ok",
+  5.3
+ ],
+ "McJtyMods/LostCities": [
+  "ok",
+  8.0
+ ],
+ "bonsaistudi0s/Creeper-Overhaul": [
+  "ok",
+  5.5
+ ],
+ "AlexModGuy/AlexsMobs": [
+  "ok",
+  22.3
+ ],
+ "AHilyard/LegendaryTooltips": [
+  "ok",
+  5.0
+ ],
+ "Serilum/Starter-Kit": [
+  "ok",
+  6.0
+ ],
+ "FoggyHillside/End-s-Delight": [
+  "ok",
+  5.0
+ ],
+ "Qelifern/IronFurnaces": [
+  "ok",
+  5.6
+ ],
+ "YUNG-GANG/Travelers-Titles": [
+  "ok",
+  5.1
+ ],
+ "sketchmacaw/Bridges": [
+  "ok",
+  5.4
+ ],
+ "copycats-plus/copycats": [
+  "ok",
+  7.3
+ ],
+ "decce6/Ixeris": [
+  "ok",
+  8.3
+ ],
+ "illusivesoulworks/charmofundying": [
+  "ok",
+  5.4
+ ],
+ "ItsBlackGear/Platform": [
+  "ok",
+  5.4
+ ],
+ "Minenash/Enhanced-Attack-Indicator": [
+  "ok",
+  5.4
+ ],
+ "Luke100000/ImmersiveMelodies": [
+  "ok",
+  7.7
+ ],
+ "Let-s-Do-Collection/Beachparty": [
+  "ok",
+  6.5
+ ],
+ "MaxenceDC/sparsestructures": [
+  "ok",
+  5.0
+ ],
+ "TheIllusiveC4/Caelus": [
+  "ok",
+  4.6
+ ],
+ "bonsaistudi0s/Enderman-Overhaul": [
+  "ok",
+  7.6
+ ],
+ "DynamicTreesTeam/DynamicTreesPlus": [
+  "ok",
+  12.4
+ ],
+ "Schauweg/Smooth-Swapping": [
+  "ok",
+  6.5
+ ],
+ "TJT01/GlobalServerConfig": [
+  "ok",
+  5.6
+ ],
+ "talrey/CreateDeco": [
+  "ok",
+  5.5
+ ],
+ "KosmX/emotes": [
+  "ok",
+  6.7
+ ],
+ "team-abnormals/blueprint": [
+  "ok",
+  7.2
+ ],
+ "EngineHub/WorldEdit": [
+  "ok",
+  24.4
+ ],
+ "Creators-of-Aeronautics/Simulated-Project": [
+  "ok",
+  13.2
+ ],
+ "CircuitLord/AdventureRedefined": [
+  "ok",
+  6.7
+ ],
+ "way2muchnoise/JustEnoughResources": [
+  "ok",
+  6.0
+ ],
+ "Miauczel/Legendary-Monsters-1.21.1-NeoForge": [
+  "ok",
+  15.1
+ ],
+ "bl4ckscor3/Sit": [
+  "ok",
+  7.0
+ ],
+ "Octo-Studios/immersive-ui": [
+  "ok",
+  6.6
+ ],
+ "hlysine/create_connected": [
+  "ok",
+  8.1
+ ],
+ "Cannoneers-of-Create/CreateBigCannons": [
+  "ok",
+  12.6
+ ],
+ "ITsMrToad/GpuTape": [
+  "ok",
+  5.9
+ ],
+ "yungnickyoung/YUNGs-Menu-Tweaks": [
+  "ok",
+  5.8
+ ],
+ "fonnymunkey/SimpleHats": [
+  "ok",
+  7.6
+ ],
+ "DragonsPlusMinecraft/VisualityReforged": [
+  "ok",
+  5.0
+ ],
+ "george8188625/Create-Diesel-Generators": [
+  "ok",
+  7.3
+ ],
+ "Cheaterpaul/fallingleaves": [
+  "ok",
+  6.1
+ ],
+ "Kitteh6660/DramaticDoors": [
+  "ok",
+  10.0
+ ],
+ "TwelveIterations/ForgivingVoid": [
+  "ok",
+  6.0
+ ],
+ "FoundationGames/Automobility": [
+  "ok",
+  6.6
+ ],
+ "DragonsPlusMinecraft/CreateEnchantmentIndustry": [
+  "ok",
+  8.3
+ ],
+ "sketchmacaw/Paths-Pavings": [
+  "ok",
+  4.8
+ ],
+ "samedifferent/Ecologics": [
+  "ok",
+  8.2
+ ],
+ "MrMelon54/draggable_lists": [
+  "ok",
+  5.5
+ ],
+ "MoePus/Flerovium": [
+  "ok",
+  5.4
+ ],
+ "Fuzss/mutantmonsters": [
+  "ok",
+  6.5
+ ],
+ "AppliedEnergistics/Applied-Energistics-2": [
+  "ok",
+  17.4
+ ],
+ "sudolev/CreateInteriorsMod": [
+  "ok",
+  6.1
+ ],
+ "teamfusion/rottencreatures": [
+  "ok",
+  5.3
+ ],
+ "lender544/Lionfish-API": [
+  "ok",
+  5.6
+ ],
+ "Minecraft-LightLand/L2Library": [
+  "skip",
+  0
+ ],
+ "DragonsPlusMinecraft/CreateCentralKitchen": [
+  "ok",
+  9.8
+ ],
+ "Terrails/colorful-hearts": [
+  "ok",
+  8.8
+ ],
+ "ryanhcode/sable": [
+  "ok",
+  16.9
+ ],
+ "decce6/Gnetum": [
+  "ok",
+  7.1
+ ],
+ "McJtyMods/InControl": [
+  "ok",
+  5.0
+ ],
+ "1foxy2/neo_mod_menu": [
+  "ok",
+  5.5
+ ],
+ "Monad-Modding/BrewinAndChewin": [
+  "ok",
+  7.0
+ ],
+ "TartaricAcid/NetMusic": [
+  "ok",
+  14.1
+ ],
+ "Lightman314/LightmansCurrency": [
+  "ok",
+  8.8
+ ],
+ "Serilum/Inventory-Totem": [
+  "ok",
+  5.6
+ ],
+ "Wagers-of-Industrial-Warfare/RitchiesProjectileLib": [
+  "ok",
+  6.5
+ ],
+ "juancarloscp52/spyglass-improvements": [
+  "ok",
+  5.9
+ ],
+ "Xalcon/TorchMaster": [
+  "ok",
+  5.3
+ ],
+ "TheCBProject/CodeChickenLib": [
+  "ok",
+  10.1
+ ],
+ "Umpaz/NethersDelight": [
+  "ok",
+  5.1
+ ],
+ "LopyMine/Inventory-Particles": [
+  "ok",
+  5.4
+ ],
+ "AppliedEnergistics/GuideME": [
+  "ok",
+  8.2
+ ],
+ "Mari023/AE2WirelessTerminalLibrary": [
+  "ok",
+  6.3
+ ],
+ "alRex-U/ParCool": [
+  "ok",
+  6.4
+ ],
+ "CreativeMD/ItemPhysic": [
+  "ok",
+  5.0
+ ],
+ "DragonsPlusMinecraft/CreateDragonsPlus": [
+  "ok",
+  6.2
+ ],
+ "BluSunrize/ImmersiveEngineering": [
+  "ok",
+  19.6
+ ],
+ "Tictim/Paraglider": [
+  "ok",
+  8.5
+ ],
+ "progwml6/ironchest": [
+  "ok",
+  6.5
+ ],
+ "LopyMine/MossyLib": [
+  "ok",
+  6.2
+ ],
+ "mekanism/Mekanism": [
+  "ok",
+  23.4
+ ],
+ "Low-Drag-MC/LDLib-Architectury": [
+  "ok",
+  7.1
+ ],
+ "Darkhax-Minecraft/Max-Health-Fix": [
+  "ok",
+  8.0
+ ],
+ "CoFH/CoFHCore": [
+  "ok",
+  8.4
+ ],
+ "VsnGamer/ElevatorMod": [
+  "ok",
+  6.7
+ ],
+ "Darkhax-Minecraft/BotanyPots": [
+  "ok",
+  7.1
+ ],
+ "Fuzss/universalenchants": [
+  "ok",
+  5.8
+ ],
+ "Mars-The-Planet/Deimos": [
+  "ok",
+  5.4
+ ],
+ "0999312/MMLib": [
+  "ok",
+  6.8
+ ],
+ "skyecodes/IBE-Editor": [
+  "ok",
+  6.7
+ ],
+ "AlmostReliable/merequester": [
+  "ok",
+  4.8
+ ],
+ "BlakeBr0/Cucumber": [
+  "ok",
+  5.1
+ ],
+ "Mars-The-Planet/More-Music-Discs": [
+  "ok",
+  5.1
+ ],
+ "DrexHD/quick-pack": [
+  "ok",
+  5.0
+ ],
+ "decce6/AsyncLogger": [
+  "ok",
+  5.1
+ ],
+ "jkvin114/display-delight-neoforge": [
+  "ok",
+  5.7
+ ],
+ "ZhuRuoLing/startup-time": [
+  "ok",
+  7.2
+ ],
+ "PoppyBlossom/Railway-1.21.1": [
+  "ok",
+  19.9
+ ],
+ "Insane96/InsaneLib": [
+  "ok",
+  5.8
+ ],
+ "0999312/Corn-Delight": [
+  "ok",
+  5.3
+ ],
+ "Suel-ki/FoodEffectTooltips-Forge": [
+  "ok",
+  5.1
+ ],
+ "BlakeBr0/MysticalAgriculture": [
+  "ok",
+  6.3
+ ],
+ "kltyton/LightSpeedRe": [
+  "ok",
+  5.5
+ ],
+ "AllenSeitz/DimDungeons": [
+  "ok",
+  6.3
+ ],
+ "Moralle/VanillaCookbook": [
+  "ok",
+  5.8
+ ],
+ "Low-Drag-MC/Photon": [
+  "ok",
+  8.3
+ ],
+ "Shadows-of-Fire/Placebo": [
+  "ok",
+  6.3
+ ],
+ "PedroRok/CreateHypertubes": [
+  "ok",
+  7.7
+ ],
+ "btwonion/KotlinLangForge": [
+  "ok",
+  5.4
+ ],
+ "TeamMetallurgy/Aquaculture": [
+  "ok",
+  6.2
+ ],
+ "Keksuccino/ModernWorldCreation": [
+  "ok",
+  3.8
+ ],
+ "Xiaoyu-2009/visual_recipe_editor": [
+  "ok",
+  7.1
+ ],
+ "Arsenalists-of-Create/Create-Radar": [
+  "ok",
+  20.2
+ ],
+ "afoxxvi/AsteorBarMod": [
+  "ok",
+  6.4
+ ],
+ "Minecraft-LightLand/L2Hostility": [
+  "ok",
+  39.1
+ ],
+ "mortuusars/ExposurePolaroid": [
+  "ok",
+  8.1
+ ],
+ "Create-In-Locomotion/Create-Escalated": [
+  "ok",
+  6.5
+ ],
+ "Minecraft-LightLand/L2Complements": [
+  "ok",
+  47.0
+ ],
+ "iSeeEthan/voxy_worldgen_v2": [
+  "ok",
+  5.4
+ ],
+ "MagicHarp/confluence": [
+  "ok",
+  31.5
+ ],
+ "AppliedEnergistics/Applied-Mekanistics": [
+  "ok",
+  5.6
+ ],
+ "Forsteri123/CreateEnderTransmission": [
+  "ok",
+  7.8
+ ],
+ "CinemaMod/mcef": [
+  "ok",
+  5.4
+ ],
+ "Penumbra-MC/Enderscape": [
+  "ok",
+  9.8
+ ],
+ "villainous-j/toolbar-sounds": [
+  "ok",
+  3.7
+ ],
+ "Prunoideae/ProbeJS": [
+  "ok",
+  6.2
+ ],
+ "XiaoXianHW/EasyLAN": [
+  "ok",
+  5.0
+ ],
+ "TheCBProject/EnderStorage": [
+  "ok",
+  5.4
+ ],
+ "BlakeBr0/MysticalAgradditions": [
+  "ok",
+  6.2
+ ],
+ "JeremySeq/DamageIndicators": [
+  "ok",
+  4.9
+ ],
+ "SettingDust/MoreEnchantmentInfo": [
+  "ok",
+  5.8
+ ],
+ "infernalstudios/Celestial-Configuration": [
+  "ok",
+  4.9
+ ],
+ "Insane96/EnhancedAI": [
+  "ok",
+  9.5
+ ],
+ "nonamecrackers2/ender-trigon": [
+  "ok",
+  5.5
+ ],
+ "Txt-Text/TaCZ-Labs": [
+  "ok",
+  5.1
+ ],
+ "timplay33/Create-Mobile-Packages": [
+  "ok",
+  8.2
+ ],
+ "SuperMartijn642/AdditionalLanterns": [
+  "ok",
+  7.9
+ ],
+ "zbx1425/WorldEditCUI-Arch": [
+  "ok",
+  4.7
+ ],
+ "bonsaistudi0s/Golem-Overhaul": [
+  "ok",
+  5.4
+ ],
+ "starforcraft/Botany-Pots-Tiers": [
+  "ok",
+  5.9
+ ],
+ "Rew1nd-dev/sable-schematic-api": [
+  "ok",
+  7.6
+ ],
+ "yezhiyi9670/clear-void": [
+  "ok",
+  7.6
+ ],
+ "TUsama/Loot-Beams-Refork": [
+  "ok",
+  6.8
+ ],
+ "BloCamLimb/ModernUI-MC": [
+  "ok",
+  151.7
+ ],
+ "SettingDust/preloading-tricks": [
+  "ok",
+  8.4
+ ],
+ "Minecraft-LightLand/L2Archery": [
+  "ok",
+  31.9
+ ],
+ "sguest/jei-multiblocks": [
+  "ok",
+  7.4
+ ],
+ "duckgun13476/Create-SchematicChecker": [
+  "ok",
+  10.6
+ ],
+ "SSKirillSS/Curios": [
+  "ok",
+  8.4
+ ],
+ "dhyces/trimmed": [
+  "ok",
+  6.6
+ ],
+ "userenxv/create-aeronautics-toolgun": [
+  "ok",
+  10.0
+ ],
+ "GaylordFockerCN/Cataclysm-Dimension": [
+  "ok",
+  7.7
+ ],
+ "iMoonDay/Soulbound": [
+  "ok",
+  6.5
+ ],
+ "jinqinxixi/Trinkets-and-Baubles-Forge-1.20.1": [
+  "ok",
+  8.3
+ ],
+ "Minecraft-LightLand/L2Weaponry": [
+  "ok",
+  31.4
+ ],
+ "MUKSC/TACZ-1.21.1": [
+  "ok",
+  45.6
+ ],
+ "Unixkitty/timecontrol": [
+  "ok",
+  5.9
+ ],
+ "DenisMasterHerobrine/TheAfterdark": [
+  "ok",
+  7.6
+ ],
+ "TUsama/NirvanaLib": [
+  "ok",
+  5.9
+ ],
+ "SShakusora/WaystonesSable": [
+  "ok",
+  6.6
+ ],
+ "CoFH/Ensorcellation": [
+  "ok",
+  6.9
+ ],
+ "Serilum/Starter-Structure": [
+  "ok",
+  5.3
+ ],
+ "Flemmli97/Flan": [
+  "ok",
+  13.8
+ ],
+ "pitbox46/ItemBlacklist": [
+  "ok",
+  6.8
+ ],
+ "Povstalec/StellarView": [
+  "ok",
+  11.6
+ ],
+ "MUKSC/TaCZPackUpgrader": [
+  "ok",
+  6.4
+ ],
+ "Minecraft-LightLand/L2Artifacts": [
+  "ok",
+  45.9
+ ],
+ "Ineffa/Truly-Treasures": [
+  "ok",
+  5.4
+ ],
+ "mango-buff/BotanyPotsOrePlanting": [
+  "ok",
+  3.9
+ ],
+ "klinbee/Aetherial-Islands": [
+  "ok",
+  6.5
+ ],
+ "MeherBenSalem/Jauml": [
+  "ok",
+  8.4
+ ],
+ "Shadows-of-Fire/Apotheosis": [
+  "ok",
+  17.4
+ ],
+ "Hunter19823/kubejsoffline": [
+  "ok",
+  10.5
+ ],
+ "leon-o/iris-veil-compat": [
+  "ok",
+  8.0
+ ],
+ "Shadows-of-Fire/Apothic-Spawners": [
+  "ok",
+  6.1
+ ],
+ "CeoOfGoogle1/CreateClothes": [
+  "ok",
+  5.7
+ ],
+ "Keksuccino/Panoramica": [
+  "ok",
+  4.4
+ ],
+ "Alvaro842DEV/AsyncLocator-Refined": [
+  "ok",
+  5.4
+ ],
+ "TwistedGate/ImmersivePetroleum": [
+  "ok",
+  8.3
+ ],
+ "EnderTurret/PatchedMod": [
+  "ok",
+  8.4
+ ],
+ "Shadows-of-Fire/Apothic-Enchanting": [
+  "ok",
+  9.9
+ ],
+ "klinbee/Diabolical-Islands": [
+  "ok",
+  6.0
+ ],
+ "ggrgg13/Create--Redstone-Link-GUI": [
+  "ok",
+  7.5
+ ],
+ "sam-makes-stuff/ping_system": [
+  "ok",
+  6.2
+ ],
+ "Autovw/AdvancedNetherite": [
+  "ok",
+  6.4
+ ],
+ "TheFogIOF/AlloySmelter": [
+  "ok",
+  6.5
+ ],
+ "DawnOfTimeMC/armoreddoggo": [
+  "ok",
+  6.2
+ ],
+ "DawnOfTimeMC/armoroftheages": [
+  "ok",
+  5.7
+ ],
+ "RelativityMC/C2ME-neoforge": [
+  "ok",
+  5.5
+ ],
+ "MoePus/BiomeSpy": [
+  "ok",
+  6.4
+ ],
+ "Low-Drag-MC/KilaGraph": [
+  "ok",
+  13.8
+ ],
+ "Raguto/Citadel-1.21.1": [
+  "ok",
+  11.8
+ ],
+ "djefrey/Colorwheel-Patcher": [
+  "ok",
+  5.4
+ ],
+ "Fuzss/combatnouveau": [
+  "ok",
+  5.8
+ ],
+ "djefrey/Colorwheel": [
+  "ok",
+  8.4
+ ],
+ "Auviotre/Enigmatic-Legacy-Plus": [
+  "ok",
+  19.9
+ ],
+ "Fuzss/configureddefaults": [
+  "ok",
+  6.3
+ ],
+ "Forsteri123/CreateLiquidFuel": [
+  "ok",
+  5.1
+ ],
+ "KhloeLeclair/CreateAdditionalLogistics": [
+  "ok",
+  6.9
+ ],
+ "DragonsPlusMinecraft/CreateIntegratedFarming": [
+  "ok",
+  8.1
+ ],
+ "JuniKnytt/CreateRailGrinding": [
+  "ok",
+  5.5
+ ],
+ "duckgun13476/Create-FastCannon": [
+  "ok",
+  7.8
+ ],
+ "tom5454/Create-Ore-Excavation": [
+  "ok",
+  6.1
+ ],
+ "cakeGit/Create-Ez-Stock-Ticker": [
+  "ok",
+  5.8
+ ],
+ "MoePus/CreateBetterFPS": [
+  "ok",
+  8.7
+ ],
+ "oierbravo/create-mechanical-spawner": [
+  "ok",
+  4.9
+ ],
+ "hlysine/create_power_loader": [
+  "ok",
+  5.8
+ ],
+ "ascpixi/disconnect-packet-fix": [
+  "ok",
+  5.1
+ ],
+ "ZZZank/EfficientHashing": [
+  "ok",
+  5.5
+ ],
+ "nanite/Flat-Bedrock": [
+  "ok",
+  5.5
+ ],
+ "enjarai/do-a-barrel-roll": [
+  "ok",
+  6.8
+ ],
+ "MaliceZed/frequency-create": [
+  "ok",
+  5.2
+ ],
+ "PierreChag/dawnoftimebuilder": [
+  "ok",
+  8.7
+ ],
+ "ObscuriaLithium/Fragmentum": [
+  "ok",
+  7.3
+ ],
+ "remarxk/GUI-Tween": [
+  "ok",
+  6.0
+ ],
+ "george8188625/Create-Electro-Energetics": [
+  "ok",
+  9.8
+ ],
+ "RaphiMC/ImmediatelyFast": [
+  "ok",
+  6.6
+ ],
+ "404Setup/KryptonReno": [
+  "ok",
+  5.0
+ ],
+ "sch246/MaidUseHandCrank": [
+  "ok",
+  5.7
+ ],
+ "AlmostReliable/lootjs": [
+  "ok",
+  7.0
+ ],
+ "oierbravo/mechanicals-lib": [
+  "ok",
+  5.3
+ ],
+ "Snownee/JadeAddons": [
+  "ok",
+  9.8
+ ],
+ "Craft1x/MedievalBuildingsEnder": [
+  "ok",
+  6.0
+ ],
+ "FinnSetchell/MoogsEndStructures": [
+  "ok",
+  5.6
+ ],
+ "FinnSetchell/MoogsStructureLib": [
+  "ok",
+  8.2
+ ],
+ "Jaredlll08/Searchables": [
+  "skip",
+  0
+ ],
+ "ObscuriaLithium/obscure-tooltips": [
+  "ok",
+  5.6
+ ],
+ "Raguto/AlexsMobs-1.21.1": [
+  "ok",
+  39.7
+ ],
+ "TonimatasDEV/PacketFixer": [
+  "ok",
+  5.6
+ ],
+ "SoyTutta/MyNethersDelight": [
+  "ok",
+  7.5
+ ],
+ "starforcraft/Showcase-Item": [
+  "ok",
+  5.0
+ ],
+ "Leclowndu93150/Particular": [
+  "ok",
+  8.3
+ ],
+ "LIUKRAST/SmartBounds": [
+  "ok",
+  5.3
+ ],
+ "TelepathicGrunt/RepurposedStructures": [
+  "ok",
+  7.7
+ ],
+ "KosmX/fabricPlayerAnimation": [
+  "ok",
+  9.1
+ ],
+ "mortuusars/SootyChimneys": [
+  "ok",
+  5.1
+ ],
+ "TelepathicGrunt/StructureLayoutOptimizer": [
+  "ok",
+  5.7
+ ],
+ "Iron431/irons-spells-n-spellbooks": [
+  "ok",
+  22.5
+ ],
+ "lucko/spark": [
+  "ok",
+  7.9
+ ],
+ "Faboslav/it-takes-a-pillage": [
+  "ok",
+  5.7
+ ],
+ "Fuzss/tinyskeletons": [
+  "ok",
+  6.0
+ ],
+ "sketchmacaw/Trapdoors": [
+  "ok",
+  5.6
+ ],
+ "MincraftEinstein/UsefulSlime": [
+  "ok",
+  5.9
+ ],
+ "sketchmacaw/Macaws-Stairs": [
+  "ok",
+  3.7
+ ],
+ "sketchmacaw/MacawsDoors": [
+  "ok",
+  5.4
+ ],
+ "0999312/umapyoi": [
+  "ok",
+  9.4
+ ],
+ "LocusAzzurro/Ultramarine": [
+  "ok",
+  9.9
+ ],
+ "breezeth-CN/OrdertoCook": [
+  "ok",
+  6.9
+ ],
+ "Corosauce/ZombieAwareness": [
+  "ok",
+  5.7
+ ],
+ "Hidoni/Transmog": [
+  "ok",
+  6.5
+ ],
+ "Baisylia/Cultural-Delights-1.19.2": [
+  "ok",
+  7.4
+ ],
+ "Alex-Hashtag/LegendarySurvivalOverhaul": [
+  "ok",
+  9.0
+ ],
+ "xianziyu001-stack/End-Remastered-ProMax": [
+  "ok",
+  5.1
+ ],
+ "Corosauce/Weather2": [
+  "ok",
+  9.6
+ ],
+ "ExpensiveKoala/Fishing-Real": [
+  "ok",
+  6.5
+ ],
+ "Jack-Bagel/End-Remastered": [
+  "ok",
+  6.6
+ ],
+ "CubesterYT/CBC-CompactMount": [
+  "ok",
+  6.1
+ ],
+ "KaleidoscopeMods/KaleidoscopeCookery": [
+  "skip",
+  0
+ ],
+ "cff1028/create_schematics_fix": [
+  "ok",
+  5.9
+ ],
+ "ZLT9/create-vibrant-vaults": [
+  "ok",
+  7.1
+ ],
+ "getItemFromBlock/Create-Tweaked-Controllers": [
+  "ok",
+  5.1
+ ],
+ "ForgeStove/CreateCyberGoogles": [
+  "ok",
+  7.7
+ ],
+ "Tower-of-Sighs/AUI": [
+  "ok",
+  14.0
+ ],
+ "WitherRedstone/Kaleidoscope-DimensionsWine": [
+  "ok",
+  5.9
+ ],
+ "baiyin1223/Kaleidoscope_bloodwine": [
+  "ok",
+  5.4
+ ],
+ "Minecraft-LightLand/FruitsDelight": [
+  "ok",
+  12.4
+ ],
+ "TartaricAcid/KaleidoscopeDoll": [
+  "ok",
+  10.4
+ ],
+ "CreativeMD/PlayerRevive": [
+  "ok",
+  4.7
+ ],
+ "Scouter456/Nether_Depths_Upgrade": [
+  "ok",
+  7.6
+ ],
+ "Let-s-Do-Collection/Candlelight": [
+  "ok",
+  7.2
+ ],
+ "Lightning-64/Tide-2": [
+  "ok",
+  9.8
+ ],
+ "Minecraft-LightLand/Cuisine-Delight": [
+  "ok",
+  27.8
+ ],
+ "ZCRAFT-NPE/Presence-Footsteps-NeoForge": [
+  "ok",
+  6.6
+ ],
+ "klinbee/No-Void-Structures": [
+  "ok",
+  4.2
+ ],
+ "Let-s-Do-Collection/Bakery": [
+  "ok",
+  6.8
+ ],
+ "yision1/GearsandTavern": [
+  "ok",
+  7.6
+ ],
+ "Let-s-Do-Collection/vinery": [
+  "ok",
+  8.9
+ ],
+ "FOOLSIX/ldip": [
+  "ok",
+  6.3
+ ],
+ "LeoMinecraftModding/eternal-starlight": [
+  "ok",
+  18.9
+ ],
+ "TakeruDavis/CreateCardboardedConveynience": [
+  "ok",
+  6.0
+ ],
+ "IAFEnvoy/Jupiter": [
+  "ok",
+  6.9
+ ],
+ "BmtUltra/Kaleidoscope-Compat": [
+  "ok",
+  26.7
+ ],
+ "zhenshiz/ViScriptShop": [
+  "ok",
+  5.8
+ ],
+ "IanMods/SeasonHUD": [
+  "ok",
+  5.7
+ ],
+ "Fuzss/forgeconfigapiport": [
+  "ok",
+  4.8
+ ],
+ "Industrialists-Of-Create/Create-Bits-n-Bobs": [
+  "ok",
+  9.6
+ ],
+ "Fallen-Breath/fast-ip-ping": [
+  "ok",
+  7.8
+ ],
+ "WitherRedstone/Fox-Trot-Brew": [
+  "ok",
+  5.2
+ ],
+ "CosmonauticsTeam/Create-Cosmonautics": [
+  "ok",
+  10.9
+ ],
+ "yision1/CreateFluidLogistic": [
+  "ok",
+  10.6
+ ],
+ "WinExp/MaidTavern": [
+  "ok",
+  5.9
+ ],
+ "AzureDoom/Log-Begone": [
+  "ok",
+  5.5
+ ],
+ "hotsu0p/Trek-Issues": [
+  "ok",
+  5.3
+ ],
+ "Richy-Z/ThreatenGL": [
+  "ok",
+  6.0
+ ],
+ "Traverse-Joe/Baubley-Heart-Canisters": [
+  "ok",
+  5.8
+ ],
+ "frcvdt45g6by7hnj8ukm-nh8b7g6vtf5r4de3/FastQuit-Forge": [
+  "ok",
+  5.7
+ ],
+ "Bivrik/FancyToasts": [
+  "ok",
+  6.6
+ ],
+ "matejhozlar/Create-Aeronautics-Climbable-Ropes": [
+  "ok",
+  5.5
+ ],
+ "maDU59/FancyWorldAnimations": [
+  "ok",
+  5.3
+ ],
+ "Okabintaro/UntitledDuckMod": [
+  "ok",
+  6.4
+ ],
+ "CancriRecoleta/NewVisualKebing": [
+  "ok",
+  9.0
+ ],
+ "ChoiceTheorem/ChoiceTheorem-s-overhauled-village": [
+  "ok",
+  6.8
+ ],
+ "FionaTheMortal/better-biome-blend": [
+  "ok",
+  6.6
+ ],
+ "maDU59/FasterIrisShadowMapper": [
+  "ok",
+  6.6
+ ],
+ "sprocketaudio/Create-Aeronautics-Throwable-Rope-Connector": [
+  "ok",
+  12.7
+ ],
+ "Nobodiiiii/Create-Biotech": [
+  "ok",
+  7.8
+ ],
+ "cakeGit/Create-Trading-Floor": [
+  "ok",
+  9.2
+ ],
+ "GLDYM/ConstructionWand-KOTS": [
+  "ok",
+  118.2
+ ],
+ "joshieman06/SunkenSpires": [
+  "ok",
+  5.3
+ ],
+ "ausmez/create-storage-neo-forge": [
+  "ok",
+  9.5
+ ],
+ "breezeth-CN/KaleidoscopeGrilling": [
+  "ok",
+  8.8
+ ],
+ "NightEpiphany/KaleidoscopeHodgepodge": [
+  "ok",
+  10.0
+ ],
+ "KaleidoscopeMods/KaleidoscopeTavern": [
+  "ok",
+  11.5
+ ],
+ "KreloX/Duplicate-Entity-UUID-Fix": [
+  "ok",
+  6.3
+ ],
+ "Chaolux1/LendersDelight": [
+  "ok",
+  5.3
+ ],
+ "blorbee1/createaerophysicsgantry": [
+  "ok",
+  6.0
+ ],
+ "MIKOALOPEX/Create-FireFightingAdd": [
+  "ok",
+  10.5
+ ],
+ "zhenshiz/ViScriptShop-Market": [
+  "ok",
+  6.3
+ ],
+ "weaversworkshop/grapplemod-skybound": [
+  "ok",
+  8.1
+ ],
+ "Corosauce/WATUT": [
+  "ok",
+  4.7
+ ],
+ "axperty/cratedelight": [
+  "ok",
+  5.2
+ ],
+ "rekales/create-more-package-couriers": [
+  "ok",
+  5.0
+ ],
+ "xienaoban/minecraft-biology-dictionary": [
+  "ok",
+  9.8
+ ],
+ "cakeGit/Pattern-Schematics-Multiloader": [
+  "ok",
+  19.4
+ ],
+ "SuperMartijn642/Fusion": [
+  "ok",
+  6.2
+ ],
+ "M-K2525/VS_Hose_Connectors": [
+  "ok",
+  6.5
+ ],
+ "Nova-Committee/0Pack2Reload": [
+  "ok",
+  3.7
+ ],
+ "MaxnessAWA/Wind-Tunnel": [
+  "ok",
+  6.2
+ ],
+ "leon-o/Create-Dynamic-Lights": [
+  "ok",
+  7.9
+ ],
+ "FINDERFEED/FDLib": [
+  "ok",
+  8.7
+ ],
+ "Shadows-of-Fire/Apothic-Attributes": [
+  "ok",
+  5.4
+ ],
+ "mortuusars/Horseman": [
+  "ok",
+  6.9
+ ],
+ "MrCrayfish/Configured": [
+  "ok",
+  5.0
+ ],
+ "TerminalMC/ClientSort": [
+  "ok",
+  7.1
+ ],
+ "Olafski/FastLeafDecay": [
+  "ok",
+  3.6
+ ],
+ "zhenshiz/ViScriptRecipe": [
+  "ok",
+  13.3
+ ],
+ "nutant233/Fast-Recipe-Search": [
+  "ok",
+  5.2
+ ],
+ "FTBTeam/FTB-Teams": [
+  "ok",
+  6.0
+ ],
+ "FTBTeam/FTB-XMod-Compat": [
+  "ok",
+  5.3
+ ],
+ "FTBTeam/FTB-Library": [
+  "ok",
+  8.5
+ ],
+ "MrCrayfish/Framework": [
+  "ok",
+  10.6
+ ],
+ "Iron431/irons-jewelry": [
+  "ok",
+  7.4
+ ],
+ "MrCrayfish/GoblinTraders": [
+  "ok",
+  7.8
+ ],
+ "Mrbysco/JustEnoughProfessions": [
+  "ok",
+  6.5
+ ],
+ "Mrbysco/Retraining": [
+  "ok",
+  5.5
+ ],
+ "MrCrayfish/MightyMail": [
+  "ok",
+  7.3
+ ],
+ "someaddons/gpumemleakfix": [
+  "ok",
+  3.4
+ ],
+ "EccentricVamp/EccentricTome": [
+  "ok",
+  6.5
+ ],
+ "Buuz135/FindMe": [
+  "ok",
+  5.4
+ ],
+ "FTBTeam/FTB-Quests": [
+  "ok",
+  17.7
+ ],
+ "Cazsius/Spice-of-Life-Carrot-Edition": [
+  "ok",
+  8.0
+ ],
+ "MrCrayfish/MrCrayfishFurnitureMod-Refurbished": [
+  "ok",
+  16.8
+ ],
+ "Renyigesai/bakery": [
+  "ok",
+  10.7
+ ],
+ "IAFEnvoy/IceAndFire-CE": [
+  "ok",
+  17.4
+ ],
+ "henkelmax/corpse": [
+  "ok",
+  6.5
+ ],
+ "MoePus/SaveMyRecipeBook": [
+  "ok",
+  5.3
+ ],
+ "Glitchfiend/SereneSeasons": [
+  "ok",
+  8.2
+ ],
+ "AtomicStryker/atomicstrykers-minecraft-mods": [
+  "ok",
+  11.7
+ ],
+ "redtardis12/Tornado-Physics": [
+  "ok",
+  87.8
+ ],
+ "IAFEnvoy/Uranus": [
+  "ok",
+  9.3
+ ],
+ "pietro-lopes/AllTheLeaks": [
+  "ok",
+  9.6
+ ],
+ "TeamTwilight/twilightforest": [
+  "ok",
+  31.5
+ ],
+ "gizmo-ds/smsn-mod": [
+  "ok",
+  7.5
+ ],
+ "Argon4W/AcceleratedRendering": [
+  "ok",
+  6.4
+ ],
+ "Shadows-of-Fire/FastFurnace": [
+  "ok",
+  13.8
+ ],
+ "Corosauce/CoroUtil": [
+  "ok",
+  6.0
+ ],
+ "Mrbysco/StructureCompass": [
+  "ok",
+  5.7
+ ],
+ "breeze-devs/Settlements-Alpha": [
+  "ok",
+  26.2
+ ],
+ "someaddons/cupboard": [
+  "ok",
+  5.5
+ ],
+ "Mrbysco/AgeingSpawners": [
+  "ok",
+  6.1
+ ],
+ "ExcessiveAmountsOfZombies/EpheroLib": [
+  "ok",
+  5.4
+ ],
+ "FTBTeam/FTB-Ranks": [
+  "ok",
+  5.6
+ ],
+ "FTBTeam/FTB-Essentials": [
+  "ok",
+  7.4
+ ],
+ "FTBTeam/FTB-Mods-Issues": [
+  "ok",
+  4.9
+ ],
+ "hammertater/treechop": [
+  "ok",
+  9.0
+ ],
+ "CraftTweaker/CraftTweaker": [
+  "ok",
+  14.9
+ ],
+ "stfwi/engineers-decor": [
+  "ok",
+  5.8
+ ],
+ "Tfarcenim/OverloadedArmorBar": [
+  "ok",
+  6.0
+ ],
+ "zlainsama/CosmeticArmorReworked": [
+  "ok",
+  6.0
+ ],
+ "LatvianModder/Item-Filters": [
+  "ok",
+  6.7
+ ],
+ "PaintNinja/Presence-Footsteps-Forge": [
+  "ok",
+  7.1
+ ],
+ "someaddons/structureessentials": [
+  "ok",
+  4.8
+ ],
+ "SonarSonic/Flux-Networks": [
+  "ok",
+  5.9
+ ],
+ "KubeJS-Mods/KubeJS-Create": [
+  "ok",
+  5.7
+ ],
+ "AlexModGuy/AlexsCaves": [
+  "ok",
+  33.7
+ ],
+ "shedaniel/LightOverlay": [
+  "ok",
+  5.1
+ ],
+ "FTBTeam/FTB-Ultimine": [
+  "ok",
+  5.8
+ ],
+ "TwelveIterations/TrashSlot": [
+  "ok",
+  6.6
+ ],
+ "TwelveIterations/CookingForBlockheads": [
+  "ok",
+  7.7
+ ],
+ "Shadows-of-Fire/FastWorkbench": [
+  "ok",
+  5.6
+ ],
+ "Rain156/disable-enderman-picking-up-blocks": [
+  "ok",
+  5.8
+ ],
+ "KODU16/vsie": [
+  "ok",
+  7.6
+ ],
+ "someaddons/smoothchunksave": [
+  "ok",
+  3.5
+ ],
+ "TwelveIterations/CraftingTweaks": [
+  "ok",
+  6.1
+ ],
+ "P3pp3rF1y/SophisticatedCore": [
+  "ok",
+  14.4
+ ],
+ "rikka0w0/LanServerProperties": [
+  "ok",
+  5.8
+ ],
+ "P3pp3rF1y/SophisticatedStorage": [
+  "ok",
+  7.6
+ ],
+ "JTK222/common-networking": [
+  "ok",
+  5.6
+ ],
+ "P3pp3rF1y/SophisticatedBackpacks": [
+  "ok",
+  9.0
+ ],
+ "P3pp3rF1y/Reliquary": [
+  "ok",
+  8.8
+ ],
+ "FTBTeam/FTB-Chunks": [
+  "ok",
+  9.1
+ ],
+ "McJty/MFFS": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/McJty/MFFS.g",
+  3.9
+ ],
+ "CyclopsMC/CyclopsCore": [
+  "ok",
+  8.9
+ ],
+ "gigabit101/EnderStorage": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/gigabit101/E",
+  3.8
+ ],
+ "CyclopsMC/CommonCapabilities": [
+  "ok",
+  6.3
+ ],
+ "McJty/XNet": [
+  "ok",
+  6.3
+ ],
+ "desht/ModularRouters": [
+  "ok",
+  6.1
+ ],
+ "Team-EnderIO/EnderIO": [
+  "ok",
+  17.4
+ ],
+ "ZeroNoRyouki/ExtremeReactors": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/ZeroNoRyouki",
+  3.6
+ ],
+ "CyclopsMC/IntegratedTunnels": [
+  "ok",
+  6.5
+ ],
+ "CyclopsMC/EvilCraft": [
+  "ok",
+  22.8
+ ],
+ "vadis365/Mob-Grinding-Utils": [
+  "ok",
+  7.6
+ ],
+ "CyclopsMC/IntegratedDynamics": [
+  "ok",
+  20.6
+ ],
+ "Buuz135/Industrial-Foregoing": [
+  "ok",
+  9.6
+ ],
+ "Buuz135/titanium": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/Buuz135/tita",
+  3.7
+ ],
+ "BlakeBr0/IronJetpacks": [
+  "ok",
+  5.9
+ ],
+ "CyclopsMC/IntegratedCrafting": [
+  "ok",
+  6.6
+ ],
+ "McJty/RFToolsBase": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/McJty/RFTool",
+  3.5
+ ],
+ "CyclopsMC/IntegratedTerminals": [
+  "ok",
+  7.4
+ ],
+ "McJty/RFToolsBuilder": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/McJty/RFTool",
+  4.0
+ ],
+ "MysticMods/Roots": [
+  "ok",
+  10.3
+ ],
+ "Commoble/MoreRed": [
+  "ok",
+  7.3
+ ],
+ "TelepathicGrunt/Bumblezone": [
+  "ok",
+  9.9
+ ],
+ "SilentChaos512/Silent-Gear": [
+  "ok",
+  14.6
+ ],
+ "SuperMartijn642/SimpleMagnets": [
+  "ok",
+  7.2
+ ],
+ "Technici4n/Modern-Industrialization": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/Technici4n/M",
+  3.7
+ ],
+ "SuperMartijn642/ItemCollectors": [
+  "ok",
+  5.5
+ ],
+ "SuperMartijn642/TrashCans": [
+  "ok",
+  6.5
+ ],
+ "TeamPneumatic/pnc-repressurized": [
+  "ok",
+  32.1
+ ],
+ "klikli-dev/occultism": [
+  "ok",
+  17.5
+ ],
+ "SuperMartijn642/SuperMartijn642sConfigLib": [
+  "ok",
+  6.1
+ ],
+ "henkelmax/pipez": [
+  "ok",
+  5.7
+ ],
+ "Ultramega/CableTiers": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/Ultramega/Ca",
+  4.7
+ ],
+ "Buuz135/Functional-Storage": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/Buuz135/Func",
+  4.2
+ ],
+ "XyCraft-Mods/XyCraft": [
+  "fail:remote: Repository not found.\nfatal: repository 'https://github.com/XyCraft-Mods",
+  3.5
+ ],
+ "Direwolf20-MC/LaserIO": [
+  "ok",
+  6.7
+ ],
+ "owmii/Powah": [
+  "ok",
+  6.0
+ ],
+ "XFactHD/FramedBlocks": [
+  "ok",
+  13.2
+ ],
+ "AlphaMode/CompactMachines": [
+  "ok",
+  5.6
+ ],
+ "Draconic-Inc/BrandonsCore": [
+  "ok",
+  6.4
+ ],
+ "baileyholl/Ars-Nouveau": [
+  "ok",
+  25.0
+ ],
+ "Railcraft/Railcraft": [
+  "ok",
+  12.4
+ ],
+ "Draconic-Inc/Draconic-Evolution": [
+  "ok",
+  10.5
+ ],
+ "TeamJM/journeymap": [
+  "ok",
+  5.8
+ ],
+ "BuiltBrokenModding/AI-Improvements": [
+  "ok",
+  4.9
+ ],
+ "SilentChaos512/SilentGems": [
+  "ok",
+  9.3
+ ],
+ "marlester-dev/twilightforest-unofficial": [
+  "ok",
+  16.7
+ ],
+ "Geforce132/SecurityCraft": [
+  "ok",
+  8.9
+ ],
+ "Ellpeck/ActuallyAdditions": [
+  "ok",
+  11.1
+ ],
+ "SilentChaos512/SilentLib": [
+  "ok",
+  5.5
+ ],
+ "McJty/McJtyLib": [
+  "ok",
+  8.9
+ ],
+ "Leclowndu93150/Corpse-Cosmetic-Armor-Compat": [
+  "ok",
+  4.9
+ ],
+ "refinedmods/rangedpumps": [
+  "ok",
+  5.4
+ ],
+ "VazkiiMods/AkashicTome": [
+  "ok",
+  5.3
+ ],
+ "ARxyt/ColonyPathingEdition": [
+  "ok",
+  7.4
+ ],
+ "refinedmods/refinedstorage2": [
+  "ok",
+  14.6
+ ],
+ "Shadows-of-Fire/Wither-Skeleton-Tweaks": [
+  "ok",
+  5.2
+ ],
+ "ImFalling/OpenBlocks_Elevator_Fabric": [
+  "ok",
+  5.6
+ ],
+ "The-Aether-Team/The-Aether": [
+  "ok",
+  10.9
+ ],
+ "Propulsion-Team/create-propulsion-simulated": [
+  "timeout",
+  378.4
+ ],
+ "Wall-ev/MaidsoulKitchen": [
+  "ok",
+  296.2
+ ],
+ "Maxenonyme/Create-Deep-Seas": [
+  "ok",
+  208.6
+ ],
+ "Minecraft-LightLand/ModularGolems": [
+  "ok",
+  218.1
+ ],
+ "LOVE-U987/Adaptive-Nemesis": [
+  "timeout",
+  373.4
+ ],
+ "userenxv/aeronautics-utility-objects": [
+  "timeout",
+  472.4
+ ]
+}

@@ -1,0 +1,13 @@
+name = "伊卡洛斯之翼"
+filename = "locusazzurro_icaruswings-26.1.2-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-locusazzurro-icaruswings/locusazzurro-icaruswings-36.jar"
+hash-format = "sha256"
+hash = "5148da60b78803c4ddb84e93e78daf76087be94e0d0a525e0c1776ed908a7b1c"
+
+[option]
+optional = false
+description = "伊卡洛斯之翼 by 踢炕空域管制中心\nBuild #36\nA story about bees, feather and the sky. A testament to human ingenuity."
+

@@ -1,0 +1,13 @@
+name = "PowerTool NeoForge 26.1"
+filename = "PowerTool-NeoForge-26.1-1.5.30.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/PowerTool-NeoForge-26.1/1.5.30/PowerTool-NeoForge-26.1-1.5.30.jar"
+hash-format = "sha256"
+hash = "5870380735dbed3761dd92adfda41758ca564f2efdc39ad377e92571ddc6c9ab"
+
+[option]
+optional = false
+description = "Mod dependency of PowerTool NeoForge 26.1\nIncluded inside official TeaCon mod list"
+

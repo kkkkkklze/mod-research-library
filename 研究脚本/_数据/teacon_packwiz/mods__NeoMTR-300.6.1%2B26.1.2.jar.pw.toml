@@ -1,0 +1,13 @@
+name = "NeoMTR 纸板箱特色我的世界铁路"
+filename = "NeoMTR-300.6.1+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-mtr/mtr-129.jar"
+hash-format = "sha256"
+hash = "cff636845d112d95753d750c55cd80ee2bd693a0c1a6ac5be3bb955f0035b5d0"
+
+[option]
+optional = false
+description = "NeoMTR 纸板箱特色我的世界铁路 by NeoMTR 项目参与人员\nBuild #129\n全自动运行的拟真轨道交通系统。 基于 MTR3+NTE 的延续开发项目。\nhttps://modrinth.com/mod/neomtr"
+

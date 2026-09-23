@@ -1,0 +1,13 @@
+name = "MadParticle"
+filename = "madparticle-26.1.2-13.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-madparticle/madparticle-126.jar"
+hash-format = "sha256"
+hash = "622c3f570cef0da860af05b5201ce7fb7aa11a9677ceb32dfc37f871879b042f"
+
+[option]
+optional = false
+description = "MadParticle by 真是踢踢又炕炕啊\nBuild #126\n比上一届和上上一届更多的粒子。"
+

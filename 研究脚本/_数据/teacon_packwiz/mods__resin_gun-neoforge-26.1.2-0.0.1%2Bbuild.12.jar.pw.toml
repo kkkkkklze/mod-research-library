@@ -1,0 +1,13 @@
+name = "树脂枪"
+filename = "resin_gun-neoforge-26.1.2-0.0.1+build.12.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/2026/ci/build/team-resin-gun/resin-gun-12.jar"
+hash-format = "sha256"
+hash = "d6f58eb483a1f459df69e0b1abd550ee4f825d98782904df0e44983df5c6b144"
+
+[option]
+optional = false
+description = "树脂枪 by 16-Bit Samurai\nBuild #12\n为原版【树脂】添加了新的配方和增加了新的非致命远程武器【树脂枪】，玩家可以使用【树脂团】和【玻璃瓶】合成出【凝胶弹】，将【凝胶弹】填装进【树脂枪】后可以朝着原版生物发射树脂，并在击中生物后将生物封入【琥珀】中。被【琥珀】包裹的生物可以被玩家简单地挖掘并装入背包，或使用【打火石】融化【放置在地面上的琥珀】将困在其中的生物解救出来。"
+

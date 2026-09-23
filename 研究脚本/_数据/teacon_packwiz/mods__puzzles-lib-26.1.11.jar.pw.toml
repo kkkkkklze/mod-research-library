@@ -1,0 +1,13 @@
+name = "puzzles lib"
+filename = "puzzles-lib-26.1.11.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/puzzles-lib/26.1.11/puzzles-lib-26.1.11.jar"
+hash-format = "sha256"
+hash = "d31b7f9ae50e0a05a95e8944c53dd4c1a50a2c534721297a89bb8f6ac5380878"
+
+[option]
+optional = false
+description = "Mod dependency of puzzles lib\nIncluded inside official TeaCon mod list"
+

@@ -1,0 +1,13 @@
+name = "AreaControl NeoForge 26.1"
+filename = "AreaControl-NeoForge-26.1-0.9.17.jar"
+side = "both"
+
+[download]
+url = "https://archive.teacon.cn/maven/org/teacon/AreaControl-NeoForge-26.1/0.9.17/AreaControl-NeoForge-26.1-0.9.17.jar"
+hash-format = "sha256"
+hash = "c9ccd28af8ddf5b3d66818ecb1799c8dfbf72a71aecedc963de326a8b2f64c49"
+
+[option]
+optional = false
+description = "Mod dependency of AreaControl NeoForge 26.1\nIncluded inside official TeaCon mod list"
+

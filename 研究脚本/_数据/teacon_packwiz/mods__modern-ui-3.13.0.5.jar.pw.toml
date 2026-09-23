@@ -1,0 +1,13 @@
+name = "modern ui"
+filename = "modern-ui-3.13.0.5.jar"
+side = "client"
+
+[download]
+url = "https://archive.teacon.cn/maven/maven/modrinth/modern-ui/3.13.0.5/modern-ui-3.13.0.5.jar"
+hash-format = "sha256"
+hash = "56dfbc33a7e1492b0e8f20598ffd4db6c417801d59fe5ce1503c8749034e2354"
+
+[option]
+optional = false
+description = "Mod dependency of modern ui\nIncluded inside official TeaCon mod list"
+
