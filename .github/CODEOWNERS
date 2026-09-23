@@ -1,0 +1,22 @@
+# CODEOWNERS —— Mod 源码研究汇总
+# 语法：每行 = 模式 + @GitHub 用户名，后面的规则覆盖前面的。
+# 生效前提：owner 得先是本仓协作者（邀请仍在等网页端发出），并给分支开 protection + Require review from Code Owners。
+
+# 团队四人组兜底
+*                  @kkkkkklze @inrralves @cxxx-0v0 @frostx3346-dot
+
+# 结论层：深度报告 / 速览卡片 / 索引。每条结论都要带 `path:line` 出处，
+# 稀疏检出缺的文件不许凭印象补
+/分析报告/         @kkkkkklze @inrralves
+
+# 派生产物：对照表与待办清单由脚本生成，改这里要连带改生成脚本
+/对照表/           @kkkkkklze @cxxx-0v0
+/深挖待办清单.md   @kkkkkklze @cxxx-0v0 @frostx3346-dot
+
+# 工具层：克隆器、下载器、卡片/表格生成脚本。上游源码不在本仓（见 README 第九节），
+# 改动必须能在新机器上 --dry-run 跑通
+/研究脚本/         @kkkkkklze @frostx3346-dot
+
+# 门面与计数：README 里的数字会漂，改数要跑 研究脚本/_state_check.py 复核
+/README.md         @kkkkkklze
+/.gitignore        @kkkkkklze
